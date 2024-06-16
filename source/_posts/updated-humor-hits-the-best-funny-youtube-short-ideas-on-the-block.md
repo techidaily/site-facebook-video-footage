@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Humor Hits  The Best Funny YouTube Short Ideas on the Block\""
-date: 2024-05-26 11:40:56
-updated: 2024-05-27 12:42:12
+date: 2024-06-05T10:28:13.217Z
+updated: 2024-06-06T10:28:13.217Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [Updated] Humor Hits: The Best Funny YouTube Short Ideas on the Block\""
 excerpt: "\"This Article Describes [Updated] Humor Hits: The Best Funny YouTube Short Ideas on the Block\""
 keywords: "Funny YouTubes,Hilarious Videos,Laughter Shorts,Comedy Vids,Cringe Moments,Chuckle Content,Jest Vid Ideas"
-thumbnail: https://www.lifewire.com/thmb/EVZ4ZqbJ0Qw7Ukb_4E0ULLesBrY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/reverse-tether-142309616-resized-56a62b765f9b58b7d0e045a4.jpg
+thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8a537d585a504e6de4ee75de.jpg
 ---
 
 ## Humor Hits: The Best Funny YouTube Short Ideas on the Block
@@ -171,3 +171,92 @@ Shanoon Cox
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-trending-backgound-music-for-youtube-shorts/"><u>[New] Top 10 Trending Backgound Music for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube/"><u>[Updated] Unlocking the Potential of Edu-Vids  Strategies for Captivating Your Viewers on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[New] In 2024, Elevate Your Channel  Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] In 2024, Earning Potential for Creators in YouTube Ads?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerate-mac-youtube-video-matching-aspect-ratio/"><u>[New] 2024 Approved  Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-join-the-monetized-majority-with-500-subscribers/"><u>[New] Join the Monetized Majority with 500 Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>[Updated] Unwind the Clock  Pioneering Techniques for YouTube Video Reversal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-upload-made-easy-your-device-based-guide-for-youtube-shorts/"><u>[Updated] Upload Made Easy  Your Device-Based Guide for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] In 2024, Building on Your Content  A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-leading-free-ios-video-editor-a-comprehensive-guide/"><u>[New] 2024 Approved  Discover the Leading Free iOS Video Editor  A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-insight-free-access-to-1-6-video-clips/"><u>[Updated] In 2024, Exclusive Insight  Free Access to #1-#6 Video Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-with-youtube-micro-videos/"><u>[New] Maximizing Impact with YouTube Micro Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-creativity-with-the-right-camera-lenses-for-2024/"><u>Unleash Creativity with the Right Camera Lenses for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-hashtags-youtubes-best-practices/"><u>[Updated] Navigating the World of Hashtags  YouTube's Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-playlist-extraction-step-by-step-from-youtubes-archive/"><u>[Updated] Playlist Extraction - Step by Step From YouTube's Archive</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-tips-for-adequate-lighting-in-youtube-video-production-for-2024/"><u>[Updated] Detailed Tips for Adequate Lighting in YouTube Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-webinar-creation-and-management-on-youtube/"><u>[Updated] Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[Updated] Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-of-the-pros-youtube-live-mastery-techniques-for-2024/"><u>Secrets of the Pros  YouTube Live Mastery Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engage-and-learn-students-choice-of-best-historical-youtubes/"><u>[Updated] In 2024, Engage & Learn  Students' Choice of Best Historical YouTubes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>[Updated] The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-building-youtube-music-playlists/"><u>[Updated] The Essential Guide to Building YouTube Music Playlists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>[New] Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-music-playlist-creation-for-youtube-anywhere-webmobile-for-2024/"><u>[New] Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-mastery-how-ajay-achieves-wealth-online/"><u>[New] Monetization Mastery  How AJay Achieves Wealth Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-scenes-of-carminatis-youtube-earnings/"><u>[Updated] In 2024, Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inspiring-youtube-mastery-key-content-strategies-for-channels/"><u>[Updated] Inspiring YouTube Mastery  Key Content Strategies for Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directly-connect-youtube-tunes-to-imovie-seamlessly/"><u>[Updated] 2024 Approved  Directly Connect YouTube Tunes to iMovie Seamlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-youtube-names-generators-plus-how-to-brainstorm-for-2024/"><u>[Updated] Best YouTube Names Generators [+ How to Brainstorm] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoiding-poverty-earning-in-beauty-media/"><u>[Updated] 2024 Approved  Avoiding Poverty  Earning in Beauty Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-apex-creators-video-giants-in-the-making/"><u>[Updated] In 2024, Apex Creators  Video Giants in the Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-non-mic-sound-capture-methods/"><u>[Updated] Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-guide-to-youtube-audio-editing/"><u>[New] 2024 Approved  Cutting-Edge Guide to YouTube Audio Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gamers-nexus-1000plus-game-sessions/"><u>[Updated] Gamers' Nexus  1,000+ Game Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[Updated] How to Loop a YouTube Video  The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/upload-mp3-quickly-step-by-step-to-youtube-broadcasting-for-2024/"><u>Upload MP3 Quickly  Step-by-Step to YouTube Broadcasting for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[Updated] In 2024, Avoiding YouTube Copyright Claims  Understanding the Rules</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[New] Audio Amplified  Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[Updated] 2024 Approved  8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-screener-tech-perfect-for-creating-viral-youtube-moments/"><u>[Updated] 2024 Approved  Best Screener Tech  Perfect for Creating Viral YouTube Moments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-moguls-and-millionaires/"><u>2024 Approved  YouTube Moguls and Millionaires</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-warmth-in-winter-top-5-video-backdrop-choices-for-2024/"><u>The Art of Warmth in Winter  Top 5 Video Backdrop Choices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-jittery-text-magic-two-dynamic-techniques-explored/"><u>[Updated] Jittery Text Magic  Two Dynamic Techniques Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-impactful-video-campaigns-for-startups/"><u>[Updated] In 2024, Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored/"><u>2024 Approved  Your Next Favorite YouTuber Might Be Just a Test Away  Six Categories Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>[New] Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-transfer-vids-from-premiere-to-youtube-for-2024/"><u>[Updated] Efficiently Transfer Vids From Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-viral-exercise-routines-to-keep-your-channel-thriving-for-2024/"><u>[New] 10 Viral Exercise Routines to Keep Your Channel Thriving for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enthralling-epics-essential-channel-building-tactics/"><u>[Updated] In 2024, Enthralling Epics  Essential Channel-Building Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[New] 2024 Approved  Chrome to iPhone  A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-infusing-fun-in-conversations-step-by-step-for-snapchat-gifs/"><u>[New] Infusing Fun in Conversations  Step-by-Step for Snapchat Gifs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>[Updated] Inspire Business Identity  Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-ready-to-glitch-top-video-editing-software-for-pc-mac-and-web/"><u>Get Ready to Glitch Top Video Editing Software for PC, Mac, and Web</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-making-the-most-of-virtual-reality-space/"><u>In 2024, Making the Most of Virtual Reality Space</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-video-editing-programs-for-gopro-users-looking-beyond-studio/"><u>Updated In 2024, Best Video Editing Programs for GoPro Users Looking Beyond Studio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860663071-updated-learn-to-record-mac-display-like-a-pro/"><u>[Updated] Learn to Record MAC Display Like a Pro!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-kdenlive-review-is-it-the-best-video-editor-in-2024/"><u>New Kdenlive Review – Is It The Best Video Editor, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-potential-latest-win11-applications-and-games/"><u>[Updated] Unleash the Potential  Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-time-manipulation-in-fcpx/"><u>Updated In 2024, Mastering Time Manipulation in FCPX</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 12 mini</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-collection-20-free-adobe-premiere-title-and-intro-templates/"><u>New The Ultimate Collection 20 Free Adobe Premiere Title and Intro Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962647961-updated-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-give-your-/"><u>Updated Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>[New] Becoming an Influencer Entrepreneur  Creating a Business Profile on IG</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-a24-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy A24 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>Crafting an Engaging Online Presence  The Complete Guide to YouTube Submissions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-a-detailed-exploration-of-integrating-audio-with-mkv-videos-insights-for-the-2023-update/"><u>New A Detailed Exploration of Integrating Audio with MKV Videos Insights for the 2023 Update</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/10-awesome-moving-animation-powerpoint-techniques-for-2024/"><u>10 Awesome Moving Animation PowerPoint Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-techniques-for-high-quality-webcam-videos/"><u>[New] Simplified Techniques for High-Quality Webcam Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-extract-audio-without-compromise-video-to-mp3-conversion-tips/"><u>Updated In 2024, Extract Audio without Compromise Video to MP3 Conversion Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-effective-strategies-to-log-your-google-voice-talks/"><u>2024 Approved  Effective Strategies to Log Your Google Voice Talks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-pristine-zoom-video-settings/"><u>[New] The Path to Pristine Zoom Video Settings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-comprehensive-guide-to-viewing-facebook-videos-on-apple-tv-devices/"><u>[New] In 2024, Comprehensive Guide to Viewing Facebook Videos on Apple TV Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-ai-video-makers-to-create-captivating-videos-with-pictures/"><u>New 2024 Approved Top AI Video Makers to Create Captivating Videos with Pictures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-access-to-videos-find-your-perfect-chromium-extension-for-fb-vids/"><u>[New] In 2024, Effortless Access to Videos  Find Your Perfect Chromium Extension for FB Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] In 2024, Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

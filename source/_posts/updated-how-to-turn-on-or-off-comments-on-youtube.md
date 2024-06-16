@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Turn on or Off Comments on YouTube"
-date: 2024-05-25 14:34:23
-updated: 2024-05-27 12:36:27
+date: 2024-06-05T08:22:23.679Z
+updated: 2024-06-06T08:22:23.679Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [Updated] How to Turn on or Off Comments on YouTube"
 excerpt: "This Article Describes [Updated] How to Turn on or Off Comments on YouTube"
 keywords: "Enable YouTube Comments,Disable YouTube Comments,Activate Comment Function,Deactivate YouTube Comments,Manage YouTube Commenting,YouTube Comments Toggle,Control YouTube Comments On"
-thumbnail: https://www.lifewire.com/thmb/NbdHSQAycy6SClhRHsj3CQyiEGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeShuna-Spencer-78f0319607be48ec97dcc6ce1b0d1c75.png
+thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
 ---
 
 ## How to Turn on or Off Comments on YouTube
@@ -147,3 +147,72 @@ Liza Brown
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-view-bots-how-to-increase-youtube-views/"><u>In 2024, YouTube View Bots  How to Increase YouTube Views?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-video-gear-for-youtube-starters-for-2024/"><u>[New] Essential Video Gear for YouTube Starters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-to-use-platforms-for-free-youtube-thumbnail-extracting/"><u>[New] In 2024, Easy-to-Use Platforms for Free YouTube Thumbnail Extracting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] 2024 Approved  Bridging Content Gap  YouTube Videos to Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-steps-for-stellar-youtube-thumbnails/"><u>[New] 2024 Approved  Easy Steps for Stellar YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-view-threshold-for-money/"><u>[Updated] Understanding Youtube’s View Threshold for Money</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/precision-in-sound-cutting-out-unwanted-volume-for-2024/"><u>Precision in Sound  Cutting Out Unwanted Volume for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-are-there-risks-to-influencing-view-counts-financially-for-2024/"><u>[New] Are There Risks to Influencing View Counts Financially for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-music-magic-best-free-tools-for-wav-conversion-for-2024/"><u>YouTube's Music Magic  Best Free Tools for WAV Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-tips-for-affordable-youtube-introend-videos/"><u>[New] In 2024, DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-camera-stabilizers-for-youtube/"><u>[Updated] In 2024, Best Camera Stabilizers for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>[Updated] 2024 Approved  Channel Buying Made Simple  A Beginner’s Toolkit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compact-video-summary-key-insights-unveiled/"><u>[New] In 2024, Compact Video Summary  Key Insights Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-best-free-online-introduction-systems/"><u>[Updated] Step-by-Step  Best Free Online Introduction Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-surge-in-subscribers-effective-youtube-campaigns/"><u>[New] Surge in Subscribers  Effective YouTube Campaigns</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essentials-to-skyrocketing-video-views-on-youtube-for-2024/"><u>[Updated] Essentials to Skyrocketing Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>[Updated] Vivid Visuals  Brush up Your YouTube Beauty Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-creating-flawless-5-second-videos/"><u>[New] YouTube Shorts  Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-analyzing-why-youtube-features-specific-comments/"><u>[Updated] In 2024, Analyzing Why YouTube Features Specific Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-design-trends-to-avoid-in-your-youtube-banners/"><u>[New] 2024 Approved  Digital Design Trends to Avoid in Your YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-video-content-top-formats-on-youtube/"><u>[New] In 2024, Enhancing Video Content  Top Formats on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-startups-discovering-the-best-15-video-intros-for-2024/"><u>[New] Captivating Startups  Discovering the Best 15 Video Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breaking-down-youtube-short-barriers/"><u>[New] In 2024, Breaking Down YouTube Short Barriers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-nextgen-youtuber-tools-studio-vs-beta-version/"><u>[Updated] NextGen YouTuber Tools  Studio Vs. Beta Version</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safe-online-video-conversion-from-youtube-to-mp4-for-2024/"><u>Safe Online Video Conversion - From YouTube to MP4 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/snap-and-share-pcmac-video-recording-for-youtube-for-2024/"><u>Snap & Share  PC/Mac Video Recording for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-strategies-for-higher-youtube-shorts-revenue/"><u>[Updated] In 2024, Expert Strategies for Higher YouTube Shorts Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-become-a-youtube-gif-wizard-your-complete-online-transformation-tutorial-for-2024/"><u>[Updated] Become a Youtube Gif Wizard  Your Complete Online Transformation Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-design-best-practices-for-engaging-youtube-thumbnails/"><u>[New] 2024 Approved  Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost-for-2024/"><u>[New] A Step-by-Step Guide  How To Record, Save & Share YouTube Video for No Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enabling-autoplay-youtube-without-alerts-for-2024/"><u>[New] Enabling Autoplay YouTube Without Alerts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-your-video-content-for-wide-platform-distribution/"><u>[New] Tailoring Your Video Content for Wide Platform Distribution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-starting-a-skype-call-on-android/"><u>[New] 2024 Approved  Step-by-Step  Starting a Skype Call on Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-journey-to-vivid-visuals-top-11-hue-enhancement-guides/"><u>[Updated] A Journey to Vivid Visuals  Top 11 Hue Enhancement Guides</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-photo-color-correction-for-2024/"><u>Mastering the Art of Photo Color Correction for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame/"><u>[Updated] In 2024, Unlocking Insta Stardom  15 Effortless Steps Towards Rapid and Sustained Fame</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-complete-guide-to-mastering-slow-time-on-tiktok-for-2024/"><u>[Updated] The Complete Guide to Mastering Slow Time on TikTok for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melody-meters-your-guide-to-free-online-pulse-detectors/"><u>Melody Meters  Your Guide to Free Online Pulse Detectors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-comprehensive-guide-to-recording-fb-video-calls-for-2024/"><u>[New] The Comprehensive Guide to Recording FB Video Calls for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-list-10-linux-video-editing-software-like-premiere/"><u>In 2024, The Ultimate List 10 Linux Video Editing Software Like Premiere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quicken-video-playback-on-instagram-apps/"><u>2024 Approved  Quicken Video Playback on Instagram Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapseed-basics-unlock-your-image-editing-potential/"><u>2024 Approved  Snapseed Basics  Unlock Your Image-Editing Potential</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-motion-effect-with-path-blur-in-photoshop/"><u>2024 Approved Create Motion Effect with Path Blur In Photoshop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-reno-10-proplus-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Reno 10 Pro+ 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storage-space-used-daily-extended-video-size/"><u>[New] Storage Space Used  Daily Extended Video Size</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-7-mac-videos-players-reviewed/"><u>[New] Excellent 7 Mac Videos Players Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-safeguarding-your-online-presence-during-live-broadcasts/"><u>2024 Approved  Safeguarding Your Online Presence During Live Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-making-your-igtv-more-inclusive-with-subtitles/"><u>[New] 2024 Approved  Making Your IGTV More Inclusive with Subtitles</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x-flip-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X Flip Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridging-social-gaps-sharing-tweets-videos-via-snapchat/"><u>[Updated] Bridging Social Gaps  Sharing Tweets' Videos via Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-acoustic-transitions-in-audacity-pro-suite/"><u>2024 Approved  Mastering Acoustic Transitions in Audacity Pro Suite</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-easy-video-editing-top-picks-for-beginners-free-and-paid-for-2024/"><u>New Easy Video Editing Top Picks for Beginners (Free & Paid) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-innovative-complimentary-online-sound-regulator-systems/"><u>New 2024 Approved Innovative Complimentary Online Sound Regulator Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-sensation-challenge-for-2024/"><u>[New] TikTok Sensation Challenge for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/audio-cutting-techniques-for-mp4-video-files-for-2024/"><u>Audio Cutting Techniques for MP4 Video Files for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>Sky Storage Spectacle  Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtubes-short-form-content-key-tips-revealed-for-2024/"><u>Mastering YouTube's Short-Form Content  Key Tips Revealed for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
