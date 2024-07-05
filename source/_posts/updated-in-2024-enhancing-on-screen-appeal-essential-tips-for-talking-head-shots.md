@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Enhancing On-Screen Appeal  Essential Tips for Talking-Head Shots\""
-date: 2024-06-05T10:43:32.359Z
-updated: 2024-06-06T10:43:32.359Z
+date: 2024-07-04T23:21:31.137Z
+updated: 2024-07-05T23:21:31.137Z
 tags:
   - ai video
   - ai youtube
@@ -35,7 +35,7 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
-![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
+![Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 

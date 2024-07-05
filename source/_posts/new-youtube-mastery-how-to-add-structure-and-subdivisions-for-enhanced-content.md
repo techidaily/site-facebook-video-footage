@@ -1,7 +1,7 @@
 ---
 title: "\"[New] YouTube Mastery  How to Add Structure and Subdivisions for Enhanced Content\""
-date: 2024-06-05T11:15:44.175Z
-updated: 2024-06-06T11:15:44.175Z
+date: 2024-07-04T23:21:32.703Z
+updated: 2024-07-05T23:21:32.703Z
 tags:
   - ai video
   - ai youtube
@@ -58,7 +58,7 @@ Step 4: On the add details page, you will see the description box. Here, you nee
 
 Please keep in mind that you must add the first timestamp with "00:00". You will have to add a minimum of three timestamps with a minimum of 10 seconds for each chapter. Here is how it looks like in the description after published.
 
-![  Chapters in YouTube video description](https://images.wondershare.com/filmora/article-images/youtube-video-chapter-description-appearance.jpg)
+![Chapters in YouTube video description](https://images.wondershare.com/filmora/article-images/youtube-video-chapter-description-appearance.jpg)
 
 ## Part 3: Why YouTubers Should Add Chapters to videos?
 

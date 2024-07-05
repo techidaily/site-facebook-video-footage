@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Chasing Channel Currency  The Updated Youtube Partner Guide\""
-date: 2024-06-05T08:43:12.207Z
-updated: 2024-06-06T08:43:12.207Z
+date: 2024-07-04T23:21:32.613Z
+updated: 2024-07-05T23:21:32.613Z
 tags:
   - ai video
   - ai youtube
@@ -436,7 +436,7 @@ Are you one of those who want to listen to their favorite tracks while working o
 
 If you are using a Windows or Mac computer and want to create a YouTube music playlist on a web browser, follow the below steps:
 
-Step1 In the first step, turn on your PC, launch a web browser from the desktop or Dock, and head to the[YouTube](https://www.youtube.com/) website. Next, Sign into your account with your Google email ID if you are not already logged in.
+Step1 In the first step, turn on your PC, launch a web browser from the desktop or Dock, and head to the [YouTube](https://www.youtube.com/) website. Next, Sign into your account with your Google email ID if you are not already logged in.
 
 ![signing into youtube](https://images.wondershare.com/filmora/article-images/2023/03/signing-into-youtube.png)
 

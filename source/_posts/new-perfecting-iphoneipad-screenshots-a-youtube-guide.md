@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting iPhone/iPad Screenshots  A YouTube Guide\""
-date: 2024-06-05T09:20:57.306Z
-updated: 2024-06-06T09:20:57.306Z
+date: 2024-07-04T23:21:36.411Z
+updated: 2024-07-05T23:21:36.411Z
 tags:
   - ai video
   - ai youtube
@@ -34,7 +34,7 @@ Basically, there are three ways to record YouTube video on iPhone/iPad, includin
 
 **Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
 
-## 1\. Recording your iPhone screen in [iOS 11](https://www.apple.com/lae/ios/ios-11/)
+## 1\. Recording your iPhone screen in iOS 11
 
 You can find more information in this article: [How to Record iPhone/iPad’s Screen in iOS 11](https://tools.techidaily.com/wondershare/filmora/download/) \>>
 

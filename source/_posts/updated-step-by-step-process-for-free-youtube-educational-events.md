@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process for Free Youtube Educational Events\""
-date: 2024-06-05T08:13:02.912Z
-updated: 2024-06-06T08:13:02.912Z
+date: 2024-07-04T23:21:33.381Z
+updated: 2024-07-05T23:21:33.381Z
 tags:
   - ai video
   - ai youtube
@@ -45,7 +45,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## Hosting a Webinar for Free
 
