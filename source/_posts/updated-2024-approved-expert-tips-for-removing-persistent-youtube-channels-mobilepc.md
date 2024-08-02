@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)\""
-date: 2024-06-05T09:15:33.790Z
-updated: 2024-06-06T09:15:33.790Z
+date: 2024-07-31T23:26:04.410Z
+updated: 2024-08-01T23:26:04.410Z
 tags:
   - ai video
   - ai youtube
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 * 1\. Log in to your YouTube account and look out for the account you want to block.
 * 2\. When you’re in the account head over to the **About** section. You can find it in the toolbar beneath the channel art or banner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![find about option](https://images.wondershare.com/filmora/article-images/find-about-option.jpg)
 
 * 3\. On the right-hand side right under the **Stats**, you will find a **flag** icon. Press the icon and it will show a drop-down menu, select **Block user**.
@@ -61,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 * 2\. Look around for the account or user you want to block.
 * 3\. Open a particular account that you intend to block and go to their main account page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find users](https://images.wondershare.com/filmora/article-images/find-users.jpg)
 
 * 4\. When you’re on the account page, open the menu at the top-right corner of the screen and tap Block user.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap block users](https://images.wondershare.com/filmora/article-images/tap-block-user2.jpg)
 
 ## **Part 3: Block content on YouTube kids**
@@ -75,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 * 1\. Open the YouTube Kids app and tap on **I’m a parent** to set up the app.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm parent](https://images.wondershare.com/filmora/article-images/a-parent3.jpg)
 
 * 2\. Sign in with your preferred Google account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![parent account](https://images.wondershare.com/filmora/article-images/parent-account4.jpg)
 
 * 3\. Here you’ll see a button **Send Parental Consent Emai**l, press it.
@@ -87,10 +102,17 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
  Now as you’re signed in as a parent you can block channels and specific content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### **I. Block on Home screen**
 
 * 1\. On the Home screen press the dotted menu next to the video
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home screen](https://images.wondershare.com/filmora/article-images/home-screen5.jpg)
 
 * 2\. In the menu list, you will see **Block this video**, tap it.
@@ -102,11 +124,18 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 * 1\. On the Watch Page tap the dotted **More** option at the top right corner of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![more option](https://images.wondershare.com/filmora/article-images/more-option7.jpg)
 
 * 2\. Press the **Block** option.
 * 3\. A dialog box will appear with two options, **Block this video** for blocking only this particular video or **Block this channel** to block the entire channel associated with the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![block this channel](https://images.wondershare.com/filmora/article-images/block-this-channel8.jpg)
 
 * 4\. Select any of the two options and then press **Block** again.
@@ -114,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 ![get passcode again](https://images.wondershare.com/filmora/article-images/pass-code-again8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## **Conclusion**
 
  Every minute more than 300 hours of video content is uploaded on to the YouTube databases while 5 billion videos are watched every day. This only shows the metrics a content creator and a user have to deal with. Content creators need to protect themselves from the unending trolls and scams that hit every other channel and affect its userbase. While kids and sensitive portions of the human population have to maintain a safe distance from damaging and provoking content that circulates on the platform. To safeguard both ends of the platform I made this guide to streamline the process of **how to block YouTube channels** and videos from affecting your happy life.
@@ -134,3 +166,44 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[New] 2024 Approved  Chuckles on the Clouds  Designing Hits for FB & Instagram Meme Culture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>[New] 2024 Approved  Exposed  The Hazards of Fake Follower Purchases on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-artful-approaches-to-elevating-your-fb-ad-reach/"><u>[New] Artful Approaches to Elevating Your FB Ad Reach</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discover-the-leading-10-plugins-to-enhance-discord-usage/"><u>[New] Discover the Leading 10 Plugins to Enhance Discord Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-average-payout-for-a-million-view-youtube-video/"><u>[New] In 2024, Average Payout for a Million-View YouTube Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-epicurean-education-recipe-film-making/"><u>[New] In 2024, Epicurean Education  Recipe Film-Making</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>[New] In 2024, Simplifying Meeting Execution  Combining Slack's Ease With Filmora' Writes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>[New] Making a Mark  Advanced Strategies for YouTube Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-iphone-and-ipad-best-free-video-editors-guide/"><u>[New] Master iPhone & iPad  Best Free Video Editors Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-pinnacle-predictors-top-tiktok-income-calculators-for-2024/"><u>[New] Pinnacle Predictors  Top TikTok Income Calculators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[New] The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-mixologists-approach-to-youtube-music/"><u>[New] The Mixologist's Approach to YouTube Music</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-guide-to-choosing-camgear-the-top-9-innovations/"><u>[New] The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tubebuddy-the-key-to-youtube-dominance/"><u>[New] TubeBuddy  The Key to YouTube Dominance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-top-tier-cameras-that-will-transform-your-vlogging-experience-for-2024/"><u>[Updated] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-perfect-youtube-introend-videos-at-no-cost-for-2024/"><u>[Updated] Crafting Perfect YouTube Intro/End Videos at No Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-leading-youtube-to-webm-converter-tools-for-2024/"><u>[Updated] Discover the Leading YouTube-to-WebM Converter Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-compliance-rules-for-thriving-on-youtube-for-2024/"><u>[Updated] Essential Compliance Rules for Thriving on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled-for-2024/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-youtube-manages-content-post-upload/"><u>[Updated] How YouTube Manages Content Post-Upload</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dailymovement-vs-youtube-income-comparison/"><u>[Updated] In 2024, DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-exploring-the-economic-value-of-a-million-youtube-followers/"><u>[Updated] In 2024, Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-iphoneplusandroid-discover-the-top-10-video-making-picks/"><u>[Updated] IPhone+Android  Discover the Top 10 Video-Making Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-seo-jungle-top-tools-for-tripling-traffic/"><u>[Updated] Navigating the SEO Jungle  Top Tools for Tripling Traffic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-gift-reveal-innovative-ideas/"><u>[Updated] Revolutionizing Gift Reveal  Innovative Ideas</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-minecraft-video-editing-process-for-2024/"><u>[Updated] Step-by-Step Minecraft Video Editing Process for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-easycast-essential-steps-for-beginner-podcast-streamers/"><u>2024 Approved  EasyCast  Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-canvas-connoisseur-with-these-10-tips/"><u>In 2024, Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-from-script-to-sound-crafting-captivating-podcast-episodes/"><u>In 2024, From Script to Sound  Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visual-identity-shielding-adding-watermark-and-logo-to-youtube-media/"><u>In 2024, Visual Identity Shielding  Adding Watermark & Logo to YouTube Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-captioning-for-clearer-communication/"><u>In 2024, YouTube Captioning for Clearer Communication</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>In-Depth Analysis  Asus ProArt PA 329Q 4K Monitor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/navigating-tech-efficient-screen-recording-methods-on-dell-for-2024/"><u>Navigating Tech  Efficient Screen-Recording Methods on Dell for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>New 2024 Approved The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/prime-visual-screenshots-on-apple-systems-max-length-156/"><u>Prime Visual Screenshots on Apple Systems (Max Length  156)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/taking-flight-on-youtube-strategies-to-skyrocket-your-video-rankings/"><u>Taking Flight on YouTube  Strategies to Skyrocket Your Video Rankings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-roadmap-to-creating-successful-youtube-collaborations-for-2024/"><u>The Roadmap to Creating Successful YouTube Collaborations for 2024</u></a></li>
+</ul></div>

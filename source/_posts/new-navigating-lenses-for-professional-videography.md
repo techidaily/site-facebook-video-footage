@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Lenses for Professional Videography"
-date: 2024-06-05T08:26:29.698Z
-updated: 2024-06-06T08:26:29.698Z
+date: 2024-07-31T22:02:01.949Z
+updated: 2024-08-01T22:02:01.949Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
 # A Vlogger's Guide To Camera Lenses
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -78,6 +81,9 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
@@ -86,6 +92,18 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -101,12 +119,21 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -157,3 +184,53 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>[New] 2024 Approved  Avoid the Quake  Optimal Tripod Placement for Stellar Vlogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>[New] 2024 Approved  Bringing Videos to Life  Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-building-a-successful-career-through-youtube-short-film-making/"><u>[New] 2024 Approved  Building a Successful Career Through YouTube Short Film-Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[New] 2024 Approved  Enter the World of Online Promotion  Exclusive Free YouTube Banner Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlock-the-power-of-montage-in-digital-media/"><u>[New] 2024 Approved  Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-convenient-ways-to-archive-your-insta-story-for-2024/"><u>[New] Convenient Ways to Archive Your Insta Story for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[New] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-stories-essential-tips-for-youtube-video-editors-for-2024/"><u>[New] Crafting Stories  Essential Tips for YouTube Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dive-deep-into-youtube-shorts-essentials-for-2024/"><u>[New] Dive Deep Into YouTube Shorts Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-youtube-audio-optimization-for-2024/"><u>[New] Essential Tips for YouTube Audio Optimization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-new-horizons-video-resources-for-dynamic-learning-spaces-for-2024/"><u>[New] Exploring New Horizons  Video Resources for Dynamic Learning Spaces for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-banish-youtube-shorts-forever-with-ease/"><u>[New] In 2024, Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-visibility-with-youtube-branding-techniques/"><u>[New] In 2024, Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-everything-you-need-to-succeed-with-youtube-short-videos/"><u>[New] In 2024, Everything You Need to Succeed with YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-creative-journey-uploading-imovie-videos-to-youtube/"><u>[New] Streamlining Creative Journey  Uploading iMovie Videos to YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-funny-fictional-frequencies/"><u>[New] The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-inspirational-recruiter-playlist/"><u>[New] The Ultimate Inspirational Recruiter Playlist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>[New] Video Mastery  Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-broadcasts-made-simple-an-easy-to-follow-obs-guide/"><u>[New] Youtube Broadcasts Made Simple  An Easy-to-Follow OBS Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-tutorial-on-youtube-annotation/"><u>[Updated] 2024 Approved  Comprehensive Tutorial on Youtube Annotation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-thumbnails-neon-borders-top-3-methods/"><u>[Updated] 2024 Approved  Enhancing YouTube Thumbnails  Neon Borders - Top 3 Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>[Updated] 2024 Approved  Pro Mic Tech Review  Best 9 Online Recorders Uncovered</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-demystifying-the-process-of-checking-subs-for-2024/"><u>[Updated] Demystifying The Process of Checking Subs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-smoothly-view-youtube-videos-without-borders/"><u>[Updated] How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-counteract-fake-views-boosting-genuine-audience-size/"><u>[Updated] In 2024, Counteract Fake Views  Boosting Genuine Audience Size</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-juggling-youtube-success-and-full-time-work-a-guide-for-2024/"><u>[Updated] Juggling YouTube Success & Full-Time Work  A Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-art-of-attention-retention-on-youtube-with-these-6-tactics/"><u>[Updated] Mastering the Art of Attention Retention on YouTube with These 6 Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtubes-landscape-a-beginners-primer/"><u>[Updated] Navigating YouTube's Landscape  A Beginner's Primer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] Seamless Transformation  Top Tools for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-hash-tags-to-launch-you-into-six-figures/"><u>[Updated] Strategic Hash Tags to Launch You Into Six Figures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-video-content-for-wide-platform-distribution/"><u>[Updated] Tailoring Your Video Content for Wide Platform Distribution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-professionals-path-expert-strategies-for-360-youtube-live-broadcasting/"><u>[Updated] The Professional's Path  Expert Strategies for 360° Youtube Live Broadcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-best-3d-intro-makers-for-youtube-for-2024/"><u>[Updated] Top 5 Best 3D Intro Makers for YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-screenshot-to-masterpiece-explore-these-top-8-multimedia-apps/"><u>2024 Approved  From Screenshot to Masterpiece  Explore These Top 8 Multimedia Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-revolutionize-digital-diaries-with-complimentary-tools/"><u>2024 Approved  Revolutionize Digital Diaries with Complimentary Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unparalleled-20-anime-series-themes/"><u>2024 Approved  Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-nord-ce-3-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Nord CE 3 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-reviving-retro-film-techniques-detailed-instructions/"><u>In 2024, Reviving Retro Film Techniques  Detailed Instructions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-13t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi 13T Location | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-revenue-boost-new-500-subs-milestone/"><u>In 2024, YouTube's Revenue Boost  New 500 Subs Milestone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-brand-presence-on-youtube-with-video-embellishments-for-2024/"><u>Optimize Your Brand Presence on YouTube with Video Embellishments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/snappy-and-simple-steps-for-posting-short-videos-online-for-2024/"><u>Snappy and Simple  Steps for Posting Short Videos Online for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sync-fix-twitter-vids-and-chrome-for-2024/"><u>Sync Fix  Twitter Vids and Chrome for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-seo-guide-elevating-your-video-rankings-in-a-digital-age-for-2024/"><u>Ultimate SEO Guide  Elevating Your Video Rankings in a Digital Age for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/views-that-pay-the-bills-the-youtube-metric-for-2024/"><u>Views That Pay the Bills  The Youtube Metric for 2024</u></a></li>
+</ul></div>

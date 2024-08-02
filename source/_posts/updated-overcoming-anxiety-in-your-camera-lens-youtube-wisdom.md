@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Overcoming Anxiety in Your Camera Lens  YouTube Wisdom\""
-date: 2024-06-05T08:19:55.726Z
-updated: 2024-06-06T08:19:55.726Z
+date: 2024-07-31T21:50:59.408Z
+updated: 2024-08-01T21:50:59.408Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 # 8 Tips on How to Vlog Confidently Like Popular YouTubers
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,6 +43,9 @@ There will be an urge for you to mimic other vloggers, talking and acting the wa
 
 Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## **2\. Tell A Story**
 
 A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
@@ -58,6 +64,9 @@ The ending needs to be justified even if there is a twist. Everything before tha
 
 The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## **4\. Be Inviting**
 
 A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
@@ -66,6 +75,9 @@ Unlike being invited to a party, there is no obligation when it comes to YouTube
 
 The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **5\. Compose the Shot**
 
 Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
@@ -88,6 +100,18 @@ Good preparation includes having all your gear ready for filming when you need i
 
 Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **7\. Be Expressive**
 
 Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
@@ -120,6 +144,9 @@ Do you have any vlogging tricks of your own? Leave a comment below.
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**, which will definitely enhance your productivity and helps you to make money by making videos much easier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -138,3 +165,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-internet-ranking-the-best-7-android-adblockers-now/"><u>[New] 2024 Approved  Effortless Internet  Ranking the Best 7 Android AdBlockers Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[New] 2024 Approved  Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-calculator-projected-profits-from-youtube-for-2024/"><u>[New] Calculator  Projected Profits From YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-list-of-ios-compatible-ps2-games/"><u>[New] Comprehensive List of iOS-Compatible PS2 Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eco-filmmaking-simplified-youtubes-green-screen-wonders-for-2024/"><u>[New] Eco-Filmmaking Simplified  YouTube's Green Screen Wonders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-logowatermark-to-youtube-video-for-2024/"><u>[New] How to Add Logo/Watermark to YouTube Video for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-filmmaking-tips-from-youtube-experts/"><u>[New] In 2024, Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creative-command-center-studio-for-youtubers/"><u>[New] In 2024, Creative Command Center  Studio for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-youtubes-operations-following-uploads/"><u>[New] In 2024, Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[New] Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-asmr-filming-techniques-essential-tips-unveiled/"><u>[New] Mastering ASMR Filming Techniques  Essential Tips Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-warriors-path-a-list-of-intense-fighting-games-for-2024/"><u>[New] Warrior's Path  A List of Intense Fighting Games for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-analyzing-ownership-rights-in-youtube-vs-freedom-of-use-in-cc-for-2024/"><u>[Updated] Analyzing Ownership Rights in Youtube Vs. Freedom Of Use In CC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[Updated] In 2024, Amplify Views Effortlessly  Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculator-projected-profits-from-youtube/"><u>[Updated] In 2024, Calculator  Projected Profits From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-disabling-youtube-shorts-for-good-a-simple-approach/"><u>[Updated] In 2024, Disabling YouTube Shorts for Good  A Simple Approach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insightful-ways-to-monitor-youtube-viewership-trends/"><u>[Updated] Insightful Ways to Monitor YouTube Viewership Trends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-syncing-tunes-with-video-cut-and-paste-youtube-editor-basics/"><u>[Updated] Syncing Tunes with Video Cut & Paste  YouTube Editor Basics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-uploading-impeccable-content-on-youtube/"><u>[Updated] The Ultimate Guide to Uploading Impeccable Content on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-winning-the-subscriber-race-on-youtube/"><u>[Updated] Winning the Subscriber Race on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023/"><u>2024 Approved  Pioneering Mobile Tech  Android's Role in VR/360 Videos (Update 2023)</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-edgeplus-2023-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Edge+ (2023) Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-asus-rog-phone-8-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Asus ROG Phone 8 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 14</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-insider-advice-crafting-the-best-ps3-gaming-recordings/"><u>In 2024, Insider Advice  Crafting the Best PS3 Gaming Recordings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-f5-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco F5 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/swiftly-upgrade-your-videos-with-top-tips-for-adding-youtube-closed-captions-for-2024/"><u>Swiftly Upgrade Your Videos with Top Tips for Adding YouTube Closed Captions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-framing-making-an-effective-youtube-introductory-vids-for-2024/"><u>The Art of Framing  Making an Effective YouTube Introductory Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-live-broadcast-guide-software-and-hardware-recommendations-for-2024/"><u>Ultimate Live Broadcast Guide  Software & Hardware Recommendations for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-footage-enhancement-without-borders-for-2024/"><u>YouTube Footage Enhancement Without Borders for 2024</u></a></li>
+</ul></div>

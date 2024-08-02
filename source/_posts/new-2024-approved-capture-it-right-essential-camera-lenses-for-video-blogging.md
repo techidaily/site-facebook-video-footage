@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capture It Right  Essential Camera Lenses for Video Blogging\""
-date: 2024-06-05T08:23:53.953Z
-updated: 2024-06-06T08:23:53.953Z
+date: 2024-07-31T21:57:35.548Z
+updated: 2024-08-01T21:57:35.548Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/aW23AlAQxo0nKVxk3l_w8GEWdEQ=/400x300/fi
 
 # A Vlogger's Guide To Camera Lenses
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -82,10 +85,16 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -107,6 +116,13 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -129,6 +145,9 @@ But do you even need a fast lens?
 * Moving subjects more likely to get out of focus when shooting with a large aperture
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -141,6 +160,14 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +184,46 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>[New] 2024 Approved  A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-alternative-cinema-choices-for-every-fan/"><u>[New] 2024 Approved  Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads/"><u>[New] 2024 Approved  Binge Your Way Into Animated Gifs  Turning YouTube Content Without Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-online-communities-with-youtube-monetization-opportunities/"><u>[New] 2024 Approved  Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-master-real-time-video-sharing-on-facebook/"><u>[New] 2024 Approved  How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-androids-low-cost-video-call-app-selection-for-2024/"><u>[New] Android's Low Cost Video Call App Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-online-communities-with-youtube-monetization-opportunities-for-2024/"><u>[New] Explore Online Communities with YouTube Monetization Opportunities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakthrough-ways-to-amplify-your-video-content-reach/"><u>[New] In 2024, Breakthrough Ways to Amplify Your Video Content Reach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[New] In 2024, Crafting Closure  Secrets of Spectacative Video Sign-Offs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-audio-downloads-these-24-tools-split-youtube-sounds/"><u>[New] In 2024, Effortless Audio Downloads  These 24 Tools Split YouTube Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-thumbnail-extraction-from-youtube-on-multiple-platforms/"><u>[New] Mastering Thumbnail Extraction From Youtube on Multiple Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-reimagining-posts-a-new-perspective-on-ig-for-2024/"><u>[New] Reimagining Posts  A New Perspective on IG for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-unlocked-becoming-a-leader-in-online-social-media-live-events-for-2024/"><u>[New] Secrets Unlocked  Becoming a Leader in Online Social Media Live Events for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>[New] Unleash Creativity  Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-demystifying-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved  Demystifying the World of YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-the-visual-appeal-of-your-video-credits/"><u>[Updated] 2024 Approved  Elevate the Visual Appeal of Your Video Credits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-8-leading-youtube-growth-strategies/"><u>[Updated] 2024 Approved  Explore 8 Leading Youtube Growth Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[Updated] 2024 Approved  From Idea to Execution  An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[Updated] 2024 Approved  Nailing Instagram Aesthetics  Tips for Video Dimensions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-action-cams-for-beginners/"><u>[Updated] Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-loop-keeping-iphone-videos-running-for-2024/"><u>[Updated] Easy Loop  Keeping iPhone Videos Running for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[Updated] From Playtime to Peak Time  Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-add-video-to-text/"><u>[Updated] How to Add Video to Text</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora/"><u>[Updated] In 2024, Adding Vibrancy  Easy YouTube Subscribe Animations with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortless-and-economical-the-best-free-youtube-name-generators/"><u>[Updated] In 2024, Effortless & Economical  The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-selecting-top-thumbnail-fonts/"><u>[Updated] In 2024, Elevate Your Content  Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-beyond-youtube-with-these-top-5-video-tools/"><u>[Updated] In 2024, Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-youtube-clicks-with-imagery/"><u>[Updated] Maximizing YouTube Clicks with Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[Updated] Mobile Mastery  An Exhaustive Look at Android’s Lightroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rethinking-top-movies-7-swap-selections/"><u>[Updated] Rethinking Top Movies - #7 Swap Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-securely-transforming-youtube-videos-top-3-reliable-methods/"><u>[Updated] Securely Transforming YouTube Videos  Top 3 Reliable Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-10-audio-boosters-for-os-x-ios-android-for-2024/"><u>Elite 10 Audio Boosters for OS X, iOS, Android for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>HumorHub  Generate Hilarious Jokes and GIFs Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a23-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A23 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-twitch-triumph-or-hitbox-heritage/"><u>In 2024, Twitch Triumph or Hitbox Heritage?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-reach-videos-that-immediately-amass-views-for-2024/"><u>Rapid Reach  Videos that Immediately Amass Views for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-s23plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy S23+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-high-definition-showdown-comparing-8k-tvs/"><u>The Ultimate High-Definition Showdown  Comparing 8K TVs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads-for-2024/"><u>Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads for 2024</u></a></li>
+</ul></div>

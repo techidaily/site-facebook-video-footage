@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert Tactics for Designing Attention-Grabbing Thumbnails for 2024\""
-date: 2024-06-05T09:37:03.715Z
-updated: 2024-06-06T09:37:03.715Z
+date: 2024-08-01T00:03:01.871Z
+updated: 2024-08-02T00:03:01.871Z
 tags:
   - ai video
   - ai youtube
@@ -44,6 +44,9 @@ Here are some examples of popular thumbnail styles.
 
  ![Popular YouTube Thumbnail Layout](https://images.wondershare.com/filmora/article-images/popular-youtube-thumbnail-layout.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. The Classic Thumbnail (Photo or Screenshot)
 
 A photo that shows what happens in your video – whether that means the finished ‘look’ from your makeup tutorial or you posing in front of the landmark you shot your travel vlog in front of – is a great way to let viewers know what to expect. While curiosity can be a big motive behind clicking on a video thumbnail (or anything online), when people have searched for a specific topic they want to be convinced that your video has what they’re looking for.
@@ -76,6 +79,9 @@ One increasingly popular style of YouTube thumbnail is what we’re going to cal
 
 The three main elements of the Emotional Laser thumbnail are a background (usually bright), your face on the right wearing an over-pronounced expression, and either the thing your expression is in reaction to (i.e. food, a product, the topic of your video in text) or reinforcement of your emotion (i.e an emoji or question marks) on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### #1. Ham It Up (Take Your Reaction Photo)
@@ -131,6 +137,9 @@ You can make changes to the colors in your Spark thumbnail easily by selecting a
 
 Click to check more [YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Make Thumbnails That Get Clicks (Without Clickbait!)
 
 Here are the top 10 best practices for creating effective YouTube thumbnails:
@@ -169,6 +178,9 @@ Type your video’s title or topic into the search engine on YouTube and look at
 
 Generally, if most of the thumbnails have the same layout, you’ll want to mimic that layout. Where you can break from the crowd is in the colors, fonts, and graphics you use.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Animated YouTube Thumbnails
 
 Whether or not you upload a custom thumbnail to YouTube, YouTube’s A.I will choose what it thinks are the 3 juiciest seconds of your video (you cannot choose for yourself) and play them as a GIF-like animation when people mouseover your video thumbnails.
@@ -181,8 +193,19 @@ Alright, now that you know everything about YouTube thumbnails, go make one! Tel
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface. Download the free trial version and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -199,3 +222,44 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cinematography-secrets-unveiled-by-youtube-pros/"><u>[New] 2024 Approved  Cinematography Secrets Unveiled by YouTube Pros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-critical-asmr-series-to-experience/"><u>[New] 2024 Approved  Critical ASMR Series to Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-conversion-tools-for-video-content/"><u>[New] 2024 Approved  Expert Conversion Tools for Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensive-list-of-top-video-making-software-iphone-android-for-2024/"><u>[New] A Comprehensive List of Top Video-Making Software (iPhone, Android) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-conclusion-mastery-customized-screens-in-focus-for-2024/"><u>[New] Channel Conclusion Mastery  Customized Screens in Focus for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-of-creative-conquests-self-vs-competitors-on-youtube-for-2024/"><u>[New] Charting the Course of Creative Conquests  Self Vs. Competitors on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-diy-youtube-trailer-production-via-filmora-software-for-2024/"><u>[New] DIY YouTube Trailer Production via Filmora Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elite-edits-the-best-video-editors-ranked-for-2024/"><u>[New] Elite Edits  The Best Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-environmentally-friendly-film-tools-download-for-2024/"><u>[New] Environmentally Friendly Film Tools Download for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-everything-uncovered-about-the-world-of-yt-shorts/"><u>[New] In 2024, Everything Uncovered About the World of YT Shorts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-viral-velocity-on-instagram-leveraging-video-and-likes/"><u>[New] In 2024, Viral Velocity on Instagram  Leveraging Video & Likes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[New] Monetizing Your Passion  From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-youtube-tracks-into-mp3-with-macos/"><u>[New] Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-defending-your-youtube-profile/"><u>[Updated] 2024 Approved  Defending Your YouTube Profile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-lenovos-full-potential-with-screen-recordings/"><u>[Updated] 2024 Approved  Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-tips-on-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>[Updated] 8 Tips on How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>[Updated] Audio Artistry in a Download  Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dodge-digital-duplicates-to-increase-youtube-exposure-for-2024/"><u>[Updated] Dodge Digital Duplicates to Increase YouTube Exposure for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-economical-embellishments-free-youtube-template-packs/"><u>[Updated] Economical Embellishments  FREE YouTube Template Packs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[Updated] From Vlogs to Virality  Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expand-your-knowledge-elite-15-sci-yt-channels-list/"><u>[Updated] In 2024, Expand Your Knowledge  Elite 15 Sci-YT Channels List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-with-every-second-in-a-youtube-short/"><u>[Updated] Maximizing Impact with Every Second in a YouTube Short</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>[Updated] Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-the-power-of-sony-vegas-to-enhance-your-youtube-channel/"><u>[Updated] Unlock the Power of Sony Vegas to Enhance Your YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-2024-techniques-for-youtube-to-facebook-synergy/"><u>[Updated] Unveiling the 2024 Techniques for YouTube to Facebook Synergy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-why-choose-youtubes-av1-for-impeccable-video-playback/"><u>[Updated] Why Choose YouTube's AV1 for Impeccable Video Playback?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photobooth-glitch-unraveling-video-lags/"><u>2024 Approved  Photobooth Glitch  Unraveling Video Lags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-boomerang-edge-captivating-your-instagram-audience/"><u>2024 Approved  The Boomerang Edge  Captivating Your Instagram Audience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps/"><u>2024 Approved  Time Tamed on Film  Easy Steps for Slow-Mo Video Using Photo Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-v30-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo V30 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-nord-n30-se-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus Nord N30 SE FRP Locks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y100i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 to iPad | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid-for-2024/"><u>Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-roadmap-to-youtube-fame-accruing-more-subscribers-for-2024/"><u>The Roadmap to YouTube Fame  Accruing More Subscribers for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unfiltered-support-clients-film-voices/"><u>Unfiltered Support: Clients' Film Voices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveil-the-best-free-backdrop-and-footage-sources-top-8-online-lists-for-2024/"><u>Unveil the Best Free Backdrop & Footage Sources  Top 8 Online Lists for 2024</u></a></li>
+</ul></div>

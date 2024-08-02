@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles"
-date: 2024-06-05T09:39:35.502Z
-updated: 2024-06-06T09:39:35.502Z
+date: 2024-08-01T00:07:18.684Z
+updated: 2024-08-02T00:07:18.684Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -66,6 +72,9 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -77,6 +86,13 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -110,6 +126,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -126,3 +145,38 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-mysteries-of-effective-youtube-keywords-for-2024/"><u>[New] Decoding the Mysteries of Effective YouTube Keywords for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-delving-into-mr-beasts-economic-dominance-for-2024/"><u>[New] Delving Into Mr. Beast's Economic Dominance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-access-luxury-free-access-to-your-dreamset-of-50-banners-for-2024/"><u>[New] Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-picture-size-maintain-original-quality/"><u>[New] Expand Picture Size - Maintain Original Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-invigorating-channel-content-best-video-concepts-to-inspire-viewers/"><u>[New] Invigorating Channel Content  Best Video Concepts to Inspire Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-engagement-ideal-youtube-thumbnail-dimensions/"><u>[New] Maximizing Engagement  Ideal YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>[New] Perfect Your Video  A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2-ways-to-increase-your-youtube-audience-fast-for-2024/"><u>[Updated] 2 Ways to Increase Your YouTube Audience Fast for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-distinctive-digital-monikers-for-video-creators/"><u>[Updated] 2024 Approved  Distinctive Digital Monikers for Video Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-curtains-a-guide-to-youtubes-hidden-videos-for-2024/"><u>[Updated] Behind the Curtains  A Guide to YouTube’s Hidden Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-quality-sharing-imovie-work-via-youtube-for-2024/"><u>[Updated] Elevating Video Quality  Sharing iMovie Work via YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-visionaries-video-realm-for-2024/"><u>[Updated] Elite Visionaries  Video Realm for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-video-pace-youtube-via-desktops-and-phones-for-2024/"><u>[Updated] Enhance Video Pace - YouTube via Desktops & Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocket-your-channels-with-smart-use-of-youtube-data/"><u>[Updated] Skyrocket Your Channels with Smart Use of YouTube Data</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>[Updated] Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[Updated] Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-tv-demystified-your-complete-reference/"><u>[Updated] YouTube TV Demystified  Your Complete Reference</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>2024 Approved  Audience Advocacy  Nurturing Connections in the Digital Age</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-s24-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy S24? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13t-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13T ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-without-password-by-drfone-android/"><u>How To Unlock ZTE Phone Without Password?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-expedited-photographic-viewing-in-windows-10/"><u>In 2024, Expedited Photographic Viewing in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-journey-to-youtubes-command-center-of-creativity/"><u>In 2024, Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-make-a-slideshow-with-music/"><u>New In 2024, How to Make a Slideshow with Music</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pursuing-popularity-on-platforms-elevating-your-youtube-profile-for-2024/"><u>Pursuing Popularity on Platforms  Elevating Your Youtube Profile for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-a56s-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo A56s 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unmatched-no-fee-mobile-and-web-picture-enhancement-for-2024/"><u>Unmatched No-Fee Mobile & Web Picture Enhancement for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-enhancement-embedding-youtube-into-google-slides-for-2024/"><u>Video Enhancement  Embedding YouTube Into Google Slides for 2024</u></a></li>
+</ul></div>

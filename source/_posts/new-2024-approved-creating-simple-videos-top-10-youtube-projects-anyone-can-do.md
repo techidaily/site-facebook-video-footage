@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Creating Simple Videos  Top 10 YouTube Projects Anyone Can Do\""
-date: 2024-06-05T11:33:20.348Z
-updated: 2024-06-06T11:33:20.348Z
+date: 2024-08-01T03:21:58.226Z
+updated: 2024-08-02T03:21:58.226Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,9 @@ Let the world know who you are and what you do. If you are planning on starting 
 
 These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Vlog About Your Day
 
 Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
@@ -67,18 +70,27 @@ Everywhere around you, there are items you can review. The Apple Watch and the l
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Your Favorite Songs / Movies / Etc
 
 Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. What’s on Your Phone?
 
 There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
 
 Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Make a Slideshow
 
 There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
@@ -91,12 +103,18 @@ Education is our only hope for a better world so if you know how to do something
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. 10 Things About You
 
 Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
 
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Video Rant
 
 Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
@@ -105,6 +123,15 @@ Don't try to fake a rant, because they only work if they are natural. Scripting 
 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Start Editing Videos with Beginner-friendly Software
 
 If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
@@ -127,3 +154,60 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-12-best-sites-for-downloading-yt-template-videos/"><u>[New] 2024 Approved  12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-step-by-step-guide-for-meet-custom-filters-and-effects/"><u>[New] 2024 Approved  A Step-by-Step Guide for Meet Custom Filters & Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-aim-for-affluence-enroll-now-in-youtubes-partner-programme/"><u>[New] 2024 Approved  Aim for Affluence  Enroll Now in YouTube's Partner Programme</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>[New] 2024 Approved  Customizing Your Channel  Icon, Banner & Thumbnail Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>[New] 2024 Approved  Elevate Your Edits  The Beginner's Insider Look at Editing Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-most-motivational-shots-a-top-20-list/"><u>[New] 2024 Approved  Instagram's Most Motivational Shots  A Top 20 List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-affordable-video-grabbing-tools-tested-on-pcs-for-2024/"><u>[New] Affordable Video Grabbing Tools Tested on PCs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-android-users-discover-the-top-youtube-video-clips-for-2024/"><u>[New] Android Users, Discover the Top YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-borders-blurring-techniques-for-global-audienes-for-2024/"><u>[New] Beyond Borders  Blurring Techniques for Global Audienes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engage-entertain-and-captivate-adopting-two-point-of-view-in-your-next-youtube-reaction-video-2-pov-method-for-2024/"><u>[New] Engage, Entertain and Captivate – Adopting Two-Point of View in Your Next YouTube Reaction Video (2 POV Method) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enjoy-infinite-fun-top-10-offline-ios-games-unplugged-for-2024/"><u>[New] Enjoy Infinite Fun - Top 10 Offline iOS Games Unplugged for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-find-youtube-partners-and-make-collab-videos/"><u>[New] How to Find YouTube Partners and Make Collab Videos?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-double-the-joy-master-looping-of-youtube-media-on-televisions/"><u>[New] In 2024, Double the Joy  Master Looping of YouTube Media on Televisions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-integrating-twitter-content-with-facebook-networks/"><u>[New] Integrating Twitter Content with Facebook Networks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft-for-2024/"><u>[New] Navigating Tiny Worlds  5 Ways to Zoom In on Minecraft for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-no-cost-melodies-for-content-makers/"><u>[New] The Ultimate Guide to No-Cost Melodies for Content Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-fifa-footage-trends-captured-in-infographics/"><u>[New] Top FIFA Footage Trends Captured in Infographics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>[New] Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-vision-record-studio-2021-for-2024/"><u>[New] Vision Record Studio 2021 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visual-identity-mastery-crafting-business-symbols-with-tailored-templates-for-2024/"><u>[New] Visual Identity Mastery  Crafting Business Symbols with Tailored Templates for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[Updated] 2024 Approved  Charting Financial Horizons  The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dealing-with-copyright-infringement-notices-on-youtube-for-2024/"><u>[Updated] Dealing with Copyright Infringement Notices on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominate-youtube-with-these-strategic-freefire-video-hashtags-for-2024/"><u>[Updated] Dominate YouTube with These Strategic FreeFire Video Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-errors-to-dodge-beginner-youtubers-guide-for-2024/"><u>[Updated] Essential Errors to Dodge  Beginner YouTuber's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chart-your-course-to-youtube-success-with-these-techniques/"><u>[Updated] In 2024, Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-youtube-videos-with-professional-techniques-using-wmm/"><u>[Updated] In 2024, Enhancing YouTube Videos with Professional Techniques Using WMM</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-leveraging-video-cropping-to-maximize-instagram-reach/"><u>[Updated] In 2024, Leveraging Video Cropping to Maximize Instagram Reach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-lecture-audio-recording-techniques-for-mac-users/"><u>[Updated] Lecture Audio Recording Techniques for Mac Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>[Updated] Masterpiece Moments  Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-top-11-list-ultimate-recording-gear/"><u>[Updated] Premium Top 11 List - Ultimate Recording Gear</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-soundscapes-synergy-ideal-dj-videos-to-download/"><u>[Updated] Soundscapes Synergy  Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-checklist-for-youtube-short-success/"><u>[Updated] The Ultimate Checklist for YouTube Short Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>[Updated] The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>[Updated] The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-theme-that-stands-out-crafting-banners-for-gamers/"><u>[Updated] Theme That Stands Out  Crafting Banners for Gamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-secrets-of-valorant-video-thumbnail-designs/"><u>[Updated] Unlocking the Secrets of Valorant Video Thumbnail Designs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-content-strategy-for-success/"><u>[Updated] YouTube Shorts  Content Strategy for Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-30-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme GT 3 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>In 2024, Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-what-are-ethical-alternatives-to-buying-likes/"><u>In 2024, What Are Ethical Alternatives to Buying Likes?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-engagement-and-analytics-harnessing-tubebuddys-insights-for-2024/"><u>Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prime-stabilization-techniques-for-youtubers-for-2024/"><u>Prime Stabilization Techniques for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-up-the-rankings-hit-10k-views-to-unlock-partnership-for-2024/"><u>Skyrocketing Up the Rankings - Hit 10K Views to Unlock Partnership for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleashing-content-effortless-download-of-youtube-video-for-ios-for-2024/"><u>Unleashing Content  Effortless Download of Youtube Video for iOS for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco F5 5G | Dr.fone</u></a></li>
+</ul></div>

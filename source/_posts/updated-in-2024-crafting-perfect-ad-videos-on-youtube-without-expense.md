@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Crafting Perfect Ad Videos on YouTube Without Expense"
-date: 2024-06-05T09:33:03.092Z
-updated: 2024-06-06T09:33:03.092Z
+date: 2024-07-31T23:55:52.835Z
+updated: 2024-08-01T23:55:52.835Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 # How to Create Video Ads for Free in YouTube Video Builder
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -70,12 +73,18 @@ There are some text input fields that you can populate with the relevant informa
 
 Finally, you can add background music to the video from the royalty-free tracks that can be accessed from the built-in library, and you are all set to go.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Part 3: How Can I Get YouTube Video Builder?
 
 Because YouTube Video Builder is in its Beta phase, at the time of this writing you are required to send an access request to Google using your account that you want to use to create the videos from. You can send your requests to: <https://services.google.com/fb/forms/videobuilderbeta/>.
 
 Once your request is approved, you can then use the same Google account to sign in to the **YouTube Video Builder** portal, and start preparing your video advertisements. Here, it is important to understand that the Google account that you use to send an access request and prepare the videos must be the same ID that has your active and functional YouTube Channel.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Part 4: How to Make Video Ads for Free with YouTube Video Builder?
 
 Once you have access to the Beta version of **YouTube Video Builder**, you can start creating the video ads for free. You can learn the process of how this can be done by following the simple instructions given below:
@@ -84,6 +93,9 @@ Once you have access to the Beta version of **YouTube Video Builder**, you can s
 
 After signing in to your **YouTube Video Builder** account, on the main interface, click **Select Layout** from the navigation bar at the right if not already selected, pick a layout that best suits your needs, and click **Use Layout**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-layout.jpg)
 
 Next, from the **Color & Logo** section, choose the base (background) and text colors using their corresponding tools from under the **Brand colors** section.
@@ -98,6 +110,9 @@ After this, insert an image of your brand logo in the block under the **Logos** 
 
 When you are on the **Images & Text** section of the navigation bar, pick the high-definition photos from the **Storyboard** at the bottom, and add them to the **Image 1**, **Image 2**, and **Image 3** boxes accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-images-texts.jpg)
 
 Now, scroll down to the **Text** section, and add the relevant content in the available text input fields. Make sure to add a compelling **Call to action** text to give the viewers a free passage to connect with you.
@@ -108,6 +123,9 @@ Now, scroll down to the **Text** section, and add the relevant content in the av
 
 From the **Pick a Font** section of the navigation bar, click the **Google Fonts catalog** link to search for a unique font, and once found, type its name in the available field to use that font.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder - change font ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-pickup-video-text-fonts.jpg)
 
 Alternatively, you can leave the default one selected. When on the **Select Music** section, choose your preferred background music from the drop-down list that is present under the section.
@@ -130,6 +148,9 @@ On the next page, click **Copy** to copy the video link, and share it with your 
 
 Next, scroll down to get to the **Create Campaign** section of the navigation bar, and from the left screen, click **Create campaign** to begin a campaign to promote your brand and/or product(s).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![ YouTube Video Builder Video Create Campaign ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-create-campaign.jpg)
 
 #### Part 5: Tips for Making Good Video Ads with YouTube Video Builder
@@ -148,6 +169,9 @@ The whole point here is to prepare your video adverts with the least investment 
 
 The bitter truth is, producing videos, especially for brand promotions requires expert creators, expensive tools, and a good amount of work experience. Although all these can be managed if you have some spare funds, **YouTube Video Builder** helps you create advertising videos of up to 15 seconds with ease and for free. All you need is access to **YouTube Video Builder**, your own YouTube Channel, your brand logo, and high-definition photos of your product(s).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -164,3 +188,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-advanced-techniques-in-youtube-video-editing/"><u>[New] 2024 Approved  Cutting Edge  Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] 2024 Approved  Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>[New] 2024 Approved  How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[New] In 2024, 8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-webcams-unveiled-a-youtube-livestreamers-handbook/"><u>[New] In 2024, Best Webcams Unveiled  A YouTube Livestreamer's Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blueprint-strategies-for-authentic-life-enrichment-videos/"><u>[New] In 2024, Blueprint  Strategies for Authentic Life Enrichment Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-a-guide-to-customizing-game-banners/"><u>[New] Maximizing Impact  A Guide to Customizing Game Banners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimizing-edit-videos-with-m1-powered-macbook-air/"><u>[New] Optimizing Edit Videos with M1 Powered MacBook Air</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamless-streaming-tackle-instagram-video-woes/"><u>[New] Seamless Streaming  Tackle Instagram Video Woes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals  Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>[New] Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[Updated] 2024 Approved  Achieving Profitability on YouTube  Average View Count for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[Updated] 2024 Approved  Bright Beginnings on YouTube  Launching and Revenue Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] 2024 Approved  Crafting Stories  Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-women-gaming-leaders-top-10-on-yt/"><u>[Updated] 2024 Approved  Elite Women Gaming Leaders  Top 10 On YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-analysis-whatsapps-vocal-communication/"><u>[Updated] A Comprehensive Analysis  WhatsApp’s Vocal Communication</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-digital-solutions-for-converting-images-to-film/"><u>[Updated] Best Digital Solutions for Converting Images to Film</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-screen-recording-software-list-for-vloggers-for-2024/"><u>[Updated] Essential Screen Recording Software List for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-harness-the-power-of-youtube-studio-for-ultimate-edits/"><u>[Updated] Harness the Power of YouTube Studio for Ultimate Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] In 2024, Enhancing Video Reach  Convert YT to IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastery-of-youtube-policy-for-successful-channels/"><u>[Updated] Mastery of YouTube Policy for Successful Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pause-autoplay-on-youtube-suggested-videos/"><u>[Updated] Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-content-across-platforms-youtube-and-igtv/"><u>[Updated] Streamlining Content Across Platforms  YouTube & IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tinyvid-masterpiece/"><u>[Updated] TinyVid Masterpiece</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>2024 Approved  How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audioarchitect-designing-without-dacast/"><u>AudioArchitect  Designing Without DaCast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-racers-manual-fundamentals-to-high-scores-and-best-drones/"><u>Drone Racer's Manual  Fundamentals to High Scores and Best Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-samsungs-ue590-4k-gamer-monitor-for-2024/"><u>Exploring Samsung's UE590 4K Gamer Monitor for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-11-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme 11 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-v29e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo V29e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-steps-for-new-amd-radeon-x-driver/"><u>Installation Steps for New AMD Radeon X Driver</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-essential-details-of-making-perfect-talking-face-for-2024/"><u>New Essential Details of Making Perfect Talking Face for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-videos-in-windows-movie-maker-for-2024/"><u>Streamline Your YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+</ul></div>

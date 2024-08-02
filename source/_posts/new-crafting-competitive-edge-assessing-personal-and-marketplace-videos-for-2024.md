@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Competitive Edge  Assessing Personal and Marketplace Videos for 2024\""
-date: 2024-06-05T09:25:50.179Z
-updated: 2024-06-06T09:25:50.179Z
+date: 2024-07-31T23:43:38.791Z
+updated: 2024-08-01T23:43:38.791Z
 tags:
   - ai video
   - ai youtube
@@ -38,12 +38,19 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Views along with watch time turn out to be the best bet. Watch time sums up the total amount of time spent (in terms of minutes) on your brand' videos. With the updated dashboard it becomes easy to get the YouTube analytics and gauge the video's performance. Using the average view duration, you can know whether your video is being watched till the end or not.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-views.jpg)
 
 #### 2\.  Playback Location
 
  As 'Playback locations' of YouTube videos can reveal where does all the traffic come from, it would help your channel figure out for which location the video has fared well. It will guide you to reach the backlinks locations/sites. Knowing the popular locations for your YouTube video being played, you can know whether YouTube is the search engine or they have been diverted from somewhere else. Depending on the video playing locations, the views will be segregated in to embedded video, YouTube watch page, mobile devices, and YouTube channel page. Understanding location specific views would help you decide where should you focus to enhance the performance of your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
 
 #### 3\.  Demographics
@@ -56,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Understanding the source of your YouTube video's traffic would help you track the prominent keywords that viewers use for landing at your YouTube video. You can figure out their choice and their search patterns this way. The YouTube insights will show you whether the viewers found your video by searching YouTube, a channel on YouTube, through suggested videos, or an external link. The YouTube Analytics tool's panel would assist you in finalizing the most beneficial traffic source for your brand. You can optimize your video and keyword strategy with this.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-traffic-source.jpg)
 
 #### 5\.  Audience Retention
@@ -68,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  It is important to know which device is being used to watch the video. The metrics is distributed among mobile phones, computer, TV, tablet etc. you will be able to understand whether your video needs to be optimized for a certain video or not.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-devices.jpg)
 
 #### 7\.  Likes and dislikes
@@ -96,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Audience engagement on any YouTube video can easily be gauged by using the vital aspect known as comments. Either it touched a chord in their heart, inspired or motivated them, or simply made them smile, the comments will say it all. Sometimes the audience simply taps 'Like' in place of commenting at their convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-comments.jpg)
 
 #### 11\.  Cards
@@ -114,8 +130,14 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Favorites has been renamed to 'Videos in playlists'. Your reach broadens as people keep marking your videos as favorites on their playlist. This is visible to the public on the YouTube channel itself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to analyze your competitors
 
  Although, you can't see the dashboard data of your competitor, there are still some ways to observe and study your competitors' successful videos and from their views, favorites, ratings, and comments find out the driving force behind it.
@@ -128,6 +150,9 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  InflueNex is a helpful influencer marketing tool for Analyzing, searching, and managing YouTubers. With the help of this YouTube analytics tool, you're able to learn your competitors' channels and videos with detailed information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
 
 #### 2\. [Rival IQ](https://www.rivaliq.com/)
@@ -140,6 +165,9 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Read More to Get: [5 Methods to Go Frame by Frame on YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -156,3 +184,36 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-exclusive-selection-best-10-cameras-for-win-11-recording/"><u>[New] 2024 Approved  Exclusive Selection  Best 10 Cameras for Win 11 Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-calculating-earnings-the-essence-of-youtube-short-revenue-split-for-2024/"><u>[New] Calculating Earnings  The Essence of YouTube Short Revenue Split for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>[New] Embrace the Brilliance  Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-services-for-designing-impactful-youtube-intros-for-2024/"><u>[New] Essential Free Services for Designing Impactful YouTube Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-intriguing-youtube-intros-without-spending/"><u>[New] In 2024, Crafting Intriguing YouTube Intros Without Spending</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-demystifying-youtube-shorts-content-strategy-guide/"><u>[New] In 2024, Demystifying YouTube Shorts Content Strategy Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] In 2024, Eco-Effect Filmmaking  YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[New] In 2024, Entering the World of Content Creation  Sign Up Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-budget-friendly-designs-for-youtube-content-creators/"><u>[Updated] 2024 Approved  Budget-Friendly Designs for YouTube Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crucial-info-every-asmr-viewer-should-absorb/"><u>[Updated] 2024 Approved  Crucial Info Every ASMR Viewer Should Absorb</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[Updated] 2024 Approved  Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-guide-to-memorable-youtube-names/"><u>[Updated] 2024 Approved  The Ultimate Guide to Memorable YouTube Names</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-uncovering-10-premier-youtube-sources-for-history-buffs/"><u>[Updated] 2024 Approved  Uncovering 10 Premier YouTube Sources for History Buffs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] Channel Name Wizardry  Brainstorm & Create!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-places-for-next-gen-vr-content/"><u>[Updated] Exclusive Places for Next-Gen VR Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] Going Against Gravity  Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-list-11-pioneering-cost-free-online-title-makers-for-yt/"><u>[Updated] In 2024, Exclusive List  11 Pioneering, Cost-Free Online Title Makers for YT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-secrets-of-filmo/"><u>[Updated] Secrets of Filmo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strike-gold-on-youtube-peak-hours-guide/"><u>[Updated] Strike Gold on YouTube  Peak Hours Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>[Updated] The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>2024 Approved  The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-profile-pics-templates-available/"><u>2024 Approved  YouTube Profile Pics  Templates Available</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-se-2020-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone SE (2020) Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yt-shorts-soundtrack-hits-top-10-trending-sounds/"><u>In 2024, YT Shorts Soundtrack Hits  Top 10 Trending Sounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-launch-your-live-session/"><u>Mastering Instagram  Launch Your Live Session</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-strategic-use-of-tags-a-guide-to-youtube-success-for-2024/"><u>The Strategic Use of Tags  A Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtuber-essentials-must-have-hardware-and-software-for-successful-streams-for-2024/"><u>Youtuber Essentials  Must-Have Hardware & Software for Successful Streams for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"The Creative Summit  Top Talent Junction for 2024\""
-date: 2024-06-05T08:36:51.328Z
-updated: 2024-06-06T08:36:51.328Z
+date: 2024-07-31T22:19:26.368Z
+updated: 2024-08-01T22:19:26.368Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 # The YouTube Creator Summit - A Getaway for YouTube's Top Talent
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -59,6 +62,14 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
@@ -71,6 +82,9 @@ S’well bottles are stainless steel beverage containers that keep drinks hot or
 
 To help them relax after long days at the summit, YouTube provided creators with YouTube-branded slippers. They look pretty comfy. Plus, now every time these YouTubers look down at their feet they’ll be reminded to go make some videos.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
 _thinknoodles wearing his YouTube slippers._
@@ -79,10 +93,17 @@ _thinknoodles wearing his YouTube slippers._
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Denim jacket
 
 A denim jacket with a play button on it was also in the box. The idea was that creators would collect pins and display them on their new jackets. At the end of the week, they would have a great souvenir reminding them of every event they attended at the summit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
 
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
@@ -91,6 +112,9 @@ Most creators here on Filmora are still trying to grow their channels, but one d
 
 Want to join the YouTube Creator Summit in the future? We all know that there is a long way to go, but we can start making good YouTube videos now. Remember to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) with the templates and effects to touch up your YouTube videos.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -109,3 +133,46 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[New] 2024 Approved  Culinary Craftsmanship  Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[New] 2024 Approved  Elevate Video Engagement  Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beam-it-up-15-must-haves-for-your-youtube-live-stream-for-2024/"><u>[New] Beam It Up! 15 Must-Haves for Your YouTube Live Stream for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-screener-tech-perfect-for-creating-viral-youtube-moments-for-2024/"><u>[New] Best Screener Tech  Perfect for Creating Viral YouTube Moments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[New] In 2024, Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-the-art-of-podcast-scheduling-for-2024/"><u>[New] Mastering the Art of Podcast Scheduling for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-superior-click-through-rates-youtube-advertising-mastery/"><u>[New] The Roadmap to Superior Click-Through Rates  YouTube Advertising Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-youtube-shorts-into-a-stream-of-income/"><u>[New] Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-tech-meets-creativity-top-12-camera-picks-for-vloggers/"><u>[Updated] 2024 Approved  Cutting-Edge Tech Meets Creativity  Top 12 Camera Picks for Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-gif-making-transforming-youtube-videos-into-animated-forms/"><u>[Updated] 2024 Approved  DIY GIF Making  Transforming YouTube Videos Into Animated Forms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-single-frame-analysis-in-youtube-videos-5-ways/"><u>[Updated] 2024 Approved  Effortless Single-Frame Analysis in YouTube Videos [5 Ways]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grasping-the-essence-of-your-youtube-community/"><u>[Updated] 2024 Approved  Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-stepwise-approach-to-youtube-caption-addition-for-2024/"><u>[Updated] A Stepwise Approach to YouTube Caption Addition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-following-review-creative-options/"><u>[Updated] Following Review  Creative Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audio-recording-101-from-youtube-playback-to-files/"><u>[Updated] In 2024, Audio Recording 101  From YouTube Playback To Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earnings-expedition-navigating-your-way-to-wealth-with-youtube-mobile-content/"><u>[Updated] In 2024, Earnings Expedition  Navigating Your Way to Wealth with YouTube Mobile Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-inclusive-insight-easeus-professional-analysis/"><u>[Updated] In 2024, Inclusive Insight  EaseUS Professional Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>[Updated] In 2024, Innovative Immersions  Analyzing Google and Samsung RVR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-youtube-live-visuals/"><u>[Updated] Navigating the World of YouTube Live Visuals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[Updated] Spark Sponsorships  A Guide to Easy Fundraising for Budget Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-into-success-with-instant-youtube-thumbnail-skills/"><u>[Updated] Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailored-titling-techniques-for-impactful-youtube-channels/"><u>[Updated] Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-creme-de-la-creme-of-fps-games-7-for-2024/"><u>[Updated] The Crème De La Créme of FPS Games (7) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-disrupters-guide-to-android-and-ios-music-shakers/"><u>[Updated] The Disrupter's Guide to Android & iOS Music Shakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-significant-20-public-domain-pubg-snapshot-packs/"><u>2024 Approved  Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/dynamic-duels-in-digital-realms-the-ultimate-top-10-list/"><u>Dynamic Duels in Digital Realms  The Ultimate Top-10 List</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-pop-7-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Pop 7 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-6-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 6?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audio-narratives-best-backdrop-tunes/"><u>In 2024, Crafting Audio Narratives  Best Backdrop Tunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-lighting-essentials-17-tops-reviewed/"><u>In 2024, YouTube Lighting Essentials - #17 Tops Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-view-bots-how-to-increase-youtube-views/"><u>In 2024, YouTube View Bots  How to Increase YouTube Views?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prime-selection-of-7-top-rated-android-adblocking-apps-for-2024/"><u>Prime Selection of 7 Top-Rated Android AdBlocking Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pulse-of-innovation-selecting-top-quality-dj-visual-downloads-for-2024/"><u>Pulse of Innovation  Selecting Top-Quality DJ Visual Downloads for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/rapid-rendering-sounds-with-visuals-for-2024/"><u>Rapid Rendering  Sounds with Visuals for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ace-guide-to-smooth-laptop-video-editing-via-inshot/"><u>The Ace Guide to Smooth Laptop Video Editing via Inshot</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y27-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y27 5G FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>

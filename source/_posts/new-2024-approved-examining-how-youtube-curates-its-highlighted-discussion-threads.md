@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Examining How YouTube Curates Its Highlighted Discussion Threads\""
-date: 2024-06-05T08:47:21.930Z
-updated: 2024-06-06T08:47:21.930Z
+date: 2024-07-31T22:37:22.335Z
+updated: 2024-08-01T22:37:22.335Z
 tags:
   - ai video
   - ai youtube
@@ -54,16 +54,25 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -72,12 +81,27 @@ Thus, anybody who wants to get their YouTube comment an HC tag has to follow a f
 
 For example, if you are a YouTuber who deals in tech information, you need to look for a popular video or channel with a similar genre, in this case, technical knowledge. The more popular the channel is, the more is the chance of a viewer checking the comments on its videos. You will only benefit if you're comment is highlighted on pages of Youtuber's who are huge.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Get the URL of Highlighted Comments?
 
 The ways to acquire the URL or link for a highlighted comment are different for both parties- viewer and host.
 
 Suppose you are a viewer who is going through the comments section of a video. If you want to get the highlighted URL for the comment, simply click on the timestamp (e.g., 2 weeks ago) beside the commentator's username.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
@@ -104,6 +128,9 @@ Alternatively, you can try out a few temporary solutions.
 
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
 Many frequently inquire on the internet about how they can improve the chances of getting their comment pinned, as highlighted on YouTube. The secret lies in how you write the statement. We've listed a few pro tips below that can help:
@@ -148,3 +175,41 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-analyzing-youtube-shorts-economic-impact/"><u>[New] 2024 Approved  Analyzing YouTube Shorts Economic Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-affordable-video-editors-in-the-market-2023-edition/"><u>[New] 2024 Approved  Best Affordable Video Editors in the Market - 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>[New] 2024 Approved  Brand Your Content  Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-continuous-media-gatherers/"><u>[New] 2024 Approved  Continuous Media Gatherers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-views-a-guide-to-best-youtube-hash-tags/"><u>[New] 2024 Approved  Elevate Views  A Guide to Best YouTube Hash Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-trailblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>[New] A Trailblazer’s Guide  YouTube Studio Location Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-craft-stellar-youtube-thumbnails-with-these-8-software-alternatives-for-2024/"><u>[New] Craft Stellar YouTube Thumbnails with These 8 Software Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-video-quality-utilizing-youtube-studios-features/"><u>[New] In 2024, Boosting Video Quality  Utilizing YouTube Studio's Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-impact-the-quintessential-five-youtube-marketing-approaches/"><u>[New] In 2024, Crafting Impact  The Quintessential Five YouTube Marketing Approaches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-deciphering-how-to-find-my-youtube-comments-posts/"><u>[New] In 2024, Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-defining-your-digital-dna-a-guide-to-youtubing-personal-branding/"><u>[New] In 2024, Defining Your Digital DNA  A Guide to YouTubing Personal Branding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>[New] Snapchat Tricks  Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-youtubes-income-opportunities-beyond-advertising/"><u>[New] Understanding YouTube’s Income Opportunities Beyond Advertising</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-easy-to-use-editing-tools-no-cost-for-2024/"><u>[New] Vimeo's Easy-to-Use Editing Tools, No Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comedy-chorus-satirical-song-selections/"><u>[Updated] 2024 Approved  Comedy Chorus  Satirical Song Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[Updated] In 2024, Explore the Best  8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-hiring-the-10-most-engaging-vids/"><u>[Updated] Innovative Hiring  The 10 Most Engaging Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spotlight-solutions-the-top-17-vlog-gear-lists/"><u>[Updated] Spotlight Solutions  The Top 17 Vlog Gear Lists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-step-by-step-guide-to-youtube-studio-mastery/"><u>[Updated] Your Step-by-Step Guide to YouTube Studio Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-favorite-spotlight-equipment-17/"><u>2024 Approved  YouTube's Favorite Spotlight Equipment #17</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 11 Pro activation lock</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p55-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55 phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-much-does-youtube-pay-for-1-million-views/"><u>In 2024, How Much Does YouTube Pay for 1 Million Views</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premium-screen-capturer-non-lagging-efficiency/"><u>In 2024, Premium Screen Capturer  Non-Lagging Efficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone XR?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/recording-youtube-videos-effortlessly-the-free-way-to-screencasts-for-2024/"><u>Recording YouTube Videos Effortlessly - The Free Way to Screencasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tech-savvy-guide-to-excellent-recording-apps/"><u>Tech-Savvy Guide to Excellent Recording Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-finest-10-yoga-streams-for-peak-fitness-performance-for-2024/"><u>The Finest 10 Yoga Streams for Peak Fitness Performance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-charts-tactics-when-to-go-live-on-youtube-for-2024/"><u>Top Charts Tactics  When to Go Live on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-raw-footage-into-polished-youtube-videos-with-finalcut-for-2024/"><u>Transforming Raw Footage Into Polished YouTube Videos with FinalCut for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unmissable-experiences-in-digital-playfields-for-2024/"><u>Unmissable Experiences in Digital Playfields for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unveiling-tiktoks-symbolic-world-a-detailed-guidebook-for-2024/"><u>Unveiling TikTok’s Symbolic World  A Detailed Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-hub-significance-crafting-memorable-names-for-2024/"><u>Video Hub Significance  Crafting Memorable Names for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-editing-tips-for-beginner-editors-for-2024/"><u>YouTube Video Editing Tips for Beginner Editors for 2024</u></a></li>
+</ul></div>

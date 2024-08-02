@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation\""
-date: 2024-06-05T10:22:23.730Z
-updated: 2024-06-06T10:22:23.730Z
+date: 2024-08-01T01:20:36.053Z
+updated: 2024-08-02T01:20:36.053Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa1
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa1
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -66,6 +72,10 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -77,6 +87,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -110,6 +123,10 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -126,3 +143,46 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-billion-views-video-hall-youtubes-top-ever-watches/"><u>[New] 2024 Approved  Billion-Views Video Hall  YouTube's Top Ever Watches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[New] 2024 Approved  Channel Boosting Strategies  Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[New] 2024 Approved  Earnings Enlightenment  Joshi and YouTube Success Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-action-the-complete-technique-for-adding-motion-blur-in-photos/"><u>[New] Capture Action  The Complete Technique for Adding Motion Blur in Photos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-apps-best-10-software-to-capture-your-screens-for-2024/"><u>[New] Essential Apps  Best 10 Software to Capture Your Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>[New] In 2024, Earn on YouTube  Beginner's Path to Profitability</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-samurais-shadowed-path-other-epic-warrior-games/"><u>[New] In 2024, Samurai's Shadowed Path - Other Epic Warrior Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-must-see-historical-channels-on-youtube/"><u>[Updated] 2024 Approved  10 Must-See Historical Channels on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-quality-cameras-the-ultimate-buyers-guide/"><u>[Updated] 2024 Approved  Affordable, Quality Cameras  The Ultimate Buyer's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-sustainable-cities-innovation-in-environmental-design/"><u>[Updated] 2024 Approved  Building Sustainable Cities  Innovation in Environmental Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-engaging-youtube-beginnings-two-methods/"><u>[Updated] 2024 Approved  Crafting Engaging YouTube Beginnings  Two Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-advice-on-selecting-the-best-lenses-for-filmmaking-for-2024/"><u>[Updated] Expert Advice on Selecting The Best Lenses For Filmmaking for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-8-mirrorless-cameras-that-make-great-video-content-for-2024/"><u>[Updated] Explore 8 Mirrorless Cameras That Make Great Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[Updated] Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-humor-hacks-techniques-for-parody-filmmaking/"><u>[Updated] Humor Hacks  Techniques for Parody Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-youtube-playlists-with-ease-our-instructions/"><u>[Updated] In 2024, Download YouTube Playlists with Ease - Our Instructions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-the-ultimate-guide-to-effective-youtube-banners/"><u>[Updated] In 2024, The Ultimate Guide to Effective YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-metrics-for-earning-livelihoods/"><u>[Updated] Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rethinking-wirecast-choices/"><u>[Updated] Rethinking WireCast Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-text-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[Updated] Text Gymnastics  Ingenious Techniques for Animated Bounces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-iphone-sound-personalization/"><u>[Updated] The Complete Guide to iPhone Sound Personalization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>[Updated] The Editor's Edge  Exploring the Best of YouTube Video Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-directory-of-freely-licensed-sound-sources/"><u>[Updated] The Ultimate Directory of Freely Licensed Sound Sources</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-building-brands-earning-dollars-a-comprehensive-guide-to-insta-sponsorships/"><u>2024 Approved  Building Brands, Earning Dollars  A Comprehensive Guide to Insta-Sponsorships</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>2024 Approved  Step-by-Step Walkthrough  Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://win11.techidaily.com/a-stepwise-approach-to-win11s-hyper-v-activation/"><u>A Stepwise Approach to Win11's Hyper-V Activation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-red-magic-8s-proplus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Red Magic 8S Pro+ Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-smart-8-plus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 8 Plus to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-time-savers-screen-recording-on-instagrams-story/"><u>In 2024, Time Savers  Screen Recording on Instagram's Story</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-youtube-for-superior-image-quality-using-av1-for-2024/"><u>Optimize YouTube for Superior Image Quality Using AV1 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/silliness-set-to-sound-10-hilarious-hits-for-2024/"><u>Silliness Set to Sound  10 Hilarious Hits for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-best-tools-for-video-recording-focus-on-apeaksofts-advantages-for-2024/"><u>The Best Tools for Video Recording – Focus on Apeaksoft's Advantages for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-10-journeys-from-around-the-world-on-youtube-for-2024/"><u>Top 10 Journeys From Around the World, on Youtube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubled-by-airdrop-discover-16-reliable-tips-for-immediate-problem-solving/"><u>Troubled by AirDrop? Discover 16 Reliable Tips for Immediate Problem-Solving</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-power-of-periscope-your-complete-manual/"><u>Unlock the Power of Periscope  Your Complete Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-power-of-referrals-how-to-build-effective-youtube-links-for-2024/"><u>Unlock the Power of Referrals  How to Build Effective YouTube Links for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-10-free-football-streaming-sites-to-bookmark/"><u>Updated 10 Free Football Streaming Sites To Bookmark</u></a></li>
+</ul></div>

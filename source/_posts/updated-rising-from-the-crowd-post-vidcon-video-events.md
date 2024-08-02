@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Rising From the Crowd  Post-VidCon Video Events\""
-date: 2024-06-05T09:49:10.743Z
-updated: 2024-06-06T09:49:10.743Z
+date: 2024-08-01T00:23:35.163Z
+updated: 2024-08-02T00:23:35.163Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -50,6 +54,10 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -78,6 +86,9 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -112,6 +123,10 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -136,6 +151,9 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -186,6 +204,9 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -226,3 +247,61 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[New] 2024 Approved  Dominate Search Results  Powerful YouTube SEO Techniques Exposed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edible-imagery-stepwise-food-film-making/"><u>[New] 2024 Approved  Edible Imagery  Stepwise Food Film Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>[New] 2024 Approved  Essential Photo Tools  Top 9 CamGear Enhancers for Filmmakers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-teammates-backdrops-in-teams-calls/"><u>[New] 2024 Approved  Perfecting Your Teammates' Backdrops in Teams Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieve-uninterrupted-youtube-experience-across-os-platforms-for-2024/"><u>[New] Achieve Uninterrupted YouTube Experience Across OS Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-livestreaming-screen-recorders-for-2024/"><u>[New] Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-between-tiktok-and-youtube-shorts-a-users-guide-for-2024/"><u>[New] Choosing Between TikTok and YouTube Shorts  A User's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-diy-movie-making-on-youtube-and-comparable-creative-tools-for-2024/"><u>[New] DIY Movie Making on YouTube & Comparable Creative Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-your-video-with-these-premium-free-audio-stores-for-2024/"><u>[New] Enhance Your Video with These Premium, Free Audio Stores for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-video-editing-apps-for-youtube-creators-for-2024/"><u>[New] Essential Video Editing Apps for YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile-for-2024/"><u>[New] Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-20-no-cost-pubg-imagery-bundles/"><u>[New] In 2024, Essential 20 No-Cost PUBG Imagery Bundles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics/"><u>[New] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-complete-blueprint-for-implementing-and-analyzing-fb-in-stream-ads-for-2024/"><u>[New] The Complete Blueprint for Implementing & Analyzing FB In-Stream Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-creative-potential-with-these-top-9-free-editors/"><u>[New] Unlock Creative Potential with These Top 9 Free Editors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-connect-with-more-viewers-share-twitch-on-facebook/"><u>[Updated] 2024 Approved  Connect With More Viewers  Share Twitch on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquer-and-cease-the-unremovable-guide-to-youtube-shorts/"><u>[Updated] 2024 Approved  Conquer & Cease  The Unremovable Guide to Youtube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-8-trustworthy-online-content-promoters/"><u>[Updated] 2024 Approved  Discover 8 Trustworthy Online Content Promoters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-equipment-showcasing-gameplay-innovations/"><u>[Updated] 2024 Approved  Elite Equipment  Showcasing Gameplay Innovations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-react-when-your-face-appears-in-video-calls-accidentally/"><u>[Updated] 2024 Approved  How To React When Your Face Appears In Video Calls Accidentally</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-your-yt-engagement-with-multi-stream-techniques-for-2024/"><u>[Updated] Amplify Your YT Engagement with Multi-Stream Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-earn-on-youtube-beginners-path-to-profitability-for-2024/"><u>[Updated] Earn on YouTube  Beginner's Path to Profitability for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extend-and-submit-video-to-youtube-for-2024/"><u>[Updated] Extend and Submit Video to YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-do-i-use-adobe-premiere-to-upload-youtube-videos/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>[Updated] In 2024, A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[Updated] In 2024, Earn Big on YouTube Shorts  Tips for Profitable Content Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs/"><u>[Updated] In 2024, Easy Guide  Turning Your Favorite YouTube Videos Into Animated GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-master-your-remote-work-with-these-5-video-conference-recorders/"><u>[Updated] In 2024, Master Your Remote Work with These 5 Video Conference Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-profits-on-youtube-the-latest-policy/"><u>[Updated] Maximizing Profits on YouTube  The Latest Policy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-capturing-device-for-exceptional-youtube-productions/"><u>[Updated] Premier Capturing Device for Exceptional YouTube Productions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snapshots-of-adventure-mastering-the-craft-of-professional-travel-blogging/"><u>[Updated] Snapshots of Adventure  Mastering the Craft of Professional Travel Blogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>[Updated] Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ideal-outlet-where-to-post-your-videos/"><u>[Updated] The Ideal Outlet  Where to Post Your Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>[Updated] YouTube Snippets  Get High-Quality Images Without a Penny Paid</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-amplify-and-transform-changing-your-audible-image-on-ig/"><u>2024 Approved  Amplify and Transform  Changing Your Audible Image on IG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-androids-premier-music-video-experience-6-picks/"><u>2024 Approved  Android's Premier Music Video Experience  6 Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>2024 Approved  Mastering Rapid Playback in Spotify  Safe Practices Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-modern-and-future-terrain-with-drones/"><u>2024 Approved  Navigating Modern and Future Terrain with Drones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>2024 Approved  Screen Capture Power Play  Apowsort Reviewed & Comparisons Made</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-igs-evolution-reels-and-stories/"><u>2024 Approved  Understanding IG's Evolution  Reels and Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-examination-samsungs-complete-360-camera-experience-for-2024/"><u>Full Examination  Samsung's Complete 360° Camera Experience for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-f5-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco F5 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-resolving-directdraw-failures-on-windows-1011/"><u>Immediate Actions for Resolving DirectDraw Failures on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>In 2024, Discover Variety – 50 Complimentary YouTube Banners Available!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-elevate-your-channels-templates-at-no-charge/"><u>In 2024, Elevate Your Channels - Templates at No Charge!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lensleaks-revealing-affordable-stunning-tiktok-bgs/"><u>LensLeaks  Revealing Affordable, Stunning TikTok BGs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/online-money-tally-for-youtube-creators-for-2024/"><u>Online Money Tally for YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-method-for-producing-captivating-video-thumbnails-for-2024/"><u>Step-by-Step Method for Producing Captivating Video Thumbnails for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>Step-by-Step Tutorial  Enhancing Your HP Screen Recordings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo K11x | Dr.fone</u></a></li>
+</ul></div>

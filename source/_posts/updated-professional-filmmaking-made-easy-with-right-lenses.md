@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Filmmaking Made Easy with Right Lenses"
-date: 2024-06-05T11:19:43.499Z
-updated: 2024-06-06T11:19:43.499Z
+date: 2024-08-01T02:58:37.863Z
+updated: 2024-08-02T02:58:37.863Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 # A Vlogger's Guide To Camera Lenses
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -82,10 +85,16 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -103,6 +112,9 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
@@ -115,6 +127,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -141,6 +156,10 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +176,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[New] 2024 Approved  Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-visual-content-reimagined-apple-music-inclusion/"><u>[New] 2024 Approved  Visual Content Reimagined  Apple Music Inclusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-amplify-your-videos-impact-increasing-view-count-on-youtube-shorts-for-2024/"><u>[New] Amplify Your Video's Impact  Increasing View Count on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-fast-fortnite-icons-in-minutes-for-2024/"><u>[New] Crafting Fast Fortnite Icons in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-videography-quality-top-7-sound-effects-pick-for-2024/"><u>[New] Elevate Videography Quality  Top 7 Sound Effects Pick for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engage-viewers-beyond-individual-watches-for-2024/"><u>[New] Engage Viewers Beyond Individual Watches for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-engagement-through-best-thumbnail-practices/"><u>[New] In 2024, Boost Engagement Through Best Thumbnail Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-warriors-youtubes-top-ten-women/"><u>[New] In 2024, Digital Warriors  YouTube’s #Top Ten Women</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-most-effective-android-apps-to-download-youtube-videos/"><u>[New] In 2024, The Most Effective Android Apps to Download YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-speedy-guide-crafting-images-into-stellar-youtube-thumbnail-pics/"><u>[New] Speedy Guide  Crafting Images Into Stellar YouTube Thumbnail Pics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-pathway-to-online-success-building-a-new-youtube-channel/"><u>[New] The Pathway to Online Success  Building a New YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-asmr-app-selection-guide-for-phones/"><u>[Updated] 2024 Approved  ASMR App Selection Guide for Phones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-microphone-for-youtubers/"><u>[Updated] 2024 Approved  Best Microphone for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-demystifying-the-journey-to-knowing-who-watches-you/"><u>[Updated] 2024 Approved  Demystifying the Journey to Knowing Who Watches You</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-your-videos-effective-titles-and-keywords-on-youtube/"><u>[Updated] 2024 Approved  Enhance Your Videos  Effective Titles and Keywords on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-tracker-gauging-youtube-popularity-for-financial-insights/"><u>[Updated] 2024 Approved  The Ultimate Tracker  Gauging YouTube Popularity for Financial Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-top-notch-free-editors-to-enhance-your-youtube-content-efficiency-for-2024/"><u>[Updated] 8 Top-Notch Free Editors to Enhance Your YouTube Content Efficiency for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>[Updated] A Stepwise Journey  Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-soundtracks-on-digital-platforms-for-2024/"><u>[Updated] Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premium-recording-application-chromebook-focus/"><u>[Updated] In 2024, Premium Recording Application  Chromebook Focus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweetbite-download-twitter-vids-with-mobile-app/"><u>[Updated] In 2024, TweetBite  Download Twitter Vids with Mobile App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-overcoming-virtual-negativity-a-content-makers-guide/"><u>[Updated] Overcoming Virtual Negativity  A Content Maker's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-a-successful-vlog-and-earning-potential/"><u>[Updated] Starting a Successful Vlog and Earning Potential</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>[Updated] The Travel Blogger's Blueprint  Strategies for Professional Growth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unraveling-the-secrets-to-dynamic-youtube-trailers-in-filmora/"><u>[Updated] Unraveling the Secrets to Dynamic YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-best-secrets-for-creating-stellar-short-videos/"><u>[Updated] Youtube's Best Secrets for Creating Stellar Short Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-phantom-v-flip-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Phantom V Flip Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 14 Pro? How to Fix it?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-f15-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy F15 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premiere-pro-a-launchpad-for-youtube-videos-for-2024/"><u>Premiere Pro  A Launchpad for YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/procedure-of-ending-linkedin-services-and-deletion-process-for-2024/"><u>Procedure of Ending LinkedIn Services and Deletion Process for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/sharing-stories-that-resonate-with-a-digital-audience-yt-for-2024/"><u>Sharing Stories that Resonate with a Digital Audience YT for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-monetization-for-game-streams-for-2024/"><u>Strategic Monetization for Game Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-compilation-budget-friendly-editing-tools-for-2024/"><u>The Ultimate Compilation  Budget-Friendly Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-3-storytelling-techniques-to-grow-your-youtube-channel-for-2024/"><u>Top 3 Storytelling Techniques to Grow Your YouTube Channel for 2024</u></a></li>
+</ul></div>

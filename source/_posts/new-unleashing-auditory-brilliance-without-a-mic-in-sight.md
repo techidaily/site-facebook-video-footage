@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleashing Auditory Brilliance without a Mic in Sight"
-date: 2024-06-05T10:48:48.724Z
-updated: 2024-06-06T10:48:48.724Z
+date: 2024-08-01T02:05:46.705Z
+updated: 2024-08-02T02:05:46.705Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
 # How to Record Good Audio Without a Microphone?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +42,9 @@ Luckily, there are a lot of easy, free, things you can do to protect the quality
 * [5\. Use a Free Audio App](#app)
 * [6\. Do a Sound Check](#check)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Keep Your Camera Close (like, really close)
 
 The biggest problem with the mic built into any camera or phone is just that, since it’s with the camera, it’s usually too far away from you. Built-in mics can record decent audio up close, but usually, your camera will be set up farther away from you than an external mic would be.
@@ -47,6 +53,10 @@ For example, your camera’s mic might be just as good as a clip-on LAV, but tha
 
 Moving your camera/smartphone physically closer to you will make it hard to include anything besides your head and shoulders in your shot, but it will get you significantly better audio.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## 2.Shoot Somewhere Quiet
 
 The best way to limit the amount of background noise you pick up in your sound recording is to shoot somewhere where there’s no background noise. That probably seems really basic, but it’s something a lot of people just don’t do. It’s easy to default to recording in your home office, even though it’s right next to the kitchen where your family is bustling around, or in your bedroom even though there’s a busy street right outside your window.
@@ -73,12 +83,18 @@ _The pompom used in this video cost $2, but you might already have something tha
 
 If your built-in mic is on top of your camera you can get something called a ‘micromuff’. A micromuff is essentially a circular or rectangular piece of velcro with long strands of fluff on top. It’s open in the middle so it doesn’t actually cover your mic, but the surrounding fuzz blocks out the wind.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Record better audio from wind with micromuff](https://images.wondershare.com/filmora/article-images/record-better-audio-from-wind.jpg)
 
 _You use the adhesive backing to attach the base velcro to your camera. The other side of the velcro has your fluff attached to the back._
 
 The only thing about a micromuff is that it costs about $30, and if you’re going to spend $30 on audio equipment then you could just buy yourself an inexpensive LAV mic. I only bring up the micromuff because it’s a very simple design you can probably DIY – you just need velcro with adhesive backing and any of the fluff-sources we just discussed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Use a Free Audio App
 
 If you’re recording on a smartphone, you can download a free app that will let you make adjustments to your audio as you record it. With the right app, you can adjust your gain (volume is how you control ‘output’ audio, and gain is for ‘input’ audio. By turning up your gain, you can make your mic more sensitive), tempo, and more. A lot of the time, your audio recording app will also let you edit your audio afterward.
@@ -87,6 +103,9 @@ Even if you’re not recording video from your smartphone, it might be a good id
 
 Free audio apps: Hi-Q MP3 Voice Recorder (Android), RecForge II (Android), Smart Voice Recorder (Android), Audio Memos (iOS), and Recorder Plus (iOS).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Do a Sound Check
 
 Once you think you’ve got good audio set up – test it! You don’t want to do a whole video and find out when you play it back that your audio doesn’t sound good.
@@ -117,3 +136,61 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie/"><u>[New] 2024 Approved  Cut, Trim & Enhance  YouTube Editing Tips for the Rookie</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-youtube-card-implementation-for-2024/"><u>[New] Best Practices for YouTube Card Implementation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-comprehensive-guide-to-youtube-video-editing-tools-for-2024/"><u>[New] Comprehensive Guide to YouTube Video Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-mobile-privacy-the-best-7-adblocker-apps-for-android-for-2024/"><u>[New] Essential Mobile Privacy  The Best 7 AdBlocker Apps for Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-hearables-leading-podcasters-on-googloud/"><u>[New] High-Quality Hearables  Leading Podcasters on GooGloud</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>[New] In 2024, Ad Profits Unveiled  How Much Do Creators Make on Youtube?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[New] In 2024, Avoiding YouTube Copyright Claims  Understanding the Rules</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[New] In 2024, Capture Spectacular Video on YouTube  Top Webcam Picks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screencast-savvy-a-comprehensive-examination-of-techniques-and-tools-for-2024/"><u>[New] Screencast Savvy  A Comprehensive Examination of Techniques & Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-ideas-into-actionable-steps-idevice-screenshots-for-video-sharing/"><u>[New] Transform Your Ideas Into Actionable Steps  IDevice Screenshots for Video Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>[New] Unveil Your Narrative  Transforming Photos to Videos Using Your Phone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-eight-best-free-video-editing-software-for-social-media/"><u>[New] Unveiling the Eight Best FREE Video Editing Software for Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unwind-youtube-videos-advanced-retrospectives/"><u>[New] Unwind YouTube Videos  Advanced Retrospectives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-and-instagram-syncing-up-your-media/"><u>[New] YouTube and Instagram  Syncing Up Your Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[Updated] 2024 Approved  7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-the-best-audio-recording-options-for-apple-products/"><u>[Updated] 2024 Approved  Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-achieve-uninterrupted-youtube-experience-across-os-platforms-for-2024/"><u>[Updated] Achieve Uninterrupted YouTube Experience Across OS Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beware-the-web-of-counterfeit-subscriber-networks-online-for-2024/"><u>[Updated] Beware the Web of Counterfeit Subscriber Networks Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-streamers-to-millionaires-the-monetization-blueprint/"><u>[Updated] From Streamers to Millionaires  The Monetization Blueprint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>[Updated] From Unknown to Famous  Boosting Video Views on YouTube Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-post-a-video-from-youtube-on-instagram/"><u>[Updated] How to Post a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-youtube-interaction-with-emojis/"><u>[Updated] In 2024, Boosting YouTube Interaction with Emojis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[Updated] In 2024, Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channeling-changes-transition-to-youtubes-updated-membership-model/"><u>[Updated] In 2024, Channeling Changes  Transition to YouTube's Updated Membership Model</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>[Updated] In 2024, Efficient Tools  Simplifying the Task of Feedback Erasure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fix-obs-white-outage-during-live-streams/"><u>[Updated] In 2024, Fix OBS White Outage During Live Streams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-in-crafting-empowerment-videos-for-viewers/"><u>[Updated] Masterclass in Crafting Empowerment Videos for Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-your-look-essential-makeup-tips-and-product-reviews/"><u>[Updated] Perfecting Your Look  Essential Makeup Tips & Product Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-reviewing-yuneecs-powerful-typhoon-aerodrone/"><u>[Updated] Reviewing Yuneec's Powerful Typhoon AeroDrone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>[Updated] Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-video-cutting-and-compiling-in-studio/"><u>[Updated] The Art of Video Cutting and Compiling in Studio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-youtube-trailers-using-filmora-tools/"><u>[Updated] The Art of YouTube Trailers Using Filmora Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-symphony-of-screens-coordinated-content-consumption/"><u>[Updated] The Symphony of Screens  Coordinated Content Consumption</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-thumbnail-wizardry-top-8-tools-to-boost-view-counts/"><u>[Updated] Thumbnail Wizardry  Top 8 Tools to Boost View Counts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[Updated] Video Excellence  Mirrorless Cameras vs Traditional DSLRs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>2024 Approved  Mastery in Motion  Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ranking-moba-titles-exclusively-for-android-phones/"><u>2024 Approved  Ranking MOBA Titles Exclusively for Android Phones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-top-5-tiktok-gif-tools-mastering-video-to-gif-transformations/"><u>2024 Approved  Top 5 TikTok GIF Tools  Mastering Video-to-GIF Transformations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-high-definition-top-mirrorless-under-(1k/"><u>Affordable High Definition - Top Mirrorless Under <$1K</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-70-lite-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 70 Lite 5G Fingerprint Lock</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/farm-fanatics-forecast-future-of-virtual-harvesting/"><u>Farm Fanatics’ Forecast  Future of Virtual Harvesting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/google-pixel-fold-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Google Pixel Fold ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-res-aerial-showdown-dji-vs-gopro-capture/"><u>High-Res Aerial Showdown  DJi vs GoPro Capture</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-wealthiest-webcast-wonders/"><u>In 2024, Wealthiest Webcast Wonders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru-for-2024/"><u>Maximizing the Potential of Virtual Dialogue  Secrets From a Pro ZOOM Chat Guru for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-through-grids-in-google-meet-webinar-for-2024/"><u>Navigating Through Grids in Google Meet Webinar for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-virtual-realms-efficiently-using-kinemaster-plus-best-replacements-for-2024/"><u>Navigating Virtual Realms  Efficiently Using KineMaster, Plus Best Replacements for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-fcp-voice-over-mastery-top-tips-for-beginners/"><u>New In 2024, FCP Voice Over Mastery Top Tips for Beginners</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resource-management-optimization/"><u>Resource Management Optimization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-angle-alchemists-guide-to-transforming-your-videos-youtube-edition-for-2024/"><u>The Angle Alchemist's Guide to Transforming Your Videos (YouTube Edition) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-pathway-to-crafting-a-viral-video-introduction/"><u>The Pathway to Crafting a Viral Video Introduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-landscape-decoded-creating-your-signature-style-and-voice-for-2024/"><u>YouTube's Landscape Decoded  Creating Your Signature Style and Voice for 2024</u></a></li>
+</ul></div>

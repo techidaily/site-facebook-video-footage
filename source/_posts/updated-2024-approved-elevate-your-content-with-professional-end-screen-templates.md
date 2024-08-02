@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Elevate Your Content with Professional End Screen Templates\""
-date: 2024-06-05T08:10:55.875Z
-updated: 2024-06-06T08:10:55.875Z
+date: 2024-07-31T21:35:52.603Z
+updated: 2024-08-01T21:35:52.603Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
 # Free YouTube End Screen Templates
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -73,14 +76,23 @@ SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=
 
 Here are some of our favorite ones.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
 
 Here’s one for the Minecraft fans:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
 
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
 
 Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
@@ -93,6 +105,9 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
 
 3\. After clicking “Design!,” a new browser will open with a blank canvas.
@@ -107,20 +122,32 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 6\. Stretch your image to the ends of your canvas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
 
 7\. Insert your own shapes, lines, colours, images, and text over the image.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
 
 8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
 
 If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -137,3 +164,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[New] 2024 Approved  Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[New] 2024 Approved  Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/"><u>[New] 2024 Approved  Clip Groove  Best BGM Choices For Today's Popular YT Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-content-step-by-step-guide-to-youtube-video-editing/"><u>[New] 2024 Approved  Crafting Content  Step by Step Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-streaming-experience-switching-between-spotify-and-youtube-music/"><u>[New] 2024 Approved  Elevating Your Streaming Experience  Switching Between Spotify & YouTube Music</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-youtube-experience-with-a-structured-watch-later-plan/"><u>[New] 2024 Approved  Enhancing YouTube Experience with a Structured Watch Later Plan</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] 2024 Approved  Mastering Instagram  FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivating-a-community-building-followers-on-youtube-without-spending-for-2024/"><u>[New] Cultivating a Community  Building Followers on YouTube Without Spending for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cut-the-cord-clutter-simultaneous-playthrough-of-videos-for-2024/"><u>[New] Cut the Cord Clutter  Simultaneous Playthrough of Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-course-to-your-signature-sphere/"><u>[New] In 2024, Charting a Course to Your Signature Sphere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-infographic-lens-on-2017s-youtube-numerical-truths/"><u>[New] The Infographic Lens on 2017'S Youtube Numerical Truths</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[New] Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>[Updated] 2024 Approved  A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-visual-stories-with-smartphone-montage-apps/"><u>[Updated] 2024 Approved  Elevating Visual Stories with Smartphone Montage Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[Updated] Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-groan-inducing-humor-in-hits/"><u>[Updated] Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-viewership-responsibly-strategies-that-work/"><u>[Updated] In 2024, Boosting Viewership Responsibly  Strategies That Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-video-magic-find-your-favorite-mobile-edit-apps/"><u>[Updated] In 2024, Enhance Video Magic  Find Your Favorite Mobile Edit Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-online-converter-for-video-texts/"><u>[Updated] In 2024, Exclusive Online Converter for Video Texts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience/"><u>[Updated] In 2024, Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-link-films-for-organized-youtube-display/"><u>[Updated] Link Films for Organized YouTube Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-time-logging-on-youtube-desktopmobile/"><u>[Updated] Seamless Time Logging on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spikes-in-subscribers-implementing-top-12-video-promotion-techniques/"><u>[Updated] Spikes in Subscribers  Implementing Top 12 Video Promotion Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles/"><u>[Updated] The Best Child-Safe Cameras For First-Time Vloggers & Puddles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unseen-sides-novel-strategies-for-inverting-your-youtube-views/"><u>[Updated] Unseen Sides  Novel Strategies for Inverting Your YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-text-synthesizer/"><u>[Updated] Video Text Synthesizer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12t-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 12T Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-f5-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco F5 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-camlock-secure-mounting-clip/"><u>In 2024, CamLock Secure Mounting Clip</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unmasking-momentum-makers-seeking-out-niche-influencers/"><u>In 2024, Unmasking Momentum Makers  Seeking Out Niche Influencers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pure-opinions-on-recordcast-experience/"><u>Pure Opinions on RecordCast Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-watch-with-no-black-or-white-edges-for-2024/"><u>Streamline Your YouTube Watch with No Black or White Edges for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-satire-building-parodies-online-for-2024/"><u>Understanding Satire  Building Parodies Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visual-branding-on-youtubes-iconography-and-images-for-2024/"><u>Visual Branding on YouTubes  Iconography and Images for 2024</u></a></li>
+</ul></div>

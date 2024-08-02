@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Networking Haven  Beyond VidCon\""
-date: 2024-06-05T09:23:26.192Z
-updated: 2024-06-06T09:23:26.192Z
+date: 2024-07-31T23:39:32.404Z
+updated: 2024-08-01T23:39:32.404Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,10 +39,16 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 #### 1. **[VidCon](http://vidcon.com/)**
@@ -78,6 +87,9 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -148,6 +160,9 @@ There is not a steady annual schedule for FanFests, but it has visited these cit
 
 Sydney, Australia: February
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
@@ -186,6 +201,9 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -226,3 +244,38 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-free-services-for-designing-impactful-youtube-intros/"><u>[New] 2024 Approved  Essential Free Services for Designing Impactful YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone-for-2024/"><u>[New] Best 10 YouTube Volume Boosters for Windows, macOS, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques-for-2024/"><u>[New] Cementing Your Place in YouTube by Mastering Creative Studio Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-visual-stories-in-depth-pc-editing-techniques-for-youtube-for-2024/"><u>[New] Crafting Visual Stories  In-Depth PC Editing Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-content-with-a-click-phones-and-youtube/"><u>[New] In 2024, Captivating Content with a Click  Phones & YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-the-epic-android-video-editor-apps/"><u>[New] In 2024, Discover the Epic Android Video Editor Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>[New] In 2024, Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-scriptwriting-for-viral-youtube-content/"><u>[New] Mastering the Art of Scriptwriting for Viral YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-to-igtv-conversion-pro-tips-revealed/"><u>[New] YouTube-to-IGTV Conversion  Pro Tips Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-addressing-issue-non-appearing-facebook-video-previews/"><u>[Updated] 2024 Approved  Addressing Issue  Non-Appearing Facebook Video Previews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] 2024 Approved  Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-perfect-ad-videos-on-youtube-without-expense/"><u>[Updated] 2024 Approved  Crafting Perfect Ad Videos on YouTube Without Expense</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-writability-with-these-best-fonts/"><u>[Updated] 2024 Approved  Elevate Your Content' Writability with These Best Fonts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-matchmake-for-maximum-viewership-on-youtube/"><u>[Updated] 2024 Approved  How to Matchmake for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetaudioextractor-quick-sound-maker/"><u>[Updated] 2024 Approved  TweetAudioExtractor  Quick Sound Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-voice-conversion-tools-for-vlogging-professionals-for-2024/"><u>[Updated] Best Voice Conversion Tools for Vlogging Professionals for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-visuals-the-science-of-youtube-banners-and-thumbnails-for-2024/"><u>[Updated] Crafting Visuals  The Science of YouTube Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] Free and Secure  3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-carryminatis-income-evolution-with-ajey-nagar/"><u>[Updated] In 2024, CarryMinati's Income Evolution with Ajey Nagar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-engaging-videos-insights-into-youtube-movie-maker/"><u>[Updated] In 2024, Craft Engaging Videos  Insights Into YouTube Movie Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] In 2024, Essential Guide  Top 10 Steps for Instructors on YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-say-goodbye-to-interruptions-youtube-adblocking-made-simple/"><u>[Updated] Say Goodbye to Interruptions  YouTube Adblocking Made Simple</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-trimming-titles-tailored-to-your-youtube-needs/"><u>[Updated] Top 5 Trimming Titles Tailored to Your YouTube Needs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-quality-video-summaries-with-smart-templates/"><u>[Updated] Top-Quality Video Summaries with Smart Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-maccam-easy-webcam-recordings/"><u>2024 Approved  Mastering MacCam  Easy Webcam Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/basking-in-low-light-the-art-of-dark-modes-in-paint/"><u>Basking in Low Light: The Art of Dark Modes in Paint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/benq-sw320-4k-315-inch-monitor-review/"><u>BenQ SW320 4K 31.5-Inch Monitor Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-add-border-to-instagram-video-for-2024/"><u>How to Add Border to Instagram Video for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>In 2024, Audio Transformation Expertise  From TTML & XML to Dynamic SRTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/overcoming-dark-pixels-in-online-video-platform-for-2024/"><u>Overcoming Dark Pixels in Online Video Platform for 2024</u></a></li>
+</ul></div>

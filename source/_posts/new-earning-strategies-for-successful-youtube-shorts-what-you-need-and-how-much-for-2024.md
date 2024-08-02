@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Earning Strategies for Successful Youtube Shorts  What You Need & How Much for 2024\""
-date: 2024-06-05T10:17:17.596Z
-updated: 2024-06-06T10:17:17.596Z
+date: 2024-08-01T01:11:53.907Z
+updated: 2024-08-02T01:11:53.907Z
 tags:
   - ai video
   - ai youtube
@@ -24,6 +24,9 @@ YouTube Shorts have grown in popularity since the launch of the platform in 2021
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## **Part 1\. YouTube Shorts Monetization: Eligibility Criteria**
 
 With short monetization options, you can monetize your short-firm content by joining the YouTube Partner Program (YPP). Being a member of this program gives you access to all tools for making money on YouTube. This includes the ability to place ads on your videos or make money directly from your audience through fan funding.
@@ -37,8 +40,14 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 * At least 3,000 public watch hours in the last 365 days, or
 * At least 3 million public Shorts views in the last 90 days
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Eligibility for Monetizing Shorts and Videos**
 
 The other way you can monetize shorts is by accessing ad revenue and fan-funding. With this option, you will generate income from ads that appear between Shorts in addition to interacting with viewers. This is a great option for creators who make long and short videos. The requirements for this include:
@@ -47,6 +56,10 @@ The other way you can monetize shorts is by accessing ad revenue and fan-funding
 * At least 4,000 public watch hours in the last 365 days, or
 * At least 10 million valid public Shorts views in the last 90 days
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### **Additional Guidelines for Creators**
 
 Once you meet the eligibility criteria, you will be required to follow certain guidelines or policies to continue earning. The additional guidelines include:
@@ -77,30 +90,45 @@ In the top right of the YouTube page, click on your profile picture. From the po
 
 ##### Step 3In the left menu, Click on **Earn**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube earn](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-4.JPG)
 
 ##### Step 4
 
 If you are eligible for the YPP, you will see an **Apply** Click on it to go to the next step. If you are not yet eligible, click the **Get Notified** button to be notified once your channel becomes eligible. That’s when you will have the opportunity to finish the application process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube get notified](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-5.JPG)
 
 ##### Step 5
 
 Click **Start** to review and accept YouTube’s Base terms.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube base terms](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-6.JPG)
 
 ##### Step 6
 
 Link your existing AdSense account if you have one. If not. Click **Start** to set up a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube link adsense](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-7.JPG)
 
 ##### Step 7
 
 Wait for YouTube to review and approve your application. The process will normally take a month. Once you are approved for the YPP, go to the Earn section in YouTube Studio. Then accept the Shorts Monetization Module. This will allow you to access ads and other money-making tools on YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
 
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
@@ -139,6 +167,9 @@ The best way to reap big from Shorts YouTube monetization is to make quality vid
 
 The choice of Filmora features you use on your editing projects will depend on your goals. Here are a few favorites to get you started:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### **1\.** [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before uploading a short-form video on YouTube, you want to make sure it is of the right resolution. The Auto Reframe feature on Filmora allows you to instantly resize your videos while keeping all the important details. You only need to record one video for all platforms, and edit to fit with auto reframe.
@@ -147,6 +178,9 @@ Before uploading a short-form video on YouTube, you want to make sure it is of t
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Just like other vertical social media videos, Shorts require some bit of personalization. You may want to add a bit of elements or filters. The AI Portrait feature automatically removes background with high accuracy to further enhance your videos. It also comes with over 70 portrait and sticker effects to bring out the mood you are going after. Automatically recognize the faces of your subjects and add AR stickers on the go.
@@ -167,3 +201,37 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[New] 2024 Approved  12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[New] 2024 Approved  Discover the Best in Class  Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-emotionally-enhanced-youtube-commentary/"><u>[New] 2024 Approved  Emotionally-Enhanced YouTube Commentary</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] 2024 Approved  Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-8-trusted-online-content-marketing-tools/"><u>[New] In 2024, Discover 8 Trusted Online Content Marketing Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pinnacle-10-royale-struggle-games/"><u>[New] In 2024, Pinnacle 10 Royale Struggle Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>[New] Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/"><u>[New] Unlock the Magic of Capturing YouTube Content - The No-Cost Way</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>[New] YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-zippy-typography-two-approaches-to-liven-up-your-letters/"><u>[New] Zippy Typography  Two Approaches to Liven Up Your Letters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-palette-of-pleasantness-five-winter-backgrounds-ideas/"><u>[Updated] 2024 Approved  A Palette of Pleasantness  Five Winter Backgrounds Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[Updated] Cutting-Edge Techniques  Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>[Updated] In 2024, CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[Updated] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-adsense-on-youtube-a-beginners-guide/"><u>[Updated] Mastering AdSense on YouTube  A Beginner's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-youtube-to-file-conversion-techniques/"><u>[Updated] Seamless YouTube to File Conversion Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steering-clear-of-mundane-channel-names-in-a-crowded-space/"><u>[Updated] Steering Clear of Mundane Channel Names in a Crowded Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta)  Which One Is Better?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-premier-rankings-best-general-knowledge-shows/"><u>2024 Approved  The Premier Rankings  Best General Knowledge Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-retro-playlist-trick-how-to-go-in-arrears/"><u>2024 Approved  Youtube's Retro Playlist Trick  How to Go in Arrears</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-11-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme 11 5G Face Lock?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-7-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 7 From Your Apple ID</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y78plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y78+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-8twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 8Twith/without a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-master-the-craft-of-mega-viewership-growth-5-strategies-for-success/"><u>In 2024, Master the Craft of Mega Viewership Growth  5 Strategies for Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-comprehensive-guide-to-effective-screen-recording/"><u>In 2024, The Comprehensive Guide to Effective Screen Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-perfecting-edits-on-published-videos/"><u>In 2024, YouTube Mastery  Perfecting Edits on Published Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/masterpiece-moments-iphone-plus-androids-best-ig-covers/"><u>Masterpiece Moments  IPhone + Android's Best IG Covers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-freefire-techniques-for-gaming-vloggers-for-2024/"><u>Top 5 FreeFire Techniques for Gaming Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-sharing-showdown-comparing-streamers-strengths-vimeo-youtube-and-dailymotion-for-2024/"><u>Video Sharing Showdown  Comparing Streamers' Strengths  Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+</ul></div>

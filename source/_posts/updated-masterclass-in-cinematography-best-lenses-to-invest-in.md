@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass in Cinematography  Best Lenses to Invest In\""
-date: 2024-06-05T10:30:43.577Z
-updated: 2024-06-06T10:30:43.577Z
+date: 2024-08-01T01:34:56.265Z
+updated: 2024-08-02T01:34:56.265Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 # Best Camera Lenses for YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 A DSLR is the ideal camera for some vlogs, and using a DSLR means you get to customize the look of your vlog by choosing the perfect lens. Choosing the best camera lens for your YouTube channel can be tricky because there are so many options. This article will walk you through some of them, and make two recommendations of great vlogging lenses. If you already have a good understanding of how camera lenses work then feel free to scroll down to the lens recs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Understanding Lenses: Zoom lens, Fixed lens, aperture, f-stop
 
 There are two main categories of camera lenses: ‘zoom’ – lenses that allow you to zoom in and out – and ‘fixed’. If your lenses are tools then zoom lenses are Swiss army knives; they are very versatile. Fixed lenses, also called prime lenses, have more specific purposes. Do you need a tool that can do a lot of things, or a tool that is perfect for one specific job? Sometimes it is useful to have access to both.
@@ -34,6 +40,9 @@ We have explained the differences between Fixed lens and Zoom lens and advantage
 
 Before we get into the recommendations here is a little background information on lenses in general:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Beginner's Guide to Aperture and F-Stops
 
 In order to be able to select the lens you'll be using to record your YouTube videos, you first need to understand a few very basic concepts, such as aperture or f-stops.
@@ -52,6 +61,9 @@ F-stops are written like ‘f/1.8’ or ‘f/4’ on your lens. For more informa
 
 **F-stops** or f-numbers indicate how open the aperture is, so for example if your camera is displaying f/32 value it means that your camera is letting very little light to get through to the camera's sensor. The f-number depends on a few other parameters such as shutter speed, exposure or ISO values. Large apertures provide a shallow depth of field which creates a smooth and artistic background blur, while a small aperture enables you to keep both the background and the foreground of your shot in focus.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Types of Camera Lenses
 
 The visual aspect of a video may not be the only thing you'll have to dedicate special attention to while recording your YouTube video, but it is surely one of the most important factors of the video production process. A lens you are using will largely contribute to the aesthetics of the video. That's why you need to know which type of lens will deliver the best results when shooting different types of scenes. Here are some of the most common types of lenses you'll encounter.
@@ -111,6 +123,9 @@ Recording **moving objects** from a distance requires you to have a lens that al
 
 #### 5.[Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens](https://www.amazon.com/Tamron-17-50mm-Aspherical-Canon-Cameras/dp/B000FZ3FY8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![camera lens rec02](https://images.wondershare.com/filmora/article-images/camera-lens-rec02.JPG)
 
 The Tamron's standard zoom lens offers good value at a very reasonable price. The maximum aperture is f/2.8, while the minimum aperture value this lens supports is f/32, which means that its users can easily experiment with different **depths of field.** The lens is **compatible with most Canon cameras** so if you have a camera from another manufacturer you may have to use the lens adapter in order to mount it onto your camera. Like most standard zoom lenses, Tamron SP AF model is **highly versatile** and you can use it to record **a wide range of different scenes**.
@@ -123,6 +138,9 @@ All Sony's APS-C format E mount cameras are compatible with this multi-purpose l
 
 If you are using a 4k camera to shoot your YouTube video, check out [best camera lens for 4k professional production.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -139,3 +157,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-effective-affordable-youtube-intros-with-templates/"><u>[New] 2024 Approved  Crafting Effective, Affordable YouTube Intros with Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-camera-technology-for-youtube-stars/"><u>[New] 2024 Approved  Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-video-reach-on-youtube-an-in-depth-guide-to-seo-techniques-for-2024/"><u>[New] Boosting Video Reach on YouTube  An In-Depth Guide to SEO Techniques for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-change-twitter-video-box-art-for-2024/"><u>[New] Change Twitter Video Box Art for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-growth-hacks-the-ultimate-list-of-5-youtube-strategies-for-2024/"><u>[New] Channel Growth Hacks – The Ultimate List of 5 YouTube Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-directors-academy-youtube-channels-for-cinematic-innovation-for-2024/"><u>[New] Directors Academy  YouTube Channels for Cinematic Innovation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-examining-how-youtube-curates-its-highlighted-discussion-threads-for-2024/"><u>[New] Examining How YouTube Curates Its Highlighted Discussion Threads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-tech-evolution-vr-now-and-beyond/"><u>[New] Immersive Tech Evolution  VR Now & Beyond</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>[New] In 2024, Drive More Traffic  Effective Strategies for YouTube Outros</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-recordevaluator-critique/"><u>[New] In 2024, RecordEvaluator Critique</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-insiders-method-for-youtube-livestreaming-in-full-circle/"><u>[New] In 2024, The Insider's Method for Youtube Livestreaming in Full Circle</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-inviting-support-without-coercion-listeners-guide/"><u>[New] Inviting Support Without Coercion  Listener's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-software-to-start-your-youtube-videos-off-strongly/"><u>[New] The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diversifying-audience-across-30plus-online-venues/"><u>[Updated] 2024 Approved  Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-journalistic-closing-statement-for-2024/"><u>[Updated] Crafting a Journalistic Closing Statement for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-schedule-for-jobs-and-youtube-for-2024/"><u>[Updated] Crafting the Perfect Schedule for Jobs & YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-join-the-fortune-changing-club-free-50-banners-await/"><u>[Updated] Join The Fortune-Changing Club  Free 50 Banners Await</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[Updated] Maximizing Impact  Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pro-level-insights-transforming-your-instagram-feed-for-2024/"><u>[Updated] Pro-Level Insights  Transforming Your Instagram Feed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revenue-rising-the-essential-guide-for-youtubers/"><u>[Updated] Revenue Rising  The Essential Guide for YouTubers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-feel-motivated-10-epic-movies-with-deep-impact/"><u>2024 Approved  Feel Motivated  10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-wirecast-techniques-for-effective-youtube-streams/"><u>2024 Approved  WireCast Techniques for Effective Youtube Streams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a38-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A38 is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-play-40c-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Play 40C Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-join-the-success-circle-youtubes-2024-cp-guide/"><u>How to Join the Success Circle  YouTube's 2024 CP Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor 90 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>In 2024, Browse and Compare  Leading Affordable, Quality WebM Streamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-hot-40-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Hot 40</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-snap-authenticity-guide-unveiling-selfies-truths/"><u>In 2024, Insta Snap Authenticity Guide  Unveiling Selfies' Truths</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-videography-101-editing-essentials-taught/"><u>In 2024, YouTube Videography 101  Editing Essentials Taught</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/open-source-video-template-ideas-for-youtube-for-2024/"><u>Open Source Video Template Ideas for YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-visual-representation-free-logo-base-for-personal-touches-for-2024/"><u>Tailored Visual Representation  Free Logo Base for Personal Touches for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily-for-2024/"><u>The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-a-profitable-yt-channel-accurate-monetization-verification-for-2024/"><u>The Key to a Profitable YT Channel  Accurate Monetization Verification for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-top-7-adblocker-apps-for-android-users-for-2024/"><u>Unveiling Top 7 AdBlocker Apps for Android Users for 2024</u></a></li>
+</ul></div>

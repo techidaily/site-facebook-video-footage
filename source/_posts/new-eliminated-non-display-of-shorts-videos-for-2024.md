@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Eliminated  Non-Display of Shorts Videos for 2024\""
-date: 2024-06-05T08:06:58.877Z
-updated: 2024-06-06T08:06:58.877Z
+date: 2024-07-31T21:29:11.390Z
+updated: 2024-08-01T21:29:11.390Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 # How to Fix the YouTube Shorts Not Showing Up Issue?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -30,6 +33,10 @@ Here, creators can record, share, and edit short-form video content that's 60 se
 
 However, certain factors are still there, raising the issue or concern of **YouTube Shorts not showing**. Thus, if you can't find the YouTube Shorts option or videos, or YouTube Shorts disappeared, find a solution in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 1: Why Do YouTube Shorts Not Showing Up?
 
 There could be multiple reasons why YouTube Shorts not showing on your phone, the channel's home page etc.
@@ -61,16 +68,25 @@ And, you must note that a YouTube Shorts video consists of two criteria as follo
 * The video has to be vertical (portrait-style)
 * The video must be 60 seconds or less
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Fix YouTube Shorts Not Showing Up?
 
 Here’s the section covering fixes on YouTube Shorts not showing. Please give it a read and resolve your issue happily!
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Update the YouTube App
 
 As we've already discussed above, check if your YouTube mobile app has the latest version. The newest version of the YouTube mobile app (Version: 16.17.36) has a dedicated Shorts button at the bottom. And, it replaces the Trending button from the YouTube app.
 
 Moreover, the option to upload Shorts is now hidden behind the **+** icon. Tap on the **+** icon and hit the **Create a Short** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-1.jpg)
 
 ### Fix 2: Check If Shorts Is Available in Your Country
@@ -145,6 +161,9 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 
       * **Way 1:** Once you open Filmora, the main interface will display the **Auto Reframe** tab on the right-hand panel. Click it to open directly
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/1-auto-reframe-option.jpg)
 
 * **Way 2:** Import media as **File** \> **Import Media Files** and select the file. After you import the media, right-click and choose the **Auto Reframe**.
@@ -153,6 +172,9 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 
 * **Way 3:** Lastly, you can choose the **Tools** option on the top menu bar and hit the **Auto Reframe**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/3-auto-reframe-tools.jpg)
 
 **Step 2\. Adjust the Aspect Ratio and Motion Speed**
@@ -161,6 +183,9 @@ A separate dialog box will display once you have selected the **Auto Reframe** o
 
 There are multiple aspect ratio templates available such as square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). As you are making YouTube Shorts, so you need to select **9:16**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/4-select-reframing-aspect-ratio.jpg)
 
 You can adjust the speed of your video in multiple options: keep it at **Auto** or make it **Slow** or **Fast** as per your requirements.
@@ -173,6 +198,9 @@ Once you finish the above adjustments, hit the **Analysis** tab. Filmora will ta
 
 Then the video will be automatically and quickly reframed to your specified speed and aspect ratio. You can modify these aspect ratios and speed options by hitting the **Restart** option as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/7-restart-reframing.jpg)
 
 **Step 4\. Preview the Reframed Video and Check**
@@ -183,6 +211,9 @@ Lastly, you can preview your final video. If the video needs more work, you can 
 
 Finally, after all the final adjustments, you can hit the **Export** tab, name your file and choose the destination folder.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/9-export-reframed-video.jpg)
 
 ## Part 3: FAQs about YouTube Shorts
@@ -239,3 +270,37 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[New] 2024 Approved  Ace Your Shots  Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-calculating-clickers-contribution-to-youtube-earnings/"><u>[New] 2024 Approved  Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-your-video-quality-issues/"><u>[New] 2024 Approved  Clearing Up Your Video Quality Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-splitscreen-youtube-videos-a-guide-to-creativity/"><u>[New] 2024 Approved  Crafting Splitscreen YouTube Videos  A Guide to Creativity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-android-melody-manual-best-free-youtube-downloader-tools-for-2024/"><u>[New] Android Melody Manual  Best Free YouTube Downloader Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-clear-screen-clear-content-how-to-disable-youtube-channels-efficiently-for-2024/"><u>[New] Clear Screen, Clear Content  How to Disable YouTube Channels Efficiently for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-youtube-end-card-tactics-and-layouts-for-2024/"><u>[New] Cutting Edge Youtube End Card Tactics & Layouts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eye-openers-yearly-infographics-on-yts-surprising-stats-17-for-2024/"><u>[New] Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficient-use-of-snap-in-zoom-webinar/"><u>[New] In 2024, Efficient Use of Snap in Zoom Webinar</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-insightful-rank-watchers-optimizing-your-video-performance/"><u>[New] In 2024, Insightful Rank Watchers  Optimizing Your Video Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] In 2024, The Compre Point  Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-screen-capturing-on-snapchat-a-guide-for-smartphones/"><u>[New] Screen Capturing on Snapchat - A Guide for Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-shoots-with-smart-camera-tech-choices/"><u>[New] Streamlining Shoots with Smart Camera Tech Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visual-anonymous-how-to-make-faces-and-objects-invisible/"><u>[New] Visual Anonymous  How to Make Faces and Objects Invisible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[Updated] 2024 Approved  Explore Elite Gaming Opening Tutorials  Free & Premium Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-confirming-youtube-pro-rated-earnings-for-2024/"><u>[Updated] Confirming YouTube Pro-Rated Earnings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-compelling-hooks-in-every-haul-post-for-2024/"><u>[Updated] Crafting Compelling Hooks in Every Haul Post for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>[Updated] Decoding Unlisted Videos  A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage-for-2024/"><u>[Updated] Digital Dynamics  How to Share Videos Effectively on Facebook's Stage for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-7-unforgettable-marriage-videos-on-vimeo-for-2024/"><u>[Updated] Discover 7 Unforgettable Marriage Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beginners-pathway-start-your-sports-youtube-chain-on-macos/"><u>[Updated] In 2024, Beginner's Pathway  Start Your Sports YouTube Chain on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>[Updated] In 2024, Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-masterful-bordering-techniques-for-stellar-instagram-videos/"><u>[Updated] Masterful Bordering Techniques for Stellar Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-methodically-uncovering-hidden-video-wonders-on-youtube/"><u>[Updated] Methodically Uncovering Hidden Video Wonders on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sky-high-earnings-leveraging-youtube-analytics-and-monetization/"><u>[Updated] Sky High Earnings  Leveraging YouTube Analytics & Monetization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers-for-2024/"><u>[Updated] Top Picks  Hilarity-Driven Ringtones for Laughter Lovers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-strategies-for-avoiding-vr-nausea/"><u>5 Strategies for Avoiding VR Nausea</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cracking-the-code-printer-error-x97/"><u>Cracking the Code: Printer Error X97</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y36i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y36i</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-masterful-adjustments-the-editors-guide-to-gopro-video-magic/"><u>In 2024, Masterful Adjustments  The Editor's Guide to GoPro Video Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamlessly-convert-youtube-videos-to-mp3-on-mac-for-2024/"><u>Seamlessly Convert YouTube Videos to MP3 on Mac for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximize Viewership with Innovative YouTube Thumbnail Ideas"
-date: 2024-06-05T11:03:45.875Z
-updated: 2024-06-06T11:03:45.875Z
+date: 2024-08-01T02:31:25.045Z
+updated: 2024-08-02T02:31:25.045Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 # How To Make Good YouTube Banner - Dos and Don’ts
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,8 +40,14 @@ Here are the Dos and Don’ts of YouTube Channel Art.
 * **[What Should I Write on Banner?](#write)**
 * **[How Can I Make My Channel Art Look Good?](#good)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Kind of Background Should I Use?
 
 #### _DO: High-Quality Photos_
@@ -51,6 +60,9 @@ When choosing great photos for your background, pick ones that are high quality 
 
 Using patterns for the background of your channel banner can help your channel look super creative and stand out from others. However, if you use a pattern that is chaotic and hard on the eyes, you may not attract many subscribers. When using patterns, choose patterns that are not heavy in color and have too many lines or shapes. There should be an evenness to the shapes and negative space within the pattern itself. Try to stay away from patterns that are 3D which can conflict with the viewer’s eyesight and make them dizzy.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![ YouTube Channel Banner Background](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-background.jpg)
 
 ## Part 2: Should I Use My Face?
@@ -125,10 +137,16 @@ _Joshelle is a YouTuber from Atlanta, GA. She has a YouTube channel called [Elle
 
 Now that you know how to make a good YouTube banner, what will you do next?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Touch Up YouTube Videos with Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)features lots of utilities for both video and audio editing. You can change the video speed or change the aspect ratio easily. Besides, there are plentiful filters, elements, effects and overlays built, so you can use them without costing any extra fee.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -147,3 +165,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cheap-microphones-for-youtubers-on-a-budget/"><u>[New] 2024 Approved  Cheap Microphones for Youtubers on a Budget</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-command-the-youtube-stage-mastering-visibility-through-tactics/"><u>[New] 2024 Approved  Command the YouTube Stage  Mastering Visibility Through Tactics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-prodigious-palette-top-10-free-sketch-apps-for-mac-users/"><u>[New] 2024 Approved  Prodigious Palette  Top 10 Free Sketch Apps for Mac Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>[New] Dominate Search Results  Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[New] In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-apex-creators-video-giants-in-the-making/"><u>[New] In 2024, Apex Creators  Video Giants in the Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-customize-your-youtube-experience-with-altered-pace/"><u>[New] In 2024, Customize Your YouTube Experience with Altered Pace</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>[New] In 2024, Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-user-experience-strategic-placement-of-alerts-on-youtube-content/"><u>[New] In 2024, Enhancing User Experience  Strategic Placement of Alerts on YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-insights-into-youtube-live-image-crafting/"><u>[New] In 2024, Essential Insights Into YouTube Live Image Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-investigating-why-specific-youtube-remarks-get-prominence/"><u>[New] Investigating Why Specific YouTube Remarks Get Prominence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-netflix-and-youtubers-how-jake-paul-succeeded/"><u>[New] Navigating Netflix & YouTubers  How Jake Paul Succeeded</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-profits-a-comprehensive-manual/"><u>[New] Unlocking YouTube Profits   A Comprehensive Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-content-creators-optimal-stabilizer-companies/"><u>[New] YouTube Content Creators  Optimal Stabilizer Companies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[Updated] 2024 Approved  Audio Outliers  Best Sound Distortion Apps for Your Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] 2024 Approved  Become a Freelance Transcriber  Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-buzzing-tracks-ultimate-backdrops-for-youtube-shorts/"><u>[Updated] 2024 Approved  Buzzing Tracks  Ultimate Backdrops for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-custom-mcb-banner-packs/"><u>[Updated] 2024 Approved  Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-vlogging-effective-use-of-jump-cuts/"><u>[Updated] 2024 Approved  Elevate Vlogging  Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-with-effective-video-seo/"><u>[Updated] 2024 Approved  Elevate Your Content with Effective Video SEO</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-concealed-video-streaming-background-youtube-watch-for-2024/"><u>[Updated] Concealed Video Streaming  Background YouTube Watch for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficient-techniques-ios-screenshots-and-youtube-content-creation-for-2024/"><u>[Updated] Efficient Techniques  IOS Screenshots and YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-user-experience-combining-instagram-and-facebook/"><u>[Updated] Enhancing User Experience  Combining Instagram & Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-filmoras-quick-start-approach-for-youtube-trailers/"><u>[Updated] Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[Updated] From Struggling Youtuber to Industry Leader  The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-youtube-videos/"><u>[Updated] How to Remove Black Bars From YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-impressive-3d-beginnings-on-youtube/"><u>[Updated] In 2024, Creating Impressive 3D Beginnings on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curating-creator-rewards-on-video-platforms/"><u>[Updated] In 2024, Curating Creator Rewards on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-studio-lights-for-online-filmmakers/"><u>[Updated] In 2024, Cutting-Edge Studio Lights for Online Filmmakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-strategies-for-successful-mukbang-production/"><u>[Updated] In 2024, Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-feed-flourish-elevating-engagement-from-ordinary-posts/"><u>[Updated] In 2024, Feed Flourish  Elevating Engagement From Ordinary Posts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-playlist-creation-on-youtube-easily/"><u>[Updated] Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>2024 Approved  Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-iphones-ringtone-personalization/"><u>2024 Approved  Mastering iPhone's Ringtone Personalization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-images-without-spending-a-dime-quick-tips-here/"><u>2024 Approved  YouTube Images Without Spending a Dime – Quick Tips Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-6-modern-homes-for-minecraft-enthusiasts/"><u>Best 6 Modern Homes for Minecraft Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-zte-blade-a73-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to ZTE Blade A73 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expediting-windows-file-reviews-with-ease/"><u>Expediting Windows File Reviews with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-n53-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo N53 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a15-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A15 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lightning-loop-top-10-agile-games-on-mobilepc-for-2024/"><u>Lightning Loop  Top 10 Agile Games on Mobile/PC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-tricks-in-sports-video-production-for-2024/"><u>Top Tricks in Sports Video Production for 2024</u></a></li>
+</ul></div>

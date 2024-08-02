@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Budget-Friendly Methods for YouTube Card Creation\""
-date: 2024-06-05T11:17:08.914Z
-updated: 2024-06-06T11:17:08.914Z
+date: 2024-08-01T02:54:20.562Z
+updated: 2024-08-02T02:54:20.562Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -66,6 +72,9 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -77,6 +86,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -110,6 +122,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -126,3 +141,59 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[New] 2024 Approved  360 Video Editors  How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[New] 2024 Approved  Broadcast Perfection  Recommended Tech and Apps for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-8-tools-linux-based-edits-software/"><u>[New] 2024 Approved  Essential 8 Tools  Linux-Based Edits Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>[New] A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-authentic-audience-growth-tricks-for-sustainable-views-for-2024/"><u>[New] Authentic Audience Growth  Tricks for Sustainable Views for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance-for-2024/"><u>[New] Beam It Up  A Step-By-Step Approach to YouTube Video Luminance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-name-inspiration-strategies-for-success-for-2024/"><u>[New] Channel Name Inspiration  Strategies for Success for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-discreet-downloaders-ranked-2023s-best-8-selections-for-2024/"><u>[New] Discreet Downloaders Ranked  2023'S Best 8 Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-editing-software-rankings-for-2024/"><u>[New] Essential Free Editing Software Rankings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-experts-choice-extracting-youtube-video-intros-online-for-2024/"><u>[New] Expert's Choice  Extracting Youtube Video Intros Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[New] In 2024, Converting YouTube to GIF  A Comprehensive Online Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-cinema-youtubes-compreranche-guide-for-filmmakers/"><u>[New] In 2024, Crafting Cinema  YouTube's Compreranche Guide for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-editing-magic-transformative-strategies-for-youtube-creators/"><u>[New] In 2024, Editing Magic  Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[New] Masterclass in Making Engaging Video Lessons  Your Step-by-Step Guide for YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-facebook-sharing-twitter-video-integration-for-2024/"><u>[New] Navigating Facebook Sharing  Twitter Video Integration for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>[New] Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>[New] Taking Off in Tutorials  The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unpacking-online-influence-your-channel-versus-competitors-strategies/"><u>[New] Unpacking Online Influence  Your Channel Versus Competitors' Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-warriors-of-cyberspace-top-ten-female-youtubers/"><u>[New] Warriors of Cyberspace  Top Ten Female YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[Updated] 2024 Approved  Achieving Top Quality on YouTube  Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-processes-for-uploading-videos-from-ios-gadgets/"><u>[Updated] 2024 Approved  Efficient Processes for Uploading Videos From iOS Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-childhood-cruisers-crafted-games-for-2024/"><u>[Updated] Childhood Cruisers, Crafted Games for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-audience-reach-through-collaborative-youtube-videos-for-2024/"><u>[Updated] Elevate Audience Reach Through Collaborative YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-youtubes-workflow-after-content-submission-for-2024/"><u>[Updated] Examining YouTube's Workflow After Content Submission for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-8-mistakes-people-should-avoid-as-a-new-youtuber/"><u>[Updated] In 2024, 8 Mistakes People Should Avoid as a New YouTuber</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-8-linux-programs-for-media-makers/"><u>[Updated] In 2024, Best 8 Linux Programs for Media Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-vocalvoyage-listening-and-recording-expedition/"><u>[Updated] VocalVoyage  Listening & Recording Expedition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-bold-transitions-a-beginners-guide-to-fades/"><u>2024 Approved  Bold Transitions  A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-compelling-iphone-shadow-images/"><u>2024 Approved  Crafting Compelling iPhone Shadow Images</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-note-30-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Note 30 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 activation lock without previous owner</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/decoding-vimeo-where-creative-videos-meet/"><u>Decoding Vimeo  Where Creative Videos Meet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-stroboscopic-effects-from-acer-pcs/"><u>Eliminating Stroboscopic Effects From Acer PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-essentials-removing-unwanted-backdrops-with-canva-for-2024/"><u>Expertise Essentials  Removing Unwanted Backdrops with Canva for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Note 30 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-11-proplus-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 11 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>In 2024, Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>In 2024, YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/invisible-viewers-of-fb-episodes/"><u>Invisible Viewers of Fb Episodes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-maintain-visual-integrity-after-conversion/"><u>Methods to Maintain Visual Integrity After Conversion</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-best-meme-makers-online-free-to-use/"><u>New 10 Best Meme Makers Online (Free to Use)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-the-lost-top-tips-to-regain-missing-windows-in-11/"><u>Resurrecting the Lost: Top Tips to Regain Missing Windows in 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/setting-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>Setting Up Your YouTube Standings  From Beginner to Beneficial Businesses for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/students-gateway-to-history-the-top-10-youtube-archives-for-2024/"><u>Students' Gateway to History  The Top 10 Youtube Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-beginners-blueprint-to-free-youtube-audio-to-text-for-2024/"><u>The Beginner's Blueprint to Free YouTube Audio to Text for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-list-of-immersive-game-worlds/"><u>The Ultimate List of Immersive Game Worlds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-s23plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy S23+ Location | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-beginners-guide-to-convenient-game-edit-software/"><u>Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-google-pixel-8-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Google Pixel 8? Here is How | Dr.fone</u></a></li>
+</ul></div>

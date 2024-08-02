@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Finding Storylines with Google Trends Analysis Techniques"
-date: 2024-06-05T09:41:47.478Z
-updated: 2024-06-06T09:41:47.478Z
+date: 2024-08-01T00:11:01.613Z
+updated: 2024-08-02T00:11:01.613Z
 tags:
   - ai video
   - ai youtube
@@ -54,6 +54,9 @@ Then click from 'Daily Search Trends' to 'Realtime Search Trends'.
 
 On top you will see two drop-down menus, one is for the category and one is for location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
 
 Under **All categories** select the general theme your channel falls under.
@@ -84,10 +87,17 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
@@ -98,6 +108,9 @@ There, now I can see how the popularity of Filmora as a search term has spiked o
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
@@ -118,12 +131,22 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -140,3 +163,45 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-advanced-techniques-in-youtube-video-editing/"><u>[New] 2024 Approved  Cutting Edge  Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-insights-average-adsense-earning-for-every-1000-youtube-views/"><u>[New] 2024 Approved  Earning Insights  Average AdSense Earning for Every 1,000 YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-way-to-personalize-your-youtube-channel-url/"><u>[New] 2024 Approved  Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[New] 2024 Approved  Elevate Your Content  PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-video-playback-with-av1-on-youtube/"><u>[New] 2024 Approved  Enhance Video Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audiovisual-excellence-the-premier-video-formats-for-youtube-for-2024/"><u>[New] Audiovisual Excellence  The Premier Video Formats for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[New] In 2024, 8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-webcams-unveiled-a-youtube-livestreamers-handbook/"><u>[New] In 2024, Best Webcams Unveiled  A YouTube Livestreamer's Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-strong-visual-narrative-in-youtube-videos/"><u>[New] In 2024, Building a Strong Visual Narrative in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exceptional-7-dslr-devices-for-expert-video-content-creators/"><u>[New] In 2024, Exceptional 7 DSLR Devices For Expert Video Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals  Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[Updated] 2024 Approved  Achieving Profitability on YouTube  Average View Count for Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-methods-for-saving-videos-on-youtube/"><u>[Updated] 2024 Approved  Quick Methods for Saving Videos on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>[Updated] 2024 Approved  Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-visual-stories-in-depth-pc-editing-techniques-for-youtube-for-2024/"><u>[Updated] Crafting Visual Stories  In-Depth PC Editing Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-editors-compendium-top-devices-transforming-media-projects/"><u>[Updated] In 2024, Editor's Compendium  Top Devices Transforming Media Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-asmr-creators-to-follow/"><u>[Updated] In 2024, Essential ASMR Creators to Follow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastery-of-youtube-policy-for-successful-channels/"><u>[Updated] Mastery of YouTube Policy for Successful Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtubes-digital-canvas-studio-essentials/"><u>[Updated] Navigating YouTube's Digital Canvas  Studio Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimized-tag-management-the-best-7-free-online-extractor-tools-for-youtube/"><u>[Updated] Optimized Tag Management  The Best 7 Free Online Extractor Tools for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pause-autoplay-on-youtube-suggested-videos/"><u>[Updated] Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scripted-sentiments-for-show-summation/"><u>[Updated] Scripted Sentiments for Show Summation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-setting-up-a-sports-channel-from-scratch-mac-style/"><u>[Updated] Setting up a Sports Channel From Scratch, Mac-Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-overcoming-black-screen-errors-during-youtube-viewing/"><u>[Updated] Strategies for Overcoming Black Screen Errors During YouTube Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swift-sketches-of-fortnite-game-screenshots/"><u>[Updated] Swift Sketches of Fortnite Game Screenshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tinyvid-masterpiece/"><u>[Updated] TinyVid Masterpiece</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/evaluating-hdr-tvs-does-aurora-hit-the-mark-for-2024/"><u>Evaluating HDR TVs  Does Aurora Hit the Mark for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-shows-error-message-epson/"><u>Fixed: Printer Shows Error Message [Epson]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-beginners-top-8-point-and-shoot-and-35mm-cameras-for-2024/"><u>For Beginners  Top 8 Point-and-Shoot and 35Mm Cameras for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-xcover-7mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy XCover 7Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-edition-expert-advice-on-creating-compelling-video-edits/"><u>In 2024, Youtube Edition  Expert Advice on Creating Compelling Video Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/investigating-and-fixing-create-failed-on-windows-error-30005/"><u>Investigating and Fixing Create Failed on Windows Error 30005</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide/"><u>New 2024 Approved Adobe Premiere Pro CS6 for macOS Free Download and Install Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-data-recovery-recover-lost-data-from-oneplus-by-fonelab-android-recover-data/"><u>OnePlus Data Recovery – recover lost data from OnePlus</u></a></li>
+</ul></div>

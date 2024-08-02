@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Earnings Demystified  YouTube Shorts Revenue Split Explained for 2024\""
-date: 2024-06-05T10:42:14.288Z
-updated: 2024-06-06T10:42:14.288Z
+date: 2024-08-01T01:54:31.465Z
+updated: 2024-08-02T01:54:31.465Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,9 @@ YouTube Shorts have become a craze in the recent past as creators try to get the
 
 YouTube launched the Shorts platform in 2021, which gained popularity within a short period. By the end of the first year, some videos had racked up more than half a billion views and counties. This begged the question: can you get paid from YouTube shorts?
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube shorts](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-1.JPG)
 
 Yes, YouTube updated its Partner Program, allowing the revenue-sharing model to benefit Shorts creators. The platform pools all the money it gets from advertisers every month from the Shorts feeds. It then shares that money with creators based on the number of views. Since the launch of this program in February 2023, the previous YouTube Shorts Fund became defunct.
@@ -41,6 +44,9 @@ The ad revenue-sharing model on YouTube Shorts may seem complex, but let’s bre
 
 So, is YouTube shorts monetized? Yes, the ads-sharing model defines the amount of money a creator can earn from Shorts every month. Depending on the number of views generated, high-performing Shorts can bring in a huge amount of money.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Part 2\. YouTube Shorts Monetization: Eligibility Criteria and Earnings Potential**
 
 YouTube Shorts provides creators with an exceptional way of making extra income. Let’s have a look at what it takes and what the numbers say:
@@ -74,14 +80,25 @@ YouTube Shorts have the potential to make a huge amount of money for creators. I
 * [Matthew King](https://www.youtube.com/@mattykayy/) (212,000 subscribers) – Earned $163.73 from 4.2 million Shorts views
 * [Hassan Khadair](https://www.youtube.com/@HassanKhadair) (2.1 million subscribers) – Earned $872.14 from 22 million Shorts views
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## **Part 3\. How to Start Earning from YouTube Shorts**
 
 Eligible creators start earning from YouTube Shorts when they opt-in to the program. You need to make sure you are eligible and agree to start receiving revenue from your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Are You Eligible for YouTube Shorts Earnings?**
 
 Shorts creators growing their channel and are yet to meet the minimum requirements can track their eligibility status by selecting “Notify me when I’m eligible” in YouTube Studio’s Earn section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![youtube shorts monetization eligibility](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-3.JPG)
 
 When you become eligible, follow these steps to apply for the YPP program:
@@ -95,6 +112,9 @@ When you become eligible, follow these steps to apply for the YPP program:
 
 Once you have completed these steps, your YouTube Channel will be reviewed. You can expect to hear a decision within a month of enrolling you in the program.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **How to opt in for YouTube Shorts Monetization**
 
 After being approved and enrolled in the YPP program, you need to opt in to monetize your channel. Remember that you will not be automatically signed up for the ad revenue-sharing model. Here are a few more steps you need to take:
@@ -106,6 +126,10 @@ After being approved and enrolled in the YPP program, you need to opt in to mone
 
 Once your Shorts are monetized, track the progress and amount of money earned through YouTube Analytics.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### **Other Ways to Monetize YouTube Shorts**
 
 The YPP program is the only ad-based monetization option for YouTube Shorts. However, there are other ways of earning:
@@ -134,6 +158,9 @@ The Auto Reframe feature allows creators to resize videos automatically with no 
 
 After opening Filmora, head over to the main interface. You will find the Auto Reframe option on the right side. Click on it to open the reframing feature.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![auto reframe 1](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-4.JPG)
 
 #### **2\. Launch Directly from the Video**
@@ -146,6 +173,9 @@ Click File, followed by Import Media. Select the file that you gave imported in 
 
 You may also use the Auto Reframe feature by clicking on the Tools feature on the top menu bar. Then click on Auto Reframe.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![auto reframe 3](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-6.JPG)
 
 ### **Other Filmora Features for Editing Shorts**
@@ -160,6 +190,9 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 
@@ -170,3 +203,41 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-free-youtube-intro-makers-to-create-awesome-intros/"><u>[New] 2024 Approved  Best Free YouTube Intro Makers to Create Awesome Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-million-views-empire-safe-and-secure-methods/"><u>[New] 2024 Approved  Building a Million Views Empire  Safe and Secure Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-digital-humor-designer-tool/"><u>[New] 2024 Approved  Digital Humor Designer Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-top-platforms-for-youtube-brand-partnerships/"><u>[New] 2024 Approved  Discover  Top Platforms for YouTube Brand Partnerships</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maintaining-memories-on-androidmac-through-snaps/"><u>[New] 2024 Approved  Maintaining Memories on Android/Mac Through Snaps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-innovative-yt-tales-share-your-life-journey-for-2024/"><u>[New] 5 Innovative YT Tales  Share Your Life Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-9-premier-apps-for-extracting-and-saving-youtube-videos-on-android-for-2024/"><u>[New] 9 Premier Apps for Extracting and Saving YouTube Videos on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues-for-2024/"><u>[New] A Closer Look at Earnings  Comparing Dailymotion and YouTube Revenues for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-audio-quality-in-social-media-recordings-for-2024/"><u>[New] Boosting Audio Quality in Social Media Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-champion-top-titles-best-free-video-caption-grabs-for-2024/"><u>[New] Champion Top Titles  Best Free Video Caption Grabs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-visualization-selecting-the-ideal-size-and-placement-for-yt-for-2024/"><u>[New] Channel Visualization  Selecting the Ideal Size and Placement for YT for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[New] In 2024, A Quick Dive Into Video Ratios  The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dynamic-arrangement-of-your-youtube-selections/"><u>[New] In 2024, Dynamic Arrangement of Your YouTube Selections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app-for-2024/"><u>[New] The Essentials of WebCam Capture with Free2X App for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-free-designs-download-banners-for-youtube-creators/"><u>[New] Unlock Free Designs  Download Banners for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>[New] What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[Updated] 2024 Approved  Embark on a Wanderlust Adventure  Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-complete-guide-to-registering-with-youtube-for-2024/"><u>[Updated] A Complete Guide to Registering with YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-the-course-of-knowledge-best-history-yt-channels-for-students-for-2024/"><u>[Updated] Charting the Course of Knowledge  Best History YT Channels for Students for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-delving-into-youtubes-functionality-after-upload-for-2024/"><u>[Updated] Delving Into YouTube's Functionality After Upload for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-5-leading-3d-video-entrance-design-tools/"><u>[Updated] In 2024, 5 Leading 3D Video Entrance Design Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] In 2024, Bite-Sized URLs  Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-30-new-dimensions-in-metaverse-memes/"><u>[Updated] Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-palette-adjuster/"><u>2024 Approved  Apex Palette Adjuster</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-enhancements-for-pixels-and-playlists/"><u>Auditory Enhancements for Pixels and Playlists</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G Stylus 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g84-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G84 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/majestic-celestial-images-at-your-command-for-2024/"><u>Majestic Celestial Images at Your Command for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xperia 5 V, is it possible?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-steps-towards-uncovering-youtubes-secret-videos-for-2024/"><u>Strategic Steps Towards Uncovering YouTube's Secret Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-youtube-broadcasts-of-google-meet-for-2024/"><u>Streaming Success  YouTube Broadcasts of Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-beats-pure-dj-visuals-available-online-for-2024/"><u>The Art of Beats  Pure DJ Visuals Available Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-comprequad-video-captioning-techniques-for-youtube-for-2024/"><u>The Comprequad Video Captioning Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-8-youtube-to-avi-convertors-explained-for-2024/"><u>Top 8 YouTube-to-AVI Convertors Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-youtube-venture-from-free-to-earnings-at-the-500-mark-for-2024/"><u>Transform Your YouTube Venture  From Free to Earnings at the 500 Mark for 2024</u></a></li>
+</ul></div>

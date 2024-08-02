@@ -1,7 +1,7 @@
 ---
 title: "The Science and Art Behind Powerful YouTube Thumbnails for 2024"
-date: 2024-06-05T10:01:50.643Z
-updated: 2024-06-06T10:01:50.643Z
+date: 2024-08-01T00:45:27.486Z
+updated: 2024-08-02T00:45:27.486Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 
 # The Ultimate Guide to YouTube Thumbnails that Get Views
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -44,6 +47,9 @@ Here are some examples of popular thumbnail styles.
 
  ![Popular YouTube Thumbnail Layout](https://images.wondershare.com/filmora/article-images/popular-youtube-thumbnail-layout.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. The Classic Thumbnail (Photo or Screenshot)
 
 A photo that shows what happens in your video – whether that means the finished ‘look’ from your makeup tutorial or you posing in front of the landmark you shot your travel vlog in front of – is a great way to let viewers know what to expect. While curiosity can be a big motive behind clicking on a video thumbnail (or anything online), when people have searched for a specific topic they want to be convinced that your video has what they’re looking for.
@@ -70,12 +76,18 @@ You should also avoid fonts that are harder to read. Fonts with a lot of curves 
 
 Another tactic used in successful thumbnails is to add small graphics, like emojis or small images (i.e. pumpkins for a Halloween video), which are related to your video’s content. As with text, you don’t want to overload your thumbnail with images, but they’re a great way to add something eye-catching that’s a bit different from competing thumbnails.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 2\. The Emotional Laser (Background + Face Reacting)
 
 One increasingly popular style of YouTube thumbnail is what we’re going to call the ‘Emotional Laser’. It’s bright (like, blindingly bright), it communicates a clear feeling, and it creates high expectations for how exciting the video’s content is going to be.
 
 The three main elements of the Emotional Laser thumbnail are a background (usually bright), your face on the right wearing an over-pronounced expression, and either the thing your expression is in reaction to (i.e. food, a product, the topic of your video in text) or reinforcement of your emotion (i.e an emoji or question marks) on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### #1. Ham It Up (Take Your Reaction Photo)
@@ -100,6 +112,11 @@ In your thumbnail maker or a program like Photoshop, you’ll need to put your p
 
 If instead of an object you plan to fill the other side of your thumbnail with text, question marks, emojis, or some other graphic element then now is the time to add it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Upload a YouTube Thumbnail
 
 When you upload a new video to YouTube, you will see a **Custom thumbnail** option under **Video thumbnails** after your upload is complete.
@@ -181,6 +198,9 @@ Alright, now that you know everything about YouTube thumbnails, go make one! Tel
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface. Download the free trial version and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -199,3 +219,43 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-auto-play-youtube-iphoneandroid-no-notification-for-2024/"><u>[New] Auto-Play YouTube  IPhone/Android, No Notification for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-your-projects-with-free-green-screens-from-these-online-hubs-for-2024/"><u>[New] Enhance Your Projects with Free Green Screens From These Online Hubs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-discoverability-with-effective-titles-and-tags-for-2024/"><u>[New] Enhancing Video Discoverability with Effective Titles & Tags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-discoverability-with-smart-thumbnails-for-2024/"><u>[New] Enhancing Video Discoverability with Smart Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-your-youtubes-interaction-with-emojis/"><u>[New] In 2024, Amplify Your Youtubes' Interaction with Emojis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[New] In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[New] In 2024, Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-list-of-free-rippers-for-video-conversion/"><u>[New] In 2024, Essential List of Free Rippers For Video Conversion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] In 2024, Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-into-the-archive-old-stories-on-facebook-for-2024/"><u>[New] Step Into the Archive  Old Stories on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-complete-process-for-customizing-video-game-channels-for-2024/"><u>[New] The Complete Process for Customizing Video Game Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-screen-recording-devices-for-enterprise-use/"><u>[New] Top 10 Screen Recording Devices for Enterprise Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-sounds-for-video-creators-royalty-free-options/"><u>[New] Top Sounds for Video Creators  Royalty-Free Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-20plus-hashes-to-skyrocket-your-short-films-popularity-for-2024/"><u>[Updated] 20+ Hashes to Skyrocket Your Short Film's Popularity for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation/"><u>[Updated] 2024 Approved  A Comprehensible Breakdown for YouTube Annotation and Card Implementation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-delights-in-motion-personalized-animation-artistry/"><u>[Updated] 2024 Approved  DIY Delights in Motion  Personalized Animation Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-alternatives-spotlighted-by-az-screen-recorder/"><u>[Updated] Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-views-from-zeros-the-top-10-reasons-and-fixes-for-2024/"><u>[Updated] Boosting Views From Zeros  The Top 10 Reasons & Fixes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-how-to-spot-your-video-enthusiasts-for-2024/"><u>[Updated] Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-convenient-compilation-finding-your-yt-comments/"><u>[Updated] In 2024, A Convenient Compilation  Finding Your YT Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-12-youtube-game-openers-a-comparative-guide-no-expense/"><u>[Updated] In 2024, Best 12 YouTube Game Openers  A Comparative Guide (No Expense)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly/"><u>[Updated] In 2024, Best 5 YouTube Tag Generators & Tips to Tag Videos Properly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-editors-dream-machine-top-portable-video-edits-tools/"><u>[Updated] In 2024, Editor's Dream Machine  Top Portable Video Edits Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[Updated] In 2024, Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-playlist-turnaround-a-simple-4-step-plan/"><u>[Updated] YouTube Playlist Turnaround  A Simple 4-Step Plan</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience/"><u>2024 Approved  Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimizing-story-video-playback-rate-on-instagram-app/"><u>2024 Approved  Optimizing Story Video Playback Rate on Instagram App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-lut-utilization/"><u>A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-sns-hdrs-capabilities-with-competitor-software/"><u>Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-sony-xperia-10-v-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Sony Xperia 10 V 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/hd-video-editing-made-easy-top-5-software-recommendations/"><u>HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y78-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y78 5G Easily?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-g54-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-free-memes-for-everyday-chuckles/"><u>In 2024, Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-youtube-conclusion-handbook-creators-choice-for-2024/"><u>The Ultimate YouTube Conclusion Handbook [Creators' Choice] for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-eight-video-grabber-software/"><u>Top Eight Video Grabber Software</u></a></li>
+</ul></div>

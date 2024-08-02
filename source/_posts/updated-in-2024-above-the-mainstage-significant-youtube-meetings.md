@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Above the Mainstage  Significant YouTube Meetings\""
-date: 2024-06-05T07:54:46.196Z
-updated: 2024-06-06T07:54:46.196Z
+date: 2024-07-31T21:08:27.576Z
+updated: 2024-08-01T21:08:27.576Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,6 +39,9 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
@@ -78,6 +84,9 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -112,6 +121,9 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -186,6 +198,9 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -210,6 +225,9 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -226,3 +244,51 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[New] 2024 Approved  Creating Simple Videos  Top 10 YouTube Projects Anyone Can Do</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-emoji-mastery-for-engaging-youtube-discussions/"><u>[New] 2024 Approved  Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-brief-snippet-analysis-for-beginners-for-2024/"><u>[New] Brief Snippet Analysis for Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-content-creators-dilemma-which-site-reigns-vimeo-youtube-for-2024/"><u>[New] Content Creators' Dilemma  Which Site Reigns - Vimeo, YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-converting-your-favourite-tracks-bridging-spotify-with-youtube-music-for-2024/"><u>[New] Converting Your Favourite Tracks  Bridging Spotify with YouTube Music for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerate-youtube-visibility-select-top-8-rank-watchers/"><u>[New] In 2024, Accelerate YouTube Visibility - Select Top 8 Rank Watchers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>[New] In 2024, Elevating Views, Amplifying Impact  A Youtube Case Study</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revealing-veiled-youtube-reviewers-opinions/"><u>[New] Revealing Veiled YouTube Reviewers' Opinions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[New] The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-novices-guide-to-building-a-youtube-studio-setup/"><u>[New] The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] 2024 Approved  Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[Updated] 2024 Approved  Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-the-10-most-influential-makeup-personalities-online/"><u>[Updated] 2024 Approved  Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-zoom-makeover-effortless-background-softening/"><u>[Updated] 2024 Approved  Zoom Makeover  Effortless Background Softening</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comparing-youtube-and-dailymotion-notable-contrasts-for-2024/"><u>[Updated] Comparing YouTube and Dailymotion  Notable Contrasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-core-tenets-of-narrative-construction/"><u>[Updated] Core Tenets of Narrative Construction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-content-with-google-trends-analytics-for-2024/"><u>[Updated] Crafting Engaging Content with Google Trends Analytics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-expert-audio-adjustments-for-youtube-content-makers/"><u>[Updated] Expert Audio Adjustments for YouTube Content Makers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-full-screen-fixes-for-online-streams/"><u>[Updated] Full-Screen Fixes for Online Streams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-hurry-up-get-professional-valorant-thumbnail-skills-now/"><u>[Updated] Hurry Up, Get Professional Valorant Thumbnail Skills Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>[Updated] In 2024, Audiovisual Power  Evaluating Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curated-list-dj-video-sources-at-your-fingertips/"><u>[Updated] In 2024, Curated List  DJ Video Sources at Your Fingertips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ease-into-content-creation-crafting-the-top-10-accessible-youtube-videos/"><u>[Updated] In 2024, Ease Into Content Creation  Crafting the Top 10 Accessible YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmony-in-frames-selecting-music-for-social-media-videos/"><u>[Updated] In 2024, Harmony in Frames  Selecting Music for Social Media Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-laugh-lines-best-comedy-video-concepts-for-the-social-media-sphere/"><u>[Updated] Laugh Lines  Best Comedy Video Concepts for the Social Media Sphere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-click-through-rates-with-youtube-images/"><u>[Updated] Maximizing Click-Through Rates with Youtube Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-complexity-of-youtube-thumbnail-psychology/"><u>[Updated] Navigating the Complexity of YouTube Thumbnail Psychology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tapping-into-trending-topics-for-videography-ideas-via-google/"><u>[Updated] Tapping Into Trending Topics for Videography Ideas via Google</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-visual-impact-incorporate-apple-music/"><u>2024 Approved  Boosting Visual Impact  Incorporate Apple Music</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-top-12-real-time-youtube-subscriber-trackers/"><u>2024 Approved  Top 12 Real-Time YouTube Subscriber Trackers</u></a></li>
+<li><a href="https://win11.techidaily.com/beware-ais-role-in-win-11-key-generation-missteps/"><u>Beware: AI's Role in Win 11 Key Generation Missteps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-10-terraria-customizations-for-2024/"><u>Essential 10 Terraria Customizations for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-blaze-curve-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Blaze Curve 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-spark-10-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a23-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A23 5G Through Google Earth?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a25-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A25 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed/"><u>In 2024, The Ultimate VR Journey  Best PC 360 Video Streamers Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-gif-a-simple-no-download-guide-for-video-creators/"><u>In 2024, YouTube-to-GIF  A Simple, No-Download Guide for Video Creators</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-essential-stellar-file-eraser-pro-automated-cleanup-and-deletion-plans/"><u>Mac Essential: Stellar File Eraser Pro - Automated Cleanup & Deletion Plans</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 14 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-breakdown-of-payment-percentages-in-short-video-royalties-for-2024/"><u>The Breakdown of Payment Percentages in Short Video Royalties for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-s17-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo S17 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Pro Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enhancing Viewability  Creating Custom YouTube Thumbnails for 2024\""
-date: 2024-06-05T09:14:44.922Z
-updated: 2024-06-06T09:14:44.922Z
+date: 2024-07-31T23:24:39.966Z
+updated: 2024-08-01T23:24:39.966Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
 # How To Add Custom Thumbnails to Your YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,10 +38,16 @@ YouTube custom thumbnails are a great way to get people's attention to your YouT
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## How To Add Custom Thumbnails to Your YouTube Videos \[Steps, Tools and Tips\]
 
 We have just made a video tutorial about how to make a YouTube video thumbnail, check it below to find out the tips and tricks of making customized YouTube thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Part 1: How to Make a Thumbnail for YouTube and Add Custom Thumbnails to YouTube
@@ -49,6 +58,9 @@ In Thumbnail Editor, you can use the still images in the video as a thumbnail, c
 
 1\. **Preview the video and choose the target video still.** You can click the Playback button and check the video and pause it at the desired frame. Or, you can step through each frame by clicking the Preview Frame button and Next Frame icon. Click Next to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube Thumbnail](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-video-still.jpg)
 
 2\. And now, you can **add text, image and shape overlays to the thumbnail.** You can change the text font, size, opacity and more.
@@ -87,15 +99,26 @@ In this part, we’ll be going over how to change a thumbnail image on YouTube. 
 
 * After signing into YouTube with your Google account, click on your profile on the top right corner. Click on **YouTube Studio** from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![ YouTube Studio button](https://images.wondershare.com/filmora/article-images/change-youtube-thumbnail-find-youtube-studio.jpg)
 
 * On the left side of the page, click on **Videos** and then find your video and click on the **details** button.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change YouTube Video Info](https://images.wondershare.com/filmora/article-images/change-youtube-thumbnail-from-video-details.jpg)
 
 * Find the Thumbnail section in the basic video details tab, and then click the **Upload thumbnail** to select the image that you want to upload.
 * Finally, click on the **Save** button on the right upper corner. And just like that, in seven easy steps, we’re done changing the thumbnail of a YouTube video.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change YouTube Video Thumbnail](https://images.wondershare.com/filmora/article-images/change-thumbnail-on-youtube.jpg)
 
 If you don't have an image to upload but you want to check out some online resources to make your own, check out our [Top YouTube Thumbnail Makers](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -127,6 +150,9 @@ Your thumbnail should tell a story; it should be clear from looking at it what v
 
 Very few people intentionally use thumbnails that have nothing to do with the content of their videos – i.e, most people understand not to use a picture of a kitten in the thumbnail for their tech review, unless maybe their kitten is the one doing the review (which would be adorable, someone should do that). People who want serious advice won’t click, and people who click to see a kitten will click away fast.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail Should be relevant](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-should-stay-on-topic.jpg)
 
 _This thumbnail had better be for a kitten’s iPhone review video or people will click away. Fast._
@@ -141,6 +167,9 @@ Often, they will be looking for the answer to a specific question and will compl
 
 Sometimes big channels can get away with stuff like this, because large portions of their audiences are interested in them as people and will already be curious about anything they post. This technique will not bring in new viewers, though.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail:  Don’t Be Mysterious ](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-tips-2.jpg)
 
 _If this came up in a search for ‘smoky eye tutorial’, would you click it?_
@@ -171,6 +200,9 @@ You want to use colors that will help you stand out from the other search result
 
 Beyond simply using colors that are different from other people’s colors, you should consider the emotions different colors trigger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail Making Tips](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-use-color.jpg)
 
 _Maybe don’t use a lot of green and yellow in the thumbnail for your angry video rant?_
@@ -215,3 +247,50 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[New] 2024 Approved  A Practical Pathway for Profit Tracking  The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-in-youtube-keyword-selection/"><u>[New] 2024 Approved  Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakneck-broadcast-channel-your-youtube-list/"><u>[New] 2024 Approved  Breakneck Broadcast  Channel Your YouTube List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-audio-devices-for-vloggers-on-a-budget/"><u>[New] 2024 Approved  Economical Audio Devices for Vloggers on a Budget</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affordable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>[New] Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-to-gif-makers-you-should-use-online-and-desktop-for-2024/"><u>[New] Best YouTube To GIF Makers You Should Use (Online & Desktop) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-classic-cinematography-step-by-step-guide/"><u>[New] Crafting Classic Cinematography  Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expertise-in-quick-creation-professional-valorant-thumbnail-art-for-2024/"><u>[New] Expertise in Quick Creation  Professional Valorant Thumbnail Art for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube-videos/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-wealth-through-video-content-revenue/"><u>[New] In 2024, Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-design-best-practices-for-engaging-youtube-thumbnails/"><u>[New] In 2024, Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>[New] In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-selecting-the-top-8-linux-screenshots-tools/"><u>[New] In 2024, Selecting the Top 8 Linux Screenshots Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-mastery-guide-choosing-the-right-platform/"><u>[New] Monetization Mastery Guide  Choosing the Right Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pro-video-creators-choice-10-exceptional-photo-background-alternators-for-2024/"><u>[New] Pro Video Creators' Choice  10 Exceptional Photo-Background Alternators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unboxing-premium-game-devices-youtube-edition/"><u>[New] Unboxing Premium Game Devices  YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-how-content-makers-profit-from-shorter-videos/"><u>[New] Unveiling How Content Makers Profit From Shorter Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-practical-approach-to-incorporate-youtube-playlists-online/"><u>[Updated] 2024 Approved  A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conserve-space-not-time-youtube-video-length-adjustment/"><u>[Updated] 2024 Approved  Conserve Space, Not Time  YouTube Video Length Adjustment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>[Updated] 2024 Approved  Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-breakthrough-techniques-for-creative-fb-video-campaigns-for-2024/"><u>[Updated] Breakthrough Techniques for Creative FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficient-tagging-techniques-to-boost-your-youtube-traffic-for-2024/"><u>[Updated] Efficient Tagging Techniques to Boost Your Youtube Traffic for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-console-emulation-top-5-ps3-options-for-2024/"><u>[Updated] Elite Console Emulation  Top 5 PS3 Options for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-the-finest-websites-with-free-game-of-thrones-audio/"><u>[Updated] Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] From Zero to Hero  Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-make-slow-motion-videos-for-instagram/"><u>[Updated] How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[Updated] In 2024, Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-insiders-techniques-for-google-voice-recordings/"><u>[Updated] In 2024, The Insider's Techniques for Google Voice Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-launchpad-equipment-the-beginners-checklist/"><u>[Updated] Launchpad Equipment  The Beginner's Checklist</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-impact-strategies-for-uploading-4k-content-on-youtube/"><u>[Updated] Maximize Impact  Strategies for Uploading 4K Content on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>[Updated] More than Just Likes  Decoding the Secrets to YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>[Updated] Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[Updated] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[Updated] The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>[Updated] Youtube Foundations  Building a Brand & Generating Income for Novices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-desktopmobile-screen-sharing-in-google-meet/"><u>2024 Approved  Mastering Desktop/Mobile Screen Sharing in Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-make-windows-look-like-macos/"><u>5 Ways to Make Windows Look Like macOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expertly-merge-vimeo-footage-with-ppts-using-modern-tools/"><u>Expertly Merge Vimeo Footage with PPTs Using Modern Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-techniques-in-testimonial-production-an-experts-insight/"><u>In 2024, Top Techniques in Testimonial Production  An Expert's Insight</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spoof-spectacle-steps-to-create-a-parody-for-2024/"><u>Spoof Spectacle  Steps to Create a Parody for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-profitability-secrets-for-2024/"><u>Youtube Shorts Profitability Secrets for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-studio-optimization-device-agnostic-approaches/"><u>Youtube Studio Optimization  Device-Agnostic Approaches</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Strategies to Avoid Pitfalls in Designing YouTube Thumbnails for 2024"
-date: 2024-06-05T10:03:42.923Z
-updated: 2024-06-06T10:03:42.923Z
+date: 2024-08-01T00:48:40.684Z
+updated: 2024-08-02T00:48:40.684Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 # How To Make Good YouTube Banner - Dos and Don’ts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,8 +40,14 @@ Here are the Dos and Don’ts of YouTube Channel Art.
 * **[What Should I Write on Banner?](#write)**
 * **[How Can I Make My Channel Art Look Good?](#good)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 1: What Kind of Background Should I Use?
 
 #### _DO: High-Quality Photos_
@@ -51,6 +60,9 @@ When choosing great photos for your background, pick ones that are high quality 
 
 Using patterns for the background of your channel banner can help your channel look super creative and stand out from others. However, if you use a pattern that is chaotic and hard on the eyes, you may not attract many subscribers. When using patterns, choose patterns that are not heavy in color and have too many lines or shapes. There should be an evenness to the shapes and negative space within the pattern itself. Try to stay away from patterns that are 3D which can conflict with the viewer’s eyesight and make them dizzy.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Channel Banner Background](https://images.wondershare.com/filmora/article-images/youtube-channel-banner-background.jpg)
 
 ## Part 2: Should I Use My Face?
@@ -105,6 +117,11 @@ YouTubers that use tag lines are using their channel as a platform to carry out 
 
 Whether you decide to use descriptive words or a tag line, they will help your channel tremendously by setting expectations for your viewers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Part 4: How Can I Make My Channel Art Look Good?
 
 #### _Do: Create Consistent Branding_
@@ -131,6 +148,10 @@ Now that you know how to make a good YouTube banner, what will you do next?
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -147,3 +168,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-mic-options-for-youtube-vloggers/"><u>[New] 2024 Approved  Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-recording-devices-for-livestream-producers/"><u>[New] 2024 Approved  Elite Recording Devices for Livestream Producers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tagging-towards-triumph-the-best-instagram-hashtags/"><u>[New] 2024 Approved  Tagging Towards Triumph  The Best Instagram Hashtags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-expansion-via-youtube-outros-maximizing-visibility-for-2024/"><u>[New] Channel Expansion via YouTube Outros  Maximizing Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform-for-2024/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-captures-top-10-online-video-recorders/"><u>[New] Cutting-Edge Captures  Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-effortlessly-blend-your-yt-video-with-gs-for-2024/"><u>[New] Effortlessly Blend Your YT Video with GS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>[New] Engaging Audiences  How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[New] In 2024, Charting the Unknown  Visual Facts From 2017'S Youtube World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-entertainment-a-thousand-gaming-channels/"><u>[New] In 2024, Elevate Entertainment  A Thousand Gaming Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-freezing-points-to-inviting-landscapes/"><u>[New] In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-5-best-live-streaming-webcamscameras-for-twitch/"><u>[New] In 2024, Top 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-income-sourav-joshis-youtube-journey/"><u>[New] Maximizing Income  Sourav Joshi's YouTube Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-vidpin-facebook-call-recorder/"><u>[New] VidPin - Facebook Call Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved  Creating Memorable Beginnings  IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>[Updated] 2024 Approved  Dominance in Video Landscape  Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-brand-differentiation-with-powerful-youtube-names-for-2024/"><u>[Updated] Brand Differentiation with Powerful YouTube Names for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capture-the-moment-idevice-screenshots-and-playback-for-2024/"><u>[Updated] Capture the Moment  IDevice Screenshots & Playback for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-converting-horizontals-for-igtv-tips-and-techniques-explored/"><u>[Updated] Converting Horizontals for IGTV  Tips & Techniques Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts-for-2024/"><u>[Updated] Cutting Edge Editors  Scouting the Ultimate Tools for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-free-youtube-pics-and-templates-for-2024/"><u>[Updated] Download Free YouTube Pics & Templates for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-repeat-revelry-twice-the-joy-with-televised-video-repetition/"><u>[Updated] Repeat Revelry  Twice the Joy with Televised Video Repetition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essentials-of-youtubes-latest-payment-policy/"><u>[Updated] The Essentials of YouTube's Latest Payment Policy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-revenue-with-review-videos-of-household-items/"><u>[Updated] Unleashing Revenue with Review Videos of Household Items</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[Updated] Unlocking Past Mysteries  Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simulate-hand-held-camera-effects-in-photoshop/"><u>2024 Approved  Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prime-7-cameras-elevating-virtual-event-coverage-and-vlogging-for-2024/"><u>Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prosperous-gaming-vids-through-smart-hash-implementation-for-2024/"><u>Prosperous Gaming Vids Through Smart Hash Implementation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-financial-impact-of-viewership-on-content-makers-for-2024/"><u>The Financial Impact of Viewership on Content Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unpacking-the-world-of-creative-commons-licensing-for-2024/"><u>Unpacking the World of Creative Commons Licensing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-quality-comparison-mirrorless-or-dslr-cameras-in-2024/"><u>Video Quality Comparison  Mirrorless or DSLR Cameras, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher-for-2024/"><u>Youtube Earnings Exploration  Breakdown of AdSense Payouts Per KV Watcher for 2024</u></a></li>
+</ul></div>

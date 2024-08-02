@@ -1,7 +1,7 @@
 ---
 title: "\"YouTube Masterclass  Advanced Techniques for Video Commentary Embedding for 2024\""
-date: 2024-06-05T09:28:10.350Z
-updated: 2024-06-06T09:28:10.350Z
+date: 2024-07-31T23:47:33.183Z
+updated: 2024-08-01T23:47:33.183Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,9 @@ YouTube Cards and Annotations are very useful if you want to encourage your view
 
 Do you want to make your YouTube video more attractive? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a such video editing software designed for YouTube creator. It not only allows you cut, trim, crop, zoom, reverse, rotate the video clips, but also makes the advanced features like green screen, PIP, tilt-shift and mosaic easy like a piece of cake. With Wondershare Filmora, you can ignite your YouTube videos with over 300 effects like Fashion, Beauty, Block Buster, Travel, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -45,12 +48,18 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
 
 * Click on the "Video Manager" tab
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
 * Click "Edit" tab under the video screen shot you want to add the card on
@@ -63,6 +72,9 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Once you finish the subsequent information required click create card
 * Select the timeline for the playhead to appear which leads to the card slide
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 * Apply changes and exit
@@ -80,6 +92,9 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 * Apply changes
@@ -118,6 +133,9 @@ The best outros also include a subscribe button, which can be created using anno
 
 No matter what kind of annotations you are using, you should never use more than two of them at a time anywhere except for your outro. You should also never place annotations at the very top of your screen, or in the middle at the bottom. If your video is embedding on a separate website then the player will cover annotations at the top of the screen, and ads might cover annotations placed in the bottom-middle of the screen. Keep in mind when using annotations that they will not be visible to users watching your videos on mobile devices. If mobile traffic is very important to you then consider using YouTube Cards.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -134,3 +152,39 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-engaging-narratives-a-compreehensive-guide-to-adding-emojis-to-instagram-stories/"><u>[New] 2024 Approved  Crafting Engaging Narratives  A Compreehensive Guide to Adding Emojis to Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-the-cost-on-downloads-exclusive-access-to-this-list-of-23-affordable-extractors/"><u>[New] 2024 Approved  Cut the Cost on Downloads  Exclusive Access to This List of 23 Affordable Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-kick-starting-a-captivating-instagram-live/"><u>[New] 2024 Approved  Kick-Starting a Captivating Instagram Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-media-mastery-youtube-vs-tiktoks-best-fit/"><u>[New] 2024 Approved  Media Mastery  Youtube Vs. TikTok's Best Fit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[New] Audio Amplified  Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-command-center-redefined-your-pathway-through-studio-for-2024/"><u>[New] Command Center Redefined  Your Pathway Through Studio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-for-youtube-video-clips-for-2024/"><u>[New] Essential Guide for YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>[New] In 2024, Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] In 2024, Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-gamers-guide-to-exceptional-video-sessions-for-2024/"><u>[New] The Gamers' Guide to Exceptional Video Sessions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-your-channels-potential-increase-youtube-views/"><u>[New] Unleashing Your Channel's Potential  Increase YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-youtube-summaries-with-tailored-templates/"><u>[Updated] 2024 Approved  Engaging YouTube Summaries with Tailored Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-list-best-online-video-to-mp3-tools/"><u>[Updated] 2024 Approved  Exclusive List  Best Online Video to Mp3 Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-practical-approach-to-incorporate-youtube-playlists-online-for-2024/"><u>[Updated] A Practical Approach to Incorporate YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-youtube-visibility-mastering-titles-and-tags-for-2024/"><u>[Updated] Boosting YouTube Visibility  Mastering Titles & Tags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-live-streamed-gaming-experiences-for-2024/"><u>[Updated] Crafting Engaging Live-Streamed Gaming Experiences for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-culinary-carousel-swirling-up-top-food-network-names-for-2024/"><u>[Updated] Culinary Carousel  Swirling Up Top Food Network Names for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit-for-2024/"><u>[Updated] Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[Updated] In 2024, Channel Boosting Strategies  Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-presence-essential-tips-for-engaging-shorts/"><u>[Updated] In 2024, Elevate Your Youtube Presence  Essential Tips for Engaging Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-tubebuddy-for-top-tier-youtube-management/"><u>[Updated] Leverage TubeBuddy for Top-Tier YouTube Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>[Updated] Unlocking Your Youtube Success Story  A Comprehensive Guide to Creative Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-precise-obs-settings-for-inexpensive-hardware/"><u>2024 Approved  Precise OBS Settings for Inexpensive Hardware</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-methods-to-secure-costless-illustrations/"><u>2024 Approved  Proven Methods to Secure Costless Illustrations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-green-screen-resources-download-free/"><u>In 2024, Green Screen Resources, Download Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>In 2024, Watch Deleted YouTube  Secrets to Accessing Lost Content</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-create-stunning-videos-on-mac-a-step-by-step-guide-for-2024/"><u>New Create Stunning Videos on Mac A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simple-sound-transformation-iphone-friendly-software-for-youtube-to-mp3-for-2024/"><u>Simple Sound Transformation  IPhone-Friendly Software for YouTube-to-MP3 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-unsolicited-search-window-opens-in-windows-11/"><u>Stopping Unsolicited Search Window Opens in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-filming-for-virality-on-youtube-for-2024/"><u>The Ultimate Guide to Filming for Virality on YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transformative-tools-for-pictorial-art/"><u>Transformative Tools for Pictorial Art</u></a></li>
+</ul></div>

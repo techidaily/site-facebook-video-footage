@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Efficient Tools  Simplifying the Task of Feedback Erasure\""
-date: 2024-06-05T08:06:19.257Z
-updated: 2024-06-06T08:06:19.257Z
+date: 2024-07-31T21:28:02.910Z
+updated: 2024-08-01T21:28:02.910Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 # Deleting YouTube Comments
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -47,6 +50,9 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -57,6 +63,9 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -83,6 +92,9 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -118,6 +130,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
@@ -126,6 +141,10 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -142,3 +161,46 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>[New] 2024 Approved  Customize Your Video's Appeal  YouTube Thumbnail Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-8-prime-video-advancement-aids/"><u>[New] 2024 Approved  Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-growth-essential-steps-for-youtube-backlink-creation-for-2024/"><u>[New] Channel Growth  Essential Steps for YouTube Backlink Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-viral-videos-how-to-excel-in-youtubers-music-reactions-for-2024/"><u>[New] Crafting Viral Videos  How to Excel in Youtubers' Music Reactions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos-for-2024/"><u>[New] Elevating Your Video's Visual Impact  YoutubThumbnail Design on macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blueprinting-engaging-content-layouts-on-youtube/"><u>[New] In 2024, Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[New] In 2024, Earning Through Eyes  The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiency-boost-discover-the-top-5-youtube-shorteners/"><u>[New] In 2024, Efficiency Boost  Discover the Top 5 YouTube Shorteners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-laughing-along-to-mimicked-melodies/"><u>[New] Laughing Along to Mimicked Melodies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tech-tips-swiftly-sending-videos-as-shorts-on-digital-platforms/"><u>[New] Tech Tips  Swiftly Sending Videos as Shorts on Digital Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-learn-to-craft-unique-audio-experiences-with-tiktok-vocal-adjustments/"><u>[Updated] 2024 Approved  Learn to Craft Unique Audio Experiences with TikTok Vocal Adjustments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chart-a-course-to-success-youtube-studio-blueprint/"><u>[Updated] In 2024, Chart a Course to Success  YouTube Studio Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-content-extractor-the-best-of-the-rest/"><u>[Updated] In 2024, Instagram Content Extractor  The Best of the Rest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-education-beyond-video-lessons/"><u>[Updated] Navigating Education Beyond Video Lessons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-shots-a-guide-to-capturing-engaging-youtube-content/"><u>[Updated] Perfect Shots  A Guide to Capturing Engaging YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-edits-made-easy-a-newbies-guide-to-video-trimming-and-enhancing/"><u>[Updated] Top Edits Made Easy  A Newbie's Guide to Video Trimming & Enhancing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cam-problem-solved-operation-normal/"><u>2024 Approved  Cam Problem Solved  Operation Normal</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-soundtrack-of-stills-visual-audio-crafting/"><u>2024 Approved  The Soundtrack of Stills  Visual-Audio Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-mastery-creating-quality-videos-on-phones/"><u>2024 Approved  YouTube Mastery  Creating Quality Videos on Phones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-lava-yuva-2-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Lava Yuva 2.</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-clickbait-exposing-truth-in-facebook-lore/"><u>Beyond the Clickbait: Exposing Truth in Facebook Lore</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-magic-v2-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor Magic V2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone SE Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-share-a-private-youtube-video/"><u>How to Share a Private YouTube Video?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-90-gt-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 90 GT FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-understanding-the-implications-before-quitting-discord/"><u>In 2024, Understanding the Implications Before Quitting Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-instagrams-filter-features-for-high-quality-images-for-2024/"><u>Navigating Instagram's Filter Features for High-Quality Images for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-error-code-48-on-device-hub/"><u>No More Error Code 48 on Device Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/online-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion-in-2024/"><u>Online Video Arena Showdown  Who Wins – Vimeo or Giants Like YouTube+DailyMotion, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-winpodcast-solutions-roundup/"><u>Premium WinPodcast Solutions Roundup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-engagement-techniques-for-zooms-camera-shots/"><u>Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-m54-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy M54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>The Essence of Online Video Success  Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-techniques-for-youtube-image-crafting-for-2024/"><u>The Essential Techniques for YouTube Image Crafting for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-video-and-picture-capturing-tools-for-smartphones-for-2024/"><u>Top 5 Video & Picture Capturing Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-choice-top-screen-capturer-for-video-uploads-for-2024/"><u>Ultimate Choice  Top Screen Capturer for Video Uploads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile-for-2024/"><u>Your Music Masterpiece Awaits  Step-by-Step to YouTube Playlist Perfection (Web/Mobile) for 2024</u></a></li>
+</ul></div>

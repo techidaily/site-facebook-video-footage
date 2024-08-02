@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Exploring the Monetization Framework of TSeries via YouTube\""
-date: 2024-06-05T11:01:13.186Z
-updated: 2024-06-06T11:01:13.186Z
+date: 2024-08-01T02:27:01.509Z
+updated: 2024-08-02T02:27:01.509Z
 tags:
   - ai video
   - ai youtube
@@ -62,6 +62,9 @@ T-Series main source of revenue is the views and adverts, and as of when this ar
 
 T-Series is very popular on all social media platforms, including Facebook, Twitter, and Instagram. He has been in the game for so long that anyone believes in the content he creates. The company was discovered in the 1980s by Gulshan Kumar a cassette tape business, and it was focused on devotional music, especially Hindu hymns and Bollywood music.M
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![t-series youtube channel 1](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-1.jpg)
 
 The good thing back then was that T-Series was the first of its kind, and the devotional music market was really big, especially amongst old folks. So, it was easy for T-Series music to reach the right audience within a short time, and it had its first breakthrough in the late 1980s.
@@ -70,6 +73,9 @@ Fast forward to 2004, telecommunication companies were having complaints from mo
 
 Since 2011 till now, T-Series has experienced tremendous growth. T-Series has up to 29 different YouTube channels with total subscribers of 225million with over a billion views monthly, making them one of the top-leading YouTube channels globally. Right now,
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part 3: Why Is T-Series Trending on YouTube?
 
 Since you already know what T-Series income on YouTube is, you might be eager to find out what he did that made him so popular and became a trend on YouTube. Well, the truth is, T-Series is not doing anything no one can do. However, he has been in the industry for so long that his YouTube channel is like a dish for many viewers, especially the ones in India.
@@ -106,10 +112,21 @@ Here is how to use Filmora to Create Impressive Videos for YouTube;
 
 Step1 Download the latest version of Filmora from the official website and install it. Then, launch the tool and use the Import button to upload the YouTube video you wish to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-3.jpg)
 
 Drag-n-drop the imported video to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-4.jpg)
 
 Step2 Navigate to the top of the screen and select Effects. Choose AI Portrait from the left-hand side. After that, drag-n-drop a preferred AI Portrait effect to the Timeline. Then, adjust it to the section of your video you want it to be displayed.
@@ -130,6 +147,9 @@ To adjust your audio settings, double-click the audio clip from the timeline and
 
 Step4 Another crucial thing you need to do is to add Subscribe watermark. To do this, click the >> icon next to Export from the top of the screen and select Element.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-9.jpg)
 
 Locate and click ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
@@ -140,12 +160,24 @@ Step5 Change the position where the Subscribe watermark should appear in your vi
 
 Step6 After you’re done with the editing, click the Export button from the top bar and choose Burn DVD from the drop-down list that shows up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-11.jpg)
 
 **Spet 7:** A pop-up window will appear on your PC screen. Select where you want to save the edited video file from the Folder Path section. Then, enter the file name in Lable. Click Export to finish.
 
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Final Words
 
 That’s all on T-Series income on YouTube. T-Series did not just become successful overnight. It took consistent hard work. The team put so much effort not just to come up with ideas and create videos, but also to invest in the right tools to make their videos stand out in the industry. If you’re looking to start your YouTube journey and be like T-Series some days, you should start now. The first move you should make is to invest in Wondershare Filmora software, as it has lots of tools to offer for editing videos with high quality.
@@ -175,6 +207,9 @@ Before we reveal all you need to know about T-Series YouTube income, here is an 
 
 Now you have an overview of what T-Series YouTube channel income is, read on to discover more
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: T-Series YouTube Earning and Stats
 
 T-Series main source of revenue is the views and adverts, and as of when this article was written, research shows that T-Series attracts more than 2.15 billion views per month. Since a YouTube channel could earn an average of $3 to $5 per one thousand views, it can be estimated that T-Series earn a monthly income of up to $8.6 Million per month, and could make up to over 128 Million per year. Do you still want to find out more? Check out the table on T-Series stats;
@@ -190,6 +225,9 @@ T-Series main source of revenue is the views and adverts, and as of when this ar
 
 T-Series is very popular on all social media platforms, including Facebook, Twitter, and Instagram. He has been in the game for so long that anyone believes in the content he creates. The company was discovered in the 1980s by Gulshan Kumar a cassette tape business, and it was focused on devotional music, especially Hindu hymns and Bollywood music.M
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![t-series youtube channel 1](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-1.jpg)
 
 The good thing back then was that T-Series was the first of its kind, and the devotional music market was really big, especially amongst old folks. So, it was easy for T-Series music to reach the right audience within a short time, and it had its first breakthrough in the late 1980s.
@@ -198,6 +236,9 @@ Fast forward to 2004, telecommunication companies were having complaints from mo
 
 Since 2011 till now, T-Series has experienced tremendous growth. T-Series has up to 29 different YouTube channels with total subscribers of 225million with over a billion views monthly, making them one of the top-leading YouTube channels globally. Right now,
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 3: Why Is T-Series Trending on YouTube?
 
 Since you already know what T-Series income on YouTube is, you might be eager to find out what he did that made him so popular and became a trend on YouTube. Well, the truth is, T-Series is not doing anything no one can do. However, he has been in the industry for so long that his YouTube channel is like a dish for many viewers, especially the ones in India.
@@ -206,6 +247,9 @@ Below are the three main things why T-Series is always trending on YouTube;
 
 ![t-series youtube channel 2](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Huge YouTube Channel Monthly Visits
 
 Boasting monthly views of over 100 million per month, T-Series is one of the few YouTube channels that usually have millions of visits from users globally every month. Research shows that the YouTube channel usually has approximately 7.9million visitors per month. This huge monthly visit helps them stay at the top of most YouTube searches that relates with his videos keywords, thus making them trend more when compared with his competitor’s YouTube channel.
@@ -214,10 +258,16 @@ Boasting monthly views of over 100 million per month, T-Series is one of the few
 
 With over 225 million subscribers and still counting, T-Series YouTube channel is a home for many folks to listen to music and see movie thrillers. The large subscriber base plays a huge role in his trend, and the subscriber base continues to increase, he still has the high chance of maintaining his trend within the industry for a very long time.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Regular Posting of Quality Videos
 
 Having a huge YouTube subscriber base is one thing, but being able to deliver quality video content that anyone would love to watch is different. T-Series has been consistent in delivering quality videos, that immediately he uploads a new video on YouTube, he starts getting massive views instantly. Many folks are always eager to see his next upload on YouTube. This has been the same thing for T-Series over the past years, and it has helped him gained more and more popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Bonus Tip: How to be a YouTuber and Make Videos like t series
 
 To be a YouTube-like T-Series you don't only need to put in the hard work in what you do, you also need to be smart and stay consistent. Plus, you must acquire advanced video editing software that will help you create videos that will make you stand out in the industry. One such video editing software is Wondershare’s Filmora video editor.
@@ -234,10 +284,25 @@ Here is how to use Filmora to Create Impressive Videos for YouTube;
 
 Step1 Download the latest version of Filmora from the official website and install it. Then, launch the tool and use the Import button to upload the YouTube video you wish to edit.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-3.jpg)
 
 Drag-n-drop the imported video to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-4.jpg)
 
 Step2 Navigate to the top of the screen and select Effects. Choose AI Portrait from the left-hand side. After that, drag-n-drop a preferred AI Portrait effect to the Timeline. Then, adjust it to the section of your video you want it to be displayed.
@@ -250,6 +315,9 @@ You can also change the AI Portrait effect settings. To do that, double-click on
 
 Step3 You can add royalty-free music to your YouTube video by clicking Audio from the top. Then, select the preferred audio to use in the video and move it to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add royalty-free music to your youtube video](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-7.jpg)
 
 To adjust your audio settings, double-click the audio clip from the timeline and use the relevant button to balance audio fade-in and fade-out, volume, pitch, etc.
@@ -258,16 +326,25 @@ To adjust your audio settings, double-click the audio clip from the timeline and
 
 Step4 Another crucial thing you need to do is to add Subscribe watermark. To do this, click the >> icon next to Export from the top of the screen and select Element.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-9.jpg)
 
 Locate and click ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add subscribe watermark filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-10.jpg)
 
 Step5 Change the position where the Subscribe watermark should appear in your video. Then, play the video to preview it.
 
 Step6 After you’re done with the editing, click the Export button from the top bar and choose Burn DVD from the drop-down list that shows up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/what-is-t-series-income-on-youtube-11.jpg)
 
 **Spet 7:** A pop-up window will appear on your PC screen. Select where you want to save the edited video file from the Folder Path section. Then, enter the file name in Lable. Click Export to finish.
@@ -313,10 +390,17 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
 
 **Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Why YouTube channel description is important
 
  If you have a YouTube channel and if you are not getting the number of views that you wish to have, there are possibly several problems. Maybe, your content is not enticing enough. Or maybe, it is because you do not have the right YouTube channel description. Generally speaking, the description of your channel will provide visitors of a snapshot of what the channel is all about. It appears in the about tab of your page. This is an elevator pitch, which will be an opportunity for you to show other people why they should watch your videos.
@@ -339,6 +423,9 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
 
  If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
 
  This is actually a process that is pretty much straightforward, provided that you know how it can be done. Here are the simple steps that you should follow:
@@ -350,6 +437,9 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
 
 * Click on "About."
@@ -371,12 +461,18 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
 
  **Check this video to know how to optimize YouTube SEO:**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Bonus: Tips for YouTube Video Description
 
  Here we have also found out some useful tips for YouTube video description:
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![YouTube description ](https://images.wondershare.com/filmora/article-images/youtube-description.jpg)
 
 #### 1. Take full advantage of the First Line
@@ -410,6 +506,9 @@ Follow @Richard Bennett
 
 **Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -447,10 +546,16 @@ Follow @Richard Bennett
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
 
 * Click on "About."
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
 
 * Then you can edit the channel description here
@@ -486,6 +591,9 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -507,6 +615,9 @@ Follow @Richard Bennett
 
 **Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -544,6 +655,9 @@ Follow @Richard Bennett
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
 
 * Click on "About."
@@ -552,6 +666,9 @@ Follow @Richard Bennett
 
 * Then you can edit the channel description here
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
 
 **Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
@@ -559,12 +676,18 @@ Follow @Richard Bennett
 * Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
 * Click on "View as" which will allow the YouTube channel description to show up for New visitor or returning subscriber.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
 
  In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
 
  **Check this video to know how to optimize YouTube SEO:**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Bonus: Tips for YouTube Video Description
@@ -583,6 +706,9 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -604,10 +730,16 @@ Follow @Richard Bennett
 
 **Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Why YouTube channel description is important
 
  If you have a YouTube channel and if you are not getting the number of views that you wish to have, there are possibly several problems. Maybe, your content is not enticing enough. Or maybe, it is because you do not have the right YouTube channel description. Generally speaking, the description of your channel will provide visitors of a snapshot of what the channel is all about. It appears in the about tab of your page. This is an elevator pitch, which will be an opportunity for you to show other people why they should watch your videos.
@@ -637,6 +769,9 @@ Follow @Richard Bennett
 * Open your YouTube account.
 * Click on My Channel
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
@@ -680,6 +815,9 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -702,3 +840,48 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2017-data-overload-infographics-and-surprising-yt-stats-for-2024/"><u>[New] 2017 Data Overload  Infographics & Surprising YT Stats for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[New] 2024 Approved  Best Mac MP4 Cutter Apps  Enhance Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-erasing-extra-borders-for-smooth-youtube-playback/"><u>[New] 2024 Approved  Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-step-by-step-screen-recording-in-win10-gaming/"><u>[New] 2024 Approved  Step-by-Step  Screen Recording in Win10 Gaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-can-instant-subscription-lead-to-higher-watch-time-for-2024/"><u>[New] Can Instant Subscription Lead to Higher Watch Time for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[New] In 2024, Captivate Audiences Quickly  Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[New] In 2024, Elevate Your Vlogs  Optimizing Title, Description & Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[New] In 2024, Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-youtube-unboxers-who-to-follow/"><u>[New] Premier YouTube Unboxers  Who to Follow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensive-list-of-top-video-making-software-iphone-android/"><u>[Updated] 2024 Approved  A Comprehensive List of Top Video-Making Software (iPhone, Android)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-create-standout-videos-with-these-top-7-free-thumbnail-builders/"><u>[Updated] 2024 Approved  Create Standout Videos with These Top 7 Free Thumbnail Builders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-content-with-free-music-sources/"><u>[Updated] 2024 Approved  Enhancing YouTube Content with Free Music Sources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[Updated] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-coverage-coalition-picking-an-mcn-for-2024/"><u>[Updated] Comprehensive Coverage Coalition  Picking an MCN for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-the-power-behind-youtube-statistics-interpretation-for-2024/"><u>[Updated] Discovering the Power Behind YouTube Statistics Interpretation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[Updated] In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-infusing-storytelling-with-subtitles-enhancing-online-video-experience/"><u>[Updated] Infusing Storytelling with Subtitles  Enhancing Online Video Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-timestamps-youtube-video-link-enhancement-techniques/"><u>[Updated] Integrating Timestamps  YouTube Video Link Enhancement Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-view-count-responsibly-legal-avenues-to-a-million-fans/"><u>[Updated] Maximize View Count Responsibly  Legal Avenues to a Million Fans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-screen-recorder-selection-for-youtube-professionals/"><u>[Updated] Optimal Screen Recorder Selection for YouTube Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recordingease-minimalistic-win-11-screen-captures-for-2024/"><u>[Updated] RecordingEase  Minimalistic Win 11 Screen Captures for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-from-scratch-video-gear-insights/"><u>[Updated] Starting From Scratch  Video Gear Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-science-of-captivating-youtube-thumbnails/"><u>[Updated] The Science of Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[Updated] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-youtube-creators-subscription-leaders/"><u>[Updated] Top 5 YouTube Creators  Subscription Leaders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-mastery-on-the-move-crafting-impactful-video-thumbnails-mobile-for-2024/"><u>[Updated] YouTube Mastery on the Move  Crafting Impactful Video Thumbnails (Mobile) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-tapestry-assembly-techniques/"><u>2024 Approved  Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>2024 Approved  Unlock iPhone Video Potential  Mastering 8 Essential Filmmaking Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy XCover 6 Pro Tactical Edition Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 6s Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-k70-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi K70 Phone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 12 mini Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-t2-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo T2 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-video-capture-clash-go-obs-against-shadowgl/"><u>In 2024, Video Capture Clash  Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/obtain-exclusive-free-media-from-elite-4-youtube-clips-for-2024/"><u>Obtain Exclusive Free Media From Elite 4 YouTube Clips for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-executive-mind-how-neuroscience-can-inform-better-management-strategies-for-2024/"><u>The Executive Mind  How Neuroscience Can Inform Better Management Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-revenue-battlefield-dm-versus-yo-analysis-for-2024/"><u>Video Revenue Battlefield  Dm Versus Yo Analysis for 2024</u></a></li>
+</ul></div>

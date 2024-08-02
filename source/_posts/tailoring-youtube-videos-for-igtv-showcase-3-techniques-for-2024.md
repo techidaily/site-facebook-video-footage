@@ -1,7 +1,7 @@
 ---
 title: "\"Tailoring YouTube Videos for IGTV Showcase  3 Techniques for 2024\""
-date: 2024-06-05T08:48:12.400Z
-updated: 2024-06-06T08:48:12.400Z
+date: 2024-07-31T22:38:44.736Z
+updated: 2024-08-01T22:38:44.736Z
 tags:
   - ai video
   - ai youtube
@@ -36,28 +36,44 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 ## Part 1: Convert YouTube Videos to IGTV Vertical Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you don’t already have the original file of the video you’d like to upload to your IGTV channel, you can [download a video from YouTube](https://tools.techidaily.com/wondershare/filmora/download/), but keep in mind that you can’t use any content without permission from its owner.
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
 
 Go to the **Effects tab** and click on the **Background Blur** submenu if you want to blur the empty areas of the frame. Add the **Basic Blur effect** to the timeline and drag one of its sides to position it over the entire video.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV](https://images.wondershare.com/filmora/article-images/filmora-convert-youtube-video-igtv.jpg)
 
 In case you are working with a video that already has a 16:9 aspect ratio, you can create a project that has the same aspect ratio, and then just use **the Rotate slider in the Transform menu**, to change turn a landscape video into a portrait video. The scaling tool is helpful to enlarge the frames in a vertical aspect ratio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV with transform](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-to-convert-youtube-igtv.jpg)
 
 Filmora lets you create vertical videos in just a few quick steps, which makes it a perfect choice for influencers and marketers who want to share video content on YouTube and IGTV.
 
 Latest News: In Filmora V10.5 and later versions, there is a new feature called Auto-Reframe. This feature allows users to convert one video for different social media platforms based on the aspect ratio changing, and its features of detecting the moving object. Click the Analyze button, and Filmora will convert this 16:9 YouTube video to vertical 9:16 IGTV video automatically. And I can adjust frames to follow Yasmine’s movement to fine-tune the result.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora  Auto-Reframe YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/auto-reframe-youtube-video-to-vertical-igtv-video.jpg)
 
 You can watch the video below to find out more information about the Auto-Reframe tool.
@@ -70,6 +86,9 @@ YouTubers who already have lots of videos on their channel can use online video 
 
 Click on the Resize tool and simply **copy and paste the URL** of a YouTube into the appropriate bar and the platform will **automatically import a video and display it on the screen** once the content is finally fetched.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Kapwing  Crop YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/kapwing-crop-youtube-to-igtv.jpg)
 
 Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose the background color for your IGTV video, increase or decrease the zoom level or change the position of the video**. Click on the **Create button** when ready and wait for Kapwing to process your video. **All videos you create with the free version of this online video editor are going to be watermarked** and you have to pay a six-dollar fee for each watermark-free video you edit with Kapwing or you can opt for a $20 monthly subscription fee that enables you to export an unlimited amount of videos without watermarks each month.
@@ -108,3 +127,64 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-content-quality-with-advanced-video-editing/"><u>[New] 2024 Approved  Enhancing Content Quality with Advanced Video Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-pushing-boundaries-with-vidmas-video-capture-features/"><u>[New] 2024 Approved  Pushing Boundaries with Vidma's Video Capture Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-the-secrets-of-a-captivating-end-episode-note/"><u>[New] 2024 Approved  Unlocking the Secrets of a Captivating End-Episode Note</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-winter-youtube-background-ideas-to-warm-up-your-videos-for-2024/"><u>[New] 5 Winter YouTube Background Ideas to Warm Up Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-aces-top-10-list-choosing-superior-capture-cards-for-2024/"><u>[New] Ace's Top 10 List  Choosing Superior Capture Cards for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[New] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets-for-2024/"><u>[New] Chuckle-Filled Creativity  Crafting 7 Side-Splitting YouTube Sets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-avoiding-youtubes-controversial-scrutiny/"><u>[New] In 2024, Avoiding YouTube's Controversial Scrutiny</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-balancing-creativity-and-logic-in-gaming-videos/"><u>[New] In 2024, Balancing Creativity and Logic in Gaming Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-your-way-to-frequent-payments-from-youtube/"><u>[New] In 2024, Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-humor-making-funny-parody-videos/"><u>[New] In 2024, Creating Humor  Making Funny Parody Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direction-and-intensity-in-video-lighting/"><u>[New] In 2024, Direction and Intensity in Video Lighting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[New] In 2024, Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-hacks-for-youtube-short-creators/"><u>[New] In 2024, Earning Hacks for YouTube Short Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[New] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] In 2024, Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-full-apps-deep-dive-with-az-video-logger-pro/"><u>[New] In 2024, Full-Apps Deep Dive with AZ Video Logger Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovative-youtube-titles-crafting-a-standout-brand/"><u>[New] Innovative YouTube Titles  Crafting a Standout Brand</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-interactive-elements-crafting-effective-youtube-annotations/"><u>[New] Interactive Elements  Crafting Effective YouTube Annotations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtubes-visual-flow-five-budget-friendly-methods/"><u>[New] Mastering YouTube's Visual Flow - Five Budget-Friendly Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-melodic-mastery-top-15-educational-musician-oriented-vids-on-the-web/"><u>[New] Melodic Mastery  Top 15 Educational Musician-Oriented Vids on the Web</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-verification-maximizing-streamer-incomes/"><u>[New] Monetization Verification  Maximizing Streamer Incomes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[New] No Price Tag On Adventure  Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[New] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-potential-with-top-choices-in-android-editing-software/"><u>[New] Unlock Potential with Top Choices in Android Editing Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[Updated] 2024 Approved  6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-buzzing-beats-essential-background-scores-for-viral-video-shorts/"><u>[Updated] 2024 Approved  Buzzing Beats  Essential Background Scores for Viral Video Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earning-insights-from-viewing-data-on-youtube/"><u>[Updated] 2024 Approved  Earning Insights From Viewing Data on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficiently-isolate-key-moments-in-youtube-footage/"><u>[Updated] 2024 Approved  Efficiently Isolate Key Moments in YouTube Footage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-examining-video-comments-on-youtube/"><u>[Updated] 2024 Approved  Examining Video Comments on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-the-finest-no-cost-video-editing-software/"><u>[Updated] 2024 Approved  Exploring the Finest No-Cost Video Editing Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-pros-handbook-to-youtube-income-multiplatform-use-for-2024/"><u>[Updated] A Pro's Handbook to YouTube Income  Multiplatform Use for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-fusion-of-youtube-videos-with-flv-format-for-2024/"><u>[Updated] Effortless Fusion of YouTube Videos with FlV Format for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-erase-the-obvious-techniques-for-masked-youtube-content-for-2024/"><u>[Updated] Erase the Obvious  Techniques for Masked YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-live-stream-facebook-from-pc-mac-or-laptop-with-obs-for-2024/"><u>[Updated] How to Live Stream Facebook From PC, Mac or Laptop with OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diving-into-the-world-of-haul-video-content/"><u>[Updated] In 2024, Diving Into the World of Haul Video Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-engaging-audiences-making-popular-youtube-shorts/"><u>[Updated] In 2024, Engaging Audiences  Making Popular YouTube Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-pinnacle-platforms-alternatives-to-the-oldest-birdcalls/"><u>[Updated] In 2024, Pinnacle Platforms  Alternatives to the Oldest Birdcalls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insiders-guide-to-fixing-popular-youtube-short-problems/"><u>[Updated] The Insider's Guide to Fixing Popular YouTube Short Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps/"><u>2024 Approved  Harness the Power of FB Lives  Selecting the Top 5 Downloading Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-add-crop-and-edit-music-to-canva-video/"><u>2024 Approved  How To Add, Crop And Edit Music To Canva Video?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>2024 Approved  Mastering Movement  Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-3-cam-exploration-a-deep-dive-into-ions-latest-offer/"><u>2024 Approved  Pro 3 Cam Exploration  A Deep Dive Into ION's Latest Offer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-recordevaluator-critique/"><u>2024 Approved  RecordEvaluator Critique</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>2024 Approved  The Ultimate Calculus of Cashflow From Creativity  Measuring Your YouTube Earnings and Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/go-viral-or-not-at-all-mobile-live-streaming-without-millions-of-subscribers/"><u>Go Viral or Not at All  Mobile Live-Streaming Without Millions of Subscribers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hasten-intels-graphics-update-for-ws11-efficiency/"><u>Hasten Intel's Graphics Update for WS11 Efficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-6s-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 6s Plus in the Best Ways</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6 Activity | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-sony-xperia-1-v-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Sony Xperia 1 V to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 7 to iPod | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-chromecast-converter-how-to-play-un-supported-video-formats/"><u>In 2024, The Chromecast Converter How to Play Un-Supported Video Formats</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-network-stardom-top-10-music-video-countdown/"><u>Social Network Stardom  Top 10 Music Video Countdown</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-video-view-growth-top-10-reasons-behind-zero-views-for-2024/"><u>Unlocking Video View Growth  Top 10 Reasons Behind Zero Views for 2024</u></a></li>
+</ul></div>

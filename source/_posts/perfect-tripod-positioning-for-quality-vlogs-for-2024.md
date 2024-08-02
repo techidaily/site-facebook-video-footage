@@ -1,7 +1,7 @@
 ---
 title: "Perfect Tripod Positioning for Quality Vlogs for 2024"
-date: 2024-06-05T11:01:04.870Z
-updated: 2024-06-06T11:01:04.870Z
+date: 2024-08-01T02:26:47.879Z
+updated: 2024-08-02T02:26:47.879Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  This article will explain how to use a tripod and then introduce you to four different types.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How To Set a Tripod for Vlogging
 
 #### 1\. Setting Up Your Tripod
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  Ball Heads and Pan/Tilt Heads are the two most common types of tripod heads. Ball Heads allow you to adjust your camera’s position quite a bit before you start shooting. They are not good for adding in camera movements while you are filming, however, because you need to lock them in place. Pan/Tilt heads are great for creating camera movement. Most Pan/Tilt heads have a handle which you can use to make a smooth panning motion.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Why Do You Need a Tripod: Benefits of Using Tripod
 
  Why can't you just hold a camera in your hand while shooting vlog entries for your YouTube channel? Honestly, you can, but the camera may shake a lot and your footage might end up being unusable. Putting a camera on a tripod reduces the probability of camera shake to the minimum and that is just the tip of the iceberg.
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  On the go videos, are recorded at exterior locations, and a lot of YouTubers choose to shoot these types of videos handheld, but this approach makes it difficult to maintain the same shot composition for long. A Monopod, Gorillapod or just a simple selfie stick can make your job much easier because they stabilize the camera. In addition, shooting smooth panning shots without a tripod is as difficult as it sounds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: A Few Things You'll Need to Consider Before You Buy a Tripod
 
  There are thousands of different tripod models you can use for vlogging, but which model you're going to choose depends mostly on the type of vlog you want to make. If you are planning on shooting all of your videos in the studio-like conditions, then portability isn't such an important feature, while quite the opposite is true if you intend on filming all of your footage on outdoor locations.
@@ -68,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  **Mobility:** The heavier a tripod is, the more stability it can provide, but carrying a tripod that weighs over 10 pounds to shoot sports or adventure vlogs can be a tiring endeavor. Although portability is a factor, it shouldn't prevent you from buying a high-quality tripod that will ensure your footage is perfectly smooth and stable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: 4 Types of Tripods
 
 **Full-Sized Tripods:** are very sturdy, and as a result can be fairly heavy. Although you can take them a lot of places they are not convenient to carry for extended periods of time. They are the most reliable way to ensure you have absolutely no camera shake.
@@ -107,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 **Price:** $34.99
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Vlogger Tripod ](https://images.wondershare.com/filmora/article-images/manfrotto-mini-tripod.jpg)
 
  Yet another great option for shooting vlogs with a Smartphone. The Manfrotto Mini Travel Tripod kit is also an excellent choice for all vloggers who shoot their videos with compact cameras. The tripod weighs just 0.51lbs and it is 5.31 inches tall, which makes it a perfect travel companion. However, it can't support cameras heavier than 2.2lbs, so you have to carefully choose the camera you want to put on this tripod.
@@ -183,6 +198,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 * Weighs 7.9lbs
 * Not the best choice for action and adventure vlogs
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -199,3 +217,73 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-comprehensive-tutorial-for-youtube-customization-tools/"><u>[New] 2024 Approved  A Comprehensive Tutorial for YouTube Customization Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-youtube-trailers-a-filmora-guide/"><u>[New] 2024 Approved  Crafting YouTube Trailers  A Filmora Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-free-audio-for-youtube-visionaries/"><u>[New] 2024 Approved  Cutting-Edge Free Audio for YouTube Visionaries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edu-stream-100-cutting-edge-learning-yt/"><u>[New] 2024 Approved  Edu-Stream 100  Cutting-Edge Learning YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-sound-transformation-from-youtube-to-wav-format/"><u>[New] 2024 Approved  Effortless Sound Transformation From YouTube to WAV Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[New] 2024 Approved  Engaging Everyone Quickly  Which Platform Triumphs for Shorter Videos?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-youtube-tagging-strategies-for-optimal-visibility/"><u>[New] 2024 Approved  Essential YouTube Tagging Strategies for Optimal Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-can-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[New] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-10-yt-channels-surging-ideas-and-insights-unleashed/"><u>[New] In 2024, 10 YT Channels Surging  Ideas and Insights Unleashed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-practical-guide-to-applying-creative-commons-rights/"><u>[New] In 2024, A Practical Guide To Applying Creative Commons Rights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kitchen-kings-and-queens-crown-your-channel-with-a-name/"><u>[New] Kitchen Kings & Queens  Crown Your Channel With a Name</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>[New] Learn to Record, Save, & Share YouTube Content  A Cost-Free Approach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfect-your-yt-profile-expert-tips-for-channel-descriptors/"><u>[New] Perfect Your YT Profile  Expert Tips for Channel Descriptors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>[New] Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>[New] Your Smartphone as an Artist’s Canvas  Producing Quality YouTube Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-iconic-beauty-personalities-to-follow-on-youtube-for-2024/"><u>[Updated] 10 Iconic Beauty Personalities to Follow on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-parody-songs-that-totally-crack-you-up/"><u>[Updated] 2024 Approved  10 Parody Songs That Totally Crack You Up</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[Updated] 2024 Approved  Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-gamers-guide-to-high-quality-in-game-broadcasts/"><u>[Updated] 2024 Approved  Gamers' Guide to High-Quality In-Game Broadcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-balancing-professional-and-personal-profiles/"><u>[Updated] Balancing Professional and Personal Profiles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-vidcon-the-most-important-youtube-events/"><u>[Updated] Beyond VidCon - The Most Important YouTube Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-clipmaster-software-for-2024/"><u>[Updated] ClipMaster Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads-for-2024/"><u>[Updated] Cutting-Edge Techniques  A Guide to Next-Level Effectiveness in Your YouTube Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit/"><u>[Updated] Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-get-more-viewers-with-social-media-marketing-for-youtube/"><u>[Updated] Get More Viewers with Social Media Marketing for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-screen-re-recorders-for-youtube-performances/"><u>[Updated] Ideal Screen Re-Recorders for YouTube Performances</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-brilliance-in-display-top-5-for-grading-professionals/"><u>[Updated] In 2024, Brilliance in Display  TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-mastery-leverage-customizable-description-templates-for-more-followers/"><u>[Updated] In 2024, Channel Mastery  Leverage Customizable Description Templates for More Followers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-corrected-clandestine-miniature-video-absence/"><u>[Updated] In 2024, Corrected  Clandestine Miniature Video Absence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-perfect-panel-of-playback-with-youtube/"><u>[Updated] In 2024, Crafting the Perfect Panel of Playback with YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] In 2024, Cutting-Edge Video Edits Without Spending  Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-pixels-at-your-command-curve-artfully/"><u>[Updated] In 2024, Digital Pixels at Your Command  Curve Artfully</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[Updated] In 2024, Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-melody-matters-device-reviews/"><u>[Updated] In 2024, Melody Matters  Device Reviews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-visionaries-in-multimedia-creation/"><u>[Updated] Premier Visionaries in Multimedia Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>[Updated] The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-future-of-advertising-on-youtube-shorts/"><u>[Updated] The Future of Advertising on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-creativity-with-youtubes-green-screens/"><u>[Updated] Unleash Your Creativity with YouTube's Green Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/15-key-improvements-added-to-windows-11s-next-version/"><u>15 Key Improvements Added to Windows 11'S Next Version</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-minimizing-moments-edit-longer-videos-for-youtube/"><u>2024 Approved  Minimizing Moments  Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-through-windows-10s-media-importation-elegantly/"><u>2024 Approved  Navigate Through Windows 10'S Media Importation Elegantly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-sparkle-and-shine-tips-to-preserve-your-snapstreak/"><u>2024 Approved  Sparkle and Shine  Tips to Preserve Your Snapstreak</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>2024 Approved  The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>2024 Approved  The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-the-power-of-free-high-end-3d-video-players/"><u>2024 Approved  Unleashing the Power of Free, High-End 3D Video Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-earnings-guide-policy-overhaul-explained/"><u>2024 Approved  YouTube Earnings Guide  Policy Overhaul Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/adding-personal-touch-the-art-of-typeface-integration-in-ae-for-2024/"><u>Adding Personal Touch  The Art of Typeface Integration in AE for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6s-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-stories-the-ultimate-youtube-channel-list-for-2024/"><u>Crafting Stories - The Ultimate YouTube Channel List for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-nubia-z50s-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Nubia Z50S Pro.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-playtime-to-prestige-capturing-sims-mastery-for-2024/"><u>From Playtime to Prestige  Capturing Sims Mastery for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y02t-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-f5-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco F5 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-s23plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy S23+ PC | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-video-cuts-selective-mac-mp4-slicers-for-2024/"><u>Optimize Video Cuts  Selective Mac MP4 Slicers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-avengers-the-marvellous-world-builders-for-2024/"><u>Pioneering Avengers  The Marvellous World-Builders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reversal-techniques-a-new-perspective-on-youtube-videos-for-2024/"><u>Reversal Techniques  A New Perspective on YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-ideal-ringtone-for-your-pixel/"><u>Selecting the Ideal Ringtone for Your Pixel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-the-same-depth/"><u>Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thrifty-filmmaker-best-economical-camera-lineup-for-2024/"><u>Thrifty Filmmaker  Best Economical Camera Lineup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-software-for-game-recordings-for-2024/"><u>Top Software for Game Recordings for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-11-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turn-your-youtube-tracks-into-mp3-with-macos-for-2024/"><u>Turn Your YouTube Tracks Into MP3 with MacOS for 2024</u></a></li>
+</ul></div>

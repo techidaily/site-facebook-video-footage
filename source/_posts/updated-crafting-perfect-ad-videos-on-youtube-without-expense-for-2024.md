@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Perfect Ad Videos on YouTube Without Expense for 2024"
-date: 2024-06-05T08:35:00.401Z
-updated: 2024-06-06T08:35:00.401Z
+date: 2024-07-31T22:16:18.508Z
+updated: 2024-08-01T22:16:18.508Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 # How to Create Video Ads for Free in YouTube Video Builder
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -76,6 +79,9 @@ Because YouTube Video Builder is in its Beta phase, at the time of this writing 
 
 Once your request is approved, you can then use the same Google account to sign in to the **YouTube Video Builder** portal, and start preparing your video advertisements. Here, it is important to understand that the Google account that you use to send an access request and prepare the videos must be the same ID that has your active and functional YouTube Channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 4: How to Make Video Ads for Free with YouTube Video Builder?
 
 Once you have access to the Beta version of **YouTube Video Builder**, you can start creating the video ads for free. You can learn the process of how this can be done by following the simple instructions given below:
@@ -88,6 +94,9 @@ After signing in to your **YouTube Video Builder** account, on the main interfac
 
 Next, from the **Color & Logo** section, choose the base (background) and text colors using their corresponding tools from under the **Brand colors** section.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-color-logo.jpg)
 
 After this, insert an image of your brand logo in the block under the **Logos** category.
@@ -102,16 +111,29 @@ When you are on the **Images & Text** section of the navigation bar, pick the hi
 
 Now, scroll down to the **Text** section, and add the relevant content in the available text input fields. Make sure to add a compelling **Call to action** text to give the viewers a free passage to connect with you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder with CTA ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-call-to-action-texts.jpg)
 
 #### Step 3: Make Cosmetic Manipulations
 
 From the **Pick a Font** section of the navigation bar, click the **Google Fonts catalog** link to search for a unique font, and once found, type its name in the available field to use that font.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder - change font ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-pickup-video-text-fonts.jpg)
 
 Alternatively, you can leave the default one selected. When on the **Select Music** section, choose your preferred background music from the drop-down list that is present under the section.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder with music ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-music-for-video.jpg)
 
 Finally, click **Create video**, and wait while **YouTube Video Builder** takes you to the **Preview, Save, Share** section, and generates your video.
@@ -122,10 +144,16 @@ Finally, click **Create video**, and wait while **YouTube Video Builder** takes 
 
 After the video is generated, play to preview the film. If everything looks good, click **Save video**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![ YouTube Video Builder Video Preview and Save  ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-save-preview-video.jpg)
 
 On the next page, click **Copy** to copy the video link, and share it with your friends, colleagues, and family members for their feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Video Builder Video Copy Link  ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-copy-link.jpg)
 
 Next, scroll down to get to the **Create Campaign** section of the navigation bar, and from the left screen, click **Create campaign** to begin a campaign to promote your brand and/or product(s).
@@ -164,3 +192,37 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-10-premier-igtv-horizontal-video-editors/"><u>[New] 10 Premier IGTV Horizontal Video Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-30-tips-and-tricks-to-take-your-youtube-shorts-templates-to-the-next-level/"><u>[New] 2024 Approved  30 Tips & Tricks to Take Your YouTube Shorts Templates to the Next Level</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-boost-your-instagram-with-easily-shareable-gifs-step-by-step/"><u>[New] Boost Your Instagram with Easily Shareable GIFs (Step-by-Step)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-capture-stillness-on-the-go-without-tripods-for-2024/"><u>[New] Capture Stillness on the Go without Tripods for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-a-memorable-and-unique-moniker-for-your-filmora-content-for-2024/"><u>[New] Creating a Memorable and Unique Moniker for Your Filmora Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-edu-stream-100-cutting-edge-learning-yt/"><u>[New] In 2024, Edu-Stream 100  Cutting-Edge Learning YT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ethereal-frame-deacceleration-manual/"><u>[New] In 2024, Ethereal Frame Deacceleration Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-experts-choice-extracting-youtube-video-intros-online/"><u>[New] In 2024, Expert's Choice  Extracting Youtube Video Intros Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-video-setup-luminosity/"><u>[New] The Ultimate Guide to Video Setup Luminosity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-raw-footage-into-polished-youtube-videos-with-finalcut/"><u>[New] Transforming Raw Footage Into Polished YouTube Videos with FinalCut</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unblock-your-youtube-experience-easy-solutions-for-chromefirefox/"><u>[New] Unblock Your YouTube Experience  Easy Solutions for Chrome/Firefox</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-seo-mastery-balancing-titles-and-tags/"><u>[New] YouTube SEO Mastery  Balancing Titles and Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-addressing-missing-image-display-in-youtubes-shorts/"><u>[Updated] 2024 Approved  Addressing Missing Image Display in YouTubes Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-download-destiny-10-online-tool-reviewers-choice/"><u>[Updated] 2024 Approved  Direct Download Destiny  #10 Online Tool Reviewers' Choice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[Updated] 2024 Approved  Eco-Effect Filmmaking  YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-and-save-youtube-gallery-files-for-2024/"><u>[Updated] Extract and Save YouTube Gallery Files for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-film-perfection-best-15-lut-list-unveiled/"><u>[Updated] GoPro Film Perfection  Best 15 LUT List Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] Gourmet Gurus  Who You Should Subscribe To</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cognitive-cornerstones-essential-educational-content-yt/"><u>[Updated] In 2024, Cognitive Cornerstones  Essential Educational Content YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-instantaneous-timestamping-for-your-youtube-urls/"><u>[Updated] Instantaneous Timestamping for Your YouTube URLs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-orchestrated-journey-through-youtubes-undisclosed-content/"><u>[Updated] Orchestrated Journey Through YouTube's Undisclosed Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-path-to-youtube-earnings-setting-up-and-selling-content/"><u>[Updated] Your Path to YouTube Earnings  Setting Up and Selling Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-securing-your-youtube-profitability-monetization-auditing-guide/"><u>In 2024, Securing Your YouTube Profitability  Monetization Auditing Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-poco-f5-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco F5 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/merging-melodies-the-art-of-crossfading-for-2024/"><u>Merging Melodies  The Art of Crossfading for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-tips-top-11-inexpensive-youtube-naming-tools-for-2024/"><u>Pro Tips  Top 11 Inexpensive YouTube Naming Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-interaction-for-sustainable-subscriber-acquisition-for-2024/"><u>Strategic Interaction for Sustainable Subscriber Acquisition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-viewing-experience-with-accelerated-or-slowed-videos-for-2024/"><u>Streamline Your Viewing Experience with Accelerated or Slowed Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of X50i+?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-seo-masterclass-the-ultimate-toolkit-for-higher-traffic-for-2024/"><u>YouTube SEO Masterclass  The Ultimate Toolkit for Higher Traffic for 2024</u></a></li>
+</ul></div>

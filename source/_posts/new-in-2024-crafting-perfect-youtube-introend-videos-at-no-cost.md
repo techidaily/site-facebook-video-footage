@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Crafting Perfect YouTube Intro/End Videos at No Cost"
-date: 2024-06-05T10:34:36.243Z
-updated: 2024-06-06T10:34:36.243Z
+date: 2024-08-01T01:41:40.563Z
+updated: 2024-08-02T01:41:40.563Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/qjRWM7DRMdHfIsseqmuv0-b1A-o=/540x405/fi
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/qjRWM7DRMdHfIsseqmuv0-b1A-o=/540x405/fi
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -66,6 +72,9 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -77,6 +86,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -110,6 +122,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -126,3 +141,41 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-gif-making-transforming-youtube-videos-into-animated-forms/"><u>[New] 2024 Approved  DIY GIF Making  Transforming YouTube Videos Into Animated Forms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-prosight-review-the-next-big-step-beyond-manycam/"><u>[New] 2024 Approved  ProSight Review  The Next Big Step Beyond ManyCam</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-profits-via-celebrity-skincare-channels-for-2024/"><u>[New] Elevating Profits via Celebrity Skincare Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-insights-on-asmr-videos-unveiled/"><u>[New] In 2024, Essential Insights on ASMR Videos Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-teachers-using-youtube-in-classroom/"><u>[New] Tips for Teachers Using YouTube in Classroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-name-makers-plus-creative-idea-sparking-techniques/"><u>[New] Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-transcription-aid-for-your-youtube-videos/"><u>[Updated] 2024 Approved  Best Transcription Aid for Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] 2024 Approved  Elevate Your Channel  Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-audio-techniques-capturing-clear-sound/"><u>[Updated] 2024 Approved  Essential Audio Techniques  Capturing Clear Sound</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[Updated] In 2024, Downloadable Instagram Footage  Tech Tips for Computers & Macs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[Updated] Innovative Responses  The Ultimate Guide to YouTube Reacts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-installation-walkthrough-for-moviemaker-6-users/"><u>[Updated] Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integral-rulebook-ensuring-harmonious-video-sharing/"><u>[Updated] Integral Rulebook  Ensuring Harmonious Video Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-key-tactics-for-identifying-potential-youtube-co-stars/"><u>[Updated] Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-iphone-x-the-ultimate-guide-for-users/"><u>[Updated] Mastering iPhone X  The Ultimate Guide for Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-micro-business-video-advertising-insights/"><u>[Updated] Micro-Business Video Advertising Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-solutions-for-disordering-your-youtube-queue/"><u>[Updated] Speedy Solutions for Disordering Your YouTube Queue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-decision-embrace-a-youtube-mcn-or-not/"><u>[Updated] The Ultimate Decision  Embrace a YouTube MCN or Not</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-vs-shadowplay-which-to-choose/"><u>2024 Approved  OBS vs ShadowPlay - Which to Choose</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>2024 Approved  Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-6s-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 6s - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-impeccable-srt-from-xml-ssa-and-ttml-files-for-2024/"><u>Crafting Impeccable SRT From XML, SSA & TTML Files for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-system-performance-with-s620-drivers/"><u>Efficient System Performance with S620 Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-change-the-privacy-setting-on-your-youtube-videos/"><u>In 2024, How to Change the Privacy Setting on Your YouTube Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-scansnap-s1500-firmware-updates/"><u>Mastering ScanSnap S1500 Firmware Updates</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-monetization-minimum-required-views-to-profit/"><u>Mastering YouTube Monetization  Minimum Required Views to Profit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-to-stellar-custom-shorts-thumbnails-for-2024/"><u>Step-by-Step to Stellar Custom Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-numbers-game-how-much-does-adsense-pay-on-a-thousand-video-glimpses-in-2024/"><u>The Numbers Game  How Much Does AdSense Pay on a Thousand Video Glimpses, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-secret-to-an-original-youtube-channel-name-revealed-for-2024/"><u>The Secret to an Original YouTube Channel Name Revealed for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-audio-alchemy-from-youtube-to-mp3-masters-for-2024/"><u>Top 10 Audio Alchemy  From YouTube to Mp3 Masters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-video-potential-with-expert-chroma-techniques-for-2024/"><u>Unlock Video Potential with Expert Chroma Techniques for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-13-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13 Pro?</u></a></li>
+</ul></div>

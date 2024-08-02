@@ -1,7 +1,7 @@
 ---
 title: "[New] Affordable Strategies for Engaging YouTube Opening & End Titles for 2024"
-date: 2024-06-05T07:55:06.562Z
-updated: 2024-06-06T07:55:06.562Z
+date: 2024-07-31T21:09:00.664Z
+updated: 2024-08-01T21:09:00.664Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -40,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -66,6 +81,9 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -77,6 +95,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -110,6 +131,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -126,3 +150,42 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-distinctive-sphere-of-influence/"><u>[New] 2024 Approved  Crafting a Distinctive Sphere of Influence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-youtube-end-screen-and-cards-effectively/"><u>[New] How to Add YouTube End Screen and Cards Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-web-experience-with-these-leading-screen-capturers/"><u>[New] In 2024, Streamline Your Web Experience with These Leading Screen Capturers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-latest-trends-reels-and-stories-for-2024/"><u>[New] Mastering Instagram's Latest Trends  Reels and Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-youtube-time-multi-stream-techniques/"><u>[New] Maximizing Your YouTube Time  Multi-Stream Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>[New] Unbeatable FreeFire Gaming  Hashtag & Strategy Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-editing-for-dummies-10-essential-youtube-insights/"><u>[New] Video Editing for Dummies  10 Essential YouTube Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles/"><u>[New] Vlogging Hurdles  How to Triumph Over Ten Common Obstacles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>[New] Youtube to Animated GIFs Conversion Guide  Online Tutorial for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-blueprint-making-inspiring-lifestyle-broadcasts/"><u>[Updated] 2024 Approved  Blueprint  Making Inspiring Lifestyle Broadcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-curated-collection-best-free-footage-websites-ranked/"><u>[Updated] 2024 Approved  Curated Collection  Best Free Footage Websites Ranked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>[Updated] 2024 Approved  Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-advice-for-staying-copyright-compliant-online/"><u>[Updated] 2024 Approved  Expert Advice for Staying Copyright Compliant Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts-for-2024/"><u>[Updated] Choosing the Right Video Sharing Platform  TikTok vs YouTubes' Shorts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-techniques-for-procuring-facebook-vids/"><u>[Updated] Essential Techniques for Procuring Facebook Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-for-2024/"><u>[Updated] How Often Do YouTubers Receive Income for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivating-audiences-adopting-youtube-vlogger-charisma/"><u>[Updated] In 2024, Captivating Audiences  Adopting YouTube Vlogger Charisma</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-a-course-to-riches-youtubes-monetary-milestones/"><u>[Updated] In 2024, Charting a Course to Riches  YouTube's Monetary Milestones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-subscription-the-art-of-positive-engagement/"><u>[Updated] Mastering Subscription  The Art of Positive Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-powerful-techniques-including-yt-videos-in-slides/"><u>[Updated] Powerful Techniques  Including YT Videos in Slides</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-videographers-guide-to-efficient-color-keying/"><u>[Updated] Professional Videographer's Guide to Efficient Color-Keying</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[Updated] Securing Your Spatial Content  Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-solo-creators-path-to-dynamic-animation-art/"><u>[Updated] The Solo Creator’s Path to Dynamic Animation Art</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-untold-chronicles-adventures-in-antique-literature/"><u>[Updated] The Untold Chronicles  Adventures in Antique Literature</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-thrifty-filmmaker-best-economical-camera-lineup/"><u>[Updated] Thrifty Filmmaker  Best Economical Camera Lineup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-narrative-enhancer/"><u>[Updated] Video Narrative Enhancer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>2024 Approved  Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>2024 Approved  The Video Sharing Triad  Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-f23-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo F23 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-up-vfx-game-discover-these-8-sites-for-free-backdrops-and-footage-for-2024/"><u>Step Up VFX Game - Discover These 8 Sites for FREE Backdrops & Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stream-masters-symposium-for-2024/"><u>Stream Masters Symposium for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-moto-e13-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Moto E13 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-five-new-facebook-features-you-should-know/"><u>Top Five New Facebook Features You Should Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unmatched-camera-and-recording-app-selection-on-iphones-and-androids-for-2024/"><u>Unmatched Camera & Recording App Selection on iPhones and Androids for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Meizu 21 Pro | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Express Thumbnails for Epic Battle Royale"
-date: 2024-06-05T09:53:43.020Z
-updated: 2024-06-06T09:53:43.020Z
+date: 2024-08-01T00:31:24.526Z
+updated: 2024-08-02T00:31:24.526Z
 tags:
   - ai video
   - ai youtube
@@ -40,10 +40,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -56,6 +62,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
@@ -72,10 +81,16 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
@@ -101,6 +116,9 @@ Follow @Ollie Mattison
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## The YouTuber's Guide to Picking Perfect Recording Tools
 
 # YouTube Video Shooting Equipment List: What You Need to Start Recording Videos
@@ -115,10 +133,16 @@ Follow @Ollie Mattison
 
  On the other hand, buying the most expensive microphones, lighting equipment or cameras doesn't guarantee that your videos will be a major success once you post them on YouTube. Instead, you should look for the equipment that is best suited for the type of videos you want to create. Let's explore the equipment that is necessary for running a successful YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Equipment Will You Need to Start Your New YouTube Channel?
 
  The process of creating a video can be divided into three different stages, the pre-production, production, and post-production. Each stage has its own tools, without which completing a video would be impossible. In this article, we will be covering the equipment that will make the production stage of the process much smoother, and it will also help you to go through post-production much faster.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Equipment 1: Camera
 
  You can't shoot a video without a camera, but which camera you're going to use depends on the type of the video you want to produce. Sometimes the camera that offers the most shooting options is not the best choice, and different factors like size or the weight of the camera can be much more important than the sheer quality of the footage.
@@ -129,6 +153,9 @@ Follow @Ollie Mattison
 
  You can also [make YouTube videos with just your phone](https://tools.techidaily.com/wondershare/filmora/download/), check this video for more details.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2. Action Cameras
@@ -165,6 +192,9 @@ Follow @Ollie Mattison
 
  Check: [best microphones for YouTube vloggers.]( https://filmora.wondershare.com/vlogger/best-microphone-for-youtuber-videos.html)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Equipment 3: Video Stabilization Equipment
 
  Holding a camera in your hand while shooting a video is often not the best idea, because even breathing may cause the camera to move and produce camera shakes. That's where [tripods](https://tools.techidaily.com/wondershare/filmora/download/), steadicams, [gimbals](https://tools.techidaily.com/wondershare/filmora/download/), rigs and other video stabilization equipment comes in. As a matter of fact, you should only shoot handheld videos when you want to achieve this effect, while all another camera movement should be avoided without the use of appropriate equipment.
@@ -173,6 +203,23 @@ Follow @Ollie Mattison
 
  Check our list of [best camera stabilizer for YouTubers in 2018]( https://filmora.wondershare.com/vlogger/best-camera-stabilizers-for-youtube.html).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Equipment 4: Lighting Equipment
 
  Instead of struggling with natural light sources and having to deal with shadows, you can simply use the [lighting equipment](https://tools.techidaily.com/wondershare/filmora/download/) to equalize the light values in a shot. Of course, whether or not you will use artificial light in your video depends on a number of factors, including the location and the visual style you're trying to achieve.
@@ -202,3 +249,40 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-demystify-video-editing-with-free-vimeo-resources/"><u>[New] 2024 Approved  Demystify Video Editing with Free Vimeo Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[New] 2024 Approved  Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-immersion-youtubes-best-vr-content/"><u>[New] 2024 Approved  Dive Into Immersion  YouTube's Best VR Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-backward-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>[New] Backward Playmanship  A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-compelling-short-videos-for-youtube-a-top-10-list-for-2024/"><u>[New] Crafting Compelling Short Videos for YouTube - A Top 10 List for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ace-the-art-of-online-fame-trending-on-youtube/"><u>[New] In 2024, Ace the Art of Online Fame  Trending on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-watch-experience-youtube-list-shuffle/"><u>[New] In 2024, Elevating Your Watch Experience  YouTube List Shuffle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-why-filmora-captivates-its-top-ten-creative-capabilities/"><u>[New] In 2024, Why Filmora Captivates  Its Top Ten Creative Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleashing-creative-potential-with-instas-bokeh-effects/"><u>[New] Unleashing Creative Potential with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-collect-priceless-imagery-from-trusted-4-youtube-directories/"><u>[Updated] 2024 Approved  Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-content-creation-premier-android-editors-for-2024/"><u>[Updated] Cutting-Edge Content Creation  Premier Android Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channels-templates-at-no-charge/"><u>[Updated] Elevate Your Channels - Templates at No Charge!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-crafting-top-notch-video-hashtags/"><u>[Updated] Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-ultimate-green-screen-implementation-techniques/"><u>[Updated] Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-enhancing-imagery-with-illustrators-motion-blur-features/"><u>2024 Approved  Enhancing Imagery with Illustrator's Motion Blur Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>2024 Approved  Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/adding-media-instagrams-guide/"><u>Adding Media  Instagram's Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-prevent-social-discomfort-block-options/"><u>In 2024, Prevent Social Discomfort  Block Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/next-gen-videostreaming-hubs-triumph-beyond-youtube-for-2024/"><u>Next-Gen Videostreaming Hubs  Triumph Beyond Youtube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-audibility-techniques-to-enhance-recording-quality-for-2024/"><u>Optimal Audibility  Techniques to Enhance Recording Quality for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-mp4-decryption-issues/"><u>Overcoming MP4 Decryption Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-guide-youtube-videos-on-instagram-feed-for-2024/"><u>Perfect Guide  YouTube Videos on Instagram Feed for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-lag-with-easy-tweaks/"><u>Reduce Lag with Easy Tweaks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success-for-2024/"><u>Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success for 2024</u></a></li>
+<li><a href="https://techidaily.com/sign-wpd-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpd file Online for Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlining-your-videography-with-adobe-connects-features-for-2024/"><u>Streamlining Your Videography with Adobe Connect's Features for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-engaging-with-the-online-gaming-community-for-2024/"><u>The Art of Engaging with the Online Gaming Community for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unsealing-the-secret-permanently-ditch-youtube-shorts-for-2024/"><u>Unsealing the Secret  Permanently Ditch YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/watch-what-you-liked-no-more-unveiling-yt-deletions-online-for-2024/"><u>Watch What You Liked No More  Unveiling YT Deletions Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-guide-to-choosing-the-ideal-youtube-downloader-android-for-2024/"><u>Your Guide to Choosing the Ideal YouTube Downloader (Android) for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Creating YouTube Video Thumbnails"
-date: 2024-06-05T09:30:54.470Z
-updated: 2024-06-06T09:30:54.470Z
+date: 2024-07-31T23:52:13.574Z
+updated: 2024-08-01T23:52:13.574Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 # How To Add Custom Thumbnails to Your YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +42,9 @@ YouTube custom thumbnails are a great way to get people's attention to your YouT
 
 We have just made a video tutorial about how to make a YouTube video thumbnail, check it below to find out the tips and tricks of making customized YouTube thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Part 1: How to Make a Thumbnail for YouTube and Add Custom Thumbnails to YouTube
@@ -87,6 +93,9 @@ In this part, we’ll be going over how to change a thumbnail image on YouTube. 
 
 * After signing into YouTube with your Google account, click on your profile on the top right corner. Click on **YouTube Studio** from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Studio button](https://images.wondershare.com/filmora/article-images/change-youtube-thumbnail-find-youtube-studio.jpg)
 
 * On the left side of the page, click on **Videos** and then find your video and click on the **details** button.
@@ -100,6 +109,9 @@ In this part, we’ll be going over how to change a thumbnail image on YouTube. 
 
 If you don't have an image to upload but you want to check out some online resources to make your own, check out our [Top YouTube Thumbnail Makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Things You Need to Know Before Making a Custom Thumbnail
 
 * About the proper YouTube video thumbnail size: Your thumbnail should be 1280x720 pixels in size and be less than 2MB. The minimum width of the image is 640 pixels.
@@ -113,6 +125,9 @@ You may also like: [How to Make YouTube Channel Art](https://tools.techidaily.co
 
 To make a creative YouTube video, you may also need a powerful video editing software. Check how to edit a YouTube video in Filmora video editor and download it to try.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You may also like: [Best video editing software for YouTube](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -127,6 +142,9 @@ Your thumbnail should tell a story; it should be clear from looking at it what v
 
 Very few people intentionally use thumbnails that have nothing to do with the content of their videos – i.e, most people understand not to use a picture of a kitten in the thumbnail for their tech review, unless maybe their kitten is the one doing the review (which would be adorable, someone should do that). People who want serious advice won’t click, and people who click to see a kitten will click away fast.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail Should be relevant](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-should-stay-on-topic.jpg)
 
 _This thumbnail had better be for a kitten’s iPhone review video or people will click away. Fast._
@@ -141,6 +159,9 @@ Often, they will be looking for the answer to a specific question and will compl
 
 Sometimes big channels can get away with stuff like this, because large portions of their audiences are interested in them as people and will already be curious about anything they post. This technique will not bring in new viewers, though.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail:  Don’t Be Mysterious ](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-tips-2.jpg)
 
 _If this came up in a search for ‘smoky eye tutorial’, would you click it?_
@@ -171,6 +192,9 @@ You want to use colors that will help you stand out from the other search result
 
 Beyond simply using colors that are different from other people’s colors, you should consider the emotions different colors trigger.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Thumbnail Making Tips](https://images.wondershare.com/filmora/article-images/youtube-thumbnail-use-color.jpg)
 
 _Maybe don’t use a lot of green and yellow in the thumbnail for your angry video rant?_
@@ -181,6 +205,10 @@ Usually, you’ll want to use a bit of text in your thumbnail. It might be the f
 
 The reason you should use huge text is so that people can read it. Remember that when people see your thumbnail in their search results, it will be much smaller than it will look while you are creating it. Text that looks big enough while you are creating your thumbnail will be much smaller when people are actually trying to read it, and that goes double for viewers watching on their small smartphone screens.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Frequently Asked Questions about YouTube Thumbnail
 
 #### 1\. What is YouTube Thumbnail?
@@ -199,6 +227,9 @@ Normally, if you have a good internet connection, you can see the thumbnail is c
 
 When you get more people watching your video for longer, it increases your watch time and tells YouTube’s search algorithm ‘people like this, rank it higher’. Being ranked higher gets you more views, and even more watch time. It’s a wonderful cycle that all begins with a great thumbnail (paired with a good title and the right tags).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -215,3 +246,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-become-a-youtube-live-expert-strategies-and-insights/"><u>[New] 2024 Approved  Become a YouTube Live Expert  Strategies and Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-budget-cameras-for-creating-quality-vlogs/"><u>[New] 2024 Approved  Best Budget Cameras for Creating Quality Vlogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-likes-understanding-youtubes-true-view-metrics-for-2024/"><u>[New] Beyond Likes  Understanding YouTube’s True View Metrics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-3-alternative-video-portals-for-2024/"><u>[New] Discover the Top 3 Alternative Video Portals for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-9-powerful-methods-to-make-money-on-your-youtube-shorts/"><u>[New] In 2024, 9 Powerful Methods to Make Money on Your YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beautifying-videos-for-youtube-viewers/"><u>[New] In 2024, Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-audience-expansion-with-these-channel-upgrades/"><u>[New] Instant Audience Expansion with These Channel Upgrades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-11-video-cameras-under-500-a-frugal-filmmakers-list/"><u>[New] Top 11 Video Cameras Under $500  A Frugal Filmmaker's List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[Updated] 2024 Approved  Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-hacks-for-youtube-short-creators/"><u>[Updated] 2024 Approved  Earning Hacks for YouTube Short Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] 2024 Approved  Elevate Your Recordings  Doing Without a Microphone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-phototext-techniques-for-stunning-3d-effects/"><u>[Updated] Advanced PhotoText Techniques for Stunning 3D Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-all-you-need-to-know-understanding-video-aspect-ratios-on-youtube-for-2024/"><u>[Updated] All You Need to Know  Understanding Video ASPECT RATIOS on YOUTUBE for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-youtube-success-mastery-with-tubebuddy-for-2024/"><u>[Updated] Boosting YouTube Success  Mastery with TubeBuddy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-delve-into-youtube-metrics-using-the-power-of-social-blade-for-2024/"><u>[Updated] Delve Into YouTube Metrics Using the Power of Social Blade for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-income-mechanics-of-tseries-on-youtube-for-2024/"><u>[Updated] Examining the Income Mechanics of TSeries on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-access-to-6-premium-thumbnail-generators-for-youtube-for-2024/"><u>[Updated] Exclusive Access to 6 Premium Thumbnail Generators for YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-enhancing-team-dynamics-through-effective-video-calls/"><u>[Updated] In 2024, Enhancing Team Dynamics Through Effective Video Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-world-in-high-definition-on-youtube/"><u>[Updated] In 2024, Explore the World in High Definition on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-legality-of-recording-on-youtube-platform/"><u>[Updated] Legality of Recording on YouTube Platform?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-world-of-hulu-recordings-windowsmaciosandroid-for-2024/"><u>[Updated] Navigating the World of Hulu Recordings  Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/"><u>[Updated] Profit Pinnacle  Peak Your Income by Monetizing YouTube Mobile Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtubes-potential-with-key-rank-tracker-software/"><u>[Updated] Unlock YouTube's Potential with Key Rank Tracker Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-monetization-the-new-rules-everyone-hates/"><u>[Updated] YouTube Monetization  The New Rules Everyone Hates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-tutorial-personalize-and-elevate-your-short-videos/"><u>2024 Approved  Step-by-Step Tutorial  Personalize and Elevate Your Short Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-shorts-content-strategy-for-success/"><u>2024 Approved  YouTube Shorts  Content Strategy for Success</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-camon-20-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Camon 20 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/listenlogic-evaluating-alternatives-to-dacast/"><u>ListenLogic  Evaluating Alternatives to DaCast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pre-production-meets-post-production-premiere-and-youtube-for-2024/"><u>Pre-Production Meets Post-Production  Premiere and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-validating-your-online-identity-on-youtube-for-2024/"><u>Step by Step  Validating Your Online Identity on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-escape-artists-manual-to-disguised-youtube-archives-for-2024/"><u>The Escape Artist's Manual to Disguised YouTube Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook-for-2024/"><u>The Key to Earning on YouTube  In-Depth Ad Revenue Guidebook for 2024</u></a></li>
+</ul></div>

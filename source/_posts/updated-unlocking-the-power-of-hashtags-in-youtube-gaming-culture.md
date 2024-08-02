@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Power of Hashtags in YouTube Gaming Culture"
-date: 2024-06-05T09:25:04.225Z
-updated: 2024-06-06T09:25:04.225Z
+date: 2024-07-31T23:42:20.852Z
+updated: 2024-08-01T23:42:20.852Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [Updated] Unlocking the Power of Hashtags in YouTube Gaming Culture"
 excerpt: "This Article Describes [Updated] Unlocking the Power of Hashtags in YouTube Gaming Culture"
 keywords: "GamingYouTubeTrends,HashtagInYTCulture,PowerfulHashtags,VideoGameMarketing,OnlineGamerCommunity,InfluentialGamingTags,YoutubeGamersEngagement"
-thumbnail: https://www.lifewire.com/thmb/Xmx-BiAhnz7t1UWUT3b_5hfp3uM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Echo-Dot-vs-HomePod-Mini-ea64d290bbc2457494228d7c763f9e26.jpg
+thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143743513f29d02bcd22967183.jpg
 ---
 
 ## Unlocking the Power of Hashtags in YouTube Gaming Culture
@@ -22,6 +22,9 @@ That's why we've extensively researched you and compiled a list of the 30 **best
 
 So, if you want to take your YouTube gaming channel to the next level, read on!
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 30 Best YouTube Gaming Hashtags
 
 In recent years, YouTube has become the most popular platform for gamers worldwide. However, with millions of users uploading new videos daily, making your content stand out from the rest can take time and effort.
@@ -97,6 +100,9 @@ Therefore, if you want more views and engagement on your YouTube gaming videos, 
 
 As to the price, TubeBuddy comes with a Pro version for $7.20/month, a Star version for $15.20/month, and a Legend version for $39.20/month in addition to the free version.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tube ranker tool for youtube gaming hashtags](https://images.wondershare.com/filmora/article-images/2023/03/tube-ranker-tool-for-youtube-gaming-hashtags.png)
 
 ### [SEO Book](http://www.seobook.com/)
@@ -105,8 +111,15 @@ SEOBook is an excellent website for learning about search engine optimization (S
 
 The tool can help you generate relevant hashtags for your YouTube gaming videos and make your content more visible.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![seobook for youtube gaming hashtags](https://images.wondershare.com/filmora/article-images/2023/03/seobook-for-youtube-gaming-hashtags.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** _If you want to optimize your YouTube gaming videos' descriptions, tags and titles,_ [_click here to learn how!_](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -143,6 +156,9 @@ Moreover, we've recommended using Filmora to quickly screen record or edit your 
 
 We hope you've enjoyed reading this article and can now use the right hashtags for your YouTube gaming content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: Using Filmora To Screen Record Or Edit The Gaming Video
 
 Although we have talked about the most popular gaming hashtags and the useful tools for you videos, meanwhile, the quality and the content of the video are worth of high attention.
@@ -187,6 +203,9 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Steps for Controlling Video Comment Settings in YouTube
 
 # How to Turn on or off Comments on YouTube
@@ -211,6 +230,9 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
@@ -263,6 +285,9 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -285,6 +310,18 @@ From under the **Audience** section in the right window of the **Video details**
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -339,12 +376,18 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
@@ -357,18 +400,28 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
 
 Back on the **YouTube Studio** page, click **Content** from the left pane. From the right section, check the **Video** box at the top of the list to select all the videos the channel has. Click **Edit** from the column header, and click **Comments** from the menu that comes up. From the **New value** drop-down list, choose your preferred allowance option for the comments, click **UPDATE VIDEOS** from the upper-right area, check the **I understand the implications of this action** box, and click **UPDATE VIDEOS** to allow comments on all the videos of the channel.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Turn on or off YouTube content commnets settings](https://images.wondershare.com/filmora/article-images/turn-on-off-channel-content-comments-settings.jpg)
 
 #### **Additional Info about Comments Options**
@@ -391,6 +444,9 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -427,6 +483,9 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -473,6 +532,9 @@ Use your favorite web browser to go to YouTube and sign in to your Google accoun
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
 #### Step 3: Turn Off Comments
@@ -485,12 +547,18 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
@@ -519,6 +587,9 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -541,6 +612,9 @@ From under the **Audience** section in the right window of the **Video details**
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -555,6 +629,9 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -569,6 +646,9 @@ That depends on the nature of the comments. For instance, if you modify the sett
 
 It is easy to understand **how to turn on comments on YouTube**. The best thing is, the comments are enabled by default, and if you don’t need them, you can simply disable them by configuring the videos or the entire channel as ‘Made for kids’. If the comments on any video were enabled previously, and are disabled later on, the existing comments automatically disappear. They reappear when the comments on the video are reenabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -595,6 +675,9 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
@@ -619,6 +702,9 @@ Use the method explained above to get to the channel’s **Advanced settings** b
 
 Click the **Settings** icon from the bottom of the left pane one more time. On the **Settings** box, go to the **Upload defaults** category from the left pane, and go to **Advanced settings** from the right. From the **Comment visibility** drop-down list under the **Comments** section in the right, choose your preferred comment allowance type, and click **SAVE** to allow the comments on the videos the channel has.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Set up YouTube video  Comments visibility](https://images.wondershare.com/filmora/article-images/set-up-youtube-comments-visibilities.jpg)
 
 #### 3\. Set Comment Allowance for Videos
@@ -665,6 +751,13 @@ Hover the mouse over the target video in the right window, and click the **Detai
 
 From under the **Audience** section in the right window of the **Video details** page, select the **No, it’s not made for kids** radio button. Next, click **SHOW MORE**, scroll down to the **Comments and ratings** section, and choose your preferred privacy option from the **Comment visibility** drop-down list. Click **SAVE** from the upper-right area to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
@@ -683,6 +776,9 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -719,3 +815,56 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-youtube-shorts-all-you-need-to-understand/"><u>[New] 2024 Approved  Decoding YouTube Shorts  All You Need to Understand</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[New] 2024 Approved  Easy Guide  Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-8-best-free-websites-for-3d-text-psd-files/"><u>[New] 8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-balancing-acts-in-youtube-music-mixes-for-2024/"><u>[New] Balancing Acts in YouTube Music Mixes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-writing-testable-maintainable-javascript-code-for-2024/"><u>[New] Best Practices for Writing Testable, Maintainable JavaScript Code for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dive-into-the-world-of-interactive-video-features-on-youtube-for-2024/"><u>[New] Dive Into the World of Interactive Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-download-youtube-images-with-ease-online-for-2024/"><u>[New] Download YouTube Images with Ease Online for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-follows-into-genuine-subscriptions/"><u>[New] Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-creating-popularity-with-youtube-opens-for-2024/"><u>[New] Essential Guide to Creating Popularity with YouTube Opens for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>[New] Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[New] In 2024, Dividing Opinions  Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[New] In 2024, Elevate Engagement  Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] In 2024, Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamline-your-education-mac-audio-recording-best-practices/"><u>[New] In 2024, Streamline Your Education  Mac Audio Recording Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-5-video-and-picture-capturing-tools-for-smartphones/"><u>[New] Top 5 Video & Picture Capturing Tools for Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>[New] Unlock the Secret to YouTube Success  Reaching a Milestone of 500+ Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-vimeo-vs-youtube-a-content-creators-guide/"><u>[New] Vimeo Vs. YouTube  A Content Creator's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[Updated] 2024 Approved  A Chill-Out Guide  Selecting Inviting Winter Backgrounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-your-youtube-success-with-free-high-quality-audio/"><u>[Updated] 2024 Approved  Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[Updated] 2024 Approved  Dancing to the Tune  YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-5-ways-to-record-streaming-audio-online-for-2024/"><u>[Updated] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bright-ideas-effective-lighting-in-vlogging-for-2024/"><u>[Updated] Bright Ideas  Effective Lighting in Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-channel-themes-get-them-for-free-for-2024/"><u>[Updated] Creative Channel Themes  Get Them for Free for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-to-webm-video-transformers-for-2024/"><u>[Updated] Essential YouTube-to-WebM Video Transformers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-android-developers-insider-take-scouting-the-leading-fb-video-extractors/"><u>[Updated] In 2024, Android Developer's Insider Take  Scouting the Leading FB Video Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-fast-favorites-todays-highest-youtube-tracks/"><u>[Updated] In 2024, Fast Favorites  Today's Highest Youtube Tracks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-virtual-stickers-google-and-beyond-explored/"><u>[Updated] In 2024, Virtual Stickers  Google and Beyond Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[Updated] Mini Magnate  Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pixelperfect-editor/"><u>[Updated] PixelPerfect Editor</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-want-to-explore-every-shared-piece-by-friends-through-messaging/"><u>[Updated] Want to Explore Every Shared Piece By Friends Through Messaging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-seamless-date-insertion-into-photo-editing/"><u>2024 Approved  Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved  Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>2024 Approved  Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-finest-luts-to-amplify-your-work-in-lightroom/"><u>Discover the Finest LUTs to Amplify Your Work in LightRoom</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-screen-tuning-not-currently-active-gpu/"><u>Effortless Screen Tuning: Not Currently Active GPU</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-apples-iphones-wireless-charge-problem-with-these-7-tips-and-tricks/"><u>Fix Apple's iPhones Wireless Charge Problem with These 7 Tips and Tricks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a25-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A25 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-c210-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia C210 Without PUK Codes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xs-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-3-ways-to-use-zoom-video-converter/"><u>In 2024, Top 3 Ways to Use Zoom Video Converter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Flip Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-fixed-shorts-are-now-easily-accessible/"><u>In 2024, YouTube Fixed  Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide/"><u>New Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-youtubers-income-average-ad-revenues-per-play-for-2024/"><u>Understanding Youtuber's Income  Average Ad Revenues per Play for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>Updated 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-banner-blueprints-a-gamers-design-handbook/"><u>YouTube Banner Blueprints  A Gamers' Design Handbook</u></a></li>
+</ul></div>

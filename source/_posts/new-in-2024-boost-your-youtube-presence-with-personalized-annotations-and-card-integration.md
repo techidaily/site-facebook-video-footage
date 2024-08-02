@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Boost Your YouTube Presence with Personalized Annotations and Card Integration"
-date: 2024-06-05T11:41:24.873Z
-updated: 2024-06-06T11:41:24.873Z
+date: 2024-08-01T03:35:49.441Z
+updated: 2024-08-02T03:35:49.441Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 # How to Add YouTube Annotations and Cards?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,9 @@ YouTube Cards and Annotations are very useful if you want to encourage your view
 
 Do you want to make your YouTube video more attractive? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a such video editing software designed for YouTube creator. It not only allows you cut, trim, crop, zoom, reverse, rotate the video clips, but also makes the advanced features like green screen, PIP, tilt-shift and mosaic easy like a piece of cake. With Wondershare Filmora, you can ignite your YouTube videos with over 300 effects like Fashion, Beauty, Block Buster, Travel, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,11 +57,17 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 * Click on the "Video Manager" tab
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
@@ -75,11 +87,17 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * Click edit tab under the video screen shot you want to add the annotation on
 * Click on the "End screen & Annotation" tab
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 * Apply changes
@@ -134,3 +152,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[New] 2024 Approved  Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploiting-youtubes-creative-commons-in-media-making/"><u>[New] 2024 Approved  Exploiting YouTube's Creative Commons in Media Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[New] Break It Down  Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3-for-2024/"><u>[New] Ensuring Data Privacy While Transforming YouTube Video Audio to MP3 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>[New] In 2024, TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-x-master-recorder-software-pc-edition-for-2024/"><u>[New] X-Master Recorder Software, PC Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-live-excellence-a-comprehensive-tutorial/"><u>[New] YouTube Live Excellence  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[Updated] FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-blurred-lines-the-art-of-anonymizing-youtube-content/"><u>[Updated] In 2024, Blurred Lines  The Art of Anonymizing YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-tactics-for-viewing-subscribers-on-yt/"><u>[Updated] In 2024, Efficient Tactics for Viewing Subscribers on YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] In 2024, Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] In 2024, Expressiveness  Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[Updated] In 2024, Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-final-frontier-a-compreran-guide-to-editors-for-drone-clips/"><u>[Updated] In 2024, The Final Frontier  A Compreran Guide to Editors for Drone Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-twitter-video-converters-guide/"><u>[Updated] Premier Twitter Video Converters Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-fixes-to-enhance-your-youtube-reach/"><u>[Updated] Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-desktop-on-windows-3-simple-cost-free-methods/"><u>[Updated] Record Desktop on Windows  3 Simple, Cost-Free Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips  Selecting Android's Top Editors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seeking-access-to-all-mutually-shared-media-in-chats-for-2024/"><u>[Updated] Seeking Access to All Mutually-Shared Media in Chats for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[Updated] The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-time-traveling-through-retro-filmmaking-techniques/"><u>[Updated] Time Traveling Through Retro Filmmaking Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-your-youtube-potential-try-these-proven-growth-strategies/"><u>[Updated] Unlock Your YouTube Potential  Try These Proven Growth Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-sub4sub-does-it-really-work/"><u>2024 Approved  YouTube Sub4Sub  Does It Really Work?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-best-love-stories-perfectly-captured-weddings/"><u>2024 Approved  YouTube's Best Love Stories  Perfectly Captured Weddings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-collaboration-the-seamless-merge-of-zoom-and-gmail/"><u>Enhancing Collaboration  The Seamless Merge of Zoom & Gmail</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-note-30-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y100-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y100 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-10plus-best-image-to-video-makers-online-free-and-paid/"><u>New 10+ Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/playlist-extraction-step-by-step-from-youtubes-archive-for-2024/"><u>Playlist Extraction - Step by Step From YouTube's Archive for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-up-your-game-mastering-effective-video-title-and-tag-techniques-for-2024/"><u>Step Up Your Game  Mastering Effective Video Title & Tag Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-success-in-online-content-creation-for-2024/"><u>Strategies for Success in Online Content Creation for 2024</u></a></li>
+</ul></div>

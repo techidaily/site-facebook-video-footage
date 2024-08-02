@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Crafting Compelling End Screens in YouTube Videos"
-date: 2024-06-05T09:01:24.373Z
-updated: 2024-06-06T09:01:24.373Z
+date: 2024-07-31T23:01:37.440Z
+updated: 2024-08-01T23:01:37.440Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
 # How to Add YouTube End Screen and Cards Effectively
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,9 @@ The traditional annotation’s features are replaced by its successor YouTube Ca
 
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why You Need to Add End Screens and Cards to Videos
 
 There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
@@ -64,6 +70,9 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * Choose the cards type you want to make on "Add Card" drop down menu.
 * Click “create” button. Select the timeline. In the end, apply.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The types of YouTube cards
 
 * **Video or playlist**: links to other videos/the complete palylist on YouTube related or non-related to that specific videolinks to further purchase websites or specific product.
@@ -71,6 +80,10 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * **Poll**: Encourage viewers to participate in a poll (vote)
 * **Link**: links to a website which compliments whatever content is in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 4 Tips for Using YouTube Cards
 
 **1\.** You might be used to pointing to the part of your screen where you intend to put an annotation, but when you use YouTube Cards they might switch locations depending on what device a viewer is watching on.
@@ -81,10 +94,16 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 
  **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -101,3 +120,44 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/"><u>[New] 2024 Approved  A Symphony of Selection  Assembling Your Best Music Choices on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[New] 2024 Approved  Cutting Edge Cadence  Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-12-cameras-to-elevate-your-vlogs/"><u>[New] 2024 Approved  Discover the Best 12 Cameras to Elevate Your Vlogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-videos-effective-titles-and-keywords-on-youtube/"><u>[New] 2024 Approved  Enhance Your Videos  Effective Titles and Keywords on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-a-list-of-ig-edits-essential-apps-for-marketers/"><u>[New] 2024 Approved  The A-List of IG Edits  Essential Apps for Marketers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-and-download-50-free-youtube-banners/"><u>[New] Explore & Download  50 FREE YouTube Banners!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-earnings-on-youtube-shorts-a-guide/"><u>[New] In 2024, Boost Your Earnings on YouTube Shorts  A Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[New] In 2024, Optimal Voice Capture Systems Reviewed  Top 7 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-tackling-inaudible-speech-in-obs-captures/"><u>[New] In 2024, Tackling Inaudible Speech in OBS Captures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>[New] The Art of Analytics  Understanding Metrics Without Fancy Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-no-tripod-path-to-flawless-images/"><u>[New] The No-Tripod Path to Flawless Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[New] The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expanding-screen-coverage-of-youtube-videos/"><u>[Updated] 2024 Approved  Expanding Screen Coverage of YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[Updated] 2024 Approved  From Clicks to Cash  The Journey of YouTube's Ajay Nagar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-down-catch-more-the-best-url-reducers-for-youtube-for-2024/"><u>[Updated] Cut Down, Catch More  The Best URL Reducers for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-extracting-audio-from-youtube-video-playback-for-2024/"><u>[Updated] Expert Tips  Extracting Audio From YouTube Video Playback for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-size-independent-strategies-for-securing-sponsors/"><u>[Updated] In 2024, Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>[Updated] Keywords that Catapult  Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reviving-vintage-visual-storytelling-techniques-today/"><u>[Updated] Reviving Vintage Visual Storytelling Techniques Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-creating-youtube-video-thumbnails/"><u>[Updated] The Art of Creating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transformative-tactics-youtube-visibility-strategies/"><u>[Updated] Transformative Tactics  YouTube Visibility Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unfolding-wonders-your-practical-guide-to-travel-vlogging/"><u>[Updated] Unfolding Wonders  Your Practical Guide to Travel Vlogging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-agricultural-adventures-with-allies-top-10-farmers-titles/"><u>2024 Approved  Agricultural Adventures with Allies  Top 10 Farmer's Titles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-guide-to-crafting-twitter-video-inspired-animated-gifs/"><u>2024 Approved  Guide to Crafting Twitter Video-Inspired Animated GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-smart-recording-solutions-for-schools-and-colleges/"><u>2024 Approved  Smart Recording Solutions for Schools & Colleges</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>2024 Approved  YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-worth-steadicams-for-high-end-aerial-film-production/"><u>Best-Worth Steadicams for High-End Aerial Film Production</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-guide-to-forming-powerful-content-partnerships-on-youtube/"><u>Essential Guide to Forming Powerful Content Partnerships on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-money-calculators-calculate-youtube-money-for-2024/"><u>Free YouTube Money Calculators-Calculate YouTube Money for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g34-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G34 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-se-2020-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone SE (2020) for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-21-edition-synopsis-unraveling-the-future-of-online-betting-with-vegas-pro/"><u>In 2024, '21 Edition Synopsis – Unraveling the Future of Online Betting with Vegas Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-a60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel A60</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stunning-feats-in-figure-skating-22-moments/"><u>In 2024, Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-making-a-hit-youtuber-short-for-2024/"><u>Step-by-Step Guide to Making a Hit Youtuber Short for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/user-testimonials-ios-vs-android-youtube-watching-habits-for-2024/"><u>User Testimonials  IOS vs Android YouTube Watching Habits for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Delete YouTube Comments Effortlessly?"
-date: 2024-06-05T07:58:36.377Z
-updated: 2024-06-06T07:58:36.377Z
+date: 2024-07-31T21:14:56.126Z
+updated: 2024-08-01T21:14:56.126Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,11 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -57,6 +62,9 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -83,6 +91,9 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -110,10 +121,16 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. You need to go to YouTube from your desktop and sign in to your account.
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
@@ -126,6 +143,9 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -142,3 +162,45 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beauty-bliss-essential-tutorials-for-ultimate-style/"><u>[New] 2024 Approved  Beauty Bliss  Essential Tutorials for Ultimate Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-driving-view-counts-upward-on-youtube-6-proven-techniques/"><u>[New] 2024 Approved  Driving View Counts Upward on YouTube  6 Proven Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-video-tracking-adding-timestamps-in-youtube/"><u>[New] 2024 Approved  Enhancing Video Tracking  Adding Timestamps in YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[New] 2024 Approved  From Scripts to Subscribers  Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-content-with-7-premium-free-audio-sounds-for-2024/"><u>[New] Elevate Your YouTube Content With 7 Premium, Free Audio Sounds for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-list-best-video-platforms-for-secure-businesses/"><u>[New] Essential List  Best Video Platforms for Secure Businesses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-footage-imovie-videos-for-youtube-enthusiasts/"><u>[New] In 2024, Elevating Your Footage  IMovie Videos for YouTube Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tailoring-hashtags-for-impactful-fb-brand-presence/"><u>[New] In 2024, Tailoring Hashtags for Impactful FB Brand Presence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-your-channel-identity-with-smart-naming/"><u>[New] Master Your Channel Identity with Smart Naming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] The Filmmaker's Roadmap  Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube/"><u>[Updated] 2024 Approved  A Viewer-Friendly Approach  Implementing Commentary and Alerts on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>[Updated] 2024 Approved  Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[Updated] 2024 Approved  Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-cost-free-cam-screen-recording-apps/"><u>[Updated] 2024 Approved  The Essential Guide to Cost-Free Cam Screen Recording Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-your-content-best-practices-in-collaborative-youtube-outros-for-2024/"><u>[Updated] Amplify Your Content  Best Practices in Collaborative YouTube Outros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-practices-in-yt-thumbnail-sizing-for-2024/"><u>[Updated] Best Practices in YT Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-makeovers-made-easy-top-10-online-tools-for-artists-for-2024/"><u>[Updated] Channel Makeovers Made Easy - Top 10 Online Tools for Artists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-success-through-the-most-effective-15-youtube-themes-for-2024/"><u>[Updated] Discovering Success Through the Most Effective 15 YouTube Themes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-youtube-profile-with-high-impact-artwork-guide-for-2024/"><u>[Updated] Elevating Your YouTube Profile with High-Impact Artwork Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-professional-aesthetics-embedding-watermarks-and-branding-in-videos/"><u>[Updated] In 2024, Achieve Professional Aesthetics  Embedding Watermarks & Branding in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[Updated] In 2024, Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-mobile-surfing-with-these-top-7-blockers/"><u>[Updated] In 2024, Elevate Your Mobile Surfing with These Top 7 Blockers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness/"><u>[Updated] In 2024, Elevate Your YouTube Shorts  Top 10 Strategies for Uniqueness</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevated-engagement-awards-on-video-realms/"><u>[Updated] In 2024, Elevated Engagement Awards on Video Realms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-youtubes-revenue-flow-after-monetization/"><u>[Updated] Navigating Through YouTube's Revenue Flow After Monetization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>[Updated] Step-by-Step Guide  Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strengthen-your-footage-using-a-tripod-in-vlogging/"><u>[Updated] Strengthen Your Footage  Using a Tripod in Vlogging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-the-best-oculus-rift-video-players-review/"><u>[Updated] The Best Oculus Rift Video Players Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved  Ultimate Plugins List  After Effects Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-newcomers-path-in-the-world-of-original-diablo/"><u>A Newcomer's Path in the World of Original Diablo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-tv-selection-top-10-in-hdtvs/"><u>Cutting-Edge TV Selection – Top 10 in HDTVs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-asus-rog-phone-8-pro-easily-by-drfone-android/"><u>How To Unlock a Asus ROG Phone 8 Pro Easily?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-surviving-the-block-top-houses/"><u>In 2024, Surviving the Block  Top Houses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>In 2024, The Artist's Pathway  Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/optimizing-your-social-media-wirecast-on-facebook-streaming/"><u>Optimizing Your Social Media  Wirecast on Facebook Streaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-bluetooth-integration-for-w7/"><u>Smooth Bluetooth Integration for W7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-best-software-to-start-your-youtube-videos-off-strongly-for-2024/"><u>The Best Software to Start Your YouTube Videos Off Strongly for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/time-markers-for-youtube-videos-expert-tips-desktopmobile-for-2024/"><u>Time Markers for YouTube Videos  Expert Tips (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/what-to-pick-for-your-youtube-videos-ideal-formats-explored-for-2024/"><u>What to Pick for Your YouTube Videos? Ideal Formats Explored for 2024</u></a></li>
+</ul></div>

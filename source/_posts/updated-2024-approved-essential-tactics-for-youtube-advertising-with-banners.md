@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Essential Tactics for YouTube Advertising with Banners\""
-date: 2024-06-05T07:58:31.761Z
-updated: 2024-06-06T07:58:31.761Z
+date: 2024-07-31T21:14:48.211Z
+updated: 2024-08-01T21:14:48.211Z
 tags:
   - ai video
   - ai youtube
@@ -96,6 +96,9 @@ We recommend these two sites for anybody who finds copyright rules confusing bec
 
 [**Unsplash:**](https://unsplash.com/) This site has a huge selection, and more photos are being added all the time. Finding what you want is as easy as typing a keyword (i.e., 'sunset') into the search bar on the home page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![free-youtube-banner-pexels](https://images.wondershare.com/filmora/free-youtube-banner-pexels.jpg)
 
 [**Pexels:**](https://www.pexels.com/) you can find a wide variety of images on Pexels just by using the search bar on the main page, much like Unsplash. There is actually some overlap in the images available on the two sites, but they also each have photos the other doesn't, so it's worth looking at both.
@@ -108,6 +111,9 @@ One thing you should watch for when using a background pattern is that text can 
 
 The patterns on the following two sites are free to use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![free-youtube-banner-the-pattern-library](https://images.wondershare.com/filmora/free-youtube-banner-the-pattern-library.png)
 
 [**The Pattern Library:**](http://thepatternlibrary.com/) this truly is a library, and all the patterns were submitted by real graphic designers. When you first arrive on the site, all you'll see is a randomly selected pattern filling your entire screen. Hovering over the designer's name in the top left will allow you to download it for free.
@@ -136,6 +142,9 @@ Whatever program you use to build your channel art will already have a selection
 
 Once you've got an image or images, and maybe even a font you want to use in your banner, you can create your channel art in either a software like Photoshop or a free banner maker (anchor) like the ones below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Free Channel Art Makers**
 
 You don't need an expensive program like Adobe Photoshop to make great channel art. There is a lot of photo editing and graphic design programs available for free online, and most of them are a lot easier to use.
@@ -178,6 +187,9 @@ You can upload your own images to use in Fotor as well.
 
 A major **benefit** of Fotor is that it has a lot of genuinely free channel art templates you can customize, and one **drawback** is that it doesn't have as many stock photos.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Make Good Channel Art**
 
 Finding an image, cutting it to the right size, and uploading it to YouTube is easy, but how many of your favorite YouTubers use just an image for their channel art? Usually, there's at least a little text stating the name of the channel.
@@ -195,6 +207,9 @@ Here are some things you might want to include in your YouTube banner. Not all o
 5. Your face
 6. A tagline
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![ YouTube channel art layout](https://images.wondershare.com/filmora/article-images/youtube-channel-art-layout.jpg)
 
 #### **Top 5 Tips for Making Great YouTube Banners**
@@ -258,6 +273,9 @@ _"Two videos every week! Makeup Mondays and Fashion Fridays"_
 
 If you can create channel art that has a layout that makes sense and sends a clear message even at a glance, then that will help you look like a more experienced YouTuber.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Channel Art Inspiration**
 
 Sometimes your niche on YouTube will determine what kinds of channel art you should use. For example, it makes sense for gamers to include game-related graphics in their banners and for travel vloggers to use photos from the destinations they've visited.
@@ -266,6 +284,9 @@ However, for lots of YouTube niches, the channel art you make will be built arou
 
 **Minimalism**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text-and-logo-minimalism](https://images.wondershare.com/filmora/text-and-logo-minimalism.jpg)
 
 This is an example of a minimalist YouTube banner. This style typically uses only 2 or 3 colors and features clean lines, simple backgrounds, and not a lot of noise. If you want to project a calm, tidy, balanced vibe on your channel, then you should consider going in a minimalist direction with your banner.
@@ -290,6 +311,9 @@ If you're looking for inspiration for a custom funky banner, go to your closet a
 
 **Comic**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![/text-and-logo-comic](https://images.wondershare.com/filmora/text-and-logo-comic.jpg)
 
 A banner featuring an actual comic book character probably belongs to a channel that discusses comics, but the style itself is great for just about anyone. It's bold and communicates confidence. If your attitude towards YouTube is that you want to be fearless, why not go for something worthy of a superhuman?
@@ -298,8 +322,15 @@ Do you have any of your own tips to share about YouTube banners?
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -316,3 +347,59 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] 2024 Approved  10 Best YouTube To GIF Makers  How to Create GIF From YouTube Video?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-all-you-need-to-know-about-google-docs-audio-to-text-functionality/"><u>[New] 2024 Approved  All You Need to Know About Google Docs Audio-to-Text Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>[New] 2024 Approved  Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-videography-youtube-enhancements-explained/"><u>[New] 2024 Approved  Elevating Your Videography  YouTube Enhancements Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-the-concealed-commentary-on-online-media/"><u>[New] 2024 Approved  Navigating the Concealed Commentary on Online Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-fixes-for-annoying-ipad-recording-problems/"><u>[New] 2024 Approved  Quick Fixes for Annoying iPad Recording Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-acquire-no-cost-sounds-for-videos-and-podcasts-for-2024/"><u>[New] Acquire No-Cost Sounds for Videos & Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-avoid-buffering-switch-av1-codec-on-youtube-for-2024/"><u>[New] Avoid Buffering  Switch AV1 Codec on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel-for-2024/"><u>[New] Beauty Blogging Beginnings  Crafting a Captivating YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-autoplay-youtube-on-phones-without-interruption/"><u>[New] In 2024, Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-approach-for-managing-cc-rights-and-usage/"><u>[New] In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-conquering-green-hue-fixing-it-on-mac-for-video-editors/"><u>[New] In 2024, Conquering Green Hue  Fixing It On Mac For Video Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphone-image-arrangement-top-10-tips/"><u>[New] Mastering iPhone Image Arrangement  Top 10 Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speedy-strategies-capturing-your-screen-in-a-flash-dell/"><u>[New] Speedy Strategies  Capturing Your Screen in a Flash (Dell)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-makeup-mavens-handbook-youtube-edition/"><u>[New] The Makeup Maven’s Handbook  YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-30-pro-freefire-hashtags-for-boosting-video-popularity/"><u>[New] Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-power-of-revenue-streams-youtubers-adsense-manual/"><u>[New] Unlocking the Power of Revenue Streams  YouTubers' AdSense Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-gurus-summit-expedition/"><u>[New] YouTube Gurus Summit Expedition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[Updated] 2024 Approved  Dish on Titles  Creative Concepts for Cookery Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-uploading-high-res-videos-on-youtube/"><u>[Updated] 2024 Approved  Essential Guide to Uploading High-Res Videos on Youtube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>[Updated] 2024 Approved  Unifying Platforms  The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-an-engaging-sports-highlight-reel-for-2024/"><u>[Updated] Building an Engaging Sports Highlight Reel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-previews-a-compreayer-approach-for-youtube-for-2024/"><u>[Updated] Elevating Video Previews  A Compreayer Approach for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ethical-approaches-to-extract-mp4-from-youtube-for-2024/"><u>[Updated] Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos/"><u>[Updated] In 2024, 6 Completely Different Places to Get Icons and Logos for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-knowledge-for-youtube-short-creators/"><u>[Updated] In 2024, Essential Knowledge for YouTube Short Creators</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-launching-into-content-creation-account-setup-on-youtube-for-2024/"><u>[Updated] Launching Into Content Creation  Account Setup on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scaling-your-influence-with-youtube-shorts-strategy/"><u>[Updated] Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scriptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[Updated] Scriptwriting Mastery  Elevate Your YouTube Channel's Content Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-visual-storytelling-with-youtube-videos/"><u>[Updated] Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>[Updated] Unleashing Potential  The Best SEO Practices for Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-admasters-the-epitome-of-creative-brilliance/"><u>[Updated] YouTube Admasters  The Epitome of Creative Brilliance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boxes-that-speak-love-the-top-10-websites-offering-custom-wrapped-treasures/"><u>2024 Approved  Boxes That Speak Love  The Top 10 Websites Offering Custom Wrapped Treasures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-group-gallery-gatherer/"><u>2024 Approved  Group Gallery Gatherer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-income-with-youtube-adsense/"><u>2024 Approved  Maximizing Income with YouTube AdSense</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-legalities-in-sharing-musical-works/"><u>2024 Approved  Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-transform-films-activate-xp-movie-maker-now/"><u>2024 Approved  Transform Films, Activate XP Movie Maker Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-play-7t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor Play 7T to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-lava-blaze-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Lava Blaze Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-google-pixel-8-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Google Pixel 8 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-facebook-collage-instantly/"><u>How to Make Facebook Collage Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-v30-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V30 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-intimate-perspectives-with-team-zooms/"><u>In 2024, Intimate Perspectives with Team Zooms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>In 2024, Youtube to Animated GIFs Conversion Guide  Online Tutorial for Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>Inside the World of Toolwiz  An In-Depth Software Review</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-discover-the-latest-movies-with-these-top-10-trailer-apps-for-ios/"><u>New 2024 Approved Discover the Latest Movies with These Top 10 Trailer Apps for iOS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/securely-extract-and-backup-your-instagram-content-for-2024/"><u>Securely Extract and Backup Your Instagram Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>Step-by-Step  Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-trailer-planning-for-increased-channels-profitability-for-2024/"><u>Strategic Trailer Planning for Increased Channels' Profitability for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-drivers-startech-support-on-winxp-811/"><u>Streamlined Drivers: StarTech Support on WinXP, 8/11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/structuring-engaging-online-vignettes-for-2024/"><u>Structuring Engaging Online Vignettes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-youtube-fonts-for-striking-shareable-thumbnails-for-2024/"><u>Top YouTube Fonts for Striking, Shareable Thumbnails for 2024</u></a></li>
+</ul></div>

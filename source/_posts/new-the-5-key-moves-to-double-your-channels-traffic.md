@@ -1,7 +1,7 @@
 ---
 title: "[New] The 5 Key Moves to Double Your Channel's Traffic"
-date: 2024-06-05T07:40:41.996Z
-updated: 2024-06-06T07:40:41.996Z
+date: 2024-07-31T20:46:20.275Z
+updated: 2024-08-01T20:46:20.275Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 # 5 Tips to Get More Views with YouTube Optimization \[Free Checklist\]
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,6 +40,9 @@ In this article, we will give you[a checklist](https://drive.google.com/file/d/1
 3. [Engage Your Audience](#c)
 4. [Upload YouTube Video in Proper Length](#d)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **1\. Keep Your Audience's Attention:**
 
 Even though your view count is going up, it doesn’t mean your audience is watching your video. And if they are not, then YouTube is going to consider your video less valuable and therefore, lowering its rank.
@@ -63,12 +69,19 @@ If you get above **60%** Average Percentage Viewed, you should feel very proud. 
 
 In the example above, we see that on average, a viewer will only see 44% of the video. For the video below, we see that it only has 30% of the video viewed. Overall, the first video is performing better.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![audience-retention-two](https://images.wondershare.com/filmora/audience-retention-two.jpg)
 
 There is also a dip that happens at the beginning in the second example, which indicates that viewers are skipping forward and about 20% then deciding it’s not worth continuing. It’s good data to help you improve your introduction and the hook.
 
 If there is important information that you are presenting at a given point and in the Audience Retention you see that only a small percentage of your viewers actually see it, then for the next video, you might want to position the details in a different point in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **How to Improve Audience Retention**
 
 Here are a few ways you can retain your audience’s attention if you noticed a drop in viewership:
@@ -87,6 +100,9 @@ If you have a video that is doing a good job retaining the audience, then replic
 
 Knowing how to structure your video will allow you to be strategic as you build out your content.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **2\. Do Keyword Research:**
 
 Many viewers find YouTube videos via search, and if you aren’t using the appropriate keywords, then YouTube won’t be able to identify your content and display it for your viewers.
@@ -115,6 +131,9 @@ Here is how you can see what keywords were used to find your video:
 4. Click into Traffic Source
 5. Click Traffic Source: YouTube Search
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![traffic-source](https://images.wondershare.com/filmora/article-images/traffic-source-youtube-search.png.png)
 
 If you want to find some new keywords for your upcoming video, you will need to do some research.
@@ -125,6 +144,9 @@ If you want to find some new keywords for your upcoming video, you will need to 
 
 **2\. Study the Competitors:** See which videos are ranking high for your search term. Use a tool called [VidIQ](https://vidiq.com/)to see the keywords that the top videos are performing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vidlq-tool](https://images.wondershare.com/filmora/vidlq-tool.jpg)
 
 **3\. Search for Related Keywords and Evaluate Relevancy:** A tool called [Ubersuggest](https://neilpatel.com/ubersuggest/)can help you find related keywords and allow you to identify the search volume, cost per click (aka CPC is used for determining the budget for paid search), and the competitiveness of the word or phrase.
@@ -139,6 +161,10 @@ If you want to find some new keywords for your upcoming video, you will need to 
 
 **4\. Come Up With Content Related to Those Keywords:** To come up with topic ideas around a keyword, you can use a tool called [Answer the Public](https://answerthepublic.com/), which gives you all the most popular questions searched online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![answer-the-public](https://images.wondershare.com/filmora/answer-the-public.jpg)
 
 ## **3\. Engage Your Audience:**
@@ -197,6 +223,9 @@ If your format allows, go for a longer video instead of a shorter one. But the m
 4. **Encourage Comments** and respond to establish a relationship with your viewers.
 5. Ensure that **Viewers Continue Watching** videos on YouTube after they finish watching yours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Other Things That Affects Your YouTube Ranking**
 
 Except for the above-mentioned factors, there are also other issues that affect the ranking of your YouTube video. YouTube has stated that the number of subscribers doesn’t play a key role in your video ranking.
@@ -221,8 +250,14 @@ Don’t miss a chance to optimize your YouTube video, download, and print out th
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -239,3 +274,55 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>[New] 2024 Approved  Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bypass-software-for-youtube-downloads/"><u>[New] 2024 Approved  Bypass Software for YouTube Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>[New] 2024 Approved  Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expertly-slice-your-videos-macs-finest-mp4-applications/"><u>[New] 2024 Approved  Expertly Slice Your Videos  Mac's Finest MP4 Applications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-avoid-buffering-switch-av1-codec-on-youtube-for-2024/"><u>[New] Avoid Buffering  Switch AV1 Codec on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel-for-2024/"><u>[New] Beauty Blogging Beginnings  Crafting a Captivating YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery-for-2024/"><u>[New] Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-autoplay-youtube-on-phones-without-interruption/"><u>[New] In 2024, Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-approach-for-managing-cc-rights-and-usage/"><u>[New] In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[New] In 2024, Elevate Your Vlogging  Mastering Tripod Angles and Positions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-zoom-incorporating-video-effects-step-by-step-for-2024/"><u>[New] Mastering Zoom  Incorporating Video Effects Step by Step for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-30-pro-freefire-hashtags-for-boosting-video-popularity/"><u>[New] Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-vfx-magic-top-4-youtube-tutorials-for-no-cost-green-screen-techniques/"><u>[New] Unlock VFX Magic  Top 4 YouTube Tutorials for No-Cost Green Screen Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] 2024 Approved  Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-create-a-unique-identity-personalize-your-youtube-url-today/"><u>[Updated] 2024 Approved  Create a Unique Identity  Personalize Your YouTube URL Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[Updated] 2024 Approved  Dish on Titles  Creative Concepts for Cookery Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-deep-into-youtube-shorts-essentials/"><u>[Updated] 2024 Approved  Dive Deep Into YouTube Shorts Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-your-favorite-shows-anytime-everywhere-with-these-apps/"><u>[Updated] 2024 Approved  Download Your Favorite Shows Anytime, Everywhere with These Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-warrior-spirits-rising-comparable-game-suggestions/"><u>[Updated] 2024 Approved  Warrior Spirits Rising  Comparable Game Suggestions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-an-engaging-sports-highlight-reel-for-2024/"><u>[Updated] Building an Engaging Sports Highlight Reel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-steps-for-seamlessly-clearing-youtube-feedback-for-2024/"><u>[Updated] Essential Steps for Seamlessly Clearing YouTube Feedback for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ethical-approaches-to-extract-mp4-from-youtube-for-2024/"><u>[Updated] Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-knowledge-for-youtube-short-creators/"><u>[Updated] In 2024, Essential Knowledge for YouTube Short Creators</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>[Updated] In 2024, From Novice to Viral Video  Top 30 Anime Inspiration Ideas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience  #1 Blu-Ray Players List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-podcast-editing-with-garageband-a-step-by-step-guide/"><u>[Updated] Mastering Podcast Editing with GarageBand  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-clarity-improve-iphoneandroid-video-quality-for-2024/"><u>[Updated] Maximizing Clarity  Improve iPhone/Android Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-visual-storytelling-with-youtube-videos/"><u>[Updated] Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[Updated] Transforming YouTube Content  Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-fix-for-quick-signature-bg-disposal/"><u>[Updated] Ultimate Fix for Quick Signature BG Disposal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>[Updated] Unleashing Potential  The Best SEO Practices for Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-admasters-the-epitome-of-creative-brilliance/"><u>[Updated] YouTube Admasters  The Epitome of Creative Brilliance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-footage-gb-needed-per-day/"><u>2024 Approved  Hourly Video Footage  GB Needed Per Day</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-smoothest-android-3d-video-streaming/"><u>2024 Approved  Smoothest Android 3D Video Streaming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/choosing-the-right-partners-for-a-safer-tiktok-expansion-for-2024/"><u>Choosing the Right Partners for a Safer TikTok Expansion for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-birth-of-fsr-3-herald-a-new-era-beyond-nvidias-dlss-35/"><u>Does the Birth of FSR 3 Herald a New Era Beyond NVIDIA's DLSS 3.5?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-installing-logitech-c270-hd-camera-software/"><u>Guide to Installing Logitech C270 HD Camera Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a78-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A78 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-use-twitter-archive-in-2024/"><u>How to Use Twitter Archive, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-open-minds-open-tech-easeus-report/"><u>In 2024, Open Minds, Open Tech - EaseUS Report</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-microphones-for-university-podcasts/"><u>In 2024, Premier Microphones for University Podcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-top-tiktok-backdrops-quickly/"><u>In 2024, Uncovering Top TikTok Backdrops Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unrivaled-vr-sets-for-aerial-adventures/"><u>In 2024, Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>In 2024, Youtube to Animated GIFs Conversion Guide  Online Tutorial for Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/laugh-and-cry-on-instagram-best-meme-accounts-of-the-year/"><u>Laugh and Cry on Instagram  Best Meme Accounts of the Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-branding-50-free-youtube-banners-inside-in-2024/"><u>Revolutionize Your Branding - 50 Free YouTube Banners Inside, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-youtube-fonts-for-striking-shareable-thumbnails-for-2024/"><u>Top YouTube Fonts for Striking, Shareable Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-potential-with-extended-video-submissions-for-2024/"><u>Unlocking YouTube Potential with Extended Video Submissions for 2024</u></a></li>
+</ul></div>

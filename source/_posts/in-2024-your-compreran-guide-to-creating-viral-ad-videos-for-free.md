@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Your Compreran Guide to Creating Viral Ad Videos for Free"
-date: 2024-06-05T10:10:56.553Z
-updated: 2024-06-06T10:10:56.553Z
+date: 2024-08-01T01:01:03.681Z
+updated: 2024-08-02T01:01:03.681Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 # How to Create Video Ads for Free in YouTube Video Builder
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,6 +39,9 @@ With that being said, the following sections talk about what **YouTube Video Bui
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Is YouTube Video Builder?
 
 YouTube recently came up with an online tool, **YouTube Video Builder**, that, as the name suggests, enables you as an organization to prepare videos for free. These videos could be anywhere from 6 to 15 seconds long and are most appropriate for advertisements. Once created, the films can be used in the campaigns to promote your brand and/or products online.
@@ -76,6 +82,9 @@ Because YouTube Video Builder is in its Beta phase, at the time of this writing 
 
 Once your request is approved, you can then use the same Google account to sign in to the **YouTube Video Builder** portal, and start preparing your video advertisements. Here, it is important to understand that the Google account that you use to send an access request and prepare the videos must be the same ID that has your active and functional YouTube Channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Make Video Ads for Free with YouTube Video Builder?
 
 Once you have access to the Beta version of **YouTube Video Builder**, you can start creating the video ads for free. You can learn the process of how this can be done by following the simple instructions given below:
@@ -84,14 +93,23 @@ Once you have access to the Beta version of **YouTube Video Builder**, you can s
 
 After signing in to your **YouTube Video Builder** account, on the main interface, click **Select Layout** from the navigation bar at the right if not already selected, pick a layout that best suits your needs, and click **Use Layout**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![ YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-layout.jpg)
 
 Next, from the **Color & Logo** section, choose the base (background) and text colors using their corresponding tools from under the **Brand colors** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-color-logo.jpg)
 
 After this, insert an image of your brand logo in the block under the **Logos** category.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-brand-logo.jpg)
 
 #### Step 2: Add the Ingredients
@@ -108,6 +126,9 @@ Now, scroll down to the **Text** section, and add the relevant content in the av
 
 From the **Pick a Font** section of the navigation bar, click the **Google Fonts catalog** link to search for a unique font, and once found, type its name in the available field to use that font.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create video with YouTube Video Builder - change font ](https://images.wondershare.com/filmora/article-images/youtube-video-builder-pickup-video-text-fonts.jpg)
 
 Alternatively, you can leave the default one selected. When on the **Select Music** section, choose your preferred background music from the drop-down list that is present under the section.
@@ -148,6 +169,9 @@ The whole point here is to prepare your video adverts with the least investment 
 
 The bitter truth is, producing videos, especially for brand promotions requires expert creators, expensive tools, and a good amount of work experience. Although all these can be managed if you have some spare funds, **YouTube Video Builder** helps you create advertising videos of up to 15 seconds with ease and for free. All you need is access to **YouTube Video Builder**, your own YouTube Channel, your brand logo, and high-definition photos of your product(s).
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -164,3 +188,51 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-uploading-lengthy-video-masterpieces-on-youtube/"><u>[New] 2024 Approved  Crafting & Uploading Lengthy Video Masterpieces on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exclusive-deals-and-previews-from-creators/"><u>[New] 2024 Approved  Exclusive Deals & Previews From Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-brevity-in-action-shortening-youtube-video-content-for-2024/"><u>[New] Brevity in Action  Shortening YouTube Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-conquer-youtube-searches-with-these-top-11-seo-strategies-for-2024/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>[New] Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[New] Elevate Your YouTube Presence  Strategic Tagging and Titling Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-6-distinct-icon-and-logo-providers/"><u>[New] In 2024, Discovering 6 Distinct Icon and Logo Providers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-double-trouble-replaying-youtube-videos-on-your-set/"><u>[New] In 2024, Double Trouble  Replaying YouTube Videos on Your Set</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-best-pairing-practices-in-the-youtube-space/"><u>[New] In 2024, Exploring Best Pairing Practices in the YouTube Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-zoom-and-skype-for-superior-video-conferencing-experience/"><u>[New] Integrating ZOOM & SKYPE for Superior Video Conferencing Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intellectual-innovations-curated-selection-of-2024s-top-trivia-channels/"><u>[New] Intellectual Innovations  Curated Selection of 2024'S Top Trivia Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-self-assured-vlogging-channeling-youtube-stars/"><u>[New] Mastering Self-Assured Vlogging  Channeling YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-face-forward-top-makeup-creatives/"><u>[New] The Face Forward  Top Makeup Creatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[New] The Real Number of YouTube Views You Need to Make a Living</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc/"><u>[New] Unlocking Higher View Counts Through Sustained Compliance with YouTube CC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[Updated] 2024 Approved  10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-authentic-audience-growth-practical-advice-for-content-creators/"><u>[Updated] 2024 Approved  Authentic Audience Growth  Practical Advice for Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cosmetics-confidentials-building-a-beauty-channel-on-youtube/"><u>[Updated] 2024 Approved  Cosmetics Confidentials  Building a Beauty Channel on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-laymans-land-easy-to-construct-mc-homes-unlocked/"><u>[Updated] 2024 Approved  Layman's Land  Easy-to-Construct MC Homes Unlocked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-sustainable-income-via-youtube-and-adsense-for-2024/"><u>[Updated] Building a Sustainable Income via YouTube and AdSense for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-compiling-chords-and-crafting-a-unique-youtube-playlist-for-2024/"><u>[Updated] Compiling Chords and Crafting a Unique YouTube Playlist for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[Updated] Easy Setup  Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ergonomic-hold-techniques-for-clarity-for-2024/"><u>[Updated] Ergonomic Hold Techniques for Clarity for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-balance-youtube-with-a-full-time-job/"><u>[Updated] How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breakthrough-ways-to-amplify-your-video-content-reach/"><u>[Updated] In 2024, Breakthrough Ways to Amplify Your Video Content Reach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>[Updated] Navigating Content Sharing  YouTube Standards Vs. Creative Commons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-youtube-videos-through-enhancement-tips/"><u>[Updated] Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-directory-of-economical-visual-content-providers/"><u>[Updated] Premier Directory of Economical Visual Content Providers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-proven-techniques-to-enhance-engagement-and-interaction/"><u>[Updated] Proven Techniques to Enhance Engagement and Interaction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>[Updated] Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>[Updated] Sustainable Growth  Developing a Long-Term Personal Brand on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-trending-backgound-music-for-youtube-shorts/"><u>[Updated] Top 10 Trending Backgound Music for YouTube Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagrams-square-shots-with-imovie/"><u>2024 Approved  Mastering Instagram's Square Shots with iMovie</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amend-unseen-display-unit-errors/"><u>Amend Unseen Display Unit Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-se-2022-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-screen-record-on-macbook-air/"><u>How to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-analyze-your-and-competitors-youtube-video/"><u>In 2024, How to Analyze Your and Competitor’s YouTube Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-display-on-win11-pc/"><u>Resolving Large Display on Win11 PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/selfie-verification-examining-its-impact-on-social-platforms-for-2024/"><u>Selfie Verification  Examining Its Impact on Social Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-pinnacle-of-amusement-select-15-laughing-out-loud-channels-for-2024/"><u>The Pinnacle of Amusement  Select 15 Laughing-Out-Loud Channels for 2024</u></a></li>
+</ul></div>

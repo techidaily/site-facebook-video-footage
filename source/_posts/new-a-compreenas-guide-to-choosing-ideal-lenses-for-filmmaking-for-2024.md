@@ -1,7 +1,7 @@
 ---
 title: "[New] A Compreenas Guide to Choosing Ideal Lenses for Filmmaking for 2024"
-date: 2024-06-05T11:08:50.134Z
-updated: 2024-06-06T11:08:50.134Z
+date: 2024-08-01T02:40:04.650Z
+updated: 2024-08-02T02:40:04.650Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -78,10 +81,16 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
@@ -107,6 +116,9 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -115,6 +127,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -141,6 +156,9 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +175,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customize-video-speed-to-match-your-desired-watch-time/"><u>[New] 2024 Approved  Customize Video Speed to Match Your Desired Watch Time</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-10-budget-friendly-video-subtitle-grabs-for-2024/"><u>[New] Ace 10 Budget-Friendly Video Subtitle Grabs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-digital-dynamics-comparative-channel-analysis-for-2024/"><u>[New] Dissecting Digital Dynamics  Comparative Channel Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-video-reach-strategic-insights-into-youtubes-tag-system-for-2024/"><u>[New] Enhance Video Reach  Strategic Insights Into YouTube's Tag System for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-trailblazers-guide-youtube-studio-location-unveiled/"><u>[New] In 2024, A Trailblazer’s Guide  YouTube Studio Location Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>[New] In 2024, Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>[New] In 2024, Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>[New] In 2024, Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>[New] In 2024, Direct Entry Into Your Channel  Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>[New] In 2024, Dominance in Video Landscape  Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-collection-of-favorite-ig-after-effects-plugins/"><u>[New] In 2024, The Ultimate Collection of Favorite IG After Effects Plugins</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-editing-for-creators-top-10-online-trimmers/"><u>[Updated] 2024 Approved  Efficient Editing for Creators - Top 10 Online Trimmers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sky-high-snapshot-5-top-screen-recorders/"><u>[Updated] 2024 Approved  Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-tons-of-free-vocal-textures/"><u>[Updated] Access Tons of Free Vocal Textures!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-calculating-your-digital-footprint-understanding-views-and-income-from-youtube-for-2024/"><u>[Updated] Calculating Your Digital Footprint  Understanding Views & Income From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-claim-cost-free-visuals-from-highest-rated-4-youtube-sources-for-2024/"><u>[Updated] Claim Cost-Free Visuals From Highest-Rated 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-democratize-music-distribution-via-social-media-for-2024/"><u>[Updated] Democratize Music Distribution via Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exciting-vlog-subjects-daily-selection/"><u>[Updated] Exciting Vlog Subjects Daily Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-traffic-with-these-must-use-freefire-tags-for-videos/"><u>[Updated] Maximize Traffic with These Must-Use FreeFire Tags for Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pixelpie-cutter/"><u>[Updated] PixelPie Cutter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-hidden-threat-illegitimate-support-on-digital-platforms/"><u>[Updated] The Hidden Threat  Illegitimate Support on Digital Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-itunes-video-downloading-for-ios-users/"><u>[Updated] The Ultimate Guide to iTunes Video Downloading for iOS Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-20-tiktok-captions-for-captivating-viewers/"><u>[Updated] Top 20 TikTok Captions for Captivating Viewers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix Hot 40i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-smart-8-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for Word 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-c67-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme C67 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-note-50-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Note 50 to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-visual-enhancements-using-portable-lut-tools/"><u>In 2024, Quick Visual Enhancements Using Portable LUT Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pioneering-techniques-in-screen-snatching-for-2024/"><u>Pioneering Techniques in Screen Snatching for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-thumbnail-tactics-dos-and-donts-guidebook-for-2024/"><u>Professional Thumbnail Tactics  Do's and Don'ts Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safely-save-your-streaming-stash-with-these-free-tools-for-2024/"><u>Safely Save Your Streaming Stash with These Free Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-perfect-gamer-channel-headers-for-2024/"><u>Step-By-Step Guide to Perfect Gamer Channel Headers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tasty-talent-a-filmmakers-recipe-for-success-for-2024/"><u>Tasty Talent  A Filmmaker's Recipe for Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-archiving-a-guide-to-moving-to-dailymotion-for-2024/"><u>YouTube Archiving  A Guide to Moving to Dailymotion for 2024</u></a></li>
+</ul></div>

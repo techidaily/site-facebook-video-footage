@@ -1,7 +1,7 @@
 ---
 title: "[New] Demystifying Video SEO on YouTube as a Novice for 2024"
-date: 2024-06-05T11:18:03.844Z
-updated: 2024-06-06T11:18:03.844Z
+date: 2024-08-01T02:55:54.612Z
+updated: 2024-08-02T02:55:54.612Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,9 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -50,6 +53,14 @@ Wait, don’t go making the video yet. First, we have to do some research. We ne
 
 Do a quick search on YouTube to see what videos already exist on your topic.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Find Related Videos Sample](https://images.wondershare.com/filmora/article-images/find-related-videos.jpg)
 
 Uh oh… your video will be competing against celebrities like Gordon Ramsay and Jamie Oliver.
@@ -82,6 +93,9 @@ Come up with as many relevant keywords as you can. Start by entering a keyword i
 
 Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/)to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
@@ -156,6 +170,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -212,6 +229,10 @@ Want to know more thumbnail maker? Check our picks of the [best free YouTube thu
 
 Well done finishing the video! You are almost there… but not there yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![XDyocwuGRiSptxueJZ5aokKqKt-JXMbX](https://images.filmora.io/5/XDyocwuGRiSptxueJZ5aokKqKt-JXMbX.gif)
 
 Come on, keep going!
@@ -220,6 +241,9 @@ Come on, keep going!
 
 The video is done, the thumbnail is designed, and you have all your title, description, and tags ready to go. This step is easy, upload the video, and fill out the assets, and give yourself a pat on the back.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
 
 #### Step 11: Add Transcripts
@@ -248,6 +272,9 @@ Besides considering YouTube SEO, you should make a good YouTube video as well. F
 
 Do you have any questions about SEO? Please leave us a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -264,3 +291,57 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-channels-earning-dollars-a-beginners-guide/"><u>[New] 2024 Approved  Creating Channels, Earning Dollars  A Beginner's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[New] 2024 Approved  Discover the Best in Class  Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-emotionally-enhanced-youtube-commentary/"><u>[New] 2024 Approved  Emotionally-Enhanced YouTube Commentary</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] 2024 Approved  Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-repeat-revelry-twice-the-joy-with-televised-video-repetition/"><u>[New] 2024 Approved  Repeat Revelry  Twice the Joy with Televised Video Repetition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-avoiding-common-errors-perfect-tripod-usage-in-video-production-for-2024/"><u>[New] Avoiding Common Errors  Perfect Tripod Usage in Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-hiring-game-with-the-best-vids-in-town-for-2024/"><u>[New] Elevate Your Hiring Game with the Best Vids in Town for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-stepwise-approach-to-youtube-caption-addition/"><u>[New] In 2024, A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-an-impactful-waterway-teaser/"><u>[New] In 2024, Crafting an Impactful Waterway Teaser</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-8-trusted-online-content-marketing-tools/"><u>[New] In 2024, Discover 8 Trusted Online Content Marketing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-integrating-your-day-job-with-passionate-online-content/"><u>[New] Integrating Your Day Job with Passionate Online Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-jolly-gaming-haven-for-little-explorers/"><u>[New] Jolly Gaming Haven for Little Explorers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>[New] Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>[New] Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlimited-screen-snapshots-free-macos/"><u>[New] Unlimited Screen Snapshots, Free MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/"><u>[New] Unlock the Magic of Capturing YouTube Content - The No-Cost Way</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-virtual-tournament-gear-showcase-series/"><u>[New] Virtual Tournament Gear Showcase Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>[New] YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-zippy-typography-two-approaches-to-liven-up-your-letters/"><u>[New] Zippy Typography  Two Approaches to Liven Up Your Letters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-palette-of-pleasantness-five-winter-backgrounds-ideas/"><u>[Updated] 2024 Approved  A Palette of Pleasantness  Five Winter Backgrounds Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-down-the-system-behind-highlighted-video-comments/"><u>[Updated] 2024 Approved  Breaking Down the System Behind Highlighted Video Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cerebral-channels-top-educational-yt-networks/"><u>[Updated] 2024 Approved  Cerebral Channels  Top Educational YT Networks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-video-cutting-techniques-to-boost-your-content/"><u>[Updated] 2024 Approved  Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivating-commitment-gentle-subscription-strategies-for-2024/"><u>[Updated] Cultivating Commitment  Gentle Subscription Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[Updated] Cutting-Edge Techniques  Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-easily-access-snapchat-on-mac-os-for-2024/"><u>[Updated] Easily Access Snapchat on Mac OS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-much-money-do-youtubers-make-per-view/"><u>[Updated] How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[Updated] In 2024, Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[Updated] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-adsense-on-youtube-a-beginners-guide/"><u>[Updated] Mastering AdSense on YouTube  A Beginner's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-youtube-to-file-conversion-techniques/"><u>[Updated] Seamless YouTube to File Conversion Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steering-clear-of-mundane-channel-names-in-a-crowded-space/"><u>[Updated] Steering Clear of Mundane Channel Names in a Crowded Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-wealth-wave-of-the-philanthropic-maverick-mr-beast/"><u>[Updated] The Wealth Wave of the Philanthropic Maverick, Mr. Beast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-transform-your-screen-recording-process-using-aiseesoft-tools-for-2024/"><u>[Updated] Transform Your Screen Recording Process Using Aiseesoft Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta)  Which One Is Better?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-retro-playlist-trick-how-to-go-in-arrears/"><u>2024 Approved  Youtube's Retro Playlist Trick  How to Go in Arrears</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/exploring-your-liked-movies-and-shows-on-facebook-for-2024/"><u>Exploring Your Liked Movies and Shows on Facebook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-election-excitement-5-best-voting-simulators/"><u>In 2024, Election Excitement  5 Best Voting Simulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expertly-reviewed-7-top-voice-changer-applications/"><u>In 2024, Expertly Reviewed  7 Top Voice Changer Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-ace-2-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus Ace 2 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>In 2024, Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-animators-odyssey-crafting-your-own-fx-realm/"><u>In 2024, The Animator's Odyssey  Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-perfecting-edits-on-published-videos/"><u>In 2024, YouTube Mastery  Perfecting Edits on Published Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prevent-unwanted-recordings-quit-time-tricks/"><u>Prevent Unwanted Recordings  Quit Time Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplifying-vfx-with-magix-video-pro-x-for-2024/"><u>Simplifying VFX with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-complete-guide-to-astonishing-lyric-videos-with-lyric-video-maker-for-2024/"><u>The Complete Guide to Astonishing Lyric Videos with Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-freefire-techniques-for-gaming-vloggers-for-2024/"><u>Top 5 FreeFire Techniques for Gaming Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-sharing-showdown-comparing-streamers-strengths-vimeo-youtube-and-dailymotion-for-2024/"><u>Video Sharing Showdown  Comparing Streamers' Strengths  Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+</ul></div>

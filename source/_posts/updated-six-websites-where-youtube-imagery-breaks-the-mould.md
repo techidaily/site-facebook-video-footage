@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Six Websites Where YouTube Imagery Breaks the Mould"
-date: 2024-06-05T09:06:24.875Z
-updated: 2024-06-06T09:06:24.875Z
+date: 2024-07-31T23:10:16.549Z
+updated: 2024-08-01T23:10:16.549Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 # 6 Completely Different Places to Get Icons and Logos for YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -50,12 +53,18 @@ I’m putting Flaticon.com right at the top of this list because it has somethin
 
 You start out on Flaticon by searching for a theme like beauty, gaming, flowers, or emojis. I searched for ‘birds’ and found these cuties.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Logo Icon Download Site Flaticon](https://images.wondershare.com/filmora/article-images/icons-logos-on-flaticon.jpg)
 
 _These aren’t all the birds on Flaticon, just a few._ _They had a huge selection in all the different searches I tried._
 
 I clicked on the brown bird to open up the download screen, and then clicked into ‘Edit icon’. There may be a pop up that tells you editing tools are only available to registered users, but it’s wrong. Just close it and keep going, unless you want to register.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![  Logo Icon on Flaticon](https://images.wondershare.com/filmora/article-images/icons-logos-on-flaticon-example-1.jpg)
 
 You can edit the colors in your icon just by clicking on the color you want to replace, and then clicking on the color in the color selector you want to replace it with. I made my birdie FLY.
@@ -74,6 +83,9 @@ Flaticon has a great selection, it’s free, and they make it really easy to edi
 
 Flaticon asks that you include an “Icon made by \[author link\] from <www.flaticon.com> ” somewhere (i.e. video description, channel ‘about’ section) when you use their icons for free.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. [Freepik.com](https://www.freepik.com/)
 
 **Key Points:**
@@ -84,6 +96,11 @@ Flaticon asks that you include an “Icon made by \[author link\] from <www.flat
 
 On freepik, you start off by searching for a theme (like the genre of your YouTube title or the topic of a video, i.e. ‘makeup’ or ‘music’). I searched for ‘cat’.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![ download Logo Icon on Freepik](https://images.wondershare.com/filmora/article-images/icons-logos-on-freepik.jpg)
 
 _A few of the sets available on freepik. The crown icon means you need to be a paying Premium member, but most things are free._
@@ -92,6 +109,9 @@ You can’t edit on freepik, and in order to download for free you need to inclu
 
 You do not choose what format to download your images in on freepik. When you hit ‘Free Download’ it will automatically download a zip file which will contain both a .jpg and a .eps. The EPS is editable in any ‘vector graphics editor’, like Adobe Illustrator, and YouTube supports .jpg files.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. [Seeklogo.net](https://www.seeklogo.net/)
 
 **Key Points:**
@@ -105,6 +125,9 @@ In the ‘search’ on Seeklogo.net, you can type in the name of a brand or indu
 
 I searched for YouTube – you never know when you might need the YouTube logo.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![ YouTube Logo Icon on Seeklogo](https://images.wondershare.com/filmora/article-images/youtube-icons-logos-on-seeklogo.jpg)
 
 Although the site does not advertise PNG in the list of formats on their front page, downloads do include PNG versions (which is useful if you need transparency and don’t have a program which can edit vector files, like .eps).
@@ -124,6 +147,9 @@ _Could be cool for a lifestyle video about school or work?_
 
 My favorite thing about IconArchive is its search features. It allows you to filter results by color, size (down to the specific resolution), category, background color, style, and a lot more.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ YouTube Logo Icon on IconArchive Editing](https://images.wondershare.com/filmora/article-images/edit-icons-logos-on-iconarchive.jpg)
 
 Color is under ‘Display’, meaning that it won’t filter out results that have different colors it’ll just list the color you select first.
@@ -178,12 +204,27 @@ You will also need to link to Icons8 if you use their icons for free (i.e. in th
 
 To get started on Icons8, type something into the search bar on the home page that you think might work as an icon or as part of whatever graphics you have planned. I typed in ‘game’ for this one, since gaming is the biggest genre on YouTube. Here are a few of the results that came up:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ Gaming Logo Icon on Icons8](https://images.wondershare.com/filmora/article-images/gaming-icons-logos-on-icons8.jpg)
 
 _Lower down in the results there were different kinds of sports balls, hand-held gaming systems, playing cards, joy sticks, baseball caps and more._
 
 After you find an icon you like, click on it and it will appear on the right side of your screen where you’ll be able to make a few changes (an editing screen will pop up once you start clicking on things). You can edit your colors, overlay small decals, add text, and add a border, change your background and adjust your size. Here’s the editing screen:
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Edit Gaming Logo Icon on Icons8](https://images.wondershare.com/filmora/article-images/edit-gaming-icons-logos-on-icons8.jpg)
 
 You can give your icon a pretty different look from its default. Check this out:
@@ -192,6 +233,9 @@ You can give your icon a pretty different look from its default. Check this out:
 
 You cannot download your icon from the editing screen. You need to click Save, and then download it from the main display screen here:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Donwload Gaming Logo Icon  on Icons8](https://images.wondershare.com/filmora/article-images/download-gaming-icons-logos-on-icons8.jpg)
 
 You can change the size with that drop down menu, but you’ll be limited in your options if you don’t want to pay.
@@ -202,6 +246,9 @@ I downloaded my image and tried to see how it would look as an icon/profile pict
 
 However, the preview is larger than the actual profile picture. Once I set it, it looked alright.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![ Preview Gaming Logo Icon made with icons8 to YouTube](https://images.wondershare.com/filmora/article-images/preview-gaming-icons-logos-made-with-icons8.jpg)
 
 Looking for somewhere you can build your own icon/logo from scratch? Check out this [list of logo makers](https://www.filmora.io/community-blog/top-9-free-youtube-logo-makers-304.html).
@@ -226,3 +273,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists-for-2024/"><u>[New] 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-comprehensible-explanation-of-youtubes-viewership-puzzle/"><u>[New] 2024 Approved  A Comprehensible Explanation of YouTube's Viewership Puzzle</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-conversion-made-simple-youtube-to-mp3-mac-edition-for-2024/"><u>[New] Audio Conversion Made Simple  YouTube to MP3, Mac Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-building-the-ultimate-youtube-musical-collection-for-2024/"><u>[New] Building the Ultimate YouTube Musical Collection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie-for-2024/"><u>[New] Cut, Trim & Enhance  YouTube Editing Tips for the Rookie for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-detailed-analysis-of-youtubes-versus-dailymentions-for-2024/"><u>[New] Detailed Analysis of YouTubes Versus DailyMentions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-earning-potential-on-youtubers-for-2024/"><u>[New] Ensuring Earning Potential on YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-average-profit-per-stream-watcher-on-youtube/"><u>[New] In 2024, Average Profit per Stream Watcher on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] In 2024, Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cost-free-translation-made-easy-with-these-subtitle-downloader-apps/"><u>[New] In 2024, Cost-Free Translation Made Easy with These Subtitle Downloader Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-crafting-stellar-video-beginnings-with-free-tools/"><u>[New] In 2024, Crafting Stellar Video Beginnings with Free Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expertly-selected-graphics-cards-for-peak-streaming-clarity/"><u>[New] In 2024, Expertly Selected Graphics Cards for Peak Streaming Clarity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-investigating-fb-video-shape-variance/"><u>[New] Investigating FB Video Shape Variance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-factors-for-long-term-profitability-with-youtube-shorts/"><u>[New] Key Factors for Long-Term Profitability with YouTube Shorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overview-the-spectrum-of-visual-recorders/"><u>[New] Overview  The Spectrum of Visual Recorders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-reimagining-anime-narratives-in-trending-tiktok-creations-for-2024/"><u>[New] Reimagining Anime Narratives in Trending TikTok Creations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensive-guide-to-youtube-playlists-creation/"><u>[New] The Comprehensive Guide to YouTube Playlists Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-visual-vanguard-cutting-edge-cinematographic-insights-year-of-24/"><u>[New] Visual Vanguard  Cutting-Edge Cinematographic Insights - Year of '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee-in-2024/"><u>[Updated] 12 Unparalleled YouTube Gamers' Intros Revealed  Free or Fee, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-methods-to-craft-your-own-youtube-intros/"><u>[Updated] 2024 Approved  Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-composers-for-the-ultimate-video-photographic-symphony/"><u>[Updated] 2024 Approved  Best Composers for the Ultimate Video-Photographic Symphony</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-through-youtubes-walls-using-advanced-creator-studio-skills/"><u>[Updated] 2024 Approved  Breaking Through YouTube's Walls Using Advanced Creator Studio Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos/"><u>[Updated] 2024 Approved  Chuckle Campaign  7 Ingenious Ideas for Funny YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-productivity-io-screen-capture-secrets-for-2024/"><u>[Updated] Elevate Your Productivity  IO Screen Capture Secrets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-follows-into-genuine-subscriptions-for-2024/"><u>[Updated] Enhancing Follows Into Genuine Subscriptions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gold-standard-gabbing-prime-performances-by-google/"><u>2024 Approved  Gold-Standard Gabbing  Prime Performances by Google</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-lenovo-laptop-screen-recording/"><u>2024 Approved  Step-by-Step  Lenovo Laptop Screen Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/how-to-use-video-titles-and-youtube-tags-for-more-views-in-2024/"><u>How to Use Video Titles and YouTube Tags for More Views, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mp3-from-tweeted-media-a-step-by-step-guide/"><u>In 2024, MP3 From Tweeted Media  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-essential-learning-resources-for-upcoming-directors/"><u>In 2024, YouTube's Essential Learning Resources for Upcoming Directors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/"><u>Mastering Subtitle Craft with The Best Online Resources Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>Optimal Energy Solutions for GoPro Hero5  Certified & Third-Party</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-start-to-clear-background-filming-for-2024/"><u>Quick Start to Clear Background Filming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-playback-tips-and-tricks-for-infinite-youtube-views-for-2024/"><u>Seamless Playback  Tips & Tricks for Infinite Youtube Views for 2024</u></a></li>
+</ul></div>

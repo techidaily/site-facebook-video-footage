@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Lasting Way to Disconnect From YouTube Shorts"
-date: 2024-06-05T08:18:03.349Z
-updated: 2024-06-06T08:18:03.349Z
+date: 2024-07-31T21:47:48.060Z
+updated: 2024-08-01T21:47:48.060Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 # How to Disable/Remove YouTube Shorts Permanently?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -60,6 +63,9 @@ At your YouTube homepage at the top end, you will see the profile icon. If you c
 
 From there, you need to select “General”, which will show up some options. Here, click on the Shorts option to turn it off.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn of youtube shorts](https://images.wondershare.com/filmora/article-images/2023/04/turn-off-youtube-shorts.jpg)
 
 This way, by simply following and managing settings, you can easily disable YouTube shorts from the platform.
@@ -76,6 +82,9 @@ As a YouTube fan, you can also create interesting video by yourself with [**Film
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Can go with YouTube browser
 
 Hey guys, there is one more trick. Whenever you want to access YouTube, instead of going through the application, try to open YouTube website either from your mobile or PC browser window. You would wonder why so and what difference it will make. The fact is that the Shorts tab has not yet been incorporated under the browser version of YouTube.
@@ -106,10 +115,17 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Make YouTube Shorts](https://tools.techidaily.com/wondershare/filmora/download/) [Make YouTube Shorts](https://tools.techidaily.com/wondershare/filmora/download/) [Make YouTube Shorts](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ### Method 6: Removing all update
@@ -118,10 +134,16 @@ There exists one more simple trick to understand how to turn off YouTube Shorts.
 
 On your smartphone, open the **Settings** \> **Apps** or **Manage Apps** option > choose **YouTube** app> at the top right end, click on three dots there > click on **Uninstall Updates**. That will replace your YouTube app with that of the older version of YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/disable-youtube-shorts-4.jpg)
 
 Using this method, you can remove shorts easily from YouTube. And, it is not going to take much amount of time. So, go and follow the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 7: Try YouTube Vanced
 
 Wait, the list is not over yet. If none of the previous methods work, try **YouTube Vanced**, the advanced and premium version of YouTube to get rid of YouTube Shorts. Well, not only that, but YouTube Vanced also comes up with multiple services that you can enjoy along with it, such as disabling YouTube Shorts, blocking ads, stories, or any of the sponsored features.
@@ -148,6 +170,9 @@ Doing so will disable the YouTube Shorts option from the **Home** screen.
 
 Alternatively, remove the **YouTube Shorts** button also from the screen. Under the “Vanced settings” > Visit **Layout settings** \> Switch on the **Comments location** option. That will further remove the Shorts button from the bottom end of the Home screen of the YouTube page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/disable-youtube-shorts-6.jpg)
 
 Voila, now you can say that you get rid of those shorts videos by removing shorts from YouTube using YouTube Vanced option.
@@ -156,6 +181,9 @@ Thus, following the methods mentioned above gives you multiple ways to turn off 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -175,8 +203,14 @@ Thus, following the methods mentioned above gives you multiple ways to turn off 
 
  \* Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 YouTube has always been the favorite choice for many users to explain videos under the same platform just a few steps away. Somehow, the YouTube Shorts will not be a good choice for those dedicated users who always explore YouTube for detailed videos or information.
@@ -201,3 +235,45 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-choices-8-edits-suites-for-linux-users/"><u>[New] 2024 Approved  Best Choices  8 Edits Suites for Linux Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[New] 2024 Approved  Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-revenue-how-much-do-creators-earn-on-youtube/"><u>[New] 2024 Approved  Decoding Revenue  How Much Do Creators Earn on Youtube?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-creator-studio-a-practical-handbook/"><u>[New] 2024 Approved  Demystifying Creator Studio  A Practical Handbook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-insider-tips-for-documenting-your-favorite-games-on-ps4/"><u>[New] 2024 Approved  Insider Tips for Documenting Your Favorite Games on PS4</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easily-enable-offline-access-to-youtube-on-iphoneipad-for-2024/"><u>[New] Easily Enable Offline Access to YouTube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-deletion-techniques-for-online-discussions-for-2024/"><u>[New] Efficient Deletion Techniques for Online Discussions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-srt-tools-the-leading-eight-uncovered/"><u>[New] Free SRT Tools  The Leading Eight Uncovered</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-change-youtube-video-playback-speed-desktopmobile-for-2024/"><u>[New] How to Change YouTube Video Playback Speed [Desktop/Mobile] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mac-users-mastering-mp3-conversion-from-youtube/"><u>[New] Mac Users  Mastering MP3 Conversion From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>[New] Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-radeon-relive-download-and-review-for-2024/"><u>[New] Radeon Relive Download and Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stay-updated-the-latest-on-changing-win11-walls/"><u>[New] Stay Updated  The Latest on Changing Win11 Walls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlabs-vs-obs-which-livestream-tool-reigns-supreme-for-2024/"><u>[New] Streamlabs Vs. OBS  Which Livestream Tool Reigns Supreme for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-5-online-youtube-mp3-converters-free-and-easy/"><u>[New] Top 5 Online YouTube-MP3 Converters, Free and Easy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[Updated] 2024 Approved  Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dissecting-digital-dynamics-comparative-channel-analysis/"><u>[Updated] 2024 Approved  Dissecting Digital Dynamics  Comparative Channel Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-economical-growth-methodology-subscribe-now/"><u>[Updated] 2024 Approved  Economical Growth Methodology - Subscribe Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-sound-with-these-asmr-apps/"><u>[Updated] 2024 Approved  Elevate Sound with These ASMR Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[Updated] 2024 Approved  Essential Game Streamers for Your Watchlist</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-building-interactive-elements-a-guide-to-html-input-fields/"><u>[Updated] Building Interactive Elements  A Guide to HTML Input Fields</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhancing-business-communication-with-professional-skype-recordings-for-2024/"><u>[Updated] Enhancing Business Communication with Professional Skype Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-imovie-hacks-for-unique-and-memorable-youtube-openers/"><u>[Updated] IMovie Hacks for Unique and Memorable YouTube Openers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-success-strategy-standard-studio-or-beta-edge/"><u>[Updated] In 2024, Channel Success Strategy  Standard Studio or Beta Edge</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[Updated] In 2024, Crafting the Perfect Introduction  15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-embedding-yt-playlists-seamlessly-on-webpages/"><u>[Updated] In 2024, Embedding YT Playlists Seamlessly on Webpages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-depth-analysis-the-top-7-android-apps-to-combat-ads-effectively/"><u>[Updated] In-Depth Analysis  The Top 7 Android Apps to Combat Ads Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>[Updated] Perfecting Audio on iPhone  Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-method-streaming-idevice-screens-on-youtube/"><u>[Updated] The Ultimate Method  Streaming iDevice Screens on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-picart-tips-effortless-face-blurring-trick/"><u>2024 Approved  PicArt Tips  Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-zooms-potential-by-leveraging-skype/"><u>2024 Approved  Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge-in-2024/"><u>Binge on Christmas Classics  Enjoy 9 Whole-Film Flicks No Charge, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-open-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Open Phones with/without a PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-professional-voice-recording-made-easy-with-ipad/"><u>In 2024, Professional Voice Recording Made Easy with iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860704827-in-2024-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-c/"><u>In 2024, The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 8 Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-10-best-video-conferencing-tools-beyond-zoom/"><u>The 10 Best Video Conferencing Tools  Beyond Zoom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unstoppable-streams-the-rising-stars-of-female-youtube-content-for-2024/"><u>Unstoppable Streams  The Rising Stars of Female YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-youtubes-new-era-post-vidcon-events-for-2024/"><u>Unveiling Youtube's New Era  Post-VidCon Events for 2024</u></a></li>
+</ul></div>

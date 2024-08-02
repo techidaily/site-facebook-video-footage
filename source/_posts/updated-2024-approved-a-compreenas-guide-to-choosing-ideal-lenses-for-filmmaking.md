@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Compreenas Guide to Choosing Ideal Lenses for Filmmaking\""
-date: 2024-06-05T07:57:15.441Z
-updated: 2024-06-06T07:57:15.441Z
+date: 2024-07-31T21:12:36.831Z
+updated: 2024-08-01T21:12:36.831Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -103,10 +106,16 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -115,6 +124,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -129,6 +141,9 @@ But do you even need a fast lens?
 * Moving subjects more likely to get out of focus when shooting with a large aperture
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -141,6 +156,9 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +175,49 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capture-the-action-crafting-best-in-class-sports-films/"><u>[New] 2024 Approved  Capture the Action  Crafting Best-in-Class Sports Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[New] 2024 Approved  Chasing Likes and Loads  Jake Paul's YouTube Ambition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[New] 2024 Approved  Early-Stage YouTube Wisdom  Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-excellence-exchange-global-creators-for-2024/"><u>[New] Excellence Exchange  Global Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-beginners-guide-to-personal-brand-craftsmanship/"><u>[New] In 2024, A Beginner's Guide to Personal Brand Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[New] In 2024, Boost Channels to Partner Status in Under 90 Days, Start Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[New] In 2024, Elevate Your Cinematography Skills  Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>[New] Mastering Playback Pivot  A Step-by-Step YT Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-maximizing-speed-with-top-pc-monitor-controls/"><u>[New] Maximizing Speed with Top PC Monitor Controls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-youtubes-partnership-opportunities-in-cp2024/"><u>[New] Navigating Youtube's Partnership Opportunities in CP2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-the-perfect-youtube-conclusion-for-engagement/"><u>[New] Tailoring the Perfect YouTube Conclusion for Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoiding-storage-woes-removing-youtube-media/"><u>[Updated] 2024 Approved  Avoiding Storage Woes  Removing YouTube Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>[Updated] 2024 Approved  Craft and Share 360 Videos to YouTube  An Essential Guide for Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cultivating-a-visionary-channel-with-best-video-ideas/"><u>[Updated] 2024 Approved  Cultivating a Visionary Channel with Best Video Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-digestible-vid-info-quick-start/"><u>[Updated] 2024 Approved  Digestible Vid Info Quick Start</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-from-mobile-how-to-upload-videos-on-twit/"><u>[Updated] 2024 Approved  Direct From Mobile  How to Upload Videos on Twit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-proficiently-use-a-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved  How to Proficiently Use a Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-keeping-track-of-itunes-audio-visual-files/"><u>[Updated] 2024 Approved  Keeping Track of iTunes Audio-Visual Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-your-digital-identity-start-a-youtube-channel-today-for-2024/"><u>[Updated] Building Your Digital Identity  Start a YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-impactful-youtube-conclusion-for-2024/"><u>[Updated] Creating Impactful YouTube Conclusion for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[Updated] In 2024, 3-Step Financial Forecasting  Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interpreting-differences-360-and-virtual-reality-cinematography/"><u>[Updated] Interpreting Differences  360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-hashtags-youtubes-best-practices/"><u>[Updated] Navigating the World of Hashtags  YouTube's Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-video-quality-turning-on-av1-in-youtube-settings/"><u>[Updated] Optimize Video Quality  Turning ON AV1 in YouTube Settings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-savvy-flyers-selection-least-expensive-drone-brands/"><u>[Updated] Savvy Flyers' Selection  Least Expensive Drone Brands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-storyline-secret-to-youtube-triumph/"><u>[Updated] The Storyline Secret to YouTube Triumph</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-watch-9-festive-feasts-of-film-with-zero-charges-online/"><u>[Updated] Watch 9 Festive Feasts of Film with Zero Charges Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-step-by-step-pathway-to-youtube-video-enhancement/"><u>2024 Approved  Your Step-By-Step Pathway to YouTube Video Enhancement</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube-for-2024/"><u>Channel Combat  Determining Which Earns More From Videos—Dailymotion or YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-diary-a-complete-2023-collection-of-twit-threads-for-2024/"><u>Digital Diary  A Complete 2023 Collection of Twit-Threads for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-for-enhancing-posts-on-snapchat/"><u>In 2024, Essential Tips for Enhancing Posts on Snapchat</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone SE (2020) Without a Home Button</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-speech-reader-feedback-summary/"><u>In 2024, Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pixelhunter-advanced-screen-grabber-for-2024/"><u>PixelHunter Advanced Screen Grabber for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pixelpie-editor-for-2024/"><u>PixelPie Editor for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premier-paint-shop-pro-tricks/"><u>Premier Paint Shop Pro Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/protecting-content-rights-in-youtube-to-mp4-transfers-for-2024/"><u>Protecting Content Rights in Youtube-to-MP4 Transfers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smart-video-tactics-for-small-enterprises-for-2024/"><u>SMART Video Tactics for Small Enterprises for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-blueprint-to-compiling-youtube-soundscape-for-2024/"><u>The Essential Blueprint to Compiling YouTube Soundscape for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech/"><u>Top Picks for Your Next Shot in 4K Reflective Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-next-best-source-for-world-exploration-for-2024/"><u>Your Next-Best Source for World Exploration for 2024</u></a></li>
+</ul></div>

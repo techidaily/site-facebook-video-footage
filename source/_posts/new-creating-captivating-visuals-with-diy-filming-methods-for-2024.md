@@ -1,7 +1,7 @@
 ---
 title: "[New] Creating Captivating Visuals with DIY Filming Methods for 2024"
-date: 2024-06-05T10:35:42.696Z
-updated: 2024-06-06T10:35:42.696Z
+date: 2024-08-01T01:43:36.003Z
+updated: 2024-08-02T01:43:36.003Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 # 4 Ways To Set Up Your Talking-Head Shots For YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,14 +34,23 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### 1.  Close Quarters Wide-Angle Vlog Set-Up
 
 Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
@@ -67,6 +79,9 @@ You can see from how even the background and couch looks across the entire camer
 
 It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.  Two Person Vlog Set-Up
 
 If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
@@ -75,6 +90,9 @@ If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you 
 
 With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.  Long Teleprompter Vlog Set-Up
 
 If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
@@ -113,3 +131,47 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-microphones-catered-to-vloggers/"><u>[New] 2024 Approved  Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[New] 2024 Approved  Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop/"><u>[New] 2024 Approved  Expert Strategies for Perfectly Shared Screens on Mobile/Desktop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase-for-2024/"><u>[New] Achieve Social Stardom  The Ultimate List for FB Fan Increase for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-channels-spotlight-on-the-most-popular-female-creators-for-2024/"><u>[New] Captivating Channels  Spotlight on the Most Popular Female Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens-for-2024/"><u>[New] Enrich Viewers' Experience  A Comprehensive Guide to Youtube End Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[New] In 2024, Breaking Into the Digital Realm  The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-to-a-consensus-in-news-endings/"><u>[New] In 2024, Cutting to a Consensus in News Endings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>[New] In 2024, Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-gameplay-streaming-mastery-for-youtubers/"><u>[New] In 2024, Elevating Gameplay  Streaming Mastery for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>[New] Mastering The Art of Vlogging  Your Ultimate Journey Begins Here</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-no-expense-yes-watch-one-frame-at-a-time-on-youtube/"><u>[New] No Expense? Yes! Watch One Frame at a Time on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-average-income-for-youtubers-per-ad-displayed/"><u>[Updated] 2024 Approved  Average Income for YouTubers per Ad Displayed?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-camera-stabilizers-for-youtube/"><u>[Updated] 2024 Approved  Best Camera Stabilizers for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[Updated] 2024 Approved  Capture Spectacular Video on YouTube  Top Webcam Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-30-innovative-video-themes-and-layouts/"><u>[Updated] 30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-winter-youtube-background-ideas-to-warm-up-your-videos-for-2024/"><u>[Updated] 5 Winter YouTube Background Ideas to Warm Up Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-affordable-methods-for-video-and-text-synergy-for-2024/"><u>[Updated] Affordable Methods for Video and Text Synergy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[Updated] From Genres to Gems  Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-edit-youtube-channel-description/"><u>[Updated] How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-banish-youtube-shorts-forever-with-ease/"><u>[Updated] In 2024, Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-views-through-imaginative-video-thumbnails/"><u>[Updated] In 2024, Boosting Views Through Imaginative Video Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-concluding-your-channel-on-youtube-expert-guides-and-templates/"><u>[Updated] In 2024, Concluding Your Channel on YouTube - Expert Guides & Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-visuals-a-step-by-step-guide-for-youtube-trailers/"><u>[Updated] Leveraging Visuals  A Step-by-Step Guide for YouTube Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-hacks-for-more-views-no-investment-needed/"><u>[Updated] Quick Hacks for More Views, No Investment Needed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scale-up-channel-followers-faster-and-cheaper/"><u>[Updated] Scale Up Channel Followers Faster and Cheaper</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-softening-edges-strategic-lighting-for-content-creators/"><u>[Updated] Softening Edges  Strategic Lighting for Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-money-trail-for-youtube-creators-revenue-realization/"><u>[Updated] The Money Trail for YouTube Creators  Revenue Realization</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-diving-into-the-digital-splendor-of-nikon-d500/"><u>2024 Approved  Diving Into the Digital Splendor of Nikon D500</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-applications-for-video-from-pics/"><u>2024 Approved  Expert Applications for Video From Pics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visionary-voices-triumph-online/"><u>2024 Approved  Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/find-rich-ambiance-for-video-content-in-2024/"><u>Find Rich Ambiance for Video Content, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-gionee-f3-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Gionee F3 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor FRP In 3 Different Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools/"><u>In 2024, Mastering Visual Storytelling  The Cutting-Edge 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>In 2024, YouTube's First Visual Hook  Creating Personalized Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/steps-for-confirming-youtube-identity-for-2024/"><u>Steps for Confirming YouTube Identity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-online-audio-recordings-from-youtube-for-2024/"><u>The Ultimate Guide  Online Audio Recordings From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-income-streams-from-google-adsense-to-money-matters-for-2024/"><u>Unlocking Income Streams  From Google AdSense to Money Matters for 2024</u></a></li>
+</ul></div>

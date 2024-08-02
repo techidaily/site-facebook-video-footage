@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Insider's Guide to Crafting Powerful YouTube Banners"
-date: 2024-06-05T08:38:21.275Z
-updated: 2024-06-06T08:38:21.275Z
+date: 2024-07-31T22:21:58.465Z
+updated: 2024-08-01T22:21:58.465Z
 tags:
   - ai video
   - ai youtube
@@ -92,6 +92,9 @@ There are a lot of beautiful photographs available online, and sites like Stocks
 
 We recommend these two sites for anybody who finds copyright rules confusing because both of these sites allow you to use their photos for free, for any purpose (commercial or personal), without attribution (although they do appreciate attribution).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![free-youtube-banner-unsplash](https://images.wondershare.com/filmora/free-youtube-banner-unsplash.jpg)
 
 [**Unsplash:**](https://unsplash.com/) This site has a huge selection, and more photos are being added all the time. Finding what you want is as easy as typing a keyword (i.e., 'sunset') into the search bar on the home page.
@@ -116,6 +119,9 @@ Often, the download will not be as large as the image you see on the site. It wi
 
 You can use the navigation tools in the top right of the screen to see more patterns. Clicking the icon that looks like a bunch of squares will allow you to see multiple patterns at once.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![free-youtube-banner-hero-pattern](https://images.wondershare.com/filmora/free-youtube-banner-hero-pattern.jpg)
 
 [**Hero Patterns:**](https://www.heropatterns.com/) the patterns on this site are editable before you download. You choose a foreground color, a background color, and the opacity of the design in the foreground. This means that you can make the pattern as subtle or vibrant as you want, which is a great thing to have control over when you're creating channel art.
@@ -136,6 +142,9 @@ Whatever program you use to build your channel art will already have a selection
 
 Once you've got an image or images, and maybe even a font you want to use in your banner, you can create your channel art in either a software like Photoshop or a free banner maker (anchor) like the ones below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## **Free Channel Art Makers**
 
 You don't need an expensive program like Adobe Photoshop to make great channel art. There is a lot of photo editing and graphic design programs available for free online, and most of them are a lot easier to use.
@@ -156,6 +165,9 @@ Wondershare PixStudio is an all-in-one and powerful online graphic design maker 
 
 A major **benefit** of PixStudio is that it provides a feature to remove the image background, you can use the image more flexibility. One **drawback** is that the features will be used after payment of $7.99 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![ Wondershare PixStudio Banner Maker](https://images.wondershare.com/filmora/article-images/ultimate-guide-to-effective-youtube-banners.jpg)
 
 [**Design Wizard**](https://www.designwizard.com/)
@@ -178,6 +190,14 @@ You can upload your own images to use in Fotor as well.
 
 A major **benefit** of Fotor is that it has a lot of genuinely free channel art templates you can customize, and one **drawback** is that it doesn't have as many stock photos.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## **How to Make Good Channel Art**
 
 Finding an image, cutting it to the right size, and uploading it to YouTube is easy, but how many of your favorite YouTubers use just an image for their channel art? Usually, there's at least a little text stating the name of the channel.
@@ -229,6 +249,9 @@ Look at the kinds of colors and images other YouTubers in your niche are using f
 
 Here's a guide to what people tend to associate with different colors:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![color-implication](https://images.wondershare.com/filmora/color-implication.jpg)
 
 **Include Your Face**
@@ -266,6 +289,9 @@ However, for lots of YouTube niches, the channel art you make will be built arou
 
 **Minimalism**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text-and-logo-minimalism](https://images.wondershare.com/filmora/text-and-logo-minimalism.jpg)
 
 This is an example of a minimalist YouTube banner. This style typically uses only 2 or 3 colors and features clean lines, simple backgrounds, and not a lot of noise. If you want to project a calm, tidy, balanced vibe on your channel, then you should consider going in a minimalist direction with your banner.
@@ -274,6 +300,9 @@ This example is light and airy, but you can also create a minimalist look using 
 
 **Galaxy Themed**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![text-and-logo-galaxy-themed](https://images.wondershare.com/filmora/text-and-logo-galaxy-themed.jpg)
 
 Galaxy banners are exactly what they sound like: channel art featuring space scenes or photographs of the night sky. At first glance, you might think they belong with channels that talk about science or sci-fi, and they are great for that, but they're also a fun choice for comedy, vlogging, or gaming.
@@ -290,6 +319,9 @@ If you're looking for inspiration for a custom funky banner, go to your closet a
 
 **Comic**
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![/text-and-logo-comic](https://images.wondershare.com/filmora/text-and-logo-comic.jpg)
 
 A banner featuring an actual comic book character probably belongs to a channel that discusses comics, but the style itself is great for just about anyone. It's bold and communicates confidence. If your attitude towards YouTube is that you want to be fearless, why not go for something worthy of a superhuman?
@@ -298,6 +330,9 @@ Do you have any of your own tips to share about YouTube banners?
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -316,3 +351,66 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-undisclosed-territories-of-youtube-videos/"><u>[New] 2024 Approved  Charting the Undisclosed Territories of YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ethical-approaches-to-extract-and-convert-youtube-videos/"><u>[New] 2024 Approved  Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-likes-understanding-youtubes-true-view-metrics-for-2024/"><u>[New] Beyond Likes  Understanding YouTube’s True View Metrics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-advanced-the-hand-trackers-playbook/"><u>[New] From Basics to Advanced  The Hand Tracker's Playbook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-brand-your-youtube-channel-to-get-more-subscribers/"><u>[New] How to Brand Your YouTube Channel to Get More Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-sound-transforming-apps-for-youtube-vloggers/"><u>[New] In 2024, Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-systematic-search-for-concealed-youtube-repositories/"><u>[New] The Systematic Search for Concealed YouTube Repositories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-year-of-gaming-earnings-revolutions/"><u>[New] The Year of Gaming  Earnings Revolutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vintage-tech-upgrade/"><u>[New] Vintage Tech Upgrade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>[New] YouTube's Journey  Seamlessly Converted Into High-Quality AVIs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[Updated] 2024 Approved  Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-hacks-for-youtube-short-creators/"><u>[Updated] 2024 Approved  Earning Hacks for YouTube Short Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] 2024 Approved  Elevate Your Recordings  Doing Without a Microphone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-instant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>[Updated] 2024 Approved  Instant Guide  Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-becoming-an-expert-in-lut-technology/"><u>[Updated] Becoming an Expert in LUT Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>[Updated] Boost Your Earnings on YouTube Shorts  A Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-delve-into-youtube-metrics-using-the-power-of-social-blade-for-2024/"><u>[Updated] Delve Into YouTube Metrics Using the Power of Social Blade for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficacy-of-monetized-youtube-engagement-for-content-creators-in-2024/"><u>[Updated] Efficacy of Monetized YouTube Engagement for Content Creators, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-recording-tools-for-gamers-for-2024/"><u>[Updated] Elite Recording Tools for Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-income-mechanics-of-tseries-on-youtube-for-2024/"><u>[Updated] Examining the Income Mechanics of TSeries on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-access-to-6-premium-thumbnail-generators-for-youtube-for-2024/"><u>[Updated] Exclusive Access to 6 Premium Thumbnail Generators for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[Updated] Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-reviews-best-game-capture-apps-for-2024/"><u>[Updated] Expert Reviews  Best Game Capture Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-professional-youtuber-backgrounds/"><u>[Updated] Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-editing-essentials-rectify-faded-iphone-hdr-with-4-key-techniques-in-premiere-pro/"><u>[Updated] In 2024, [Editing Essentials] Rectify Faded iPhone HDR with 4 Key Techniques in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directing-content-flow-uploading-imovie-films-to-youtube/"><u>[Updated] In 2024, Directing Content Flow  Uploading IMovie Films to YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[Updated] In 2024, Elevate Your Video Game  Top Tips for Perfect Live Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-fixes-for-color-balancing-in-ps/"><u>[Updated] Quick Fixes for Color Balancing in PS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-6-youtube-outro-makers-lots-of-free-options/"><u>[Updated] Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-choices-animation-friendly-3d-model-tools/"><u>[Updated] Top Choices  Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-tips-for-mobile-content-capture/"><u>[Updated] Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-eliminating-iphones-inability-to-autofocus-on-targets/"><u>2024 Approved  Eliminating iPhone's Inability to Autofocus on Targets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-kinetic-control-over-android-a-compre-authorize-deep-dive-into-kinemaster/"><u>2024 Approved  Kinetic Control Over Android - A Compre Authorize Deep Dive Into KineMaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-locales-for-immersive-content/"><u>2024 Approved  Leading Locales for Immersive Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-shorts-content-strategy-for-success/"><u>2024 Approved  YouTube Shorts  Content Strategy for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-shorts-profitability-secrets/"><u>2024 Approved  Youtube Shorts Profitability Secrets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-vs-dailymention-spotlighting-key-aspects/"><u>2024 Approved  YouTube Vs. DailyMention  Spotlighting Key Aspects</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-the-heart-of-viva-video-app/"><u>Delving Into the Heart of Viva Video App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-asus-rog-phone-7-ultimate-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/how-to-change-the-privacy-setting-on-your-youtube-videos-for-2024/"><u>How to Change the Privacy Setting on Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus 11R Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s17-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9a to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30i to iPod | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia G22 Phone Without Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y200e 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>In 2024, Visual Storytelling at Its Finest  YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-tips-for-enhancing-your-youtube-videos-with-captions-for-2024/"><u>Professional Tips for Enhancing Your YouTube Videos with Captions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/supreme-choices-for-inexpensive-film-assets-for-2024/"><u>Supreme Choices for Inexpensive Film Assets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-catalog-of-livestreaming-cameras-review-for-2024/"><u>The Complete Catalog of Livestreaming Cameras Review for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-escape-artists-manual-to-disguised-youtube-archives-for-2024/"><u>The Escape Artist's Manual to Disguised YouTube Archives for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-blaze-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Blaze Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-web-popularity-into-video-concepts-using-google-trends-for-2024/"><u>Transforming Web Popularity Into Video Concepts Using Google Trends for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-a-video-for-your-babys-first-year/"><u>Updated 2024 Approved How to Make a Video for Your Babys First Year</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-k70e-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi K70E? Here is How | Dr.fone</u></a></li>
+</ul></div>

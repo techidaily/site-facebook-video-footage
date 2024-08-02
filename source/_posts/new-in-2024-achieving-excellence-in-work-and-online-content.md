@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Achieving Excellence in Work and Online Content"
-date: 2024-06-05T09:11:02.463Z
-updated: 2024-06-06T09:11:02.463Z
+date: 2024-07-31T23:18:20.287Z
+updated: 2024-08-01T23:18:20.287Z
 tags:
   - ai video
   - ai youtube
@@ -42,14 +42,23 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 [5. Be creative! Create audios (audio-only videos)](#createaudio)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Don’t force yourself to post on specific days
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
@@ -58,12 +67,18 @@ When starting a YouTube channel, many YouTubers like myself don’t have the mon
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. Be creative! Create audios (audio-only videos)
 
 In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
 
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Make a YouTube Video with Wondershare Filmora
 
 Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
@@ -72,6 +87,9 @@ Just try it and create your own YouTube video!
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -88,3 +106,60 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[New] 2024 Approved  Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extract-and-save-youtube-gallery-files/"><u>[New] 2024 Approved  Extract and Save YouTube Gallery Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-revolutionary-free-fb-story-magicians-for-extensions-and-mobile/"><u>[New] 2024 Approved  Revolutionary Free FB Story Magicians for Extensions & Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-adaptive-gaming-techniques-by-pros-for-2024/"><u>[New] Adaptive Gaming Techniques by Pros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-command-center-mastering-your-digital-domain-for-2024/"><u>[New] Channel Command Center  Mastering Your Digital Domain for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>[New] Channel Transformation  Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-enhancing-youtube-content-post-upload-for-2024/"><u>[New] Essential Guide to Enhancing YouTube Content Post-Upload for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ascend-video-rankings-top-seo-gadgets-revealed/"><u>[New] In 2024, Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>[New] In 2024, Beam Your Content Upward  Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>[New] In 2024, Building Blocks for Movie Making  YouTube's Framework & More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-youtube-gallery-files-instantly/"><u>[New] In 2024, Download YouTube Gallery Files Instantly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-the-leap-set-up-a-sports-vlog-on-macos/"><u>[New] Making the Leap  Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-seamless-podcast-experience-for-iphone-users/"><u>[New] Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>[New] The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-20-free-footage-sites-a-comprehensively-curated-list/"><u>[New] Top 20 Free Footage Sites  A Comprehensively Curated List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-tutorial-for-transforming-vids-into-dollars-for-2024/"><u>[Updated] A Comprehensive Tutorial for Transforming Vids Into Dollars for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] A Detailed Guidance  How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-choosing-the-right-format-boosting-your-youtube-videos-performance-for-2024/"><u>[Updated] Choosing the Right Format – Boosting Your YouTube Videos’ Performance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-disable-non-specific-youtube-video-alerts-for-2024/"><u>[Updated] Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-mastery-11-key-youtube-extractors-for-2024/"><u>[Updated] Download Mastery  11 Key YouTube Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortlessly-post-videos-on-youtube-with-our-expert-guide-for-2024/"><u>[Updated] Effortlessly Post Videos on YouTube with Our Expert Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills-for-2024/"><u>[Updated] Elevate Your YouTube Channel  Perfecting Video Scriptwriting Skills for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-cover-video-introduction-size-format-and-time/"><u>[Updated] Facebook Cover Video  Introduction, Size, Format & Time</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-imovie-blueprint-the-pathway-to-crafting-impressive-square-videos-for-2024/"><u>[Updated] IMovie Blueprint  The Pathway to Crafting Impressive Square Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bite-sized-video-lessons-clearly/"><u>[Updated] In 2024, Bite-Sized Video Lessons, Clearly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comprehensive-but-concise-guide-to-keyers-techniques/"><u>[Updated] In 2024, Comprehensive but Concise Guide to Keyers' Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovators-crafting-engaging-marvel-escapades/"><u>[Updated] Innovators Crafting Engaging Marvel Escapades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premiere-pro-rapid-transitions/"><u>[Updated] Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-audio-to-video-conversion-for-youtube-fans/"><u>[Updated] Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[Updated] Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>[Updated] The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-whats-the-real-distinction-between-youtube-and-dailymention/"><u>[Updated] What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-banish-buffering-repair-facebook-videos-on-phonestablets/"><u>2024 Approved  Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-pioneering-the-path-to-instagram-reel-mastery/"><u>2024 Approved  Pioneering the Path to Instagram Reel Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-sony-xperia-5-v-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Sony Xperia 5 V Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-p55-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel P55 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-magic-6-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor Magic 6 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-standout-literary-book-videos/"><u>In 2024, Standout Literary Book Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visionary-video-download-engine-capture-and-save-anywhere/"><u>In 2024, Visionary Video Download Engine - Capture & Save Anywhere</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-essence-of-omegle-a-thorough-investigation-of-its-operations-and-user-protection/"><u>New 2024 Approved The Essence of Omegle A Thorough Investigation of Its Operations and User Protection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premium-broadcasting-gear-top-rated-software-and-hardware-for-youtubers-for-2024/"><u>Premium Broadcasting Gear  Top-Rated Software & Hardware for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-incorporating-new-fonts-into-after-effects-for-2024/"><u>Step-by-Step  Incorporating New Fonts Into After Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools-for-2024/"><u>Streamline Your Listening Experience  Convert Spotify to YouTube with These Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/swiftly-switch-songs-in-yt-playlist-heres-how-for-2024/"><u>Swiftly Switch Songs in YT Playlist, Here's How for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video-for-2024/"><u>The Cash Flow of Creative Content  Youtuber's Earnings per Sponsored Video for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y200-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y200 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-your-footage-into-shareable-youtube-stories-for-2024/"><u>Transforming Your Footage Into Shareable YouTube Stories for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y17s-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y17s</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-storage-potential-with-windows-iscsi-initiator/"><u>Unlocking Storage Potential with Windows iSCSI Initiator</u></a></li>
+</ul></div>

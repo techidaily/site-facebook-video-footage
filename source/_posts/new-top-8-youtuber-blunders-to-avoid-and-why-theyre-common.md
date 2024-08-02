@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 8 Youtuber Blunders to Avoid and Why They're Common"
-date: 2024-06-05T08:13:19.957Z
-updated: 2024-06-06T08:13:19.957Z
+date: 2024-07-31T21:39:53.294Z
+updated: 2024-08-01T21:39:53.294Z
 tags:
   - ai video
   - ai youtube
@@ -28,10 +28,19 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 
 In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I learned from those mistakes and have helped many new YouTubers start their own channels. Here is a list of eight common mistakes that new YouTubers should avoid, along with tips to do things in a better way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ###  
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
@@ -44,6 +53,9 @@ Another mistake I made with my first YouTube channel was choosing an ineffective
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Coming up with titles that won't get searched
 
 Many new YouTubers make the mistake of titling their videos in an ineffective way. Rather than coming up with titles that more people might search, they either come up with titles that summarize what the video is about as a whole or title their videos the way big YouTubers do.
@@ -52,6 +64,9 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
@@ -66,6 +81,9 @@ New YouTubers often make the mistake of having weak intros. Starting at the begi
 
 To read more on how some of the most successful YouTubers effectively do their intros, check out my blogpost on “[How To Edit YouTube Videos Like a YouTuber](https://tools.techidaily.com/wondershare/filmora/download/).”
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 6\. Forgetting to engage with subscribers
 
 An important thing to do as a new YouTuber is engaging with your subscribers. Some new YouTubers, though, are so focused and busy with the production side of things that they forget to do the community side of things, including responding to comments. By not responding to comments as a new YouTuber, you hurt your potential to get more comments consistently from your subscribers. If your video’s comments section is very active, YouTube ranks your video higher in the videos it recommends to viewers.
@@ -102,3 +120,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>[New] 2024 Approved  A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>[New] 2024 Approved  Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-video-capture-clash-go-obs-against-shadowgl/"><u>[New] 2024 Approved  Video Capture Clash  Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-cold-ideal-snowy-scenes-to-brighten-videos-for-2024/"><u>[New] Captivating Cold  Ideal Snowy Scenes to Brighten Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-download-unlimited-mcb-visual-elements-for-2024/"><u>[New] Download Unlimited MCB Visual Elements for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[New] In 2024, Beyond Tube  The Premier Spots for Online Video Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-brands-together-a-guide-to-selecting-youtube-teams/"><u>[New] In 2024, Building Brands Together  A Guide to Selecting YouTube Teams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>[New] In 2024, Charting a Path to Profit  Calculating Video View Requirements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[New] In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-making-bank-with-youtube-an-analysis-of-pewdiepies-earnings/"><u>[New] In 2024, Making Bank with YouTube  An Analysis of PewDiePie’s Earnings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ave-money-on-titles-exclusive-list-of-11-free-creators/"><u>[New] Save Money on Titles - Exclusive List of 11 Free Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-playbook-for-a-thriving-youtube-gaming-platform/"><u>[New] The Ultimate Playbook for a Thriving YouTube Gaming Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-mp4-tools-for-mac-users-maximizing-youtube-productions/"><u>[New] Top MP4 Tools For Mac Users  Maximizing YouTube Productions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-customization-free-youtube-visual-templates/"><u>[Updated] 2024 Approved  Easy Customization  Free YouTube Visual Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-an-easy-to-follow-guide-to-applying-cc-license-types-for-2024/"><u>[Updated] An Easy-to-Follow Guide to Applying CC License Types for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortless-twitpic-integration-a-video-guide-for-2024/"><u>[Updated] Effortless Twitpic Integration  A Video Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bypass-software-for-youtube-downloads/"><u>[Updated] In 2024, Bypass Software for YouTube Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-computers-optimal-machines-for-media-creation/"><u>[Updated] In 2024, Cutting-Edge Computers  Optimal Machines for Media Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[Updated] In 2024, Expand Access to Creative Works  Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] In 2024, YouTube Growth Secrets  Masterful Narration Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-no-fuss-strategies-recording-your-google-voice-calls-for-2024/"><u>[Updated] No-Fuss Strategies  Recording Your Google Voice Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>[Updated] The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insider-guide-to-gaming-channel-header-templates/"><u>[Updated] The Insider Guide to Gaming Channel Header Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-to-easy-youtube-subtitle-and-closed-caption-addition/"><u>[Updated] Ultimate Guide to Easy YouTube Subtitle and Closed Caption Addition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>[Updated] Unlocking Online Potential  Mastering the Art of Thumbnail Sizing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-social-networks-the-pathway-to-a-facebook-profile-for-2024/"><u>[Updated] Unlocking Social Networks  The Pathway to a Facebook Profile for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-production-pro-tips-incorporating-audio-into-youtube-content/"><u>2024 Approved  Video Production Pro Tips  Incorporating Audio Into YouTube Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-play-8t-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Play 8T Phone that is Locked?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x50iplus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X50i+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-nord-n30-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus Nord N30 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-virtuosity-expertly-attaching-audio-to-youtube-videos/"><u>In 2024, Video Virtuosity  Expertly Attaching Audio to YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>In 2024, YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format-for-2024/"><u>Three Ways to Convert YouTube Music Tracks Safely to MP3 Format for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-unleashed-a-creators-guide-to-greatness-for-2024/"><u>YouTube Unleashed  A Creator's Guide to Greatness for 2024</u></a></li>
+</ul></div>

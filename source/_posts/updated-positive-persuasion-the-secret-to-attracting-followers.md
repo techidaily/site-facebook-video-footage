@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Positive Persuasion  The Secret to Attracting Followers\""
-date: 2024-06-05T10:55:15.609Z
-updated: 2024-06-06T10:55:15.609Z
+date: 2024-08-01T02:16:49.988Z
+updated: 2024-08-02T02:16:49.988Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 
 # How to Get People to Subscribe to Your YouTube Channel
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -36,6 +39,14 @@ There are people who think that if people like their videos they’ll subscribe,
    2. [Step 2: Get to The Point Quickly](#point)  
    3. [Step 3: Create a Moment - Make Subscribing Part of the Experience](#moment)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## What is a 'Call To Action'?
 
 It has become the norm for YouTubers to ask viewers to subscribe in their sign-offs. A typical CTA (‘call to action’) goes something like this:
@@ -44,6 +55,9 @@ It has become the norm for YouTubers to ask viewers to subscribe in their sign-o
 
 That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A More Effective Way of Asking For Subscribers
 
 Collins Key is one YouTuber who has mastered asking for subscribers early on, and given that he has over 7 million subscribers himself I’d say it’s working out. Check out the technique in this video collab with Brooklyn and Bailey:
@@ -52,6 +66,10 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
@@ -62,6 +80,9 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
@@ -78,6 +99,9 @@ Here is a tutorial video about how to use Filmora to edit your YouTube video. Ch
 
 That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -94,3 +118,43 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[New] 2024 Approved  Enter the World of Online Promotion  Exclusive Free YouTube Banner Access</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>[New] 2024 Approved  Fraps  Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[New] 2024 Approved  From Selfie Snaps to Skincare Specials  Establishing Your YouTube Brand</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-mastery-top-picks-of-free-pcmac-desktop-recorders/"><u>[New] Capture Mastery  Top Picks of Free PC/Mac Desktop Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[New] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-stories-essential-tips-for-youtube-video-editors-for-2024/"><u>[New] Crafting Stories  Essential Tips for YouTube Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dive-deep-into-youtube-shorts-essentials-for-2024/"><u>[New] Dive Deep Into YouTube Shorts Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-youtube-audio-optimization-for-2024/"><u>[New] Essential Tips for YouTube Audio Optimization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-new-horizons-video-resources-for-dynamic-learning-spaces-for-2024/"><u>[New] Exploring New Horizons  Video Resources for Dynamic Learning Spaces for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-visibility-with-youtube-branding-techniques/"><u>[New] In 2024, Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-snapsizesecrets-perfecting-photo-and-video-sizes-in-instagram/"><u>[New] In 2024, SnapSizeSecrets  Perfecting Photo and Video Sizes in Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-funny-fictional-frequencies/"><u>[New] The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-inspirational-recruiter-playlist/"><u>[New] The Ultimate Inspirational Recruiter Playlist</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-selections-top-rated-mac-video-recording-apps/"><u>[Updated] 2024 Approved  Elite Selections  Top-Rated Mac Video Recording Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-demystifying-the-process-of-checking-subs-for-2024/"><u>[Updated] Demystifying The Process of Checking Subs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-smoothly-view-youtube-videos-without-borders/"><u>[Updated] How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-art-of-attention-retention-on-youtube-with-these-6-tactics/"><u>[Updated] Mastering the Art of Attention Retention on YouTube with These 6 Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtubes-landscape-a-beginners-primer/"><u>[Updated] Navigating YouTube's Landscape  A Beginner's Primer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] Seamless Transformation  Top Tools for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-hash-tags-to-launch-you-into-six-figures/"><u>[Updated] Strategic Hash Tags to Launch You Into Six Figures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-x9b-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor X9b? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-x-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone X and iPad Securely</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y200e-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y200e 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-p55-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-new-horizons-the-joy-of-language-learning/"><u>Discovering New Horizons: The Joy of Language Learning</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-revenue-boost-new-500-subs-milestone/"><u>In 2024, YouTube's Revenue Boost  New 500 Subs Milestone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-brand-presence-on-youtube-with-video-embellishments-for-2024/"><u>Optimize Your Brand Presence on YouTube with Video Embellishments for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a15-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A15 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scriptwriting-secrets-penning-podcast-episodes-that-resonate/"><u>Scriptwriting Secrets  Penning Podcast Episodes That Resonate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/snappy-and-simple-steps-for-posting-short-videos-online-for-2024/"><u>Snappy and Simple  Steps for Posting Short Videos Online for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-14-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 14 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-15-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 15 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/views-that-pay-the-bills-the-youtube-metric-for-2024/"><u>Views That Pay the Bills  The Youtube Metric for 2024</u></a></li>
+</ul></div>

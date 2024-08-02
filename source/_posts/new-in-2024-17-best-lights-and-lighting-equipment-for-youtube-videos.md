@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos"
-date: 2024-06-05T11:41:57.660Z
-updated: 2024-06-06T11:41:57.660Z
+date: 2024-08-01T03:36:48.778Z
+updated: 2024-08-02T03:36:48.778Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 # 17 Best Lights and Lighting Equipment for YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,9 @@ Unfortunately, it is unlikely you will be able to get good quality light from th
 * [Part 2: What Should Good Lighting Equipment Feature?](#part2)
 * [Part 3: Best Lights and Lighting Equipment for YouTube Video Shooting](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Part 1: Best Types of Lightning Equipment for YouTube Videos
 
 Every video no matter how long or short depends on light, more than anything else. The natural light sources are often not powerful enough to light a scene you're trying to capture, so to avoid having to deal with underexposed footage, the best solution is to use artificial lighting. Even if you want the light in your video to be completely natural, you still have to figure out a way to get rid of shadows, which brings us back to different types of lighting equipment that can be used to increase the quality of the footage you're producing.
@@ -80,6 +86,9 @@ White reflectors are used to simply bounce light. Silver reflectors make light a
 
 Reflectors are used to bounce light towards your subject. They are great for filling shadows created by your main light. This reflector is five reflectors in one: silver, gold, black, white, and translucent.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Part 3: Best Lights and Lighting Equipment for YouTube Videos
 
 Consumer-level camera sensors are nowhere close to being as sensitive to light as our eyes. So a scene that may look sufficiently lit to our eyes may be too dark for the camera. When you're shooting video indoors, you'll need additional lighting equipment. Here are some of the top seventeen best lighting equipment for YouTubers.
@@ -92,18 +101,27 @@ On-Camera LED lights are LED lights that can be mounted directly onto your camer
 
 #### 1\. [Julius Studio 160 LED Light with 4 Color Filters](https://www.amazon.com/Julius-Studio-Dimmable-Panasonic-JGG2161/dp/B00QJDZ20U/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Julius Studio Lighting](https://images.wondershare.com/filmora/article-images/lighting-equipment-julius-studio.jpg)
 
 The Julius Studio 160 LED light not only can be mounted on any digital camera that has a hot/cold shoe but it can also be mounted on light stands so you can keep the same light setting even if you are moving the camera around. This lighting equipment also comes with four color filters so that you can control the color temperature of your light.
 
 #### 2\. Viltrox L116B highest RA CRI95 LED Light Panel
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Viltrox lighting](https://images.wondershare.com/filmora/article-images/lighting-equipment-viltrox.jpg)
 
 The VILTROX L116B LED light panel is a powerful piece of on-camera lighting equipment. As you can see from the back view of this light panel, you can see how much battery you have left as well as digitally set the color temperature of your light. It also features PWM light adjustment technology that reduces power consumption. As this equipment comes with an AC adapter, you can choose to use this outdoors or indoors.
 
 #### 3\. Chromo Inc CI55000230 Macro Ring 48 LED Power Light
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Chromo Inc](https://images.wondershare.com/filmora/article-images/lighting-equipment-chromo.jpg)
 
 If you're looking for an on-camera ring light, Chromo Inc's macro ring light is a great option. This ring light mounts onto the lens of your SLR camera and its power source (two AA batteries) attaches to your camera's hot/cold shoe. Get that nice-looking ring light reflection in your eyes as you film with this portable ring light!
@@ -116,6 +134,10 @@ The Neewer 216 PCS LED dimmable light panel is powerful lighting equipment at a 
 
 #### 5\. [Neewer 160 LED CN-160 Dimmable Ultra High Power Panel](https://www.amazon.com/Dimmable-Digital-Camcorder-Panasonic-Samsung/dp/B004TJ6JH6/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Neewer CN-216 216PCS ](https://images.wondershare.com/filmora/article-images/lighting-equipment-neewer-160-led.jpg)
 
 This light is Neewer's cheaper version of the CN-216\. Instead of having 216 LED light bulbs, this light has 160 LED light bulbs. Other than the number of light bulbs, the two light panels are pretty much the same.
@@ -150,16 +172,25 @@ With 300 pcs LED and 150 yellow color and 150 white-color lights, FalconEyes DVR
 
 #### 5\. [Neewer 14″ Ring Light](https://www.amazon.com/Neewer-centimeters-Fluorescent-Photography-Equivalent/dp/B00V33KSCI/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Neewer 14  Ring Light ](https://images.wondershare.com/filmora/article-images/led-ring-lighting-equipment-neewer-ring-light.jpg)
 
 The 10-inch inner rim diameter may seem small when compared with larger ring lights that offer more room to operate. The Neewer Camera Ring Light is undimmable and has 50W power. The ring light uses an AC adapter, which makes it difficult to use when filming outside of a studio.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### List of the Top 2 Best Softbox Video Lights
 
 A softbox is commonly used by photographers and videographers to simulate natural light. This effect is achieved with the aid of a diffusion panel that is placed around the light source that produces continuous light. Softboxes are often less expensive than other professional lighting equipment which makes them a great option if you are working on a budget.
 
 #### 1\. [StudioFX 2400 Watt Softbox](https://www.amazon.com/StudioFX-H9004SB2-Photography-Continuous-Hairlight/dp/B00MBVOIJU/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Neewer 14  Ring Light ](https://images.wondershare.com/filmora/article-images/softbox-lighting-equipment-StudioFX.jpg)
 
 This lighting system contains two 16x24-inch softboxes and an overhead hair light boom softbox. The stands for all three softboxes are included in the kit. Each light head is capable of holding up to four bulbs.
@@ -186,6 +217,15 @@ Besides featuring two umbrellas and two softboxes, this kit also includes a 6x9 
 
 #### 3\. [Emart 600W Studio Photography Photo/Video Portrait Kit](https://www.amazon.com/gp/product/B018KE5XUO/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![ Emart 600W Studio Photography Photo/Video Portrait Kit ](https://images.wondershare.com/filmora/article-images/umbrella-lighting-equipment-emart.jpg)
 
 Chances are that you won't need much more than what this photo/video kit has to offer. Emart's 600W kit includes two white and two black/silver 33-inch umbrellas as well as two 83-inch light stands and a smaller 33-inch light stand. The heavy-duty carry case can store the entire kit.
@@ -204,6 +244,9 @@ The greatest advantage of this Emart 1575 W Lightning kit is the three pairs of 
 
 Besides the best lighting equipment, we have also summarized some [tips and tricks for lighting](https://tools.techidaily.com/wondershare/filmora/download/), you should check it as well. If you find the video lighting isn’t good after recording the video, you can still improve it by adjusting brightness in post-production. [Wondershare Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) features the Auto enhance feature, which can adjust the video color and brightness with one click. You can download the free trial to try it out.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -222,3 +265,50 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-12-best-vlogging-cameras-with-a-flip-screen/"><u>[New] 2024 Approved  12 Best Vlogging Cameras with a Flip Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-effective-strategies-to-document-competitive-play/"><u>[New] 2024 Approved  Effective Strategies to Document Competitive Play</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cost-effective-action-cams-unveiled-for-2024/"><u>[New] Cost-Effective Action Cams Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-listeners-respectfully-for-increased-sign-ups-for-2024/"><u>[New] Engaging Listeners Respectfully for Increased Sign-Ups for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[New] How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>[New] In 2024, 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-step-by-step-approach-to-crafting-your-video-market-standouts/"><u>[New] In 2024, A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>[New] In 2024, Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] In 2024, Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-up-your-income-game-with-these-13-unbeatable-reddit-tactics/"><u>[New] Step Up Your Income Game with These 13 Unbeatable Reddit Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>[New] The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-risk-free-youtube-video-mp4-downloading/"><u>[New] Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-whimsical-wonders-in-musical-worlds/"><u>[New] Whimsical Wonders in Musical Worlds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[Updated] 2024 Approved  Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[Updated] 2024 Approved  Enhance Viewer Engagement  The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>[Updated] 2024 Approved  Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online/"><u>[Updated] 2024 Approved  The Ultimate Playbook  A Guide to Efficiently Posting SRT Files Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-confidence-against-youtube-critiques-for-2024/"><u>[Updated] Building Confidence Against YouTube Critiques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-worldly-stories-startup-guide-for-future-travel-vloggers-for-2024/"><u>[Updated] Crafting Worldly Stories  Startup Guide for Future Travel Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-edits-top-10-youtube-editing-strategies-for-2024/"><u>[Updated] Elevate Your Edits  Top 10 YouTube Editing Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[Updated] Elevate Your YouTube Presence  Strategic Tagging and Titling Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-presence-with-expert-idevice-screen-techniques-for-2024/"><u>[Updated] Elevate Your YouTube Presence with Expert iDevice Screen Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-insights-on-incorporating-hashtags-for-game-streams-for-2024/"><u>[Updated] Expert Insights on Incorporating Hashtags for Game Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-embracing-constructive-feedback-ignoring-the-rest/"><u>[Updated] In 2024, Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-8-mirrorless-cams-for-professional-videographers/"><u>[Updated] In 2024, Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-finalcut-pro-for-high-quality-youtube-production/"><u>[Updated] Leveraging FinalCut Pro for High-Quality YouTube Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-million-viewer-milestones-youtubes-pay-structure/"><u>[Updated] Million-Viewer Milestones  YouTube's Pay Structure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-playlist-placement-techniques-for-youtube/"><u>[Updated] Perfect Playlist Placement Techniques for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-stock-image-memes-real-life-narratives/"><u>[Updated] Top 10 Stock Image Memes  Real Life Narratives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-go-to-list-asmr-on-phone-platforms/"><u>[Updated] Your Go-To List  ASMR on Phone Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-stunning-imagesfilms-using-easy-shifts/"><u>2024 Approved  Capture Stunning Images/Films Using Easy Shifts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-centralized-digital-media-command-center/"><u>2024 Approved  YouTube's Centralized Digital Media Command Center</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a38-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A38 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-spectacular-top-liquid-physics-gaming/"><u>In 2024, Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-x100-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo X100 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-historical-context-for-2024/"><u>The Historical Context for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-global-earning-creator-for-2024/"><u>The Ultimate Global Earning Creator for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggering-the-verification-toolset-for-win11-systems/"><u>Triggering the Verification Toolset for Win11 Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/trimming-tips-select-the-top-5-url-shrinkers-for-youtube-for-2024/"><u>Trimming Tips  Select the Top 5 URL Shrinkers for YouTube for 2024</u></a></li>
+</ul></div>

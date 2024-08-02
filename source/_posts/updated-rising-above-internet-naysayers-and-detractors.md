@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Rising Above Internet Naysayers and Detractors"
-date: 2024-06-05T09:30:38.553Z
-updated: 2024-06-06T09:30:38.553Z
+date: 2024-07-31T23:51:45.244Z
+updated: 2024-08-01T23:51:45.244Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,14 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
 # How To Deal with YouTube Trolls and Negative Comments
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -26,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -52,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -68,3 +82,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-freedom-list-best-10-mp3-makers/"><u>[New] 2024 Approved  Digital Freedom List  Best 10 MP3 Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-explore-and-compare-20plus-best-free-video-editors-for-ios/"><u>[New] 2024 Approved  Explore and Compare  20+ Best Free Video Editors for iOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-apex-creators-video-giants-in-the-making-for-2024/"><u>[New] Apex Creators  Video Giants in the Making for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-expansion-at-wallet-friendly-costs-for-2024/"><u>[New] Channel Expansion at Wallet-Friendly Costs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-copycatting-charisma-making-ingenious-parodies-for-2024/"><u>[New] Copycatting Charisma  Making Ingenious Parodies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-ajey-nagars-2023-youtube-economic-landscape-for-2024/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-youtubes-functionality-following-uploaded-videos-for-2024/"><u>[New] Exploring YouTube’s Functionality Following Uploaded Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-to-navigate-top-10-youtube-downloader-tools/"><u>[New] In 2024, Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-techniques-for-capturing-audio-on-ipad/"><u>[New] Innovative Techniques for Capturing Audio on iPad</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>[New] The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-emerging-youtube-channels-to-spark-motivation/"><u>[New] Top 10 Emerging YouTube Channels to Spark Motivation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-ascension-from-a-niche-channel-to-million-sub-haven/"><u>[New] Youtube Ascension  From a Niche Channel to Million-Sub Haven</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-best-love-stories-perfectly-captured-weddings/"><u>[New] YouTube's Best Love Stories  Perfectly Captured Weddings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Designing Powerful YouTube Screens  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dslr-cameras-stand-against-mirrorless-for-videographers-for-2024/"><u>[Updated] DSLR Camera's Stand Against Mirrorless for Videographers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewership-maintaining-youtubes-creative-commons-for-2024/"><u>[Updated] Enhancing Viewership  Maintaining YouTube's Creative Commons for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-android-freedom-selecting-prime-video-editing-tools/"><u>[Updated] In 2024, Android Freedom  Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-to-upgrade-channel-descriptions/"><u>[Updated] In 2024, Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-innovative-strategies-for-engaging-your-audience-with-puzzles-on-instagram-for-2024/"><u>[Updated] Innovative Strategies for Engaging Your Audience with Puzzles on Instagram for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-instagrams-unexpected-video-timings/"><u>[Updated] Navigating Instagram's Unexpected Video Timings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-open-source-fb-songs-downloader-for-2024/"><u>[Updated] Open Source FB Songs Downloader for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhance-your-real-time-periscope-performance/"><u>2024 Approved  Enhance Your Real-Time Periscope Performance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essentials-for-a-captivating-docu-script/"><u>2024 Approved  Essentials for a Captivating Docu-Script</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-youtube-url-your-way-easy-personalization-steps/"><u>2024 Approved  Your YouTube URL, Your Way  Easy Personalization Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-walkthrough-installing-windows-movie-maker-60-for-2024/"><u>Comprehensive Walkthrough  Installing Windows Movie Maker 6.0 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-7-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 7 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-nuances-of-premieres-fullscreen-mode-for-2024/"><u>Navigating the Nuances of Premiere's Fullscreen Mode for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-flipping-videos-in-final-cut-pro/"><u>New In 2024, The Ultimate Guide to Flipping Videos in Final Cut Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/savvy-obs-arrangement-for-economical-pcs/"><u>Savvy OBS Arrangement for Economical PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>Shooting for Greatness  IPhone's 10 Vital Composition Guidelines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/teachers-channel-blueprint-10-essential-tips-for-youtube-educators-for-2024/"><u>Teachers’ Channel Blueprint  10 Essential Tips for YouTube Educators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-wirecast-playbook-for-engaging-youtube-streamers-for-2024/"><u>The Ultimate WireCast Playbook for Engaging YouTube Streamers for 2024</u></a></li>
+</ul></div>

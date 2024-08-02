@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Video's Hidden Potential with These Top 20 Shortcuts for 2024"
-date: 2024-06-05T11:16:55.623Z
-updated: 2024-06-06T11:16:55.623Z
+date: 2024-08-01T02:53:58.735Z
+updated: 2024-08-02T02:53:58.735Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,9 @@ With that said, the following two-columned tables give you detailed information 
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Category 1: YouTube Playback Hotkeys
 
 While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
@@ -41,6 +44,9 @@ While watching a YouTube video, there might be instances when you want to pause 
 | 'K'               | Play and Pause (Works as a toggle key) |
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
 This section talks about the shortcut keys to skim the video forward and backward during playback:
@@ -81,6 +87,9 @@ This category talks about managing the video captions using the shortcut keys:
 | '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
 | '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Category 5: Managing the Audio Video
 
 This category shows the shortcut keys to manage audio for a YouTube video:
@@ -91,6 +100,13 @@ This category shows the shortcut keys to manage audio for a YouTube video:
 | '↑'               | Increase volume by 5% |
 | '↓'               | Decrease volume by 5% |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Category 6: Switching Between Screen Modes
 
 The shortcut keys given in this table enable you to switch between different screen modes:
@@ -117,6 +133,9 @@ In this category, the navigation and management of shortcut keys for 360o and Vi
 | '-' (Minus Key on Keyboard) | Decrease font size                                    |
 | '+' (Plus Key on Keyboard)  | Increase font size                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: How to Get the YouTube Shortcut List with One-Click
 
 In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
@@ -135,6 +154,9 @@ Watching videos on YouTube is fun, and you can enjoy the clips, movies, tutorial
 
 As one of the most popular video editing software among YouTubers, Filmora provides lots of effects, title templates, transitions, and elements as well as powerful video editing tools such as instant cutter tool, [scene detection](https://tools.techidaily.com/wondershare/filmora/download/), [beat detection](https://tools.techidaily.com/wondershare/filmora/download/), [motion tracking](https://tools.techidaily.com/wondershare/filmora/download/), animation keyframe, and much more. All these editing features and effects makes Filmora as one of the best video editing software for all creators.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -153,3 +175,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[New] 2024 Approved  A Practical Pathway for Profit Tracking  The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-in-youtube-keyword-selection/"><u>[New] 2024 Approved  Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakneck-broadcast-channel-your-youtube-list/"><u>[New] 2024 Approved  Breakneck Broadcast  Channel Your YouTube List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-audio-devices-for-vloggers-on-a-budget/"><u>[New] 2024 Approved  Economical Audio Devices for Vloggers on a Budget</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affordable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>[New] Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-eco-conscious-screen-tech-guide/"><u>[New] Eco-Conscious Screen Tech Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-graphics-legacy-radeon-reloaded-for-2024/"><u>[New] Graphics Legacy  Radeon Reloaded for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube-videos/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-wealth-through-video-content-revenue/"><u>[New] In 2024, Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-design-best-practices-for-engaging-youtube-thumbnails/"><u>[New] In 2024, Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>[New] In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-audio-transforming-software-for-streamers/"><u>[New] In 2024, Essential Audio Transforming Software for Streamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-mastery-guide-choosing-the-right-platform/"><u>[New] Monetization Mastery Guide  Choosing the Right Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superb-costless-video-rendezvous-games/"><u>[New] Superb Costless Video Rendezvous Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-idevice-video-recording-guide/"><u>[New] Ultimate iDevice Video Recording Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unboxing-premium-game-devices-youtube-edition/"><u>[New] Unboxing Premium Game Devices  YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-how-content-makers-profit-from-shorter-videos/"><u>[New] Unveiling How Content Makers Profit From Shorter Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conserve-space-not-time-youtube-video-length-adjustment/"><u>[Updated] 2024 Approved  Conserve Space, Not Time  YouTube Video Length Adjustment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficient-tagging-techniques-to-boost-your-youtube-traffic-for-2024/"><u>[Updated] Efficient Tagging Techniques to Boost Your Youtube Traffic for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-voice-memo-creation-on-apple-devices/"><u>[Updated] Effortless Voice Memo Creation on Apple Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] From Zero to Hero  Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[Updated] In 2024, Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-minecrafts-geometric-forms-circular-and-spherical-creation-for-2024/"><u>[Updated] Mastering Minecraft's Geometric Forms  Circular & Spherical Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-impact-strategies-for-uploading-4k-content-on-youtube/"><u>[Updated] Maximize Impact  Strategies for Uploading 4K Content on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>[Updated] More than Just Likes  Decoding the Secrets to YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-creating-high-quality-youtube-ads-on-a-dime/"><u>[Updated] The Pathway to Creating High-Quality YouTube Ads on a Dime</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>[Updated] Youtube Foundations  Building a Brand & Generating Income for Novices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harmonizing-content-with-ig-beats-for-2024/"><u>Harmonizing Content with IG Beats for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-12-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 12 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pioneers-in-post-production-top-tools-for-instagram-content-creators/"><u>In 2024, Pioneers in Post-Production  Top Tools for Instagram Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spoof-spectacle-steps-to-create-a-parody-for-2024/"><u>Spoof Spectacle  Steps to Create a Parody for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/what-are-luts-and-how-they-change-your-photo-for-2024/"><u>What Are LUTs and How They Change Your Photo for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-profitability-secrets-for-2024/"><u>Youtube Shorts Profitability Secrets for 2024</u></a></li>
+</ul></div>

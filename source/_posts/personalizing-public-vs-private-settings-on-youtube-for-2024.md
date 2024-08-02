@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Public vs Private Settings on YouTube for 2024"
-date: 2024-06-05T08:57:27.068Z
-updated: 2024-06-06T08:57:27.068Z
+date: 2024-07-31T22:54:53.532Z
+updated: 2024-08-01T22:54:53.532Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Public VS Unlisted VS Private
 
  Let's figure out some terms before runing into the how-to part.
@@ -58,8 +61,14 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
  It won’t show up on searches, as related or suggested videos, or even when imbedded in other sites. This is the best setting for a video you need to share with only very specific people, if anyone. Below is a comparison table to know more about [privacy settings](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en&oco=1).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube privacy setting](https://images.wondershare.com/filmora/article-images/youtube-privacy-setting.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change Privacy Settings
 
  There are two ways to change the privacy settings: firstly, when you upload the video, and secondly through Creator Studio.
@@ -82,14 +91,27 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
  If a video is set to "private', you'll have the option to share it with specific people. Below where it says "private" on the info and settings page you'll see a button labeled "share". Click this and type in the email addresses of the people you want to be able to watch the video. You’ll also have the option of notifying the people via email that you’ve shared the video with them.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share youtube privacy video](https://images.wondershare.com/filmora/article-images/share-private-video.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  And that's all there is to it! Changing the privacy setting on YouTube videos is a simple, helpful tool to allow you to control the audience of you work. Enjoy!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -106,3 +128,50 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[New] 2024 Approved  A Practical Pathway for Profit Tracking  The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-in-youtube-keyword-selection/"><u>[New] 2024 Approved  Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakneck-broadcast-channel-your-youtube-list/"><u>[New] 2024 Approved  Breakneck Broadcast  Channel Your YouTube List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-audio-devices-for-vloggers-on-a-budget/"><u>[New] 2024 Approved  Economical Audio Devices for Vloggers on a Budget</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affordable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>[New] Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-to-gif-makers-you-should-use-online-and-desktop-for-2024/"><u>[New] Best YouTube To GIF Makers You Should Use (Online & Desktop) for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevating-video-visibility-through-thumbnails/"><u>[New] Elevating Video Visibility Through Thumbnails</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-video-content-top-formats-on-youtube/"><u>[New] Enhancing Video Content  Top Formats on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube-videos/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-wealth-through-video-content-revenue/"><u>[New] In 2024, Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-design-best-practices-for-engaging-youtube-thumbnails/"><u>[New] In 2024, Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>[New] In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetization-mastery-guide-choosing-the-right-platform/"><u>[New] Monetization Mastery Guide  Choosing the Right Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-15-online-and-desktop-platforms-to-create-gifs-for-2024/"><u>[New] Top 15 Online & Desktop Platforms to Create GIFs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-economical-desktop-encoders-under-100/"><u>[New] Top Economical Desktop Encoders Under $100</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-fifa-players-visualized-data-infographics/"><u>[New] Top FIFA Players  Visualized Data Infographics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unboxing-premium-game-devices-youtube-edition/"><u>[New] Unboxing Premium Game Devices  YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-how-content-makers-profit-from-shorter-videos/"><u>[New] Unveiling How Content Makers Profit From Shorter Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-practical-approach-to-incorporate-youtube-playlists-online/"><u>[Updated] 2024 Approved  A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conserve-space-not-time-youtube-video-length-adjustment/"><u>[Updated] 2024 Approved  Conserve Space, Not Time  YouTube Video Length Adjustment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficient-tagging-techniques-to-boost-your-youtube-traffic-for-2024/"><u>[Updated] Efficient Tagging Techniques to Boost Your Youtube Traffic for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] From Zero to Hero  Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels-for-2024/"><u>[Updated] Green Screen Mastery  Essential Free Lessons From YouTube's Best 4 Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[Updated] In 2024, Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-the-art-behind-live-video-thumbnails/"><u>[Updated] In 2024, Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-innovative-techniques-for-superior-canva-visuals/"><u>[Updated] In 2024, Innovative Techniques for Superior Canva Visuals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-complete-itunes-radio-downloading-blueprint/"><u>[Updated] In 2024, The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-when-should-you-share-your-insta-story/"><u>[Updated] In 2024, When Should You Share Your Insta Story?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-launchpad-equipment-the-beginners-checklist/"><u>[Updated] Launchpad Equipment  The Beginner's Checklist</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-impact-strategies-for-uploading-4k-content-on-youtube/"><u>[Updated] Maximize Impact  Strategies for Uploading 4K Content on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>[Updated] More than Just Likes  Decoding the Secrets to YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>[Updated] Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-financial-frontier-acquiring-high-value-youtubes/"><u>[Updated] The Financial Frontier  Acquiring High-Value Youtubes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acknowledgement-roundup-free-and-paid-template-haven/"><u>Acknowledgement Roundup  Free & Paid Template Haven</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/everyone-should-have-one-video-collage-app-in-android-phone/"><u>Everyone Should Have One Video Collage App in Android Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 30i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-worlds-vrs-impact-on-entertainment-for-2024/"><u>Immersive Worlds  VR's Impact on Entertainment for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-techniques-for-immaculate-vr-gaming-footage/"><u>In 2024, Techniques for Immaculate VR Gaming Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-your-laptops-dvd-potential-easily/"><u>Maximize Your Laptop's DVD Potential Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-puns-memify-pro/"><u>Picture Puns  Memify Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spoof-spectacle-steps-to-create-a-parody-for-2024/"><u>Spoof Spectacle  Steps to Create a Parody for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-v27e-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo V27e</u></a></li>
+</ul></div>

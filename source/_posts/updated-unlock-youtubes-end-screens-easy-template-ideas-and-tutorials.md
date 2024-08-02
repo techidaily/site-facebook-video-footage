@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlock YouTube's End Screens  Easy Template Ideas & Tutorials\""
-date: 2024-06-05T08:08:36.944Z
-updated: 2024-06-06T08:08:36.944Z
+date: 2024-07-31T21:31:56.854Z
+updated: 2024-08-01T21:31:56.854Z
 tags:
   - ai video
   - ai youtube
@@ -31,6 +31,9 @@ YouTube end screens are a great way to get your viewers who have watched your Yo
 1. [List some places you can download free end screen templates](#freeendscreentemplates)
 2. [Give you a step-by-step tutorial on how to build your own outro for free](#diyoutro)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 1: Free End Screen Templates Download
@@ -63,6 +66,9 @@ Grabster offers five free YouTube end screen templates. With each download, you�
 
 Those who do not have PhotoShop can use Taha Chimar’s end screen designs that come in png file format.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taha-chimar-youtube-end-screen](https://images.wondershare.com/filmora/article-images/taha-chimar-youtube-end-screen.jpg)
 
 To download, you will have to follow a URL link in the description box of the YouTube videos. Be careful, though, as a lot of the links lead to free hosting websites with pop-ups that can harm your computer if you are easily fooled by them.
@@ -73,12 +79,19 @@ SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=
 
 Here are some of our favorite ones.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
 
 Here’s one for the Minecraft fans:
 
 ![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
 
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
@@ -93,6 +106,9 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
 
 3\. After clicking “Design!,” a new browser will open with a blank canvas.
@@ -103,14 +119,25 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 5\. Upload the image onto your Canva project.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
 
 6\. Stretch your image to the ends of your canvas.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
 
 7\. Insert your own shapes, lines, colours, images, and text over the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
 
 8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
@@ -119,6 +146,9 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -137,3 +167,47 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-the-cost-on-downloads-exclusive-access-to-this-list-of-23-affordable-extractors/"><u>[New] 2024 Approved  Cut the Cost on Downloads  Exclusive Access to This List of 23 Affordable Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[New] Audio Amplified  Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-borrow-without-cost-images-from-leading-youtubers-archives-for-2024/"><u>[New] Borrow Without Cost Images From Leading YouTubers' Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-command-center-redefined-your-pathway-through-studio-for-2024/"><u>[New] Command Center Redefined  Your Pathway Through Studio for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-group-of-12-tools-for-endless-video-capture-for-2024/"><u>[New] Elite Group of 12 Tools for Endless Video Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-for-youtube-video-clips-for-2024/"><u>[New] Essential Guide for YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-frame-it-right-selecting-the-perfect-borders-for-social-media-photos/"><u>[New] Frame It Right  Selecting the Perfect Borders for Social Media Photos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>[New] In 2024, Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] In 2024, Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-epic-playlist-over-a-hundred-top-tier-titles/"><u>[New] In 2024, Epic Playlist  Over a Hundred Top-Tier Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>[New] In 2024, Video Capturing Warriors  Choosing Between OBS and Fraps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-your-channels-potential-increase-youtube-views/"><u>[New] Unleashing Your Channel's Potential  Increase YouTube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>[New] Video Quality Edge  Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-youtube-livestreaming-screen-recorders/"><u>[Updated] 2024 Approved  Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-your-first-channel-essential-video-gear-list/"><u>[Updated] 2024 Approved  Building Your First Channel  Essential Video Gear List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-youtube-summaries-with-tailored-templates/"><u>[Updated] 2024 Approved  Engaging YouTube Summaries with Tailored Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-list-best-online-video-to-mp3-tools/"><u>[Updated] 2024 Approved  Exclusive List  Best Online Video to Mp3 Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-overhaul-mistaken-persona-display-within-social-media-messages/"><u>[Updated] 2024 Approved  Overhaul Mistaken Persona Display Within Social Media Messages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-practical-approach-to-incorporate-youtube-playlists-online-for-2024/"><u>[Updated] A Practical Approach to Incorporate YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-youtube-visibility-mastering-titles-and-tags-for-2024/"><u>[Updated] Boosting YouTube Visibility  Mastering Titles & Tags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-live-streamed-gaming-experiences-for-2024/"><u>[Updated] Crafting Engaging Live-Streamed Gaming Experiences for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-culinary-carousel-swirling-up-top-food-network-names-for-2024/"><u>[Updated] Culinary Carousel  Swirling Up Top Food Network Names for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-tools-free-youtube-intro-creators-for-2024/"><u>[Updated] Cutting-Edge Tools  Free YouTube Intro Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-legal-strategies-for-content-visibility-for-2024/"><u>[Updated] Effective, Legal Strategies for Content Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit-for-2024/"><u>[Updated] Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-storylines-with-google-trends-analysis-techniques/"><u>[Updated] Finding Storylines with Google Trends Analysis Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conceptualists-engineering-marvel-online-worlds/"><u>[Updated] In 2024, Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-presence-essential-tips-for-engaging-shorts/"><u>[Updated] In 2024, Elevate Your Youtube Presence  Essential Tips for Engaging Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-tubebuddy-for-top-tier-youtube-management/"><u>[Updated] Leverage TubeBuddy for Top-Tier YouTube Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>[Updated] Unlocking Your Youtube Success Story  A Comprehensive Guide to Creative Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>2024 Approved  Explore a World of Sound  The Ultimate Guide to Android's Music Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-eco-conscious-video-recorders-how-to-use/"><u>2024 Approved  Premium Eco-Conscious Video Recorders  How to Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-x5-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco X5 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-easy-image-transition-techniques-explored/"><u>In 2024, Quick and Easy Image Transition Techniques Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>In 2024, Watch Deleted YouTube  Secrets to Accessing Lost Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/powerpoint-to-video-best-practices-with-webcams-now-for-2024/"><u>PowerPoint to Video  Best Practices with Webcams, Now for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free-for-2024/"><u>The Easiest Way to Convert Your YouTube Videos Into Texts for FREE for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-filming-for-virality-on-youtube-for-2024/"><u>The Ultimate Guide to Filming for Virality on YouTube for 2024</u></a></li>
+</ul></div>

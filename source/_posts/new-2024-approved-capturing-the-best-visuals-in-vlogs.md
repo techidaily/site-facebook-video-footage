@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing the Best Visuals in Vlogs\""
-date: 2024-06-05T09:31:59.585Z
-updated: 2024-06-06T09:31:59.585Z
+date: 2024-07-31T23:54:03.460Z
+updated: 2024-08-01T23:54:03.461Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
 # Lighting Tips for Vlogging: How to Light
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -28,6 +31,9 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
@@ -44,8 +50,14 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Watch Video! Top Lighting Tips for Vlogging
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Lightning Tips for Aspiring YouTube Videographers
 
 Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
@@ -70,12 +82,18 @@ This is by far the best option if you want to be in complete control of the ligh
 
 Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -98,3 +116,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-stellar-clickthrough-rates-via-thumbnail-enlargement-on-youtube/"><u>[New] 2024 Approved  Achieve Stellar Clickthrough Rates via Thumbnail Enlargement on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] 2024 Approved  Crafting Captivating Edu-Videos  Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-critical-game-analysis-from-top-creators/"><u>[New] 2024 Approved  Critical Game Analysis From Top Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-visibility-amplify-impact-video-seo/"><u>[New] 2024 Approved  Enhance Visibility, Amplify Impact (Video SEO)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhance-engagement-with-squared-up-social-media-content-for-2024/"><u>[New] Enhance Engagement with Squared-Up Social Media Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-imovie-edits-for-online-exhibition-youtube-edition/"><u>[New] In 2024, Converting iMovie Edits for Online Exhibition - YouTube Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-youtube-image-enlargement-technique/"><u>[New] In 2024, Step-by-Step Youtube Image Enlargement Technique</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-integrating-social-features-for-playlist-dissemination/"><u>[New] Integrating Social Features for Playlist Dissemination</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[New] Sonic Gold Standard  10 Ways to Elevate Home Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-insiders-guide-to-mastering-igtv-for-2024/"><u>[New] The Insider's Guide to Mastering IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>[Updated] 2024 Approved  Direct Hit  The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-stunning-youtubers-imagery-a-comprehensive-walkthrough-for-2024/"><u>[Updated] Crafting Stunning YouTubers' Imagery  A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-studio-lights-for-online-filmmakers-for-2024/"><u>[Updated] Cutting-Edge Studio Lights for Online Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cyber-sovereigns-youtubes-number-one-tens-for-2024/"><u>[Updated] Cyber Sovereigns  YouTube’s Number One Tens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile-for-2024/"><u>[Updated] Discover Your Rhythm  Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-effective-financial-gains-through-youtube-shorts/"><u>[Updated] Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[Updated] In 2024, Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] In 2024, Designing Powerful YouTube Screens  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-movie-substitutes-7-recommended/"><u>[Updated] In 2024, Discover Movie Substitutes, #7 Recommended</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-online-presence-with-expert-streaming-guide/"><u>[Updated] In 2024, Elevate Your Online Presence with Expert Streaming Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-noble-mic-necessities-for-youtube-newbies-on-the-cheap/"><u>[Updated] Noble Mic Necessities for YouTube Newbies on the Cheap</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-viral-videos-no-budget-necessary/"><u>[Updated] The Art of Viral Videos  No Budget Necessary</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-potential-empowered-channel-expansion-via-youtube-insights/"><u>[Updated] Unlock Potential  Empowered Channel Expansion via YouTube Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>2024 Approved  Video Excellence  Mirrorless Cameras vs Traditional DSLRs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-zte-nubia-z60-ultra-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On ZTE Nubia Z60 Ultra? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-10-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 10 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-axon-40-lite-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-down-crossfade-audio-dynamics-in-production/"><u>In 2024, Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-face-enhancing-apps-for-iphones-and-samsungs/"><u>In 2024, Exploring the Best Face-Enhancing Apps for iPhones & Samsungs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-switching-up-your-iphones-call-sound-effectively/"><u>In 2024, Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-quick-guide-to-securing-a-youtube-revenue-stream/"><u>In 2024, Your Quick Guide to Securing a Youtube Revenue Stream</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-editing-and-uploading-360-videos-on-youtube-for-2024/"><u>Step-by-Step  Editing & Uploading 360 Videos on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tapping-into-trending-topics-for-videography-ideas-via-google-for-2024/"><u>Tapping Into Trending Topics for Videography Ideas via Google for 2024</u></a></li>
+</ul></div>

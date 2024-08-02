@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Brilliant Setups  Top 17 Gear for Online Videographers\""
-date: 2024-06-05T07:38:22.736Z
-updated: 2024-06-06T07:38:22.736Z
+date: 2024-07-31T20:43:49.996Z
+updated: 2024-08-01T20:43:49.996Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
 # 17 Best Lights and Lighting Equipment for YouTube Videos
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,6 +35,11 @@ Unfortunately, it is unlikely you will be able to get good quality light from th
 * [Part 2: What Should Good Lighting Equipment Feature?](#part2)
 * [Part 3: Best Lights and Lighting Equipment for YouTube Video Shooting](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Part 1: Best Types of Lightning Equipment for YouTube Videos
 
 Every video no matter how long or short depends on light, more than anything else. The natural light sources are often not powerful enough to light a scene you're trying to capture, so to avoid having to deal with underexposed footage, the best solution is to use artificial lighting. Even if you want the light in your video to be completely natural, you still have to figure out a way to get rid of shadows, which brings us back to different types of lighting equipment that can be used to increase the quality of the footage you're producing.
@@ -92,18 +100,28 @@ On-Camera LED lights are LED lights that can be mounted directly onto your camer
 
 #### 1\. [Julius Studio 160 LED Light with 4 Color Filters](https://www.amazon.com/Julius-Studio-Dimmable-Panasonic-JGG2161/dp/B00QJDZ20U/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Julius Studio Lighting](https://images.wondershare.com/filmora/article-images/lighting-equipment-julius-studio.jpg)
 
 The Julius Studio 160 LED light not only can be mounted on any digital camera that has a hot/cold shoe but it can also be mounted on light stands so you can keep the same light setting even if you are moving the camera around. This lighting equipment also comes with four color filters so that you can control the color temperature of your light.
 
 #### 2\. Viltrox L116B highest RA CRI95 LED Light Panel
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Viltrox lighting](https://images.wondershare.com/filmora/article-images/lighting-equipment-viltrox.jpg)
 
 The VILTROX L116B LED light panel is a powerful piece of on-camera lighting equipment. As you can see from the back view of this light panel, you can see how much battery you have left as well as digitally set the color temperature of your light. It also features PWM light adjustment technology that reduces power consumption. As this equipment comes with an AC adapter, you can choose to use this outdoors or indoors.
 
 #### 3\. Chromo Inc CI55000230 Macro Ring 48 LED Power Light
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Chromo Inc](https://images.wondershare.com/filmora/article-images/lighting-equipment-chromo.jpg)
 
 If you're looking for an on-camera ring light, Chromo Inc's macro ring light is a great option. This ring light mounts onto the lens of your SLR camera and its power source (two AA batteries) attaches to your camera's hot/cold shoe. Get that nice-looking ring light reflection in your eyes as you film with this portable ring light!
@@ -116,6 +134,9 @@ The Neewer 216 PCS LED dimmable light panel is powerful lighting equipment at a 
 
 #### 5\. [Neewer 160 LED CN-160 Dimmable Ultra High Power Panel](https://www.amazon.com/Dimmable-Digital-Camcorder-Panasonic-Samsung/dp/B004TJ6JH6/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Neewer CN-216 216PCS ](https://images.wondershare.com/filmora/article-images/lighting-equipment-neewer-160-led.jpg)
 
 This light is Neewer's cheaper version of the CN-216\. Instead of having 216 LED light bulbs, this light has 160 LED light bulbs. Other than the number of light bulbs, the two light panels are pretty much the same.
@@ -138,6 +159,9 @@ The Prismatic Halo ring light is another great ring light option. It comes with 
 
 #### 3\. [Neewer Dimmable 18" Ring Light](https://www.amazon.com/Neewer-10086031-Dimmable-Diameter-Fluorescent/dp/B018G039IU/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Neewer Dimmable  Ring Light ](https://images.wondershare.com/filmora/article-images/led-ring-lighting-equipment-neewer-dimmable.jpg)
 
 The 18-inch light ring uses fluorescent light. In addition, this kit includes a 59-inch light stand as well as white and orange filters and a hot shoe adapter that extends the capabilities of this affordable LED ring light kit.
@@ -150,6 +174,9 @@ With 300 pcs LED and 150 yellow color and 150 white-color lights, FalconEyes DVR
 
 #### 5\. [Neewer 14″ Ring Light](https://www.amazon.com/Neewer-centimeters-Fluorescent-Photography-Equivalent/dp/B00V33KSCI/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Neewer 14  Ring Light ](https://images.wondershare.com/filmora/article-images/led-ring-lighting-equipment-neewer-ring-light.jpg)
 
 The 10-inch inner rim diameter may seem small when compared with larger ring lights that offer more room to operate. The Neewer Camera Ring Light is undimmable and has 50W power. The ring light uses an AC adapter, which makes it difficult to use when filming outside of a studio.
@@ -176,6 +203,9 @@ Unlike ring lights or softboxes that provide directional light, the umbrella vid
 
 #### 1\. [LimoStudio 700W Photography Softbox Light Lighting Kit](https://www.amazon.com/gp/product/B005FHZ2SI/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![LimoStudio 700W Photography Softbox Light ](https://images.wondershare.com/filmora/article-images/umbrella-lighting-equipment-limostudio.jpg)
 
 In addition to three lamps (two white umbrellas with 86-inch light stands and one 28-inch light stand), this kit also comes with three 45W CFL bulbs. The lamps can be tilted upward or downward, so you can find the best light position for your shot. The 9-foot cords can be used with standard 110/120V USA sockets.
@@ -186,12 +216,19 @@ Besides featuring two umbrellas and two softboxes, this kit also includes a 6x9 
 
 #### 3\. [Emart 600W Studio Photography Photo/Video Portrait Kit](https://www.amazon.com/gp/product/B018KE5XUO/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![ Emart 600W Studio Photography Photo/Video Portrait Kit ](https://images.wondershare.com/filmora/article-images/umbrella-lighting-equipment-emart.jpg)
 
 Chances are that you won't need much more than what this photo/video kit has to offer. Emart's 600W kit includes two white and two black/silver 33-inch umbrellas as well as two 83-inch light stands and a smaller 33-inch light stand. The heavy-duty carry case can store the entire kit.
 
 #### 4\. [LINCO 600W Photography/Video Continuous Lighting Kit](https://www.amazon.com/gp/product/B018KE5XUO/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![LINCO 600W Photography/Video Continuous Lighting Kit ](https://images.wondershare.com/filmora/article-images/umbrella-lighting-equipment-linco.jpg)
 
 The Linco 600W continuous lighting kit contains two white translucent umbrellas that generate soft light, which is quite useful if you want to get even skin tones in your videos. The kit has three lamps that use 5500K 40W bulbs and light stands you can easily carry to any filming location.
@@ -204,6 +241,9 @@ The greatest advantage of this Emart 1575 W Lightning kit is the three pairs of 
 
 Besides the best lighting equipment, we have also summarized some [tips and tricks for lighting](https://tools.techidaily.com/wondershare/filmora/download/), you should check it as well. If you find the video lighting isn’t good after recording the video, you can still improve it by adjusting brightness in post-production. [Wondershare Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) features the Auto enhance feature, which can adjust the video color and brightness with one click. You can download the free trial to try it out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -222,3 +262,50 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2023-best-facebook-video-downloader-and-addons-for-firefox-for-2024/"><u>[New] 2023 | Best Facebook Video Downloader And Addons for Firefox for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-strategies-for-boosting-your-youtube-visibility/"><u>[New] 2024 Approved  10 Strategies for Boosting Your YouTube Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-youtubes-clandestine-content-with-orderliness/"><u>[New] 2024 Approved  Decoding YouTube's Clandestine Content with Orderliness</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-stop-muted-tracks-in-tweeted-video-content/"><u>[New] 2024 Approved  Stop Muted Tracks in Tweeted Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-configuring-who-can-see-your-youtube-clips-for-2024/"><u>[New] Configuring Who Can See Your YouTube Clips for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima-for-2024/"><u>[New] Epic Quests Unveiled  Top Games Mirroring Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-7-energizing-youtube-exercise-challenges-for-viewers-participation/"><u>[New] In 2024, 7 Energizing YouTube Exercise Challenges for Viewers' Participation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-choosing-streaming-giants-vimeo-youtube-or-dailymotion/"><u>[New] In 2024, Choosing Streaming Giants  Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-a-youtube-video-essential-writing-guide/"><u>[New] In 2024, Crafting a YouTube Video  Essential Writing Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-world-of-youtube-where-are-my-comments/"><u>[New] In 2024, Exploring the World of YouTube  Where Are My Comments?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instantaneity-in-playlist-dissemination-webby/"><u>[New] Instantaneity in Playlist Dissemination Webby</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-strategists-handbook-for-youtube-ad-profitability/"><u>[New] The Strategist's Handbook for YouTube Ad Profitability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-plan-for-streamlining-your-video-queue-on-youtube/"><u>[New] The Ultimate Plan for Streamlining Your Video Queue on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-kinemasters-fullscreen-magic/"><u>[New] Unlocking KineMaster's Fullscreen Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-potential-of-mobile-platforms-for-personalbusiness-yt/"><u>[New] Unlocking the Potential of Mobile Platforms for Personal/Business YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-top-link-minimizers-transforming-youtube-watchability/"><u>[Updated] 2024 Approved  5-Top Link Minimizers Transforming YouTube Watchability</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-creating-captivating-content-for-instagram/"><u>[Updated] 2024 Approved  Creating Captivating Content for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>[Updated] 2024 Approved  How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-innovations-and-hacks-every-content-creator-should-know-about-reels/"><u>[Updated] 2024 Approved  Innovations and Hacks Every Content Creator Should Know About Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-views-with-analytics-in-youtube-strategy-for-2024/"><u>[Updated] Boosting Views with Analytics in YouTube Strategy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-king-and-queen-academy-youtube-excellence-for-2024/"><u>[Updated] Channel King & Queen Academy  YouTube Excellence for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-triumphs-with-trending-hashtags-for-2024/"><u>[Updated] Channel Triumphs with Trending Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-the-course-for-profitable-youtube-videos-for-2024/"><u>[Updated] Charting the Course for Profitable Youtube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-does-your-channel-benefit-from-regular-youtube-payments-for-2024/"><u>[Updated] Does Your Channel Benefit From Regular YouTube Payments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-long-to-brief-how-to-shorten-youtube-footage/"><u>[Updated] From Long to Brief  How to Shorten YouTube Footage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-the-course-establishing-a-powerful-gaming-channel/"><u>[Updated] In 2024, Charting the Course  Establishing a Powerful Gaming Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-standout-videos-with-professional-free-banner-samples/"><u>[Updated] In 2024, Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[Updated] In 2024, Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pro-video-capture-a-comprehensive-fraps-test/"><u>[Updated] In 2024, Pro Video Capture  A Comprehensive Fraps Test</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keep-it-legal-how-to-convert-youtube-to-mp4-safely/"><u>[Updated] Keep It Legal  How to Convert YouTube to MP4 Safely</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dual-life-of-a-professional-youtuber-and-employee/"><u>[Updated] The Dual Life of a Professional YouTuber & Employee</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-hairstyles-for-visual-gurus/"><u>2024 Approved  Hairstyles for Visual Gurus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-live-action-anytime-anywhere-our-ultimate-12-stream-service/"><u>2024 Approved  Live Action Anytime, Anywhere - Our Ultimate 12-Stream Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-virtual-realities-in-live-video-feeds/"><u>2024 Approved  Pioneering Virtual Realities in Live Video Feeds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>2024 Approved  The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlocking-the-secrets-of-successful-igtv-posts/"><u>2024 Approved  Unlocking the Secrets of Successful IGTV Posts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/d-vidcon-the-most-important-youtube-events-for-2024/"><u>Beyond VidCon - The Most Important YouTube Events for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a14-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A14 4G Device SIM</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-c51-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme C51 FRP Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-borders-on-instagrams-short-films/"><u>Mastering Borders on Instagram's Short Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionary-techniques-for-chronological-categorization-of-photographs-for-2024/"><u>Revolutionary Techniques for Chronological Categorization of Photographs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/utilizing-royalty-free-beats-in-your-youtube-clips-for-2024/"><u>Utilizing Royalty-Free Beats in Your YouTube Clips for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Beginner's Blueprint for Viral Video SEO for 2024"
-date: 2024-06-05T11:16:31.370Z
-updated: 2024-06-06T11:16:31.370Z
+date: 2024-08-01T02:53:15.198Z
+updated: 2024-08-02T02:53:15.198Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 # The 12-step YouTube SEO Guide for Beginners Who Want More Views
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,6 +41,9 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -88,6 +94,9 @@ This app gives you a whole list of long-tail keywords, which are 3-4-word phrase
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
 
 ####  
@@ -156,6 +165,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -212,6 +224,9 @@ Want to know more thumbnail maker? Check our picks of the [best free YouTube thu
 
 Well done finishing the video! You are almost there… but not there yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![XDyocwuGRiSptxueJZ5aokKqKt-JXMbX](https://images.filmora.io/5/XDyocwuGRiSptxueJZ5aokKqKt-JXMbX.gif)
 
 Come on, keep going!
@@ -220,6 +235,9 @@ Come on, keep going!
 
 The video is done, the thumbnail is designed, and you have all your title, description, and tags ready to go. This step is easy, upload the video, and fill out the assets, and give yourself a pat on the back.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
 
 #### Step 11: Add Transcripts
@@ -248,6 +266,9 @@ Besides considering YouTube SEO, you should make a good YouTube video as well. F
 
 Do you have any questions about SEO? Please leave us a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -264,3 +285,53 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-deep-dive-into-youtube-writers-workshop-space/"><u>[New] 2024 Approved  A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earn-while-you-entertain-the-content-creators-guide/"><u>[New] 2024 Approved  Earn While You Entertain  The Content Creator's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-capturing-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid-for-2024/"><u>[New] Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-best-of-beauty-youtubes-elite-artists-showcased-for-2024/"><u>[New] Decoding the Best of Beauty  YouTube's Elite Artists Showcased for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-echoes-of-amusement-comical-tune-transformations-for-2024/"><u>[New] Echoes of Amusement  Comical Tune Transformations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-rearrangement-of-your-personalized-lists-for-2024/"><u>[New] Effortless Rearrangement of Your Personalized Lists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-advanced-techniques-for-youtube-card-use/"><u>[New] In 2024, Advanced Techniques for YouTube Card Use</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-channel-titling-101-the-quest-for-an-original-label/"><u>[New] In 2024, Channel Titling 101  The Quest for an Original Label</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-earnings-algorithm-of-tseries-online-channel/"><u>[New] In 2024, Decoding the Earnings Algorithm of TSeries Online Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-video-sharing-from-youtube-to-insta/"><u>[New] In 2024, Elevating Video Sharing  From YouTube to Insta</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-next-level-cinema-selection-youtube-edition/"><u>[New] In 2024, Next-Level Cinema Selection - YouTube Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-professional-insights-top-5-cloud-based-videographer-tools/"><u>[New] In 2024, Professional Insights  Top 5 Cloud-Based Videographer Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-android-video-editor-app-roundup/"><u>[New] The Ultimate Android Video Editor App Roundup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-rapidly-eliminating-youtube-feedback/"><u>[New] The Ultimate Guide to Rapidly Eliminating YouTube Feedback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-what-makes-asmr-videos-special/"><u>[New] Understanding What Makes ASMR Videos Special</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-efficiency-the-top-5-video-shortener-tools/"><u>[New] Unlocking Efficiency  The Top 5 Video Shortener Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] 2024 Approved  Chrome to iPhone  A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-youtube-content-with-7-premium-free-audio-sounds/"><u>[Updated] 2024 Approved  Elevate Your YouTube Content With 7 Premium, Free Audio Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-designing-a-memorable-youtube-sign-off-for-2024/"><u>[Updated] Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-classrooms-prime-ed-tutorials-online-for-2024/"><u>[Updated] Digital Classrooms  Prime Ed Tutorials Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-leading-video-ranking-tools-for-youtube-success-for-2024/"><u>[Updated] Discover Leading Video Ranking Tools for YouTube Success for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-in-2024/"><u>[Updated] How to Edit Vertical Videos for Instagram in Final Cut Pro X, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-creativity-top-editors-for-online-sharing/"><u>[Updated] In 2024, Cutting-Edge Creativity  Top Editors for Online Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-12-prime-flip-screen-cameras-revolutionizing-vlogs/"><u>[Updated] In 2024, Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-hd-picks-for-impeccable-video-recorders/"><u>[Updated] In 2024, Premier HD Picks for Impeccable Video Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-10-sound-intensification-apps-for-multiple-systems/"><u>[Updated] Leading 10 Sound Intensification Apps for Multiple Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones/"><u>[Updated] Privacy First  Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smart-growth-metropolis-balancing-development-and-nature/"><u>[Updated] Smart Growth Metropolis  Balancing Development and Nature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-transforming-scripted-words-into-powerful-video-soundtracks/"><u>[Updated] Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-vs-youtube-studio-beta/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>2024 Approved  Optimizing Video Quality  YouTube to MPEG Conversion Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagine-your-space-with-windows-11-designs/"><u>2024 Approved  Reimagine Your Space with Windows 11 Designs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/auf-den-ersten-blick-1-100-in-deutscher-zahlweise/"><u>Auf Den Ersten Blick: 1-100 in Deutscher Zählweise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-toy-quadcopters-reviewed-kids-edition-for-2024/"><u>Best Toy Quadcopters Reviewed (Kids Edition) for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-hot-40-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-x100-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo X100</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/profiling-excellence-a-guide-to-refined-youtube-summaries-for-2024/"><u>Profiling Excellence  A Guide to Refined YouTube Summaries for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-videos-with-360-degrees-a-step-by-step-guide-for-youtube-enthusiasts-for-2024/"><u>Revolutionize Your Videos with 360 Degrees  A Step-by-Step Guide for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps-for-2024/"><u>Secure Your Conversations on the Go with Top 10 Mobile Chat Apps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-10-tips-for-remotely-recording-your-podcasts/"><u>Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unearthing-your-private-playlist-sanctuary-on-youtube-for-2024/"><u>Unearthing Your Private Playlist Sanctuary on Youtube for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>Updated 2024 Approved Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+</ul></div>

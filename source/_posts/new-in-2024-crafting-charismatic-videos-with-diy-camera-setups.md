@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Crafting Charismatic Videos with DIY Camera Setups"
-date: 2024-06-05T08:48:42.644Z
-updated: 2024-06-06T08:48:42.644Z
+date: 2024-07-31T22:39:36.566Z
+updated: 2024-08-01T22:39:36.566Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
 # 4 Ways To Set Up Your Talking-Head Shots For YouTube
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,10 +43,16 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
@@ -53,6 +71,9 @@ Objects and people that just make it into the sides of the frame will appear mor
 
 If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.  Medium Vlog Set-Up
 
 If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
@@ -67,6 +88,9 @@ You can see from how even the background and couch looks across the entire camer
 
 It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.  Two Person Vlog Set-Up
 
 If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
@@ -95,6 +119,9 @@ Looking to find the right lights for your video recording set? Check out our [To
 
 To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -113,3 +140,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-on-the-side-balancing-employment-with-youtube/"><u>[New] 2024 Approved  Creating on the Side  Balancing Employment with YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-curating-creator-rewards-on-video-platforms/"><u>[New] 2024 Approved  Curating Creator Rewards on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[New] 2024 Approved  Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>[New] 2024 Approved  Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channeling-success-the-personal-brand-strategy-for-youtubers-for-2024/"><u>[New] Channeling Success  The Personal Brand Strategy for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafted-by-professionals-best-free-mobile-editors-for-android-for-2024/"><u>[New] Crafted by Professionals  Best Free Mobile Editors for Android for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-brand-with-ai-enhanced-naming-solutions-for-2024/"><u>[New] Elevate Your Brand with AI-Enhanced Naming Solutions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-edits-with-these-top-5-tools-no-youtube-for-2024/"><u>[New] Elevate Your Edits with These Top 5 Tools (No Youtube) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-embrace-9-festive-feasts-watch-holiday-epics-at-zero-cost-online/"><u>[New] Embrace 9 Festive Feasts  Watch Holiday Epics at Zero Cost Online!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-mounting-a-tripod-for-vloggers-for-2024/"><u>[New] Essential Guide to Mounting a Tripod for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engage-with-these-top-10-student-oriented-history-channels/"><u>[New] In 2024, Engage with These Top 10 Student-Oriented History Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-preserve-the-illusion-professional-tactics-for-vr-gaming-logging-for-2024/"><u>[New] Preserve the Illusion  Professional Tactics for VR Gaming Logging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-viral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>[New] Viral Vibes  The Best BGM to Complement Your YT Short Creations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-all-audio-extracted-top-free-youtube-to-mp3-converter-guide-for-2024/"><u>[Updated] Access All Audio Extracted  Top Free YouTube to MP3 Converter Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-craft-stellar-youtube-thumbnails-with-these-8-software-alternatives-for-2024/"><u>[Updated] Craft Stellar YouTube Thumbnails with These 8 Software Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-implementing-youtube-end-screens-for-2024/"><u>[Updated] Efficiently Implementing Youtube End Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[Updated] Extracting YouTube Images  Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-online-content-delivery-to-key-social-media-channels/"><u>[Updated] Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playbook-for-youtube-content-innovation/"><u>[Updated] The Ultimate Playbook for YouTube Content Innovation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-the-secrets-of-adventure-with-these-vids/"><u>[Updated] Unveil the Secrets of Adventure with These Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-choosing-high-impact-youtube-channels/"><u>[Updated] Unveiling the Art of Choosing High-Impact Youtube Channels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-premier-screenshots-software-for-linux-users/"><u>2024 Approved  Premier Screenshots Software for Linux Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-sierras-best-top-5-mac-videography-software-insights/"><u>2024 Approved  Sierra's Best  Top 5 Mac Videography Software Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unwind-the-mind-the-ultimate-chill-list/"><u>2024 Approved  Unwind the Mind  The Ultimate Chill List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-podcast-livestream-guide/"><u>Effortless Podcast Livestream Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c300-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C300 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-youtube-performance-crafting-perfect-titles-and-tags-for-2024/"><u>Optimizing YouTube Performance  Crafting Perfect Titles and Tags for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/prime-9-options-to-capture-high-quality-audio-remotely-23-for-2024/"><u>Prime 9 Options to Capture High-Quality Audio Remotely ('23) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips-for-2024/"><u>Steer Clear of Obscurity  Secure a Top Spot with YouTube SEO Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-tv-with-youtube-video-loops-for-2024/"><u>Streamline Your TV with YouTube Video Loops for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/substitutes-to-moviemaker-in-the-windows-realm/"><u>Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-dichotomy-of-digital-minis-youtubes-efficiency-versus-tiktoks-trendiness-for-2024/"><u>The Dichotomy of Digital Minis  YouTube's Efficiency Versus TikTok's Trendiness for 2024</u></a></li>
+</ul></div>

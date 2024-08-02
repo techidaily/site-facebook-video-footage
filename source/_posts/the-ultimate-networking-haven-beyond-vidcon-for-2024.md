@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Networking Haven  Beyond VidCon for 2024\""
-date: 2024-06-05T11:22:33.604Z
-updated: 2024-06-06T11:22:33.604Z
+date: 2024-08-01T03:03:26.272Z
+updated: 2024-08-02T03:03:26.272Z
 tags:
   - ai video
   - ai youtube
@@ -36,10 +36,17 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 #### 1. **[VidCon](http://vidcon.com/)**
@@ -50,6 +57,9 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -78,6 +88,9 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -136,6 +149,9 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -186,6 +202,9 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -226,3 +245,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-budget-friendly-video-stock-sites/"><u>[New] 2024 Approved  Best Budget-Friendly Video Stock Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-livestreaming-screen-recorders/"><u>[New] 2024 Approved  Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>[New] 2024 Approved  Broadcast Repeat  Looping YouTube Video Magic for Your Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channeling-success-emulating-top-video-bloggers-techniques/"><u>[New] 2024 Approved  Channeling Success  Emulating Top Video Bloggers' Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-camera-technology-for-youtube-stars/"><u>[New] 2024 Approved  Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-designing-effective-video-previews-for-channels/"><u>[New] 2024 Approved  Designing Effective Video Previews for Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[New] 2024 Approved  Extracting YouTube Images  Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-the-8-best-zero-price-video-cutting-software-for-2024/"><u>[New] Essential Guide  The 8 Best Zero Price Video Cutting Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[New] In 2024, Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-a-video-virtuoso-essential-tips-for-upside-down-youtube-livestreams/"><u>[Updated] 2024 Approved  Becoming a Video Virtuoso  Essential Tips for Upside-Down Youtube Livestreams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-essential-tips-for-engaging-shorts/"><u>[Updated] 2024 Approved  Elevate Your Youtube Presence  Essential Tips for Engaging Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>[Updated] 2024 Approved  Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>[Updated] 2024 Approved  Find Excellence in HD on Android  Our Top 10 Player Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-8-youtube-thumbnail-grabbers-you-should-know-for-2024/"><u>[Updated] Best 8 YouTube Thumbnail Grabbers You Should Know for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-life-enriching-video-content-for-2024/"><u>[Updated] Creating Captivating Life-Enriching Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-downloader-essentials-the-best-tools-for-offline-viewing-for-2024/"><u>[Updated] Downloader Essentials  The Best Tools For Offline Viewing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos-for-2024/"><u>[Updated] Epic Soundscape  Trending Audio for Cutting-Edge YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquering-the-fan-base-youtubes-pathway-to-more-followers/"><u>[Updated] In 2024, Conquering the Fan Base  YouTube's Pathway to More Followers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>[Updated] In 2024, OBS Studio Showdown with Bandicam  The Ultimate Test</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling-for-2024/"><u>[Updated] Quick Fit  Enhance Your Photo Posts with Automated Mac Video Scaling for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simple-guide-youtube-to-mp3-on-mac/"><u>[Updated] Simple Guide  YouTube to MP3 on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-video-to-twitter-platforms/"><u>2024 Approved  Leading Video To Twitter Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-growing-yt-sources-sparking-mental-flourish/"><u>2024 Approved  Quick-Growing YT Sources Sparking Mental Flourish</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-mobile-thumbnail-creation-for-compelling-youtube-content/"><u>2024 Approved  Step by Step Mobile Thumbnail Creation for Compelling YouTube Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-sustaining-an-engaged-online-community-the-facebook-way/"><u>2024 Approved  Sustaining an Engaged Online Community  The Facebook Way</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eyevision-recorder-ultimate/"><u>EyeVision Recorder Ultimate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hysterics-hub-best-meme-tool/"><u>Hysterics Hub  Best Meme Tool</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-editessence-system/"><u>In 2024, EditEssence System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-x6-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco X6 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-the-real-distinction-between-youtube-and-dailymention/"><u>In 2024, What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-top-audio-capture-alternatives-your-ultimate-resource-guide-to-free-voice-recorders-for-the-upcoming-year/"><u>New Unveiling Top Audio Capture Alternatives Your Ultimate Resource Guide to Free Voice Recorders for the Upcoming Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/post-vlc-era-unveiling-new-player-titans/"><u>Post-VLC Era  Unveiling New Player Titans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-key-to-youtube-success-understanding-your-cpm/"><u>The Key to YouTube Success  Understanding Your CPM</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-24-approaches-to-enhance-your-channels-popularity-for-2024/"><u>Top 24 Approaches to Enhance Your Channel's Popularity for 2024</u></a></li>
+</ul></div>

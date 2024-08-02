@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Crafting Visuals  The Science of YouTube Banners & Thumbnails\""
-date: 2024-06-05T11:08:02.805Z
-updated: 2024-06-06T11:08:02.805Z
+date: 2024-08-01T02:38:42.470Z
+updated: 2024-08-02T02:38:42.470Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 # How to Make YouTube Banners and Thumbnails
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make YouTube Banners and Thumbnails
 
 YouTube Banners and Thumbnails are two of the most important pieces of channel art you will need. This article will explain the best practices for both, and suggest sites where you will be able to build your own banners and thumbnails for free.
@@ -63,14 +69,37 @@ One thumbnail taboo that you should never break is using an image that has nothi
 
 There are sites online that will allow you to edit images and use them in templates for YouTube banners. You can also use these services to edit your thumbnails. Two of the most popular, free, online photo editors are PicMonkey.com and Canva.com.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
 
 **Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
 
 **PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -87,3 +116,58 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[New] 2024 Approved  Conciseness in Content  Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-youtube-presence-essential-tips-for-engaging-shorts/"><u>[New] 2024 Approved  Elevate Your Youtube Presence  Essential Tips for Engaging Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-for-2024/"><u>[New] Content Hub Hierarchy  Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-direct-video-access-top-5-ways-to-transfer-igtv-content-for-2024/"><u>[New] Direct Video Access  Top 5 Ways to Transfer IGTV Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-drive-traffic-and-growth-with-youtube-analytic-insights-for-2024/"><u>[New] Drive Traffic and Growth with YouTube Analytic Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-endless-viewing-loop-your-iphone-videos-today-for-2024/"><u>[New] Endless Viewing  Loop Your iPhone Videos Today for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-use-tiktok-hashtags-to-increase-your-post-reach/"><u>[New] How to Use TikTok Hashtags to Increase Your Post Reach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[New] In 2024, Bridging Gaps  Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[New] In 2024, Empower Your Content  Advanced Techniques in YouTube Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-spotifys-ultimate-playlist-guide-for-2024/"><u>[New] Spotify's Ultimate Playlist Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-your-audience-youtube-subscriber-insights/"><u>[New] Unlocking Your Audience  YouTube Subscriber Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-innovative-templates-for-your-video-closings/"><u>[Updated] 2024 Approved  Boost Engagement  Innovative Templates for Your Video Closings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>[Updated] 2024 Approved  Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-potential-in-fb-instream-ad-engagement-metrics/"><u>[Updated] 2024 Approved  Unlocking Potential in FB Instream Ad Engagement Metrics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>[Updated] A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-live-stream-screen-recorders-for-youtube-for-2024/"><u>[Updated] Best Live Stream Screen Recorders for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-capture-clearness-without-a-tripod-tool-for-2024/"><u>[Updated] Capture Clearness Without a Tripod Tool for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channel-identity-essential-youtube-naming-strategies-for-2024/"><u>[Updated] Elevate Your Channel Identity  Essential YouTube Naming Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] Extract Your Favorites  Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] How to Turn a Minute Into Millions  Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beat-the-blank-screen-overcoming-top-vlogging-anxieties/"><u>[Updated] In 2024, Beat the Blank Screen  Overcoming Top Vlogging Anxieties</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-the-right-format-boosting-your-youtube-videos-performance/"><u>[Updated] In 2024, Choosing the Right Format – Boosting Your YouTube Videos’ Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-combat-common-youtube-short-obstacles/"><u>[Updated] In 2024, Combat Common YouTube Short Obstacles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[Updated] In 2024, Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inside-look-securing-a-profitable-monetized-youtube-space/"><u>[Updated] Inside Look  Securing a Profitable Monetized Youtube Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-instantly-boost-youtube-performance-master-render-and-upload/"><u>[Updated] Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-freefire-compiling-premier-gaming-vids-and-hashtags/"><u>[Updated] Pro-FreeFire  Compiling Premier Gaming Vids and Hashtags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-shield-yourself-online-strategies-to-hide-visual-identities/"><u>[Updated] Shield Yourself Online  Strategies to Hide Visual Identities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-techniques-for-cost-efficient-youtube-introduction-and-conclusion-creation/"><u>[Updated] Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>[Updated] The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-free-youtube-to-text-converter-tools/"><u>[Updated] Top 10 FREE YouTube to Text Converter Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-video-dominance-hashtag-hacks-exposed/"><u>[Updated] Unlocking Video Dominance  Hashtag Hacks Exposed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/10-best-video-tools-perfect-your-webcam-vids/"><u>10 Best Video Tools  Perfect Your Webcam Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-youtube-music-to-video/"><u>2024 Approved  Adding YouTube Music To Video</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-iphoneandroid-blur-application-guide/"><u>2024 Approved  Expert iPhone/Android Blur Application Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-most-watched-wonders-the-ultimate-guide/"><u>2024 Approved  YouTube’s Most-Watched Wonders  The Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-kinesthetic-interaction-methods/"><u>A Deep Dive Into Kinesthetic Interaction Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-classrooms-prime-ed-tutorials-online/"><u>Digital Classrooms  Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-dominion-for-techno-gamers-for-2024/"><u>Digital Dominion for Techno Gamers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Plus Passcode not Working?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-nord-ce-3-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Nord CE 3 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-step-by-step-pathway-to-youtube-video-enhancement/"><u>In 2024, Your Step-By-Step Pathway to YouTube Video Enhancement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>In 2024, YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-prepping-space-for-virtual-reality/"><u>Mastering the Art of Prepping Space for Virtual Reality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/roblox-revealed-masterful-methods-for-closer-insight/"><u>Roblox Revealed  Masterful Methods for Closer Insight</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplified-techniques-for-crafting-captions-on-fb-videos-for-2024/"><u>Simplified Techniques for Crafting Captions on FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators-for-2024/"><u>The Green Screen Revolution  Access Comprehensive Tutorials From 4 Leading YouTube Educators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-cost-effective-video-cameras-for-2024/"><u>The Ultimate Guide to Cost-Effective Video Cameras for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-blade-a73-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Blade A73 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Accelerate Thumbnail Designs for Professional Valorant Portraits"
-date: 2024-06-05T10:17:38.614Z
-updated: 2024-06-06T10:17:38.614Z
+date: 2024-08-01T01:12:29.279Z
+updated: 2024-08-02T01:12:29.279Z
 tags:
   - ai video
   - ai youtube
@@ -20,6 +20,9 @@ As a content creator on YouTube, you know how important it is to have a strong t
 
 When creating a thumbnail for your Valorant video, it's important to remember that the recommended size is 1280 x 720 pixels. This will ensure that your thumbnail looks clear and professional on all devices. In addition to size, it's also essential to consider the composition of your thumbnail. In this article, we'll provide tips and tricks for creating professional Valorant thumbnails that will help boost your views and engagement.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![create valorant thumbnail for youtube](https://images.wondershare.com/filmora/article-images/valorant-thumbnail-for-youtube.JPG)
 
 ## What Is Valorant?
@@ -30,6 +33,9 @@ In Valorant, players choose from a roster of agents, each with their abilities a
 
 ![valorant official poster](https://images.wondershare.com/filmora/article-images/valorant-official-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Create Thumbnails for Your Valorant YouTube Videos?
 
 Creating a thumbnail for your Valorant YouTube video is an important step in the video creation process. A thumbnail is a visual representation of your video and can help attract viewers to your content.
@@ -54,6 +60,14 @@ Step1 Take a screenshot of your gameplay by **pressing** the "**F12**" key on yo
 
 Step2 Launch Filmora and **create** a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![filmora create project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step3 Import the screenshot into the media library by **clicking** the "**Import**" button.
@@ -66,14 +80,24 @@ Step4 Drag the screenshot from the media library into the timeline.
 
 Step5 Use the "[**Smart**](https://tools.techidaily.com/wondershare/filmora/download/) [**Cutout**](https://tools.techidaily.com/wondershare/filmora/download/)" feature to select and cut out specific elements from the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora smart cutout](https://images.wondershare.com/filmora/article-images/filmora-smart-cutout.jpg)
 
 Step6 Choose the elements of the screenshot that you want to keep.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora select elements](https://images.wondershare.com/filmora/article-images/filmora-select-elements.jpg)
 
 Step7 Remove any parts of the screenshot that you do not want to include in the thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![filmora remove elements](https://images.wondershare.com/filmora/article-images/filmora-remove-elements.jpg)
 
 Step8 Extract the selected elements from the screenshot. You can **resize** the elements as desired.
@@ -86,10 +110,17 @@ Step9 Add a background to the track below the screenshot by **dragging** a backg
 
 Step10 Add an effect, such as a gun effect, by **searching** for the desired effect in the "**Effects**" tab and **dragging** it into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora add effect](https://images.wondershare.com/filmora/article-images/filmora-add-effect.jpg)
 
 Step11 Adjust the opacity of the effect as desired.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![filmora adjust opacity](https://images.wondershare.com/filmora/article-images/filmora-adjust-opacity.jpg)
 
 Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/filmora/download/) for your thumbnail.
@@ -98,18 +129,30 @@ Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/film
 
 Step13 Customize the appearance and rotation of the fire effect as desired.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora edit title](https://images.wondershare.com/filmora/article-images/filmora-edit-title.jpg)
 
 Step14 Edit the texts and **adjust** the appearance of the texts in the Titles window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora edit text](https://images.wondershare.com/filmora/article-images/filmora-edit-text.jpg)
 
 Step15 Choose a still frame that you like and take a snapshot of it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![filmora add frame](https://images.wondershare.com/filmora/article-images/filmora-add-frame.jpg)
 
 Step16 Select the snapshot format and storage path. The snapshot will appear in the media library.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora save location](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Step17 Right-click on the snapshot and **select** "**Reveal in Explorer**" to find the file on your computer. You can now use it as your Valorant thumbnail.
@@ -120,6 +163,9 @@ Please note that while using the trial version of Filmora, a watermark will be a
 
 ![filmora result thumbnail](https://images.wondershare.com/filmora/article-images/filmora-result-thumbnail.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for Making Awesome Thumbnails for Your YouTube Valorant Videos
 
 By following these tips, you can create an eye-catching and effective thumbnail for your Valorant YouTube videos that will help boost your views and engagement.
@@ -150,6 +196,9 @@ TenZ is a highly skilled and popular Valorant player and content creator known f
 
 In addition to his full matches and 1v1 videos, TenZ also produces educational content, providing tips and tricks to his viewers. Despite facing some challenges and setbacks, TenZ has remained a prominent figure in the Valorant community and continues to be highly respected for his skills and contributions.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tenz](https://images.wondershare.com/filmora/article-images/tenz.jpg)
 
 ### 3\. [n0ted](https://www.youtube.com/c/noted/featured) – Prolific Valorant YouTuber With 614k Subscribers
@@ -158,14 +207,23 @@ n0ted is a dedicated and prolific Valorant content creator, consistently uploadi
 
 His channel is a reliable source for those looking for consistently fresh and diverse Valorant content on YouTube. Whether you're interested in learning new strategies, having a few laughs, or staying up to date with the latest developments in the game, n0ted's channel has something for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![n0ted](https://images.wondershare.com/filmora/article-images/n0ted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. [Hiko](https://www.youtube.com/c/Hiko/featured) \- Valorant Content Creator With 382k YouTube Subscrbers
 
 Hiko is a well-known Valorant content creator and former player of Counter-Strike: Global Offensive (CS:GO). He is known for his skill in first-person shooter games and his expertise in Valorant, which he shares through tips and gameplay videos on his channels on Twitch and YouTube.
 
 Hiko is currently a content creator for 100 Thieves, a gaming organization he represents in various tournaments and competitions. He is a reliable source of high-quality Valorant content and regularly uploads new videos for his followers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
@@ -194,14 +252,23 @@ Step1 Take a screenshot of your gameplay by **pressing** the "**F12**" key on yo
 
 Step2 Launch Filmora and **create** a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![filmora create project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step3 Import the screenshot into the media library by **clicking** the "**Import**" button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora import media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step4 Drag the screenshot from the media library into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora add screenshot](https://images.wondershare.com/filmora/article-images/filmora-add-screenshot.jpg)
 
 Step5 Use the "[**Smart**](https://tools.techidaily.com/wondershare/filmora/download/) [**Cutout**](https://tools.techidaily.com/wondershare/filmora/download/)" feature to select and cut out specific elements from the screenshot.
@@ -234,6 +301,9 @@ Step11 Adjust the opacity of the effect as desired.
 
 Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/filmora/download/) for your thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![filmora add texts](https://images.wondershare.com/filmora/article-images/filmora-add-texts.jpg)
 
 Step13 Customize the appearance and rotation of the fire effect as desired.
@@ -250,16 +320,25 @@ Step15 Choose a still frame that you like and take a snapshot of it.
 
 Step16 Select the snapshot format and storage path. The snapshot will appear in the media library.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora save location](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Step17 Right-click on the snapshot and **select** "**Reveal in Explorer**" to find the file on your computer. You can now use it as your Valorant thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora find snapshot](https://images.wondershare.com/filmora/article-images/filmora-find-snapshot.jpg)
 
 Please note that while using the trial version of Filmora, a watermark will be added to the exported video. However, the watermark will not be added to the snapshot, so you can use the snapshot as your Valorant thumbnail without any issues.
 
 ![filmora result thumbnail](https://images.wondershare.com/filmora/article-images/filmora-result-thumbnail.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for Making Awesome Thumbnails for Your YouTube Valorant Videos
 
 By following these tips, you can create an eye-catching and effective thumbnail for your Valorant YouTube videos that will help boost your views and engagement.
@@ -276,12 +355,18 @@ By following these tips, you can create an eye-catching and effective thumbnail 
 
 If you're interested in becoming a Valorant YouTuber, there are many successful content creators in the Valorant community whom you can learn from. Here are five Valorant YouTubers that are worth checking out:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. [Shroud](https://www.youtube.com/c/shroud) – Well-Known Valorant YouTuber With 6.8M Subscribers
 
 Shroud is a well-known and respected content creator and player in the Valorant community. He has a strong background in professional CS:GO and has continued to thrive in the competitive Valorant scene despite being older than many other eSports players.
 
 He is known for his gameplay videos and relaxed, easygoing personality, contributing to his widespread popularity and admiration among fans. In addition to his professional gameplay, Shroud is highly skilled and continues to compete at a high level, further solidifying his reputation as a top Valorant player.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shroud](https://images.wondershare.com/filmora/article-images/shroud.jpg)
 
 ### 2\. [TenZ](https://www.youtube.com/c/TenZ) – Popular Valorant Player With 1.6M Subscribers
@@ -290,6 +375,9 @@ TenZ is a highly skilled and popular Valorant player and content creator known f
 
 In addition to his full matches and 1v1 videos, TenZ also produces educational content, providing tips and tricks to his viewers. Despite facing some challenges and setbacks, TenZ has remained a prominent figure in the Valorant community and continues to be highly respected for his skills and contributions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tenz](https://images.wondershare.com/filmora/article-images/tenz.jpg)
 
 ### 3\. [n0ted](https://www.youtube.com/c/noted/featured) – Prolific Valorant YouTuber With 614k Subscribers
@@ -300,14 +388,23 @@ His channel is a reliable source for those looking for consistently fresh and di
 
 ![n0ted](https://images.wondershare.com/filmora/article-images/n0ted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### 4\. [Hiko](https://www.youtube.com/c/Hiko/featured) \- Valorant Content Creator With 382k YouTube Subscrbers
 
 Hiko is a well-known Valorant content creator and former player of Counter-Strike: Global Offensive (CS:GO). He is known for his skill in first-person shooter games and his expertise in Valorant, which he shares through tips and gameplay videos on his channels on Twitch and YouTube.
 
 Hiko is currently a content creator for 100 Thieves, a gaming organization he represents in various tournaments and competitions. He is a reliable source of high-quality Valorant content and regularly uploads new videos for his followers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
 C9 meL is a highly respected professional Valorant player and leader of the team Cloud 9 White. She is known for her sense of humor, helpful tips, and Agent tutorials and montages. As the in-game leader for her team, MeL has developed exceptional game sense and strategic skills, making her a valuable teacher and resource for other players.
@@ -316,6 +413,9 @@ In addition to her instructional content, MeL's videos often feature a mix of co
 
 ![c9 mel](https://images.wondershare.com/filmora/article-images/c9-mel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating a Valorant thumbnail for your YouTube videos can be important for promoting and attracting views to your content. Using Filmora, you can easily create a thumbnail for free by following the steps outlined in this article.
@@ -334,6 +434,9 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recording Sound Wonders: Without the Use of a Microphone
 
 # How to Record Good Audio Without a Microphone?
@@ -367,12 +470,18 @@ For example, your camera’s mic might be just as good as a clip-on LAV, but tha
 
 Moving your camera/smartphone physically closer to you will make it hard to include anything besides your head and shoulders in your shot, but it will get you significantly better audio.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 2.Shoot Somewhere Quiet
 
 The best way to limit the amount of background noise you pick up in your sound recording is to shoot somewhere where there’s no background noise. That probably seems really basic, but it’s something a lot of people just don’t do. It’s easy to default to recording in your home office, even though it’s right next to the kitchen where your family is bustling around, or in your bedroom even though there’s a busy street right outside your window.
 
 Sometimes the best thing you can do for your audio is simply to scout out a quiet room in your house where the sound recording conditions are better. Speaking of recording conditions…
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Pick a Good Room
 
 There’s more that goes into picking a good room than how quiet it is. If you try to record in a room that’s too big your voice might sound to distant, and if you try to record in a room that’s too small your audio will be too echo-y. You need a room that’s just right.
@@ -381,6 +490,9 @@ You should also pay attention to what’s in the room you’re recording in. Avo
 
 Look for a room that has a lot of soft things in it, like beds and sofas.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Protect your Built-In Mic from Wind
 
 If you shoot outside, then the wind passing over your built-in mic will do terrible things to your audio. You can do a lot to counter-act this problem by physically blocking the wind.
@@ -419,8 +531,120 @@ _This topic was suggested by RS Beauty over in the forums. Thanks for the idea!_
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) allows you to [record voiceover](https://tools.techidaily.com/wondershare/filmora/download/) and edit the recorded audio with mixer, equalizer and provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Audio quality is more important than video quality on YouTube. You’ve probably heard that before – viewers might forgive sub-par video quality if they're interested in what you're saying, but if it’s hard to understand what you’re saying they'll click away.
+
+Getting an external mic (even a **[$10 one-off Amazon](https://www.amazon.com/Microphone-Seacue-Omnidirectional-Condenser-Smartphones/dp/B0727Z8TMX/ref=sr%5F1%5F5?ie=UTF8&qid=1504204000&sr=8-5&keywords=lav+mic)**) is one of the best ways to improve your videos. That said, maybe your budget is $0\. Or, maybe you just don’t happen to have a mic now and don’t want to wait to make videos. It could even be that you just don’t want to bother with an external mic.
+
+Luckily, there are a lot of easy, free, things you can do to protect the quality of your audio recording even if you’re not using an external mic. Here are a few tips:
+
+* [1\. Keep Your Camera Close](#close)
+* [2\. Shoot Somewhere Quiet](#quiet)
+* [3\. Pick a Good Room](#room)
+* [4\. Protect your Built-In Mic from Wind](#wind)
+* [5\. Use a Free Audio App](#app)
+* [6\. Do a Sound Check](#check)
+
+## 1\. Keep Your Camera Close (like, really close)
+
+The biggest problem with the mic built into any camera or phone is just that, since it’s with the camera, it’s usually too far away from you. Built-in mics can record decent audio up close, but usually, your camera will be set up farther away from you than an external mic would be.
+
+For example, your camera’s mic might be just as good as a clip-on LAV, but that LAV is right by your mouth and the camera is a couple of big steps away.
+
+Moving your camera/smartphone physically closer to you will make it hard to include anything besides your head and shoulders in your shot, but it will get you significantly better audio.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2.Shoot Somewhere Quiet
+
+The best way to limit the amount of background noise you pick up in your sound recording is to shoot somewhere where there’s no background noise. That probably seems really basic, but it’s something a lot of people just don’t do. It’s easy to default to recording in your home office, even though it’s right next to the kitchen where your family is bustling around, or in your bedroom even though there’s a busy street right outside your window.
+
+Sometimes the best thing you can do for your audio is simply to scout out a quiet room in your house where the sound recording conditions are better. Speaking of recording conditions…
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Pick a Good Room
+
+There’s more that goes into picking a good room than how quiet it is. If you try to record in a room that’s too big your voice might sound to distant, and if you try to record in a room that’s too small your audio will be too echo-y. You need a room that’s just right.
+
+You should also pay attention to what’s in the room you’re recording in. Avoid hard, reflective, surfaces like appliances and mirrors which your voice will bounce off of. The same conditions that make you sound great when you sing in the shower will – like recording in a small space -make your voiceover unpleasantly echo-y.
+
+Look for a room that has a lot of soft things in it, like beds and sofas.
+
+## 4\. Protect your Built-In Mic from Wind
+
+If you shoot outside, then the wind passing over your built-in mic will do terrible things to your audio. You can do a lot to counter-act this problem by physically blocking the wind.
+
+There are a few ways to do this. If you’re doing hand-held shots you can partially cover your camera or phone’s mic with your finger. You don’t want to completely cover it/press down or your audio will be muffled. What you’re trying to do is create a barrier blocking out the wind.
+
+On movie sets, they block out wind by covering the microphones with big fuzzy things called ‘dead cats’. You can also block out wind noise by attaching something fuzzy to your microphone. If your camera’s built-in mic is on front of it then you just need something big and fluffy you can loop around the lens. You can use a piece of a boa, a fuzzy novelty scrunchie – you can even murder a fuzzy stuffed animal! Do you have an old coat with a fuzz around the hood? That fuzz would do nicely.
+
+_The pompom used in this video cost $2, but you might already have something that would work!_
+
+If your built-in mic is on top of your camera you can get something called a ‘micromuff’. A micromuff is essentially a circular or rectangular piece of velcro with long strands of fluff on top. It’s open in the middle so it doesn’t actually cover your mic, but the surrounding fuzz blocks out the wind.
+
+![Record better audio from wind with micromuff](https://images.wondershare.com/filmora/article-images/record-better-audio-from-wind.jpg)
+
+_You use the adhesive backing to attach the base velcro to your camera. The other side of the velcro has your fluff attached to the back._
+
+The only thing about a micromuff is that it costs about $30, and if you’re going to spend $30 on audio equipment then you could just buy yourself an inexpensive LAV mic. I only bring up the micromuff because it’s a very simple design you can probably DIY – you just need velcro with adhesive backing and any of the fluff-sources we just discussed.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Use a Free Audio App
+
+If you’re recording on a smartphone, you can download a free app that will let you make adjustments to your audio as you record it. With the right app, you can adjust your gain (volume is how you control ‘output’ audio, and gain is for ‘input’ audio. By turning up your gain, you can make your mic more sensitive), tempo, and more. A lot of the time, your audio recording app will also let you edit your audio afterward.
+
+Even if you’re not recording video from your smartphone, it might be a good idea to use your phone as your mic and record a separate audio file. You’ll be able to use an app to fine-tune your recording, and you can set your phone up closer to you the way you would an external mic while keeping your camera back a bit farther.
+
+Free audio apps: Hi-Q MP3 Voice Recorder (Android), RecForge II (Android), Smart Voice Recorder (Android), Audio Memos (iOS), and Recorder Plus (iOS).
+
+## 6\. Do a Sound Check
+
+Once you think you’ve got good audio set up – test it! You don’t want to do a whole video and find out when you play it back that your audio doesn’t sound good.
+
+Do you have any of your own audio tips to pass on? Leave them in the comments!
+
+_This topic was suggested by RS Beauty over in the forums. Thanks for the idea!_
+
+### Polish Your YouTube Videos with Filmora
+
+As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) allows you to [record voiceover](https://tools.techidaily.com/wondershare/filmora/download/) and edit the recorded audio with mixer, equalizer and provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -470,6 +694,9 @@ You should also pay attention to what’s in the room you’re recording in. Avo
 
 Look for a room that has a lot of soft things in it, like beds and sofas.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Protect your Built-In Mic from Wind
 
 If you shoot outside, then the wind passing over your built-in mic will do terrible things to your audio. You can do a lot to counter-act this problem by physically blocking the wind.
@@ -482,6 +709,10 @@ _The pompom used in this video cost $2, but you might already have something tha
 
 If your built-in mic is on top of your camera you can get something called a ‘micromuff’. A micromuff is essentially a circular or rectangular piece of velcro with long strands of fluff on top. It’s open in the middle so it doesn’t actually cover your mic, but the surrounding fuzz blocks out the wind.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Record better audio from wind with micromuff](https://images.wondershare.com/filmora/article-images/record-better-audio-from-wind.jpg)
 
 _You use the adhesive backing to attach the base velcro to your camera. The other side of the velcro has your fluff attached to the back._
@@ -504,12 +735,18 @@ Do you have any of your own audio tips to pass on? Leave them in the comments!
 
 _This topic was suggested by RS Beauty over in the forums. Thanks for the idea!_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### Polish Your YouTube Videos with Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) allows you to [record voiceover](https://tools.techidaily.com/wondershare/filmora/download/) and edit the recorded audio with mixer, equalizer and provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -559,6 +796,9 @@ You should also pay attention to what’s in the room you’re recording in. Avo
 
 Look for a room that has a lot of soft things in it, like beds and sofas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Protect your Built-In Mic from Wind
 
 If you shoot outside, then the wind passing over your built-in mic will do terrible things to your audio. You can do a lot to counter-act this problem by physically blocking the wind.
@@ -577,6 +817,9 @@ _You use the adhesive backing to attach the base velcro to your camera. The othe
 
 The only thing about a micromuff is that it costs about $30, and if you’re going to spend $30 on audio equipment then you could just buy yourself an inexpensive LAV mic. I only bring up the micromuff because it’s a very simple design you can probably DIY – you just need velcro with adhesive backing and any of the fluff-sources we just discussed.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use a Free Audio App
 
 If you’re recording on a smartphone, you can download a free app that will let you make adjustments to your audio as you record it. With the right app, you can adjust your gain (volume is how you control ‘output’ audio, and gain is for ‘input’ audio. By turning up your gain, you can make your mic more sensitive), tempo, and more. A lot of the time, your audio recording app will also let you edit your audio afterward.
@@ -585,6 +828,9 @@ Even if you’re not recording video from your smartphone, it might be a good id
 
 Free audio apps: Hi-Q MP3 Voice Recorder (Android), RecForge II (Android), Smart Voice Recorder (Android), Audio Memos (iOS), and Recorder Plus (iOS).
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Do a Sound Check
 
 Once you think you’ve got good audio set up – test it! You don’t want to do a whole video and find out when you play it back that your audio doesn’t sound good.
@@ -599,95 +845,9 @@ As one of the most widely used video editing software in YouTube video editing, 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Audio quality is more important than video quality on YouTube. You’ve probably heard that before – viewers might forgive sub-par video quality if they're interested in what you're saying, but if it’s hard to understand what you’re saying they'll click away.
-
-Getting an external mic (even a **[$10 one-off Amazon](https://www.amazon.com/Microphone-Seacue-Omnidirectional-Condenser-Smartphones/dp/B0727Z8TMX/ref=sr%5F1%5F5?ie=UTF8&qid=1504204000&sr=8-5&keywords=lav+mic)**) is one of the best ways to improve your videos. That said, maybe your budget is $0\. Or, maybe you just don’t happen to have a mic now and don’t want to wait to make videos. It could even be that you just don’t want to bother with an external mic.
-
-Luckily, there are a lot of easy, free, things you can do to protect the quality of your audio recording even if you’re not using an external mic. Here are a few tips:
-
-* [1\. Keep Your Camera Close](#close)
-* [2\. Shoot Somewhere Quiet](#quiet)
-* [3\. Pick a Good Room](#room)
-* [4\. Protect your Built-In Mic from Wind](#wind)
-* [5\. Use a Free Audio App](#app)
-* [6\. Do a Sound Check](#check)
-
-## 1\. Keep Your Camera Close (like, really close)
-
-The biggest problem with the mic built into any camera or phone is just that, since it’s with the camera, it’s usually too far away from you. Built-in mics can record decent audio up close, but usually, your camera will be set up farther away from you than an external mic would be.
-
-For example, your camera’s mic might be just as good as a clip-on LAV, but that LAV is right by your mouth and the camera is a couple of big steps away.
-
-Moving your camera/smartphone physically closer to you will make it hard to include anything besides your head and shoulders in your shot, but it will get you significantly better audio.
-
-## 2.Shoot Somewhere Quiet
-
-The best way to limit the amount of background noise you pick up in your sound recording is to shoot somewhere where there’s no background noise. That probably seems really basic, but it’s something a lot of people just don’t do. It’s easy to default to recording in your home office, even though it’s right next to the kitchen where your family is bustling around, or in your bedroom even though there’s a busy street right outside your window.
-
-Sometimes the best thing you can do for your audio is simply to scout out a quiet room in your house where the sound recording conditions are better. Speaking of recording conditions…
-
-## 3\. Pick a Good Room
-
-There’s more that goes into picking a good room than how quiet it is. If you try to record in a room that’s too big your voice might sound to distant, and if you try to record in a room that’s too small your audio will be too echo-y. You need a room that’s just right.
-
-You should also pay attention to what’s in the room you’re recording in. Avoid hard, reflective, surfaces like appliances and mirrors which your voice will bounce off of. The same conditions that make you sound great when you sing in the shower will – like recording in a small space -make your voiceover unpleasantly echo-y.
-
-Look for a room that has a lot of soft things in it, like beds and sofas.
-
-## 4\. Protect your Built-In Mic from Wind
-
-If you shoot outside, then the wind passing over your built-in mic will do terrible things to your audio. You can do a lot to counter-act this problem by physically blocking the wind.
-
-There are a few ways to do this. If you’re doing hand-held shots you can partially cover your camera or phone’s mic with your finger. You don’t want to completely cover it/press down or your audio will be muffled. What you’re trying to do is create a barrier blocking out the wind.
-
-On movie sets, they block out wind by covering the microphones with big fuzzy things called ‘dead cats’. You can also block out wind noise by attaching something fuzzy to your microphone. If your camera’s built-in mic is on front of it then you just need something big and fluffy you can loop around the lens. You can use a piece of a boa, a fuzzy novelty scrunchie – you can even murder a fuzzy stuffed animal! Do you have an old coat with a fuzz around the hood? That fuzz would do nicely.
-
-_The pompom used in this video cost $2, but you might already have something that would work!_
-
-If your built-in mic is on top of your camera you can get something called a ‘micromuff’. A micromuff is essentially a circular or rectangular piece of velcro with long strands of fluff on top. It’s open in the middle so it doesn’t actually cover your mic, but the surrounding fuzz blocks out the wind.
-
-![Record better audio from wind with micromuff](https://images.wondershare.com/filmora/article-images/record-better-audio-from-wind.jpg)
-
-_You use the adhesive backing to attach the base velcro to your camera. The other side of the velcro has your fluff attached to the back._
-
-The only thing about a micromuff is that it costs about $30, and if you’re going to spend $30 on audio equipment then you could just buy yourself an inexpensive LAV mic. I only bring up the micromuff because it’s a very simple design you can probably DIY – you just need velcro with adhesive backing and any of the fluff-sources we just discussed.
-
-## 5\. Use a Free Audio App
-
-If you’re recording on a smartphone, you can download a free app that will let you make adjustments to your audio as you record it. With the right app, you can adjust your gain (volume is how you control ‘output’ audio, and gain is for ‘input’ audio. By turning up your gain, you can make your mic more sensitive), tempo, and more. A lot of the time, your audio recording app will also let you edit your audio afterward.
-
-Even if you’re not recording video from your smartphone, it might be a good idea to use your phone as your mic and record a separate audio file. You’ll be able to use an app to fine-tune your recording, and you can set your phone up closer to you the way you would an external mic while keeping your camera back a bit farther.
-
-Free audio apps: Hi-Q MP3 Voice Recorder (Android), RecForge II (Android), Smart Voice Recorder (Android), Audio Memos (iOS), and Recorder Plus (iOS).
-
-## 6\. Do a Sound Check
-
-Once you think you’ve got good audio set up – test it! You don’t want to do a whole video and find out when you play it back that your audio doesn’t sound good.
-
-Do you have any of your own audio tips to pass on? Leave them in the comments!
-
-_This topic was suggested by RS Beauty over in the forums. Thanks for the idea!_
-
-### Polish Your YouTube Videos with Filmora
-
-As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) allows you to [record voiceover](https://tools.techidaily.com/wondershare/filmora/download/) and edit the recorded audio with mixer, equalizer and provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -710,3 +870,48 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-youtube-video-ideas-for-sharing-your-personal-story/"><u>[New] 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10plus-best-free-video-editing-programs-of-2023/"><u>[New] 2024 Approved  10+ Best Free Video Editing Programs of 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-avoiding-pitfalls-in-sub4sub-key-lessons-from-a-seasoned-guide/"><u>[New] 2024 Approved  Avoiding Pitfalls in Sub4sub  Key Lessons From a Seasoned Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cost-effective-recording-devices-the-ultimate-list/"><u>[New] 2024 Approved  Cost-Effective Recording Devices  The Ultimate List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>[New] 2024 Approved  Enhancing Video Appeal  Mac Thumbnails Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affordable-advertising-streamlining-channel-sponsorship-partnerships-for-2024/"><u>[New] Affordable Advertising  Streamlining Channel-Sponsorship Partnerships for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-purging-techniques-for-streaming-success-for-2024/"><u>[New] Audio Purging Techniques for Streaming Success for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-your-first-channel-essential-video-gear-list-for-2024/"><u>[New] Building Your First Channel  Essential Video Gear List for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification-for-2024/"><u>[New] Embrace the Pause Button  3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-raw-footage-to-final-cut-youtube-edition/"><u>[New] From Raw Footage to Final Cut  YouTube Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leverage-audience-engagement-through-strategic-posting/"><u>[New] Leverage Audience Engagement Through Strategic Posting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfect-your-presence-with-solo-video-setups-and-techniques/"><u>[New] Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[New] Transform Your Video Calls  Google Meet on YouTube Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-top-10-youtube-makeup-maestros-to-follow/"><u>[New] Unveiling the Top 10 YouTube Makeup Maestros to Follow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youngest-entrepreneur-in-media-lands-fortune-peak/"><u>[New] Youngest Entrepreneur in Media Lands Fortune Peak</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-screens-guide-to-smart-stocks/"><u>[New] Your Screen's Guide to Smart Stocks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-tips-to-get-more-views-with-youtube-optimization-free-checklist/"><u>[Updated] 2024 Approved  5 Tips to Get More Views with YouTube Optimization [Free Checklist]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-every-creators-guide-to-youtube-revenue/"><u>[Updated] 2024 Approved  Every Creator's Guide to YouTube Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-approach-for-adding-soundtracks-to-youtube-clips-for-2024/"><u>[Updated] A Step-by-Step Approach for Adding Soundtracks to YouTube Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominating-the-digital-space-with-trending-content-for-2024/"><u>[Updated] Dominating the Digital Space with Trending Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-expansion-on-glamour-channels-for-2024/"><u>[Updated] Earnings Expansion on Glamour Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need-for-2024/"><u>[Updated] Essential YouTube Equipment For Starting Your Channel - What Do You Really Need for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[Updated] Expand Your Online Realm  Harnessing YouTube Insights Powerfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-guide-to-instantaneous-deletion-of-youtube-posts-for-2024/"><u>[Updated] Expert Guide to Instantaneous Deletion of Youtube Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-instantaneous-youtube-audiences-trackers/"><u>[Updated] Instantaneous YouTube Audiences Trackers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-blend-of-text-and-video-without-payment/"><u>[Updated] Seamless Blend of Text & Video Without Payment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-audience-for-your-youtube-videos/"><u>[Updated] Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition/"><u>[Updated] Top 5 Ultimate Camera & Video Recording Apps  IPhone/Android Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlock-productivity-selecting-the-top-5-mac-snippers/"><u>[Updated] Unlock Productivity  Selecting the Top 5 Mac Snippers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-legal-framework-on-content-screencasting/"><u>[Updated] YouTube's Legal Framework on Content Screencasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-awesome-ideas-for-igtv-videos-brands-cant-miss-out-on-for-2024/"><u>10 Awesome Ideas for IGTV Videos Brands Can't Miss Out On for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-directory-of-pixel-tones-websites/"><u>2024 Approved  Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-manual-to-acquiring-final-cut-pro-gratis/"><u>2024 Approved  The Essential Manual to Acquiring Final Cut Pro Gratis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-smart-7-hd-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Smart 7 HD Device SIM</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro Max iOS System? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-asus-rog-phone-7-ultimate-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Asus ROG Phone 7 Ultimate FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-angle-adjustment-a-step-by-step-editing-guide/"><u>In 2024, Youtube Angle Adjustment  A Step-by-Step Editing Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-azure-speech-to-text-a-step-by-step-guide/"><u>Mastering Azure Speech-to-Text  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smartphone-skills-producing-engaging-youtube-thumbnails-for-2024/"><u>Smartphone Skills  Producing Engaging YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-realities-of-youtube-view-calculation-for-2024/"><u>The Realities of YouTube View Calculation for 2024</u></a></li>
+</ul></div>

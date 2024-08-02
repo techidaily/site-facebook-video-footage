@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Elevating Your Look  Expert Tutorials for Everyone\""
-date: 2024-06-05T11:23:13.667Z
-updated: 2024-06-06T11:23:13.667Z
+date: 2024-08-01T03:04:32.468Z
+updated: 2024-08-02T03:04:32.468Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,14 @@ Wondershare Filmora is specifically made keeping quality on priority and to make
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **Finding Your Niche in Beauty or Lifestyle**
 
 As a new makeup, beauty, or lifestyle YouTuber you’ll be jumping into a category that’s already packed with thousands of channels. In order to gain any momentum, you’ll have to decide on a particular thing you want to be known for. That’s your niche.
@@ -116,6 +124,9 @@ Here are 4 tips for getting free products for review:
 Make sure to link to your channel so they can verify what you say (do not hide your subscriber count).  
 Emphasize what value you could provide the brand with (i.e. ‘I’ve had a lot of success with videos on managing acne and I’m sure my subscribers would love to see a review of your cream’) and outline what kind of video you’d like to make (i.e. a five-minute review focusing on the product, or a short feature in a longer makeup tutorial).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Simple Camera Setup for Beauty Vloggers**
 
 There are a lot of different ways to set up your camera for a ‘talking head’ video (anything that is primarily you talking to the camera). Keep reading to learn about a popular ring-light setup for beauty videos, or [click here to learn 4 different camera setups](https://www.filmora.io/community-blog/4-ways-to-set-up-your-talking-head-shots-for-youtube-431.html).
@@ -151,6 +162,9 @@ Turn off autofocus and adjust your focus manually by turning the focus ring on y
 
 An aperture of f/5.0 is good if you’re going to be moving around a lot, but if you’re not going to be moving much and want a blurry background you might want to go with f/2.8 or lower.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![set f stop](https://images.wondershare.com/filmora/article-images/set-f-stop2.jpg)
 
 **Step 6:** Set your ISO (film speed). A lower ISO will give you a darker, but higher quality, image. A higher ISO will lower your quality and give you a brighter image.
@@ -161,6 +175,9 @@ ISO 400 should be a happy medium for shooting inside with your ring light, but y
 
 For more info on [camera settings for beauty videos, click here](https://www.filmora.io/video-tutorials/how-to-set-up-your-camera-%E2%80%93-the-makeup-series-12.html).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## **Lighting for Beauty**
 
 The key to achieving a high-quality picture for your beauty video is having a lot of light.
@@ -173,6 +190,9 @@ There are, however, some reasons you might want additional light:
 
 If you only have a ring light/front light then you may end up looking like you’re surrounded by shadows. If you want more light for your space you can use windows, household lamps, or professional video lights like softboxes or LED panels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  ![light background](https://images.wondershare.com/filmora/article-images/light-background4.jpg)
 
 #### **To Stand Out Against your Background (‘Backlighting’)**
@@ -197,6 +217,9 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 * **_Clamp lights ($10 each) and paper lanterns ($10 each) provide great lighting and are much more affordable than professional lighting kits._ The paper lanterns will provide even, diffused, light and the clamp lights will be easy to set up wherever you need them.**
 * **_Check out these [DIY tips for creating your own reflectors and diffusers](https://www.filmora.io/community-blog/save-money-with-clever-diy-youtube-gear%21-462.html)._**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Top Ring Lights for YouTube**
 
 ####  
@@ -205,6 +228,10 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
@@ -242,6 +269,9 @@ This is your ring light. Continue to step 5 if you want it to have a stand (you 
 
 **_Step 5:_** Fasten your ring light tightly to your paper towel stand securely with several zip ties. Make sure to fasten it at the bottom (where the excess rope light is coming out of your ring light). Cut off the tails of the zip ties.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – Before You Start**
 
 Before you start recording your makeup tutorial there are a few things you should do.
@@ -275,6 +305,15 @@ Remember to include what type of video you made, i.e. ‘tutorial’, ‘review�
 
  Are you already making beauty videos? If so, let us know if you have any of your own tips!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -291,3 +330,46 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-guide-to-essential-asmr-video-facts/"><u>[New] 2024 Approved  A Guide to Essential ASMR Video Facts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieving-affiliate-success-with-online-videos-for-2024/"><u>[New] Achieving Affiliate Success with Online Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-audience-enhancement-with-audition-fades/"><u>[New] Audience Enhancement with Audition Fades</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-examining-the-strengths-and-weaknesses-in-free2x-tools/"><u>[New] Examining the Strengths and Weaknesses in Free2X Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-game-capture-software-analysis-obs-vs-shadowplay-for-2024/"><u>[New] Game Capture Software Analysis  OBS vs ShadowPlay for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-reel-creating-stunning-slow-motion-content/"><u>[New] Mastering Instagram Reel  Creating Stunning Slow-Motion Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-powerdirector-2024-reviewed/"><u>[New] Mastering PowerDirector  2024 Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tempo-treasure-trove-compiling-the-best-dj-visuals-download/"><u>[New] Tempo Treasure Trove  Compiling the Best DJ Visuals Download</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-secrets-of-youtube-description-upgrades/"><u>[New] Unlock the Secrets of YouTube Description Upgrades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-monetization-policy-updated-requirements-and-guidelines/"><u>[New] YouTube Monetization Policy  Updated Requirements and Guidelines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-masterpieces-in-job-market-insight-for-2024/"><u>[Updated] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-boost-production-with-final-cut-pros-top-10-tools/"><u>[Updated] 2024 Approved  Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>[Updated] 2024 Approved  Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[Updated] 2024 Approved  Conciseness in Content  Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>[Updated] 2024 Approved  Digital Broadcasting Battle  Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-instagram-stories/"><u>[Updated] 2024 Approved  Unlock the Full Potential of Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-delving-into-youtubes-digital-video-workshop-for-2024/"><u>[Updated] Delving Into YouTube's Digital Video Workshop for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-and-save-video-previews-free-and-easy-for-2024/"><u>[Updated] Extract and Save Video Previews, Free & Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] In 2024, 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-bright-idea-boost-your-videos-impact-on-youtube/"><u>[Updated] In 2024, A Bright Idea  Boost Your Video's Impact on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-impact-with-high-converting-youtube-advertising-banners/"><u>[Updated] In 2024, Creating Impact with High-Converting YouTube Advertising Banners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-the-degrees-cutting-edge-youtube-video-manipulation/"><u>[Updated] In 2024, Direct the Degrees  Cutting-Edge YouTube Video Manipulation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-voice-modification-software-for-video-makers/"><u>[Updated] Optimal Voice Modification Software for Video Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-pathways-to-profit-with-youtube-short-videos/"><u>[Updated] Proven Pathways to Profit with YouTube Short Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-tiktok-pro-editors-playbook/"><u>2024 Approved  Maximize Your TikTok  Pro Editor's Playbook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>2024 Approved  Rank the Best  7 Android-Friendly AdBlockers Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-for-macos-sierra-patches-and-plug-ins-for-2024/"><u>Complete Guide for macOS Sierra Patches and Plug-Ins for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-eliminate-live-sharing-on-devices/"><u>How to Eliminate Live Sharing on Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-12-pro-max-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 12 Pro Max Factory Reset? | Stellar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-eternal-display-documentation/"><u>In 2024, Eternal Display Documentation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>In 2024, Mastering Multilingual Subtitling  A Comprehensive Approach (Vimeo)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/simply-turn-off-your-insta-tv/"><u>Simply Turn Off Your Insta TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-precise-age-entry-in-tiktok-profiles/"><u>Strategies for Precise Age Entry in TikTok Profiles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-online-earnings-youtubes-money-matrix-for-2024/"><u>The Art of Online Earnings  YouTube's Money Matrix for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-power-of-tags-boost-traffic-with-top-genres-and-keywords-for-2024/"><u>The Power of Tags  Boost Traffic with Top Genres & Keywords for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails-for-2024/"><u>The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling/"><u>Thrifty Cloud Haven  Budget Storage, Bulk Files Handling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-gaming-queens-top-10-female-youtubers-for-2024/"><u>Ultimate Gaming Queens  Top 10 Female YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-description-engineer-for-2024/"><u>Video Description Engineer for 2024</u></a></li>
+</ul></div>

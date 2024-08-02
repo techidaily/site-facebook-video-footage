@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Web Development Hacks  Embedding YouTube's Playlists Effortlessly\""
-date: 2024-06-05T09:58:08.423Z
-updated: 2024-06-06T09:58:08.423Z
+date: 2024-08-01T00:39:07.196Z
+updated: 2024-08-02T00:39:07.196Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ If you want to embed and display a YouTube playlist on your website, we'll give 
 
 Here's **how to embed a YouTube playlist on a Website:**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Embedding a YouTube Playlist on Website Using WordPress Plugin
 
 The plugin is the simplest way to add a YouTube Playlist to your WordPress website. This will help you get this done in no time without having to write any code for the process.
@@ -44,10 +48,20 @@ Step2 Click the **"Plugins"** option from the left-hand side menu on the WordPre
 
 Step3 Click the **"YouTube Feed"** option from the left menu and open **"All Feeds."** On the next page, click **"Add New"** at the top left of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![creating new feed in the youtube feed plugin](https://images.wondershare.com/filmora/article-images/2023/03/creating-new-feed-in-the-youtube-feed-plugin.png)
 
 You will now be asked what type of feed you want to create. Select **"Playlist"** and click **"Next."**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![embedding playlist on website](https://images.wondershare.com/filmora/article-images/2023/03/embedding-playlist-on-website.png)
 
 Step4 You need to [create your YouTube API Key](https://developers.google.com/youtube/v3/getting-started), copy it, and paste it into the pop-up. Click **"Add"** to connect your YouTube account to the plugin.
@@ -102,6 +116,9 @@ Now, paste the iFrame embed code you've copied from YouTube and click "Update" a
 
 This method will also display one video with a menu from where you and your website viewers can access the playlist. Moreover, there are few customization options to change the appearance.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## A Bonus Tip: YouTube Video Maker - Filmora
 
 If you find your YouTube videos as boring and not engaging as other content on your website, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for your next project.
@@ -142,6 +159,18 @@ Some key features of Wondershare Filmora are as follows:
 * Record from webcam, screen, and voiceover.
 * Simple drag-and-drop interface.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses step-by-step methods **to embed a YouTube playlist on a website** using the WordPress plugin, oEmbed code, and iFrame embed code.
@@ -162,6 +191,9 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Mastering the Art of Attention Retention on YouTube with These 6 Tactics
 
 # 6 Ways To Increase Audience Retention on YouTube
@@ -188,10 +220,123 @@ To put it in simple terms, YouTube audience retention is about how much of each 
 
 For YouTube analytics, audience retention is taken as a mean of the retention figures for each of your viewers. For example, if you post a ten-minute video and half your viewers get to the five-minute mark, that's a retention of 50 per cent. If the other half watch it right to the end, that's a retention of 100 per cent. The mean of these two figures is 75 per cent, and that's what YouTube will use as your audience retention figure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
 
 This retention rate affects how highly your video is ranked on YouTube, with videos boasting higher audience retention rates appearing higher in the search results than those which do not. This is because both YouTube and Google are highly focussed on customer satisfaction, and a long watch time means a very happy customer was watching that video. For this reason, it's well worth considering how to increase YouTube audience retention as it demonstrates that you're making great content as well as helping you get more viewers.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to See Your Audience Retention Report in YouTube?
+
+YouTube will produce reports to help you keep track of your audience retention. There are two types of audience retention reports; absolute and relative. Absolute allows you to view a graph of your video's retention and see when people might be clicking away, or if they are skipping to later parts of your video. If you lose a lot of viewers in the first 15 seconds of your videos then that is a clear indication that your content is not what the viewers who find your videos really want. The relative report is where your video is compared to the average retention of similar videos.
+
+Note that by 'similar videos', YouTube means videos of a similar length. There is no way to compare your videos only to other videos in your genre. The relative report will always be somewhat skewed because your videos will be measured against very different content.
+
+To see an audience retention report log into your YouTube account and go to your**Creator Studio**. There, select**Audience Retention**under**Analytics**.
+
+![](https://images.wondershare.com/filmora/article-images/audience-retention.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## Part 3: What is a Good Audience Retention Rate on YouTube?
+
+When you're considering how to increase YouTube audience retention, it can be good to have a goal in mind. Obviously 100 per cent is going to be the Holy Grail of retention rates, but how many videos are actually going to achieve that? It only takes for one person to 'accidentally' click on your video and rapidly click away, or for someone to have to stop for outside reasons, to drag your average down.
+
+According to the YouTube community, a good goal to aim for is around 50 per cent, but as there is a lot which can affect your retention rate, that number may be different for you. Low view numbers sometimes get higher retention rates because it's mainly subscribers watching, whereas channels with millions of views may suffer due to more people abandoning. Rather than setting yourself a golden number, focus instead on increasing your retention rate from wherever it is now, and celebrate your own success instead of measuring yourself against others.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: 6 Ways to Increase YouTube Audience Retention
+
+If you're serious about learning how to increase YouTube audience retention, here are five of the best ideas for you:
+
+#### 1\. Compare your videos
+
+Investigating your audience retention report will highlight the videos where you achieved maximum success. Think about what you did here, and work to replicate that technique. Perhaps you were talking about a product, or maybe your structured your video slightly differently. It's up to you to dissect your video and find out what it was that kept people watching for longer, so that you can repeat this success in the future. You can also use some influencer marketing platform such as [InflueNex](https://www.influenex.com/) to take a look at the videos in your similar channels, and learn the popular videos on their channels.
+
+#### 2\. Get on with it
+
+Research shows that YouTube viewers have an incredibly short attention span. Depending on who you believe, you could have as much as six seconds or as little as just three to grab their attention and compel them to carry on watching. If you want to improve your audience retention, coming in with an engaging, attention grabbing statement right at the start is crucial to your success. Nobody wants to waste their time watching someone waffle on for ages about their granny or their favorite hobbies, so get right down to it straight away, by telling them what's in store.
+
+#### 3\. Make it visually engaging
+
+Perhaps all you've got is a presentation to make. You're not a gamer, you're not showing clips of your cat and you're not doing a makeup tutorial, so surely all you need is a camera, good lighting and your face, right? Wrong. Viewers like to see the visual content changing, and videos which have a range of scenes are usually far more successful than those where it's just a person talking to camera. Think about how you can insert cutaways, pop up text, different footage and other graphics to keep it interesting for your viewers.
+
+#### 4\. Make it shorter
+
+This one is a no brainer really. If you make a one-minute video, how hard is it going to be to keep viewers watching to the end compared to a 20-minute marathon. However, going too short can be negative too, unless you really do have something very quick and simple to showcase. Long videos work well for YouTubers in the gaming niche, in particular, because viewers want to know the end result, but for most of us, these sorts of viewing statistics are hard to reach.
+
+If you consider a viewer who watches three minutes of your content, would you rather they watched three minutes of a ten-minute video and then clicked away bored, or would you rather they finished an entire video that was only three minutes long? Both in terms of audience retention and of your own reputation, having a viewer finish a short video is much more valuable to you than losing someone half way through a long one. That person probably enjoyed your content to the end and will more than likely watch another one of your videos. Conversely, the one you lost half way through was bored enough to stop watching and will probably not bother viewing any other videos of yours in future.
+
+#### 5\. Keep them hooked
+
+Think carefully about your YouTube video structure. Ideally, you will tell them at the very start that you've got something amazing to share with them later on. This could be a tip, a tutorial, a new product reveal or even something funny. Whatever it is, tell them they're going to love it from the start, and keep reminding them to watch from the end to get this gift. That doesn't mean you shouldn't give them great content all the way through, just that you should save a carrot for the end of the ride to reward those loyal viewers.
+
+So, now you know how to increase YouTube audience retention, what are you going to do about it? Have a go at modifying your videos to boost the numbers who will watch to the end and let us know how you got on.
+
+#### 6\. Use an Excellent Video Editor
+
+Content is the king. It is necessary to use a powerful video editor to help you edit videos. With an excellent video editor like Filmora, you can custom stunning videos effortlessly.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Audience retention is one of your most important stats on YouTube. It is even more important than your view count. Your view count really only tells you how many people are finding and clicking on your videos, not whether they are actually watching them. Audience retention refers to how much of a video a viewer watches before clicking away, which is very useful information to have. If you know when people are leaving your videos then you know what you need to work on.
+
+**You May Also Like:** [How to analyse your and your competitors' YouTube Channel >>](https://tools.techidaily.com/wondershare/filmora/download/)
+[How to structure a YouTube video >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* [Part 1: What is Audience Retention?](#part1)
+* [Part 2: How to See Your Audience Retention Report in YouTube?](#part2)
+* [Part 3: What is a Good Audience Retention Rate on YouTube?](#part3)
+* [Part 4: 6 Ways to Increase YouTube Audience Retention](#part4)
+
+## Part 1: What is Audience Retention?
+
+To put it in simple terms, YouTube audience retention is about how much of each video your viewers watch. It's usually expressed as a percentage, so if your viewer gets half way through, they will have a retention of 50 per cent.
+
+For YouTube analytics, audience retention is taken as a mean of the retention figures for each of your viewers. For example, if you post a ten-minute video and half your viewers get to the five-minute mark, that's a retention of 50 per cent. If the other half watch it right to the end, that's a retention of 100 per cent. The mean of these two figures is 75 per cent, and that's what YouTube will use as your audience retention figure.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
+
+This retention rate affects how highly your video is ranked on YouTube, with videos boasting higher audience retention rates appearing higher in the search results than those which do not. This is because both YouTube and Google are highly focussed on customer satisfaction, and a long watch time means a very happy customer was watching that video. For this reason, it's well worth considering how to increase YouTube audience retention as it demonstrates that you're making great content as well as helping you get more viewers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to See Your Audience Retention Report in YouTube?
 
 YouTube will produce reports to help you keep track of your audience retention. There are two types of audience retention reports; absolute and relative. Absolute allows you to view a graph of your video's retention and see when people might be clicking away, or if they are skipping to later parts of your video. If you lose a lot of viewers in the first 15 seconds of your videos then that is a clear indication that your content is not what the viewers who find your videos really want. The relative report is where your video is compared to the average retention of similar videos.
@@ -208,6 +353,9 @@ When you're considering how to increase YouTube audience retention, it can be go
 
 According to the YouTube community, a good goal to aim for is around 50 per cent, but as there is a lot which can affect your retention rate, that number may be different for you. Low view numbers sometimes get higher retention rates because it's mainly subscribers watching, whereas channels with millions of views may suffer due to more people abandoning. Rather than setting yourself a golden number, focus instead on increasing your retention rate from wherever it is now, and celebrate your own success instead of measuring yourself against others.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: 6 Ways to Increase YouTube Audience Retention
 
 If you're serious about learning how to increase YouTube audience retention, here are five of the best ideas for you:
@@ -282,6 +430,9 @@ Note that by 'similar videos', YouTube means videos of a similar length. There i
 
 To see an audience retention report log into your YouTube account and go to your**Creator Studio**. There, select**Audience Retention**under**Analytics**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/audience-retention.jpg)
 
 ## Part 3: What is a Good Audience Retention Rate on YouTube?
@@ -290,6 +441,10 @@ When you're considering how to increase YouTube audience retention, it can be go
 
 According to the YouTube community, a good goal to aim for is around 50 per cent, but as there is a lot which can affect your retention rate, that number may be different for you. Low view numbers sometimes get higher retention rates because it's mainly subscribers watching, whereas channels with millions of views may suffer due to more people abandoning. Rather than setting yourself a golden number, focus instead on increasing your retention rate from wherever it is now, and celebrate your own success instead of measuring yourself against others.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: 6 Ways to Increase YouTube Audience Retention
 
 If you're serious about learning how to increase YouTube audience retention, here are five of the best ideas for you:
@@ -322,8 +477,14 @@ So, now you know how to increase YouTube audience retention, what are you going 
 
 Content is the king. It is necessary to use a powerful video editor to help you edit videos. With an excellent video editor like Filmora, you can custom stunning videos effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -352,10 +513,16 @@ To put it in simple terms, YouTube audience retention is about how much of each 
 
 For YouTube analytics, audience retention is taken as a mean of the retention figures for each of your viewers. For example, if you post a ten-minute video and half your viewers get to the five-minute mark, that's a retention of 50 per cent. If the other half watch it right to the end, that's a retention of 100 per cent. The mean of these two figures is 75 per cent, and that's what YouTube will use as your audience retention figure.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
 
 This retention rate affects how highly your video is ranked on YouTube, with videos boasting higher audience retention rates appearing higher in the search results than those which do not. This is because both YouTube and Google are highly focussed on customer satisfaction, and a long watch time means a very happy customer was watching that video. For this reason, it's well worth considering how to increase YouTube audience retention as it demonstrates that you're making great content as well as helping you get more viewers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to See Your Audience Retention Report in YouTube?
 
 YouTube will produce reports to help you keep track of your audience retention. There are two types of audience retention reports; absolute and relative. Absolute allows you to view a graph of your video's retention and see when people might be clicking away, or if they are skipping to later parts of your video. If you lose a lot of viewers in the first 15 seconds of your videos then that is a clear indication that your content is not what the viewers who find your videos really want. The relative report is where your video is compared to the average retention of similar videos.
@@ -404,90 +571,14 @@ So, now you know how to increase YouTube audience retention, what are you going 
 
 Content is the king. It is necessary to use a powerful video editor to help you edit videos. With an excellent video editor like Filmora, you can custom stunning videos effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Audience retention is one of your most important stats on YouTube. It is even more important than your view count. Your view count really only tells you how many people are finding and clicking on your videos, not whether they are actually watching them. Audience retention refers to how much of a video a viewer watches before clicking away, which is very useful information to have. If you know when people are leaving your videos then you know what you need to work on.
-
-**You May Also Like:** [How to analyse your and your competitors' YouTube Channel >>](https://tools.techidaily.com/wondershare/filmora/download/)
-[How to structure a YouTube video >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* [Part 1: What is Audience Retention?](#part1)
-* [Part 2: How to See Your Audience Retention Report in YouTube?](#part2)
-* [Part 3: What is a Good Audience Retention Rate on YouTube?](#part3)
-* [Part 4: 6 Ways to Increase YouTube Audience Retention](#part4)
-
-## Part 1: What is Audience Retention?
-
-To put it in simple terms, YouTube audience retention is about how much of each video your viewers watch. It's usually expressed as a percentage, so if your viewer gets half way through, they will have a retention of 50 per cent.
-
-For YouTube analytics, audience retention is taken as a mean of the retention figures for each of your viewers. For example, if you post a ten-minute video and half your viewers get to the five-minute mark, that's a retention of 50 per cent. If the other half watch it right to the end, that's a retention of 100 per cent. The mean of these two figures is 75 per cent, and that's what YouTube will use as your audience retention figure.
-
-![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
-
-This retention rate affects how highly your video is ranked on YouTube, with videos boasting higher audience retention rates appearing higher in the search results than those which do not. This is because both YouTube and Google are highly focussed on customer satisfaction, and a long watch time means a very happy customer was watching that video. For this reason, it's well worth considering how to increase YouTube audience retention as it demonstrates that you're making great content as well as helping you get more viewers.
-
-## Part 2: How to See Your Audience Retention Report in YouTube?
-
-YouTube will produce reports to help you keep track of your audience retention. There are two types of audience retention reports; absolute and relative. Absolute allows you to view a graph of your video's retention and see when people might be clicking away, or if they are skipping to later parts of your video. If you lose a lot of viewers in the first 15 seconds of your videos then that is a clear indication that your content is not what the viewers who find your videos really want. The relative report is where your video is compared to the average retention of similar videos.
-
-Note that by 'similar videos', YouTube means videos of a similar length. There is no way to compare your videos only to other videos in your genre. The relative report will always be somewhat skewed because your videos will be measured against very different content.
-
-To see an audience retention report log into your YouTube account and go to your**Creator Studio**. There, select**Audience Retention**under**Analytics**.
-
-![](https://images.wondershare.com/filmora/article-images/audience-retention.jpg)
-
-## Part 3: What is a Good Audience Retention Rate on YouTube?
-
-When you're considering how to increase YouTube audience retention, it can be good to have a goal in mind. Obviously 100 per cent is going to be the Holy Grail of retention rates, but how many videos are actually going to achieve that? It only takes for one person to 'accidentally' click on your video and rapidly click away, or for someone to have to stop for outside reasons, to drag your average down.
-
-According to the YouTube community, a good goal to aim for is around 50 per cent, but as there is a lot which can affect your retention rate, that number may be different for you. Low view numbers sometimes get higher retention rates because it's mainly subscribers watching, whereas channels with millions of views may suffer due to more people abandoning. Rather than setting yourself a golden number, focus instead on increasing your retention rate from wherever it is now, and celebrate your own success instead of measuring yourself against others.
-
-## Part 4: 6 Ways to Increase YouTube Audience Retention
-
-If you're serious about learning how to increase YouTube audience retention, here are five of the best ideas for you:
-
-#### 1\. Compare your videos
-
-Investigating your audience retention report will highlight the videos where you achieved maximum success. Think about what you did here, and work to replicate that technique. Perhaps you were talking about a product, or maybe your structured your video slightly differently. It's up to you to dissect your video and find out what it was that kept people watching for longer, so that you can repeat this success in the future. You can also use some influencer marketing platform such as [InflueNex](https://www.influenex.com/) to take a look at the videos in your similar channels, and learn the popular videos on their channels.
-
-#### 2\. Get on with it
-
-Research shows that YouTube viewers have an incredibly short attention span. Depending on who you believe, you could have as much as six seconds or as little as just three to grab their attention and compel them to carry on watching. If you want to improve your audience retention, coming in with an engaging, attention grabbing statement right at the start is crucial to your success. Nobody wants to waste their time watching someone waffle on for ages about their granny or their favorite hobbies, so get right down to it straight away, by telling them what's in store.
-
-#### 3\. Make it visually engaging
-
-Perhaps all you've got is a presentation to make. You're not a gamer, you're not showing clips of your cat and you're not doing a makeup tutorial, so surely all you need is a camera, good lighting and your face, right? Wrong. Viewers like to see the visual content changing, and videos which have a range of scenes are usually far more successful than those where it's just a person talking to camera. Think about how you can insert cutaways, pop up text, different footage and other graphics to keep it interesting for your viewers.
-
-#### 4\. Make it shorter
-
-This one is a no brainer really. If you make a one-minute video, how hard is it going to be to keep viewers watching to the end compared to a 20-minute marathon. However, going too short can be negative too, unless you really do have something very quick and simple to showcase. Long videos work well for YouTubers in the gaming niche, in particular, because viewers want to know the end result, but for most of us, these sorts of viewing statistics are hard to reach.
-
-If you consider a viewer who watches three minutes of your content, would you rather they watched three minutes of a ten-minute video and then clicked away bored, or would you rather they finished an entire video that was only three minutes long? Both in terms of audience retention and of your own reputation, having a viewer finish a short video is much more valuable to you than losing someone half way through a long one. That person probably enjoyed your content to the end and will more than likely watch another one of your videos. Conversely, the one you lost half way through was bored enough to stop watching and will probably not bother viewing any other videos of yours in future.
-
-#### 5\. Keep them hooked
-
-Think carefully about your YouTube video structure. Ideally, you will tell them at the very start that you've got something amazing to share with them later on. This could be a tip, a tutorial, a new product reveal or even something funny. Whatever it is, tell them they're going to love it from the start, and keep reminding them to watch from the end to get this gift. That doesn't mean you shouldn't give them great content all the way through, just that you should save a carrot for the end of the ride to reward those loyal viewers.
-
-So, now you know how to increase YouTube audience retention, what are you going to do about it? Have a go at modifying your videos to boost the numbers who will watch to the end and let us know how you got on.
-
-#### 6\. Use an Excellent Video Editor
-
-Content is the king. It is necessary to use a powerful video editor to help you edit videos. With an excellent video editor like Filmora, you can custom stunning videos effortlessly.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -510,3 +601,54 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-youtube-success-mastery-with-tubebuddy/"><u>[New] 2024 Approved  Boosting YouTube Success  Mastery with TubeBuddy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-defeating-dissidence-a-guide-for-content-makers/"><u>[New] 2024 Approved  Defeating Dissidence  A Guide for Content Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-delving-into-the-world-of-asmr-soundscapes/"><u>[New] 2024 Approved  Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-trending-video-reactions/"><u>[New] 2024 Approved  Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-stepwise-approach-to-unlinking-and-removing-youtube-content/"><u>[New] In 2024, A Stepwise Approach to Unlinking and Removing YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-craft-engaging-videos-with-7-free-premium-soundscapes/"><u>[New] In 2024, Craft Engaging Videos with 7 Free, Premium Soundscapes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[New] In 2024, Essential iOS Video Editor Apps  Top 10 Best to Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-youtubes-highlighted-comment-mechanics/"><u>[New] In 2024, Examining YouTube's Highlighted Comment Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-editing-and-alternatives/"><u>[New] In 2024, From Novice to Pro  YouTube Editing & Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-gameplay-with-best-gadgets/"><u>[New] Mastering Gameplay with Best Gadgets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-lowdown-navigating-creative-commons-licenses/"><u>[New] The Complete Lowdown  Navigating Creative Commons Licenses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-differences-between-youtube-and-dailymention/"><u>[New] The Essential Differences Between YouTube and DailyMention</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-intersection-of-brain-research-and-strategic-business-management/"><u>[New] The Intersection of Brain Research and Strategic Business Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-videos-potential-with-these-7-audio-treasures/"><u>[New] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-secret-for-instantaneous-deletion-of-youtube-feedbacks/"><u>[New] Unveiling the Secret for Instantaneous Deletion of Youtube Feedbacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-yields-mastering-the-art-of-viral-hashtag-use/"><u>[New] YouTube Yields  Mastering the Art of Viral Hashtag Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zero-price-mac-video-maker-for-2024/"><u>[New] Zero-Price Mac Video Maker for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-of-the-best-curated-list-of-spectacular-offline-ios-titles/"><u>[Updated] Best of the Best  Curated List of Spectacular Offline iOS Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube-for-2024/"><u>[Updated] Content Creation Conundrums  Understanding the Differences Between IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivate-creativity-20plus-inspiring-youtube-concepts-for-2024/"><u>[Updated] Cultivate Creativity  20+ Inspiring YouTube Concepts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-premier-news-channels-for-subscribers-for-2024/"><u>[Updated] Exploring YouTube's Premier News Channels for Subscribers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-core-principles-youtubes-social-contract/"><u>[Updated] In 2024, Core Principles  YouTube's Social Contract</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-with-these-top-keyword-discovery-tools/"><u>[Updated] In 2024, Elevate Your Content with These Top Keyword Discovery Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ensuring-profit-tracking-on-your-channel/"><u>[Updated] In 2024, Ensuring Profit Tracking on Your Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-evaluating-tseries-business-model-with-youtube-viewership-metrics/"><u>[Updated] In 2024, Evaluating TSeries' Business Model with YouTube Viewership Metrics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] In 2024, Optimizing Your Project  B-Roll Utilization Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-secrets-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>[Updated] Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] Tailoring Content to Trends  Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-affiliate-marketing-in-the-instagram-era/"><u>[Updated] The Art of Affiliate Marketing in the Instagram Era</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-free-multimedia-content-creation/"><u>[Updated] The Ultimate Guide to Free Multimedia Content Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-experience-top-5-facebook-revelations-for-2024/"><u>Elevate Your Experience  Top 5 Facebook Revelations for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a18-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A18 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grasping-the-functionality-of-airborne-robotics/"><u>Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-no-calls-on-your-iphone-a-step-by-step-guide/"><u>Handling No-Calls on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-x50-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor X50 Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>In 2024, Mini Masterpieces  Top 6 Coolest Mini-Houses in MC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/logitechs-premium-4k-webcam-full-review-and-usability-insights-for-2024/"><u>Logitech's Premium 4K Webcam - Full Review & Usability Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>Pioneering Sustainability  Transforming Metropolitan Environments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reel-in-riches-a-guide-to-earning-on-youtube-shorts-for-2024/"><u>Reel In Riches  A Guide to Earning on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v16-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.6 File using PDF Repair Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast-for-2024/"><u>Revolutionize Your Online Video Content  Expert Tips on Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spark-the-motivation-top-inspirational-youtube-videos-for-2024/"><u>Spark the Motivation  Top Inspirational YouTube Videos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-rise-of-multilingualism-learn-arabic-and-why-mondlys-online-is-key/"><u>The Rise of Multilingualism? Learn Arabic & Why Mondly's Online Is Key</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleashing-viewer-engagement-explore-12-successful-youtube-strategies-for-2024/"><u>Unleashing Viewer Engagement - Explore 12 Successful YouTube Strategies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y27-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y27 5G Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-snippets-guide-essential-info-inside-in-2024/"><u>YouTube Snippets Guide  Essential Info Inside, In 2024</u></a></li>
+</ul></div>

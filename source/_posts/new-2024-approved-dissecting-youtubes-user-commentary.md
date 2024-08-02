@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dissecting YouTubes' User Commentary\""
-date: 2024-06-05T08:46:02.821Z
-updated: 2024-06-06T08:46:02.821Z
+date: 2024-07-31T22:34:59.012Z
+updated: 2024-08-01T22:34:59.012Z
 tags:
   - ai video
   - ai youtube
@@ -57,10 +57,17 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![  YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
 
 You can combine these additional filters to narrow your comments search for YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Using YCS – YouTube Comment Search Extension
 
 You can use the YouTube Comment Search browser extension supported by Google Chrome to help you search YouTube comments effortlessly. To use it, follow these steps below.
@@ -71,6 +78,9 @@ You can use the YouTube Comment Search browser extension supported by Google Chr
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
 ## Part 3: Using Comments Search for YouTube Extension
@@ -105,6 +115,9 @@ Did you post a comment on your favorite celebrity’s video? Do you think it may
 
 YouTube has now added this feature which you can see all the comments you ever posted on YouTube in one place.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Use the Comment History feature to Search Comments?
 
 You can see all the comments you have posted in the Comment History in a few quick steps.
@@ -113,6 +126,9 @@ You can see all the comments you have posted in the Comment History in a few qui
 2. Once you sign in, click on the three horizontal lines at the top left corner of your YouTube page.
 3. Click on the History option and then you will find the option called Comments on the right side of your YouTube History page. Click on it to see all your YouTube comments.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![ YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
 You can also access the Comments History page directly from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
@@ -138,6 +154,9 @@ YouTube is a global platform to share helpful and entertaining videos. The comme
 
 Find feedback or questions. Report offensive comments. If you are a regular YouTube user, use our tips and tricks to search comments quickly and grow your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -154,3 +173,70 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-legacy-youtubers-playbook-for-success/"><u>[New] 2024 Approved  Crafting a Legacy  YouTuber’s Playbook for Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-for-iphoneipad-screen-capture/"><u>[New] 2024 Approved  Cutting-Edge Approaches for iPhone/iPad Screen Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device/"><u>[New] 2024 Approved  Direct Access to Streams  How to Download YouTube Videos to Your iOS Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-stream-start-small-see-big-on-youtube/"><u>[New] 2024 Approved  Earning Stream  Start Small, See Big on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-thors-fury-legends-of-the-ragnarok/"><u>[New] 2024 Approved  Thor's Fury  Legends of the Ragnarök</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-with-professional-end-screen-templates-for-2024/"><u>[New] Elevate Your Content with Professional End Screen Templates for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhance-video-playback-with-av1-on-youtube-for-2024/"><u>[New] Enhance Video Playback with AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-evolving-tactics-for-crafting-immersive-mukbang-sessions-for-2024/"><u>[New] Evolving Tactics for Crafting Immersive Mukbang Sessions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-moving-images-mirrorless-versus-dslr/"><u>[New] In 2024, Capturing Moving Images  Mirrorless Versus DSLR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-command-the-youtube-stage-mastering-visibility-through-tactics/"><u>[New] In 2024, Command the YouTube Stage  Mastering Visibility Through Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[New] In 2024, Enhance Content Categorization  Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-perfecting-tiktok-media-with-zoom-techniques/"><u>[New] Perfecting TikTok Media with Zoom Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tactical-titles-trailer-producer/"><u>[New] Tactical Titles Trailer Producer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-youtube-success-understanding-your-cpm/"><u>[New] The Key to YouTube Success  Understanding Your CPM</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-two-sides-to-every-story-how-to-create-balanced-reaction-videos-on-youtube-2-pov-approach/"><u>[New] Two Sides to Every Story – How to Create Balanced Reaction Videos on YouTube (2 POV Approach)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[New] Ultimate Routes  Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-mastery-perfecting-edits-on-published-videos/"><u>[New] YouTube Mastery  Perfecting Edits on Published Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-5-video-editing-platforms-that-dont-feature-in-youtoo/"><u>[Updated] 2024 Approved  Best 5 Video Editing Platforms That Don't Feature in YouToo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-free-best-youtube-video-editor-apps-for-android/"><u>[Updated] 2024 Approved  FREE Best YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-online-hubs-capturing-sky-in-high-dynamic-range/"><u>[Updated] Best Online Hubs  Capturing Sky in High Dynamic Range</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-conceal-dont-reveal-how-to-blur-faces-online-for-2024/"><u>[Updated] Conceal, Don't Reveal  How to Blur Faces Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] Dive Into Design  Get a Complimentary Set of 50 Banner Pieces!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-famous-gamers-software-choices/"><u>[Updated] Famous Gamers' Software Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] Finding the Perfect Pair  Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-hidden-to-highlighted-your-2-ways-to-see-yts-past-videos/"><u>[Updated] From Hidden to Highlighted  Your 2 Ways to See YT's Past Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] From Startup to Success  Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality/"><u>[Updated] In 2024, An Android Enthusiast’s Dream  Customizing Your Phone Alerts with Style and Personality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[Updated] In 2024, Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[Updated] In 2024, Avoiding YouTube Copyright Claims  Understanding the Rules</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bridging-content-gap-youtube-videos-to-instagram/"><u>[Updated] In 2024, Bridging Content Gap  YouTube Videos to Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>[Updated] In 2024, Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-echoes-of-chuckles-parody-playlists/"><u>[Updated] In 2024, Echoes of Chuckles  Parody Playlists</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-nextgen-videostreaming-platforms/"><u>[Updated] In 2024, Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-youtube-content-manager-toolkit/"><u>[Updated] In 2024, Exploring the YouTube Content Manager Toolkit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>[Updated] In 2024, Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insight-into-youtubes-latest-income-and-rewards/"><u>[Updated] Insight Into YouTube's Latest Income and Rewards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-shaking-up-the-status-quo-unique-naming-tips-for-filmmakers/"><u>[Updated] Shaking Up the Status Quo  Unique Naming Tips for Filmmakers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-stream-ready-steam-gameplay-filming-guide/"><u>[Updated] Stream-Ready  Steam Gameplay Filming Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-12-portable-camera-reviews-for-dynamic-vlogging/"><u>[Updated] The Ultimate 12 Portable Camera Reviews  For Dynamic Vlogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-video-booster-guide-uncovering-the-top-20-tips/"><u>[Updated] The Ultimate Video Booster Guide - Uncovering the Top 20 Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-creating-custom-tiktok-ringtone-for-mobile-devices/"><u>2024 Approved  Creating Custom TikTok Ringtone for Mobile Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-methods-for-time-loop-illusions/"><u>2024 Approved  Innovative Methods for Time Loop Illusions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-next-level-experience-in-metaverse-with-top-8-accessories/"><u>2024 Approved  Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-1980s-movie-magic-in-editing/"><u>2024 Approved  Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-potential-the-right-propeller-match-in-fpv-flight/"><u>2024 Approved  Unlocking Potential  The Right Propeller Match in FPV Flight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/acquire-no-cost-sounds-for-videos-and-podcasts-in-2024/"><u>Acquire No-Cost Sounds for Videos & Podcasts, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-video-popularity-on-youtube-for-2024/"><u>Elevating Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nokia C110 Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>In 2024, A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>In 2024, Expedite Channel Growth  Surpass the 10K View Threshold Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos/"><u>In 2024, Gastronomic Glamour  Top 7 Ingredients for Stunning Cooking Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-internet-radio-a-simple-guide/"><u>In 2024, How To Record Internet Radio - A Simple Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi 14 Ultra Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-9-iphone-applications-to-add-watermarks-on-photos/"><u>In 2024, Ranked 9 iPhone Applications to Add Watermarks on Photos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-lava-blaze-2-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Lava Blaze 2 5G Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-the-art-of-self-talk-in-online-videos/"><u>Mastering the Art of Self-Talk in Online Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v30-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V30? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-tactics-to-amplify-your-youtube-popularity-for-2024/"><u>Proven Tactics to Amplify Your YouTube Popularity for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tapping-income-through-thoughtful-product-examinations-for-2024/"><u>Tapping Income Through Thoughtful Product Examinations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-complete-users-manual-to-youtube-editing-via-finalcut-pro-for-2024/"><u>The Complete User's Manual to YouTube Editing via FinalCut Pro for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-inspirational-recruiter-playlist-for-2024/"><u>The Ultimate Inspirational Recruiter Playlist for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-elevating-your-channel-with-strategic-spotlight-techniques-for-2024/"><u>YouTube Mastery  Elevating Your Channel with Strategic Spotlight Techniques for 2024</u></a></li>
+</ul></div>

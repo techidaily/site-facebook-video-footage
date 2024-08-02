@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Apex Artists Among Online Video Titans for 2024"
-date: 2024-06-05T10:04:27.175Z
-updated: 2024-06-06T10:04:27.175Z
+date: 2024-08-01T00:49:55.462Z
+updated: 2024-08-02T00:49:55.462Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 # YouTube Subscriber Chart - 5 Most Subscribed YouTuber
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -50,6 +53,9 @@ In this article, we will take you through the 5 most popular creator channels on
 * [Smosh](#smosh)
 * [Fernanfloo](#fern)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 1\.  PewDiePie
 
 ![PewDiePie](https://images.wondershare.com/filmora/article-images/pew-die-pie.jpg)
@@ -66,6 +72,9 @@ At the age of 27, Germán Alejandro Garmendia Aranis is the owner of the second 
 
 The Chilean YouTube superstar uploaded his first YouTube video in 2011 and by October 2012 his channel has reached 1 million subscribers. Recently, German has lent his voice to a character in the Spanish version of Ice Age: Collision Course. He finds inspiration for his comic YouTube videos in everyday life and topics like ex-girlfriends, school, and phobias are frequently covered in videos published on the HolaSoyGerman channel. In 2014 and 2015 German won the 'Icon of the Year' prize from MTV Millennial Awards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  3\.  ElrubiusOMG
 
 ![ElrubiusOMG](https://images.wondershare.com/filmora/article-images/elrubius-omg.jpg)
@@ -76,6 +85,9 @@ Based in Madrid, El Rubius OMG first became popular in Spanish-speaking countrie
 
 ###  4\.  Smosh
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Smosh](https://images.wondershare.com/filmora/article-images/smosh.jpg)
 
 Originally, Smosh was a channel run by sketch comedy duo Ian Andrew Hecox and Anthony Padilla. They started the Smosh YouTube channel in 2005 and since then they have grown their team to include more creators, and their content to include animation and gaming. Smosh has become much more than two funny guys on YouTube – it is a wildly successful content company.
@@ -84,8 +96,14 @@ Most channels that have one viral video do not go on to have sustained success o
 
 In 2017, Anthony Padilla chose to leave Smosh to focus on his own solo YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\.  Fernanfloo
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fernanfloo](https://images.wondershare.com/filmora/article-images/fernan-floo.jpg)
 
 Yet another enormously popular YouTuber that comes from a Spanish speaking country whose channel attracted millions of subscribers. A 24-year-old Salvadoran named Luis Fernando Flores Alvarado is the man behind one of the most subscribed YouTube channels of all time. The Fernanfloo channel was created in 2011, and in February 2014 it had only 100,000 subscribers. By August 2014, Alvarado's channel reached 1 million subscribers, making him one of YouTube's biggest success stories. The videos featured on Feranfloo channel mostly cover gaming topics, but with a touch of comedy which makes Alvarado's videos unique.
@@ -96,6 +114,9 @@ At the end of 2015, Alvarado launched the Fenanfloo mobile app that had 2.3 mill
 
 Looking for a live [YouTube subscriber chart](https://tools.techidaily.com/wondershare/filmora/download/)?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Edit YouTube Videos with Full-Featured Video Editing Software
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -116,3 +137,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[New] 2024 Approved  A Dive Into History  The Definitive List of Student-Friendly Channels #1-10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-alternative-to-obs-innovative-livestream-tools/"><u>[New] 2024 Approved  Alternative to OBS  Innovative Livestream Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-editing-wonders-for-youtube-filmmakers-for-2024/"><u>[New] Audio Editing Wonders for YouTube Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-binge-worthy-content-crafting-episodes-that-viewers-love-for-2024/"><u>[New] Binge-Worthy Content  Crafting Episodes That Viewers Love for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-a-multimedia-guide-adding-videos-to-text-articles-for-2024/"><u>[New] Creating a Multimedia Guide  Adding Videos to Text Articles for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-how-to-spot-your-video-enthusiasts-for-2024/"><u>[New] Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-determining-view-counts-direct-effect-on-creator-revenue-for-2024/"><u>[New] Determining View Count's Direct Effect on Creator Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-the-power-behind-youtube-statistics-interpretation-for-2024/"><u>[New] Discovering the Power Behind YouTube Statistics Interpretation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-riches-unleashed-measuring-your-success-on-youtubes-platform/"><u>[New] In 2024, Digital Riches Unleashed  Measuring Your Success on YouTube's Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-free-services-for-designing-impactful-youtube-intros/"><u>[New] In 2024, Essential Free Services for Designing Impactful YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leading-5-audio-caps-for-streaming-enthusiasts/"><u>[New] Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-new-to-youtube-how-to-skip-the-top-8-common-errors-on-your-platform-journey/"><u>[New] New to YouTube  How to Skip the Top 8 Common Errors on Your Platform Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-the-sony-s3700-video-experience/"><u>[New] Redefining the Sony S3700 Video Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essentials-of-crafting-youtube-videos-from-start-to-finish/"><u>[New] The Essentials of Crafting YouTube Videos From Start to Finish</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>[New] Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-best-youtube-keyword-tools-to-get-more-views-filmora/"><u>[Updated] 10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-leading-flv-to-youtube-video-converters-for-2024/"><u>[Updated] 10 Leading FLV to YouTube Video Converters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beginning-your-blog-journey-for-financial-gain/"><u>[Updated] 2024 Approved  Beginning Your Blog Journey for Financial Gain</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[Updated] 2024 Approved  Maximizing Your Platforms  Posting TikTok Content on Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-editing-essentials-your-go-to-guide-for-beginner-vloggers-for-2024/"><u>[Updated] Editing Essentials  Your Go-To Guide for Beginner Vloggers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-skype-recording-pcmac-guide-for-2024/"><u>[Updated] Efficient Skype Recording - PC/Mac Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tools-ranking-the-best-mobile-videography-apps-for-2024/"><u>[Updated] Essential Tools  Ranking the Best Mobile Videography Apps for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-insights-on-efficiently-setting-up-and-analyzing-fb-instream-ad-campaigns-for-2024/"><u>[Updated] Expert Insights on Efficiently Setting Up and Analyzing FB Instream Ad Campaigns for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[Updated] Extracting YouTube Music  Three Secure Ways Without Financial Burden</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[Updated] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] In 2024, Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adobe-premiere-tips-youtube-video-uploads/"><u>[Updated] In 2024, Adobe Premiere Tips  YouTube Video Uploads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-mac-video-resizing-to-fixed-ratio/"><u>[Updated] In 2024, Efficient Mac Video Resizing to Fixed Ratio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-learn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>[Updated] Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>[Updated] Navigating Video Aspects on YouTube  Perfect Size & Quality Balance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pc-based-video-editing-tips-for-youtube-success/"><u>[Updated] PC-Based Video Editing Tips for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prosperous-social-media-gurus/"><u>[Updated] Prosperous Social Media Gurus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtube-shorts-revenue-strategy/"><u>[Updated] Understanding YouTube Shorts Revenue Strategy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>In 2024, Ultimate Gameplay  Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/savvy-sponsorship-strategies-for-small-scale-sites-for-2024/"><u>Savvy Sponsorship Strategies for Small-Scale Sites for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-elevating-video-presence-through-thumbnails-for-2024/"><u>Step-by-Step Guide to Elevating Video Presence Through Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/trailblazers-creating-engaging-marvellous-universe-for-2024/"><u>Trailblazers Creating Engaging Marvellous Universe for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/viral-video-vanguard-youtubes-powerful-personalities-for-2024/"><u>Viral Video Vanguard  YouTube's Powerful Personalities for 2024</u></a></li>
+</ul></div>

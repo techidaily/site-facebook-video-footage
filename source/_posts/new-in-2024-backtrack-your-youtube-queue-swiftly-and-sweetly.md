@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Backtrack Your YouTube Queue, Swiftly & Sweetly"
-date: 2024-06-05T08:20:04.303Z
-updated: 2024-06-06T08:20:04.303Z
+date: 2024-07-31T21:51:13.726Z
+updated: 2024-08-01T21:51:13.726Z
 tags:
   - ai video
   - ai youtube
@@ -35,6 +35,9 @@ The ["Iridium for YouTube"](https://chrome.google.com/webstore/detail/iridium-fo
 Here's how to install the "Iridium for YouTube" extension on your Chrome browser to reverse the playlist:  
 Step 1: In the first step, launch a browser on your computer and click the three dots (ellipsis icon) in the top-right corner of the screen. Scroll down, select "More Tools," and click Extensions."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access google web store](https://images.wondershare.com/filmora/article-images/accessing-google-web-store.png)
 
 Step 2:
@@ -55,6 +58,9 @@ Step 3:
 
 Step 4:Open a new page, visit [YouTube](https://www.youtube.com/), and a pop-up window will appear. Select"Close"to terminate it, and clickthe"Menu"(hamburger) icon in the top left corner of the screen. Next, scroll down and open your savedPlaylistthat you want to reverse.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iridium for youtube](https://images.wondershare.com/filmora/article-images/iridium-for-youtube.png)
 
 Step 5: Click the "Play All" option in the details section of the playlist and click the Iridium button on the right side of the screen. This will open a new tab with different settings for your playlist. Go to the Video tab, and under the "Playlist" header, toggle the button next to "Enable reverse playlist control" to change the settings.
@@ -77,6 +83,9 @@ Step 2: In the next step, open a new tab and visit the ["Playlist.Tools"](https:
 
 Step 3: Finally, click the "Sort" icon and select descending order to reverse your playlist. You can always return to the original sequence by clicking the "Original Sequence" option in the top right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Changing the Ordering in Settings
 
 If you are a content creator on YouTube and want to reverse the videos' order in a playlist on your channel, do the following steps in sequence:
@@ -87,8 +96,14 @@ Step 2: Hover over the video, and you will see two horizontal lines next to it. 
 
 You can also utilize the "Sort" option to reverse the playlist. To do so, click "Sort" at the top of the playlist above the videos and select "Date Published (Oldest)" to change the order.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reverse youtube playlist order](https://images.wondershare.com/filmora/article-images/sorting-the-playlist-order-to-reverse-it.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## A Bonus Tip for YouTube Creator: Make Your Own YouTube Channel Trailer
 
 As a YouTube content creator, you need to set your videos' order in your Playlist. Besides, the video's trailer also influences your audiences' browsing and watching experience. To help you with this part in case you are in need, we have prepared a video tutorial for you - How To Make Your Own YouTube Channel Trailer. If you have any interests, please don't miss it, and see how to make a fantastic video trailer with a user-friendly video editor [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/):
@@ -105,6 +120,9 @@ Step 2: In the next step, click your Profile at the top right of the screen and 
 
 Step 3: Scroll down on your channel's dashboard, select a video, and click the three dots next to it. Next, click "Add to Playlist" from the drop-down list and select the "Create a New Playlist" option to make a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![youtube playlist reverse order](https://images.wondershare.com/filmora/article-images/adding-playlist-to-private-playlist-to-reverse-order.png)
 
 Next, provide a name, set the privacy settings to "Private," and click "Create."
@@ -113,6 +131,9 @@ Step 4: In the final step, head to the Playlist tab, click "View Full Playlist" 
 
 You can now add more videos to your playlist, and each one will be added to the top. This method helps you arrange the YouTube playlist as you desire.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 In this article, we've provided four different step-by-step solutions to show you how to reverse a YouTube playlist on your PC and mobile device using Chrome extension, a third-party website, changing settings, and adding videos to a new private playlist.
@@ -133,3 +154,54 @@ So, keep reading to learn how to reverse a YouTube playlist so you can watch the
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-prominence-in-online-gaming-content/"><u>[New] 2024 Approved  Achieving Prominence in Online Gaming Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-convert-and-share-optimal-tools-for-youtube-to-avi-transfers/"><u>[New] 2024 Approved  Convert & Share  Optimal Tools for YouTube-to-AVI Transfers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-revenue-driven-approach-to-youtube-content-creation/"><u>[New] 2024 Approved  Crafting a Revenue-Driven Approach to YouTube Content Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos/"><u>[New] 2024 Approved  Duality of Delivery  Engaging Audiences Through Alternative Perspectives for Reaction Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings-for-2024/"><u>[New] A Practical Pathway for Profit Tracking  The Straightforward Steps to Analyze YouTube Earnings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-accelerated-sizing-youtube-content-for-macs-for-2024/"><u>[New] Accelerated Sizing  YouTube Content for MACs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-sharing-your-apple-devices-screen-with-youtube-for-2024/"><u>[New] Essential Tips  Sharing Your Apple Devices Screen with YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-leading-tools-discover-the-top-9-free-brand-designers/"><u>[New] Exploring Leading Tools  Discover the Top 9 FREE Brand Designers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-prominence-in-online-gaming-content/"><u>[New] In 2024, Achieving Prominence in Online Gaming Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dish-on-titles-crafting-captivating-cookery-channel-names/"><u>[New] In 2024, Dish on Titles  Crafting Captivating Cookery Channel Names</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-easy-and-fast-convert-youtube-music-into-mp3-mac-version/"><u>[New] In 2024, Easy & Fast  Convert YouTube Music Into MP3, Mac Version</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-with-professional-end-screen-templates/"><u>[New] In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-television-experience-playback-tips-for-youtube-content/"><u>[New] In 2024, Enhancing Television Experience  Playback Tips for YouTube Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-top-8-private-video-downloaders/"><u>[New] In 2024, Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-scripting-solutions-in-ae/"><u>[New] Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-an-expert-at-yt-studio-navigation/"><u>[Updated] 2024 Approved  Becoming an Expert at YT Studio Navigation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-your-blogs-imagery-adding-company-logowatermark-to-videos/"><u>[Updated] 2024 Approved  Boost Your Blog's Imagery  Adding Company Logo/Watermark to Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[Updated] 2024 Approved  Bridging the Gap  Transitioning YouTube to Televisions Smoothly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-design-top-5-3d-intro-makers/"><u>[Updated] 2024 Approved  Cutting-Edge Design  Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>[Updated] 2024 Approved  Exploring the World Through Your Camera Lens  A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-top-tactics-for-consistent-vlogging-for-2024/"><u>[Updated] Behind the Scenes  Top Tactics for Consistent Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-construct-a-careerscape-on-camera-by-critiquing-closets-for-2024/"><u>[Updated] Construct a Careerscape on Camera by Critiquing Closets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-content-creators-dilemma-which-site-reigns-vimeo-youtube-in-2024/"><u>[Updated] Content Creators' Dilemma  Which Site Reigns - Vimeo, YouTube, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[Updated] Ideal Choices  Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-budgets-with-effective-youtube-marketing/"><u>[Updated] In 2024, Boosting Budgets with Effective YouTube Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-techniques-for-sports-entertainment-films/"><u>[Updated] In 2024, Cutting Techniques for Sports Entertainment Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-event-ready-top-dj-templates-download-guide/"><u>[Updated] In 2024, Event-Ready  Top DJ Templates Download Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] In 2024, Explore the World of Tiny Screens  Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keylight-secrets-to-stellar-lighting-on-your-youtube-videos/"><u>[Updated] Keylight  Secrets to Stellar Lighting on Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-visual-clarity-the-art-of-background-softening-on-youtube/"><u>[Updated] Mastering Visual Clarity  The Art of Background Softening on Youtube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-props-to-the-best-android-tools-for-playstation-2-experience-for-2024/"><u>[Updated] Props to the Best Android Tools for PlayStation 2 Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-up-your-game-free-software-for-professional-thumbnails/"><u>[Updated] Step Up Your Game  Free Software for Professional Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tools-and-gear-for-crafting-vlogs/"><u>[Updated] Tools & Gear for Crafting Vlogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-self-doubt-into-youtube-dominance/"><u>[Updated] Transforming Self-Doubt Into YouTube Dominance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-wealth-with-youtube-shorts-ventures/"><u>[Updated] Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-studio-editor-unveiled-ultimate-editing-companion/"><u>[Updated] YouTube Studio Editor Unveiled  Ultimate Editing Companion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-charting-the-course-to-cash-how-much-does-pewdopeep-make/"><u>2024 Approved  Charting the Course to Cash  How Much Does PewDoPeep Make?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-integrating-seamlessly-into-tiktok-lives-a-blueprint/"><u>2024 Approved  Integrating Seamlessly Into TikTok Lives  A Blueprint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>2024 Approved  Visualize Success  Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-se-2020-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerate-your-fb-video-game-the-top-apps-and-plugins-guide/"><u>In 2024, Accelerate Your FB Video Game  The Top Apps & Plugins Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>In 2024, Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/speedy-video-processing-for-youtube-tricks-to-render-and-upload-fast-for-2024/"><u>Speedy Video Processing for YouTube  Tricks to Render & Upload Fast for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-financial-framework-of-youtube-snippet-creation-for-2024/"><u>The Financial Framework of YouTube Snippet Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-young-entrepreneur-writes-his-own-financial-story-for-2024/"><u>The Young Entrepreneur’ Writes His Own Financial Story for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-printer-commands-using-windows-11-edge-shield-mode/"><u>Triggering Printer Commands Using Windows 11 Edge Shield Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-twitter-videos-into-audible-mp3s-for-2024/"><u>Turning Twitter Videos Into Audible MP3s for 2024</u></a></li>
+</ul></div>

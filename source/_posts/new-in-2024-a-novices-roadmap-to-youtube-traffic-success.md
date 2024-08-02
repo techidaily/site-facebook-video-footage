@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, A Novice's Roadmap to YouTube Traffic Success"
-date: 2024-06-05T08:27:05.768Z
-updated: 2024-06-06T08:27:05.768Z
+date: 2024-07-31T22:03:03.707Z
+updated: 2024-08-01T22:03:03.707Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 # The 12-step YouTube SEO Guide for Beginners Who Want More Views
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,6 +42,9 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -88,6 +95,9 @@ This app gives you a whole list of long-tail keywords, which are 3-4-word phrase
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
 
 ####  
@@ -156,6 +166,9 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -188,6 +201,9 @@ The best way to get engagement from your audience is to encourage them to like a
 
 For example, in this scrambled egg video you are making, at the end you can ask, “So what do you think, is this better than Gordon Ramsay?”
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Encourage Viewers to Engage in Video](https://images.wondershare.com/filmora/article-images/encourage-viewers-to-engage-min.gif)
 
 Who knows, who will respond.
@@ -198,6 +214,9 @@ You could have made a brilliant video, but if you have a poor quality thumbnail 
 
 Your viewers will absolutely judge your video by its cover so it’s important to put some thought into it and not solely rely on the three random thumbnail choices that YouTube picks for you.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
@@ -208,6 +227,9 @@ You can use an online service called [Canva](https://www.canva.com/)or download 
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Publishing With Attention to Optimization
 
 Well done finishing the video! You are almost there… but not there yet.
@@ -264,3 +286,63 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-thumbnails-fantasy-elements-added/"><u>[New] 2024 Approved  Elevate Thumbnails  Fantasy Elements Added</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-recording-devices-for-livestream-producers/"><u>[New] 2024 Approved  Elite Recording Devices for Livestream Producers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-every-moment-with-switch-hd-tech-for-2024/"><u>[New] Capturing Every Moment with Switch HD Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-youtubes-best-brands-for-2024/"><u>[New] Charting a Course  YouTube's Best Brands for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform-for-2024/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges-for-2024/"><u>[New] Discover the Visionaries Behind Video Content  Six Intriguing YouTube Categorization Challenges for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>[New] Engaging Audiences  How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-entertainment-a-thousand-gaming-channels/"><u>[New] In 2024, Elevate Entertainment  A Thousand Gaming Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[New] In 2024, Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-negative-space-creating-youtube-reverse-videos/"><u>[New] Negative Space  Creating YouTube Reverse Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-online-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion/"><u>[New] Online Video Arena Showdown  Who Wins – Vimeo or Giants Like YouTube+DailyMotion?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-compilation-top-6-downloader-apps-for-facebooks-lite-version-for-2024/"><u>[New] The Ultimate Compilation  Top 6 Downloader Apps for Facebook's Lite Version for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlimited-view-of-youtube-cover-pics-no-payment-required/"><u>[New] Unlimited View of YouTube Cover Pics  No Payment Required</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-advanced-features-of-vlc-for-2024/"><u>[New] Unveiling Advanced Features of VLC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-youtube-video-gear-top-rated-cameras-and-lenses/"><u>[New] Your Ultimate YouTube Video Gear  Top-Rated Cameras and Lenses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-commanding-the-screen-top-10-women-gamers-yt/"><u>[Updated] 2024 Approved  Commanding the Screen  Top 10 Women Gamers YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved  Creating Memorable Beginnings  IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>[Updated] 2024 Approved  Dominance in Video Landscape  Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[Updated] 2024 Approved  Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-brand-differentiation-with-powerful-youtube-names-for-2024/"><u>[Updated] Brand Differentiation with Powerful YouTube Names for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channeling-success-the-personal-brand-strategy-for-youtubers-for-2024/"><u>[Updated] Channeling Success  The Personal Brand Strategy for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-your-path-to-youtube-affiliate-status-with-10k-vistas-goal-for-2024/"><u>[Updated] Charting Your Path to YouTube Affiliate Status with 10K Vistas Goal for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts-for-2024/"><u>[Updated] Cutting Edge Editors  Scouting the Ultimate Tools for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-design-dynamics-top-20-font-choices-for-youtube-success-for-2024/"><u>[Updated] Design Dynamics  Top 20 Font Choices for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers-for-2024/"><u>[Updated] Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effective-ways-how-to-block-facebook-video-ads/"><u>[Updated] Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-activating-or-deactivating-user-feedback-on-videos/"><u>[Updated] In 2024, Activating or Deactivating User Feedback on Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[Updated] In 2024, Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instas-tunes-ownership-and-legalities/"><u>[Updated] Insta's Tunes  Ownership & Legalities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-making-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs/"><u>[Updated] Making YouTube Videos Come Alive  Your Ultimate Guide To Animated GIFs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-repeat-revelry-twice-the-joy-with-televised-video-repetition/"><u>[Updated] Repeat Revelry  Twice the Joy with Televised Video Repetition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-revenue-with-review-videos-of-household-items/"><u>[Updated] Unleashing Revenue with Review Videos of Household Items</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[Updated] Unlocking Past Mysteries  Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>2024 Approved  Frame Finesse  Selecting Superior Video Cams for Slow Motion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-shot-solidity-choose-the-right-mobile-tripod/"><u>2024 Approved  Shot Solidity  Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-understanding-and-executing-photo-gender-modification-across-platforms/"><u>2024 Approved  Understanding and Executing Photo Gender Modification Across Platforms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-11-pro-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a59-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A59 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-se-2022-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone SE (2022) to Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c67-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C67 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-c-span-video-downloads-how-to-do-it-right/"><u>In 2024, Free C-Span Video Downloads - How To Do It Right</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>In 2024, Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s23-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S23 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>In 2024, YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prime-7-cameras-elevating-virtual-event-coverage-and-vlogging-for-2024/"><u>Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-successful-backlink-generation-in-youtube-channels-for-2024/"><u>Secrets to Successful Backlink Generation in YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-financial-impact-of-viewership-on-content-makers-for-2024/"><u>The Financial Impact of Viewership on Content Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-guide-to-smart-video-money-making-on-platforms-for-2024/"><u>The Guide to Smart Video Money-Making on Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-haven-guide-top-3-non-youtube-video-portals-for-2024/"><u>The Haven Guide  Top 3 Non-Youtube Video Portals for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-record-keeper-thorough-az-audits/"><u>Ultimate Record Keeper - Thorough AZ Audits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unpacking-the-world-of-creative-commons-licensing-for-2024/"><u>Unpacking the World of Creative Commons Licensing for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher-for-2024/"><u>Youtube Earnings Exploration  Breakdown of AdSense Payouts Per KV Watcher for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-solutions-to-frequent-problems-for-2024/"><u>YouTube Shorts  Solutions to Frequent Problems for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Efficient Thumbnail Generation with Your Phone for Video Content"
-date: 2024-06-05T10:21:40.795Z
-updated: 2024-06-06T10:21:40.795Z
+date: 2024-08-01T01:19:26.741Z
+updated: 2024-08-02T01:19:26.741Z
 tags:
   - ai video
   - ai youtube
@@ -20,6 +20,9 @@ As a content creator, you know the importance of a visually appealing thumbnail 
 
 When creating your thumbnail, it's important to remember that the recommended size is 1280 x 720 pixels and a minimum width of 640 pixels. With these dimensions in mind, let's dive into how you can easily create stunning thumbnails for your YouTube videos using your mobile phone.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![make thumbnails or youtube with mobile phones](https://images.wondershare.com/filmora/article-images/how-to-make-thumbnail-for-youtube-in-mobile.jpg)
 
 ## Method 1\. Make a YouTube Thumbnail on iPhone With the iPhone Photos App
@@ -42,18 +45,30 @@ Step1 Open the Photos app and find the image you want to use as your thumbnail. 
 
 Step2 Tap the **Edit** button in the top right corner of the screen. Use the **crop and rotate tools** to adjust the perspective and the aspect ratio of 16:9.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios photo edit](https://images.wondershare.com/filmora/article-images/ios-photo-edit.JPG)
 
 Step3 Tap the **Filters** button to access the filter effects. **Scroll** through the available filters and **tap** on one to apply it to your thumbnail image.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![ios photo filter](https://images.wondershare.com/filmora/article-images/ios-photo-filter.JPG)
 
 Step4 To write or draw on the image, **tap** the **Markup** button. This will open a toolbar with a variety of drawing and text tools. Use these tools to add your personal touch to the thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios photo markup](https://images.wondershare.com/filmora/article-images/ios-photo-markup.JPG)
 
 Step5 When you're satisfied with your thumbnail, **tap Done** in the top right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios photo save](https://images.wondershare.com/filmora/article-images/ios-photo-save.jpg)
 
  Pros
@@ -69,6 +84,9 @@ Step5 When you're satisfied with your thumbnail, **tap Done** in the top right c
 
 This method is best for users looking for a quick and easy way to create a thumbnail on the go and doesn't need many customization options. It's also a good option for users needing computer or graphic design software access. If you're looking for more advanced customization options or higher image quality, consider using other methods or software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2\. Make YouTube Thumbnails on Android/iPhone With Third-Party Apps
 
 In addition to using the built-in Photos app on your iPhone or Android device, there are also many third-party apps that you can use to create YouTube thumbnails. Some popular options include Canva, Adobe Spark, and FotoJet. These apps offer a wider range of customization options and design templates, making it easy to create professional-looking thumbnails even if you have yet to gain graphic design experience.
@@ -79,6 +97,9 @@ Here are the steps to create a thumbnail using PixelLab on your Android or iOS d
 
 Step1 Open the Play Store and **search** for PixelLab. **Install** the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![pixellab install](https://images.wondershare.com/filmora/article-images/pixellab-install.jpg)
 
 Step2 Tap the **"+"** icon to **add** an image from your gallery.
@@ -87,6 +108,9 @@ Step2 Tap the **"+"** icon to **add** an image from your gallery.
 
 Step3 Edit the image using the available tools, such as cropping, rotating, and adjusting the color and lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixellab editing options](https://images.wondershare.com/filmora/article-images/pixellab-editing-options.jpg)
 
 Step4 Add text to the image and **customize** it to your liking.
@@ -126,6 +150,18 @@ Step1 Open the YouTube app on your mobile device and sign in to your account.
 
 Step2 Tap on the **My Videos** tab to view a list of your uploaded videos.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube select video](https://images.wondershare.com/filmora/article-images/youtube-select-video.JPG)
 
 Step3 Tap on the video and tap the "**Edit**" button in the top right corner of the screen.
@@ -134,10 +170,16 @@ Step3 Tap on the video and tap the "**Edit**" button in the top right corner of 
 
 Step4 Tap the **Custom thumbnail** button and **upload** the image you want to use from your photo library.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube upload thumbnail](https://images.wondershare.com/filmora/article-images/youtube-upload-thumbnail.JPG)
 
 Step5 Tap Save in the top right corner to upload the thumbnail to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube save thumbnail](https://images.wondershare.com/filmora/article-images/youtube-save-thumbnail.JPG)
 
 That's it! Your new thumbnail will now be displayed on your YouTube video, helping it stand out and attract more views. You can repeat this process for other videos if you want to add a custom thumbnail.
@@ -164,6 +206,9 @@ Step1 Launch Filmora, add the picture to the timeline and **select** the AI Port
 
 Step2 Scale up and reposition the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora import image](https://images.wondershare.com/filmora/article-images/filmora-import-image.JPG)
 
 Step3 Add a new background to the track below the picture. **Use** the other editing tools in Filmora to customize the image as desired, such as adding text, graphics, and special effects.
@@ -172,6 +217,9 @@ Step3 Add a new background to the track below the picture. **Use** the other edi
 
 Step4 When you are done editing the thumbnail, take a **snapshot** by clicking the camera icon.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![filmora take a snapshot](https://images.wondershare.com/filmora/article-images/filmora-take-screenshot.JPG)
 
 Step5 Locate the thumbnail in your local drive.
@@ -184,6 +232,9 @@ Add a video
 
 This video will show you how to use Filmora to create a custom thumbnail for your YouTube video, step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## People Also Ask
 
 Here are some common questions that people have when it comes to creating YouTube thumbnails on mobile.
@@ -200,12 +251,18 @@ The recommended size for YouTube thumbnails is 1280 x 720 pixels. This size bala
 
 For example, a thumbnail may be displayed at a larger size when it's shown as the main thumbnail for a video but smaller when it's shown in a list of related videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Q3\. What Thumbnail Gets the Most Clicks?
 
 There is no one-size-fits-all answer to this question, as the thumbnail that gets the most clicks can vary depending on the topic of your video, your target audience, and other factors.
 
 However, the key to getting clicks on your thumbnail is to make it visually appealing and relevant to your video. Experiment with different thumbnail designs and track which ones get the most clicks to help you identify what works best for your channel.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Many tools are available for creating YouTube thumbnails, including the built-in Photos app on mobile devices and third-party apps like Pixelab. One particularly powerful option is Filmora, a video editing software with features for creating custom thumbnails, such as adding text, graphics, and special effects.
@@ -214,6 +271,9 @@ Whether you create your thumbnails on your mobile device or your computer, use a
 
 This method is best for users looking for a quick and easy way to create a thumbnail on the go and doesn't need many customization options. It's also a good option for users needing computer or graphic design software access. If you're looking for more advanced customization options or higher image quality, consider using other methods or software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2\. Make YouTube Thumbnails on Android/iPhone With Third-Party Apps
 
 In addition to using the built-in Photos app on your iPhone or Android device, there are also many third-party apps that you can use to create YouTube thumbnails. Some popular options include Canva, Adobe Spark, and FotoJet. These apps offer a wider range of customization options and design templates, making it easy to create professional-looking thumbnails even if you have yet to gain graphic design experience.
@@ -228,6 +288,9 @@ Step1 Open the Play Store and **search** for PixelLab. **Install** the app.
 
 Step2 Tap the **"+"** icon to **add** an image from your gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![pixellab add image](https://images.wondershare.com/filmora/article-images/pixellab-add-image.jpg)
 
 Step3 Edit the image using the available tools, such as cropping, rotating, and adjusting the color and lighting.
@@ -240,10 +303,16 @@ Step4 Add text to the image and **customize** it to your liking.
 
 Step5 Change the resolution of the image to **1280 x 720 pixels**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixellab change resolution](https://images.wondershare.com/filmora/article-images/pixellab-change-resolution.jpg)
 
 Step6 Save the image to your gallery by exporting it.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixellab export image](https://images.wondershare.com/filmora/article-images/pixellab-export-image.jpg)
 
  Pros
@@ -259,6 +328,10 @@ Step6 Save the image to your gallery by exporting it.
 
 This method is best for users looking for more advanced customization options and higher image quality for their YouTube thumbnails. It's also a good option for users with experience with graphic design software and who are comfortable using advanced editing tools. If you're looking for a quick and easy way to create a thumbnail and only need a few customization options, consider using the built-in Photos app or other simpler methods.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How To Add Thumbnails to YouTube Videos on Mobile
 
 Once you've created your thumbnail image, it's time to add it to your YouTube video. Adding a thumbnail to your YouTube video on your mobile device is a simple process that only requires a few steps.
@@ -267,6 +340,9 @@ Here's how to do it on your mobile device:
 
 Step1 Open the YouTube app on your mobile device and sign in to your account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtube install](https://images.wondershare.com/filmora/article-images/youtube-home.JPG)
 
 Step2 Tap on the **My Videos** tab to view a list of your uploaded videos.
@@ -275,10 +351,16 @@ Step2 Tap on the **My Videos** tab to view a list of your uploaded videos.
 
 Step3 Tap on the video and tap the "**Edit**" button in the top right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![youtube edit video](https://images.wondershare.com/filmora/article-images/youtube-edit-video.JPG)
 
 Step4 Tap the **Custom thumbnail** button and **upload** the image you want to use from your photo library.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube upload thumbnail](https://images.wondershare.com/filmora/article-images/youtube-upload-thumbnail.JPG)
 
 Step5 Tap Save in the top right corner to upload the thumbnail to your video.
@@ -305,14 +387,32 @@ To create a thumbnail using Filmora on your Windows or Mac computer, follow thes
 
 Step1 Launch Filmora, add the picture to the timeline and **select** the AI Portrait option in the Effects panel to cut out the subject from the background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora interface](https://images.wondershare.com/filmora/article-images/filmora-interface.JPG)
 
 Step2 Scale up and reposition the photo.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora import image](https://images.wondershare.com/filmora/article-images/filmora-import-image.JPG)
 
 Step3 Add a new background to the track below the picture. **Use** the other editing tools in Filmora to customize the image as desired, such as adding text, graphics, and special effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![filmora editing options](https://images.wondershare.com/filmora/article-images/filmora-editing-options.JPG)
 
 Step4 When you are done editing the thumbnail, take a **snapshot** by clicking the camera icon.
@@ -329,10 +429,16 @@ Add a video
 
 This video will show you how to use Filmora to create a custom thumbnail for your YouTube video, step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## People Also Ask
 
 Here are some common questions that people have when it comes to creating YouTube thumbnails on mobile.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Q1\. What App Do Youtubers Use To Make Thumbnails?
 
 There are many different apps and tools that YouTubers use to create thumbnails for their videos. The best app for creating YouTube thumbnails will depend on your needs and skill level.
@@ -411,6 +517,154 @@ With standard lenses or normal lenses, you won’t get the stretched out objects
 
 Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Vlogging With Each Focal Length Group
+
+You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
+
+#### When to vlog with a wide-angle lens
+
+Wide-angle lenses are the most commonly used lenses for vlogging. Wide-angle lenses are great when you need to be close to your camera. This might be the case for you if your recording space is small or if you want to film yourself as you hold your camera up with your own hand.
+
+Being close to your camera not only gives you the option to use your camera’s built-in microphone, but it also gives you the option to make use of camera-mounted shotgun microphones.
+
+#### When to vlog with a standard lens
+
+Standard lenses are great when you have more space to be further away from your camera. The perspectives in your shot will look more natural through a standard lens, making your talking head footage feel more corporate or professional. You’ll also be able to get blurrier backgrounds using a standard lens versus a wide-angle lens.
+
+Being further away from your camera, however, means that you’ll have to use a separate microphone positioned closer to you.
+
+#### When to vlog with a telephoto lens
+
+As telephoto lenses are even more zoomed in, you’ll need to be even further away from your camera to fit yourself inside your camera frame. Why would any vlogger ever need to be that far away from their camera? One word… teleprompter. If you want or need to stick to a script, you’ll have to be far away enough from your camera that it doesn’t appear like your eyes are scanning left to right. You then close in the distance with a telephoto lens.
+
+  In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
+
+### Crop Factor
+
+Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+ ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
+
+ In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Focal Length Equivalency Table
+
+This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
+
+| Focal Length / Sensor       | Full Frame | APS-C | Micro 4/3 |
+| --------------------------- | ---------- | ----- | --------- |
+| Wide (Handheld Selfie-Safe) | 16mm       | 10mm  | 8mm       |
+| Wide (Handheld Selfie-Safe) | 18mm       | 11mm  | 9mm       |
+| Wide (Handheld Selfie-Safe) | 24mm       | 15mm  | 12mm      |
+| Wide                        | 35mm       | 22mm  | 18mm      |
+| Standard                    | 50mm       | 31mm  | 25mm      |
+| Telephoto                   | 70mm       | 44mm  | 35mm      |
+| Telephoto                   | 100mm      | 63mm  | 50mm      |
+| Telephoto                   | 200mm      | 125mm | 100mm     |
+
+### Aperture
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
+
+ The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
+
+ ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
+
+ Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
+
+Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
+
+But do you even need a fast lens?
+
+### Vlogging With a Fast Lens
+
+#### Pros of Vlogging With a Fast Lens
+
+* Better low-light performance
+* Better autofocus performance
+* Better "bokeh" (out-of-focus areas, like your background, having that nice blurry look that you see in a lot of movies)
+
+#### Cons of Vlogging With a Fast Lens
+
+* More expensive
+* Moving subjects more likely to get out of focus when shooting with a large aperture
+* Better continuous autofocus performance needed when shooting moving subjects with a large aperture
+
+### Optical Image Stabilization
+
+Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
+
+OIS is very beneficial to have on a lens if you’re a vlogger who films mostly handheld footage. Although this technology adds to the price of your lens as well, it can greatly help you to capture smoother footage that may otherwise be shaky. Nikon calls this technology “Vibration Reduction” (VR) for their lenses.
+
+  In the above video, you can see how much OIS can help to stabilize your footage. MicBergsma simultaneously compares the footage between two GoPro Hero5 Blacks, one with OIS on and one with OIS off.
+
+If, however, you are shooting most of your vlogs on a tripod, you won’t need a lens with OIS.
+
+ Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Nov 01, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The staple of any vlog is the talking headshot, a shot of the speaker talking directly to the audience. You can compose this shot with different kinds of lenses for your interchangeable lens camera.
+
+But which kind of lens is the right lens for you as a vlogger?
+
+In this article, I’m going to help you figure that out.
+
+* [Part 1: Three Focal Length Groups: Wide, Standard, Telephoto](#ThreeFocalLengthGroups)
+* [Part 2: Vlogging With Each Focal Length Group](#VloggingWithEachFocalLengthGroup)
+* [Part 3: Crop Factor](#CropFactor)
+* [Part 4: Focal Length Equivalency Table](#FocalLengthEquivalencyTable)
+* [Part 5: Aperture](#aperture)
+* [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
+* [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+### Three Focal Length Groups: Wide, Standard, Telephoto
+
+There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
+
+#### Wide-Angle Lens
+
+Wide-angle lenses can “see more.” They allow more of your scene to fit inside your frame. Objects that are closer to the lens appear much bigger while objects that are further away appear even smaller. Perspectives are also enhanced, making close objects and people that just make it into the sides of the frame appear more stretched out. Out of all the other ranges in focal lengths, wide-angle lenses will appear the least zoomed in.
+
+#### Standard Lens
+
+With standard lenses or normal lenses, you won’t get the stretched out objects or enhanced perspectives that you get from wide-angle lenses. Instead, standard lenses are meant to see scenes as the natural human eye is meant to see them. If you shoot a scene with both a wide-angle lens and a standard lens from the same position, you’ll notice that less of the scene fits into your frame. Standard lenses will appear more zoomed-in than wide-angle lenses, but less zoomed-in than telephoto lenses.
+
+#### Telephoto Lens
+
+Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
+
 ### Vlogging With Each Focal Length Group
 
 You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
@@ -441,6 +695,9 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -456,12 +713,22 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
@@ -470,6 +737,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -587,6 +857,9 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
@@ -599,6 +872,10 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -653,6 +930,9 @@ In this article, I’m going to help you figure that out.
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
 There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
@@ -691,6 +971,9 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
@@ -714,8 +997,14 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Aperture
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
@@ -728,135 +1017,9 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
-### Vlogging With a Fast Lens
-
-#### Pros of Vlogging With a Fast Lens
-
-* Better low-light performance
-* Better autofocus performance
-* Better "bokeh" (out-of-focus areas, like your background, having that nice blurry look that you see in a lot of movies)
-
-#### Cons of Vlogging With a Fast Lens
-
-* More expensive
-* Moving subjects more likely to get out of focus when shooting with a large aperture
-* Better continuous autofocus performance needed when shooting moving subjects with a large aperture
-
-### Optical Image Stabilization
-
-Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
-
-OIS is very beneficial to have on a lens if you’re a vlogger who films mostly handheld footage. Although this technology adds to the price of your lens as well, it can greatly help you to capture smoother footage that may otherwise be shaky. Nikon calls this technology “Vibration Reduction” (VR) for their lenses.
-
-  In the above video, you can see how much OIS can help to stabilize your footage. MicBergsma simultaneously compares the footage between two GoPro Hero5 Blacks, one with OIS on and one with OIS off.
-
-If, however, you are shooting most of your vlogs on a tripod, you won’t need a lens with OIS.
-
- Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The staple of any vlog is the talking headshot, a shot of the speaker talking directly to the audience. You can compose this shot with different kinds of lenses for your interchangeable lens camera.
-
-But which kind of lens is the right lens for you as a vlogger?
-
-In this article, I’m going to help you figure that out.
-
-* [Part 1: Three Focal Length Groups: Wide, Standard, Telephoto](#ThreeFocalLengthGroups)
-* [Part 2: Vlogging With Each Focal Length Group](#VloggingWithEachFocalLengthGroup)
-* [Part 3: Crop Factor](#CropFactor)
-* [Part 4: Focal Length Equivalency Table](#FocalLengthEquivalencyTable)
-* [Part 5: Aperture](#aperture)
-* [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
-* [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
-
-### Three Focal Length Groups: Wide, Standard, Telephoto
-
-There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
-
-#### Wide-Angle Lens
-
-Wide-angle lenses can “see more.” They allow more of your scene to fit inside your frame. Objects that are closer to the lens appear much bigger while objects that are further away appear even smaller. Perspectives are also enhanced, making close objects and people that just make it into the sides of the frame appear more stretched out. Out of all the other ranges in focal lengths, wide-angle lenses will appear the least zoomed in.
-
-#### Standard Lens
-
-With standard lenses or normal lenses, you won’t get the stretched out objects or enhanced perspectives that you get from wide-angle lenses. Instead, standard lenses are meant to see scenes as the natural human eye is meant to see them. If you shoot a scene with both a wide-angle lens and a standard lens from the same position, you’ll notice that less of the scene fits into your frame. Standard lenses will appear more zoomed-in than wide-angle lenses, but less zoomed-in than telephoto lenses.
-
-#### Telephoto Lens
-
-Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
-
-### Vlogging With Each Focal Length Group
-
-You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
-
-#### When to vlog with a wide-angle lens
-
-Wide-angle lenses are the most commonly used lenses for vlogging. Wide-angle lenses are great when you need to be close to your camera. This might be the case for you if your recording space is small or if you want to film yourself as you hold your camera up with your own hand.
-
-Being close to your camera not only gives you the option to use your camera’s built-in microphone, but it also gives you the option to make use of camera-mounted shotgun microphones.
-
-#### When to vlog with a standard lens
-
-Standard lenses are great when you have more space to be further away from your camera. The perspectives in your shot will look more natural through a standard lens, making your talking head footage feel more corporate or professional. You’ll also be able to get blurrier backgrounds using a standard lens versus a wide-angle lens.
-
-Being further away from your camera, however, means that you’ll have to use a separate microphone positioned closer to you.
-
-#### When to vlog with a telephoto lens
-
-As telephoto lenses are even more zoomed in, you’ll need to be even further away from your camera to fit yourself inside your camera frame. Why would any vlogger ever need to be that far away from their camera? One word… teleprompter. If you want or need to stick to a script, you’ll have to be far away enough from your camera that it doesn’t appear like your eyes are scanning left to right. You then close in the distance with a telephoto lens.
-
-  In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
-
-### Crop Factor
-
-Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
-
- ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
-
- In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
-
-### Focal Length Equivalency Table
-
-This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
-
-| Focal Length / Sensor       | Full Frame | APS-C | Micro 4/3 |
-| --------------------------- | ---------- | ----- | --------- |
-| Wide (Handheld Selfie-Safe) | 16mm       | 10mm  | 8mm       |
-| Wide (Handheld Selfie-Safe) | 18mm       | 11mm  | 9mm       |
-| Wide (Handheld Selfie-Safe) | 24mm       | 15mm  | 12mm      |
-| Wide                        | 35mm       | 22mm  | 18mm      |
-| Standard                    | 50mm       | 31mm  | 25mm      |
-| Telephoto                   | 70mm       | 44mm  | 35mm      |
-| Telephoto                   | 100mm      | 63mm  | 50mm      |
-| Telephoto                   | 200mm      | 125mm | 100mm     |
-
-### Aperture
-
- ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
-
- The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
-
- ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
-
- Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
-
-Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
-
-But do you even need a fast lens?
-
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -905,3 +1068,45 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-10-most-popular-beauty-gurus-on-youtube-for-2024/"><u>[New] 10 Most Popular Beauty Gurus on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevate-editing-by-adding-sounds-into-premiere-pro/"><u>[New] 2024 Approved  Elevate Editing by Adding Sounds Into Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-the-art-of-online-fame-trending-on-youtube-for-2024/"><u>[New] Ace the Art of Online Fame  Trending on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-balancing-main-footage-with-b-roll-to-avoid-overkill-for-2024/"><u>[New] Balancing Main Footage with B-Roll to Avoid Overkill for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-path-to-success-exploring-15-top-youtube-beginnings-for-2024/"><u>[New] Charting a Path to Success  Exploring 15 Top YouTube Beginnings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-a-memorable-channel-presence-with-imagery-for-2024/"><u>[New] Crafting a Memorable Channel Presence with Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-entertainment-a-thousand-gaming-channels-for-2024/"><u>[New] Elevate Entertainment  A Thousand Gaming Channels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-home-cinematic-excellence-with-5-quick-tips/"><u>[New] Home Cinematic Excellence with 5 Quick Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-by-critiquing-goodies-a-youtube-guide/"><u>[New] In 2024, Earning by Critiquing Goodies  A YouTube Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>[New] Speedy Shutterbugs  IPhone's Quick Time-Lapse Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac-for-2024/"><u>[New] Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-10-free-tools-for-thumbnail-extraction/"><u>[Updated] 2024 Approved  Achieve 10 Free Tools for Thumbnail Extraction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-in-class-streaming-capture-software-for-youtubers/"><u>[Updated] 2024 Approved  Best-in-Class Streaming Capture Software For YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-engaging-youtube-end-credits/"><u>[Updated] 2024 Approved  Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-embrace-creativity-how-to-attain-filmora-fcc-accreditation/"><u>[Updated] 2024 Approved  Embrace Creativity  How to Attain Filmora FCC Accreditation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>[Updated] Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] In 2024, A Year in the Market  Top 15 Finance Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-wow-factor-the-best-camera-lenses-for-youtube-stars/"><u>[Updated] In 2024, Audience Wow Factor  The Best Camera Lenses for YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-compelling-content-essential-youtube-short-video-edits/"><u>[Updated] In 2024, Craft Compelling Content  Essential Youtube Short Video Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-success-channel-ideas-to-spark-momentum/"><u>[Updated] In 2024, Elevating Success  Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-embarking-on-a-virtual-odyssey-through-yt-stories/"><u>[Updated] In 2024, Embarking on a Virtual Odyssey Through YT Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-your-youtube-content-with-superior-webm-converters/"><u>[Updated] Master Your YouTube Content with Superior WebM Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-masterclass-webcast-theme-builder/"><u>[Updated] Masterclass Webcast Theme Builder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-reconnecting-sound-tracks-to-obs-broadcasts-for-2024/"><u>[Updated] Reconnecting Sound Tracks to OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-save-money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>[Updated] Save Money, Save Time  The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-driving-traffic-tactics-for-top-ranked-fb-pages/"><u>2024 Approved  Driving Traffic  Tactics for Top-Ranked FB Pages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-make-every-youtube-video-count-learn-how-to-free-transcribe-easily/"><u>2024 Approved  Make Every YouTube Video Count  Learn How to Free-Transcribe Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-next-gen-streaming-made-easy-with-obs-tutorial/"><u>2024 Approved  Youtube's Next Gen Streaming Made Easy with OBS Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-speed-up-video-on-instagram-mobileonlinedesktop-solutions/"><u>In 2024, How to Speed Up Video on Instagram [Mobile/Online/Desktop Solutions]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-agni-2-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Agni 2 5G Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-video-watch-with-borderless-youtube-for-2024/"><u>Streamline Your Video Watch with Borderless YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-content-creators-dilemma-vimeo-or-youtube-for-2024/"><u>The Content Creator’s Dilemma  Vimeo or YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-sharing-titans-ranking-vimeo-youtube-and-dailymotion-for-2024/"><u>Video-Sharing Titans  Ranking Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+</ul></div>
