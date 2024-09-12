@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Deciphering Digital Domination  A Deep Dive Into Directors' Videos\""
-date: 2024-09-03T20:46:04.651Z
-updated: 2024-09-04T20:46:04.651Z
+date: 2024-09-11T22:47:59.948Z
+updated: 2024-09-12T22:47:59.948Z
 tags:
   - ai video
   - ai youtube
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\.  Demographics
 
  The demographics page helps you get YouTube insights, using them you can know the audience in a gender and location specific manner. For local businesses targeting a certain region, YouTube analytics would prove to be a boon. You can also know the geography and device used by the viewers with this feature. Understanding the gender and location of people will help you create dedicated product videos that would be helpful to them.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-demographic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4\.  Traffic sources
 
@@ -58,11 +72,25 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-traffic-source.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 5\.  Audience Retention
 
  This data explains how far your video has engaged your audience. Along with views, the duration that a viewer is on your video weighs too. From the audience retention page, you can find out the specific time that a viewer has exited your video and see what made them do so. There are 2 types of audience retention features – absolute audience retention and relative audience retention.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 6\.  Devices
 
@@ -98,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 11\.  Cards
 
  Cards is a new feature in YouTube analytics and aimed at replacing annotations. This will improve user interactivity of any video and accelerate the engagement. They will act as call to action for informing visitors regarding playlists, videos, merchandising, fan funding, and associated website etc.
@@ -110,11 +145,25 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-sharing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 13\.  Videos in playlists
 
  Favorites has been renamed to 'Videos in playlists'. Your reach broadens as people keep marking your videos as favorites on their playlist. This is visible to the public on the YouTube channel itself.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to analyze your competitors
 
@@ -129,6 +178,19 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
  InflueNex is a helpful influencer marketing tool for Analyzing, searching, and managing YouTubers. With the help of this YouTube analytics tool, you're able to learn your competitors' channels and videos with detailed information.
 
 ![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. [Rival IQ](https://www.rivaliq.com/)
 
@@ -148,50 +210,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-designing-direct-access-to-your-channels-subscribe-page/"><u>[New] 2024 Approved  Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-subscriber-acquisition-for-enhanced-viewership/"><u>[New] 2024 Approved  Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>[New] 2024 Approved  Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>[New] Crown Jewels of Online Watching  YouTube's Treasures for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-designing-a-trailer-blueprint-to-amplify-channel-income-for-2024/"><u>[New] Designing a Trailer Blueprint to Amplify Channel Income for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-and-science-behind-effective-youtube-shorts-templates/"><u>[New] The Art & Science Behind Effective YouTube Shorts Templates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-anonymous-sharing-simplified-blurring-techniques-for-videos-for-2024/"><u>[Updated] Anonymous Sharing Simplified  Blurring Techniques for Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-custom-link-for-youtubes-auto-subscribe-for-2024/"><u>[Updated] Building a Custom Link for YouTube's Auto-Subscribe for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos-for-2024/"><u>[Updated] Chuckle Campaign  7 Ingenious Ideas for Funny YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras-for-2024/"><u>[Updated] Discover the Best in Class  Our List of 12 High-Performing Flip Cameras for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fixed-youtube-shorts-not-showing-up/"><u>[Updated] Fixed  YouTube Shorts Not Showing Up</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos/"><u>[Updated] In 2024, Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-creation-and-currency-maximizing-youtube-wealth/"><u>[Updated] In 2024, Content Creation & Currency  Maximizing YouTube Wealth</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-impactful-youtube-channel-logo-tips/"><u>[Updated] In 2024, Crafting Impactful YouTube Channel Logo Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-game-studio-aptitude-essentials/"><u>[Updated] In 2024, Elevate Your Content Game  Studio Aptitude Essentials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>[Updated] Maximizing YouTube Gains  A Comprehensive Approach for Mobile Monetization</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-methodology-effortless-youtube-playlist-embedding-on-websites/"><u>[Updated] Step-by-Step Methodology  Effortless YouTube Playlist Embedding on Websites</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[Updated] Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[Updated] The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-youtube-content-for-igtv-success/"><u>[Updated] Transforming YouTube Content for IGTV Success</u></a></li>
-<li><a href="https://article-posts.techidaily.com/360-degree-rigging-solutions-vr-production-for-2024/"><u>360 Degree Rigging Solutions VR Production for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capturing-the-moment-masterful-techniques-for-excellent-edits-for-2024/"><u>Capturing the Moment  Masterful Techniques for Excellent Edits for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connect-better-mondly-now-available-on-huawei/"><u>Connect Better: Mondly Now Available on Huawei</u></a></li>
-<li><a href="https://driver-install.techidaily.com/realtek-family-controller-latest-windows-10-version/"><u>Realtek Family Controller - Latest Windows 10 Version</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/spark-the-flame-top-10-motivational-films-for-you/"><u>Spark the Flame  Top 10 Motivational Films for You</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/speed-dial-for-vimeo-video-loading/"><u>Speed Dial for Vimeo Video Loading</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/stream-video-smoothly-save-pcmac-screens-to-youtube-for-2024/"><u>Stream Video Smoothly  Save PC/Mac Screens to YouTube for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/sudden-shadow-immediate-copyright-issue-for-2024/"><u>Sudden Shadow  Immediate Copyright Issue for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-reality-of-youtubes-fast-subscribe-technique-for-2024/"><u>The Reality of YouTube's Fast Subscribe Technique for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-underrated-downsides-of-vr-for-2024/"><u>Understanding the Underrated Downsides of VR for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/yielding-income-a-streamers-guide-to-earning-for-2024/"><u>Yielding Income  A Streamer's Guide to Earning for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-optimal-applications-to-elevate-your-vtubers-sonic-brand-for-2024/"><u>[New] Optimal Applications to Elevate Your Vtuber's Sonic Brand for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-premium-webcams-shoppers-insights-for-2024/"><u>[Updated] Exploring Premium Webcams - Shopper's Insights for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-purchase-to-use-installing-vrecord/"><u>[Updated] From Purchase to Use Installing VRecord</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-gamers-guide-to-exceptional-video-sessions/"><u>[Updated] In 2024, The Gamers' Guide to Exceptional Video Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income-for-2024/"><u>[Updated] Profit From YouTube Monetize YouTube Shorts and Boost Your Income for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-teachers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>[Updated] Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-playbook-of-youtubes-innovative-approach-to-video-shorts/"><u>[Updated] The Playbook of YouTube’s Innovative Approach to Video Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>[Updated] Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-your-unique-fashion-voice/"><u>2024 Approved Mastering Your Unique Fashion Voice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/chrome-optimized-performance-overcoming-high-cpu-drain-issues/"><u>Chrome Optimized Performance: Overcoming High CPU Drain Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-seamless-customer-journeys-through-cookiebots-advanced-analytics-tools/"><u>Experience Seamless Customer Journeys Through Cookiebot's Advanced Analytics Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>In 2024, From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-ink-dry-up-a-printers-cry-for-help/"><u>Overcoming Ink Dry-Up: A Printer's Cry for Help</u></a></li>
+</ul></div>
+

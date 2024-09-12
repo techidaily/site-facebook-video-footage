@@ -1,7 +1,7 @@
 ---
 title: "Crackling Speaker Issue in Windows Operating Systems 11/7: A Comprehensive Fix"
-date: 2024-09-03T20:46:01.204Z
-updated: 2024-09-04T20:46:01.204Z
+date: 2024-09-11T22:45:11.052Z
+updated: 2024-09-12T22:45:11.052Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -40,20 +47,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,24 +83,27 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -93,34 +113,38 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -136,8 +160,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,40 +169,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>[New] 2024 Approved  Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-video-capture-in-adobe-presenter/"><u>[New] 2024 Approved  Mastering Video Capture in Adobe Presenter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-writers-almanac-crafting-compelling-biographies-on-facebook-for-2024/"><u>[New] The Writer's Almanac  Crafting Compelling Biographies on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-broadcasting-best-practices-twitch-facebook-integration/"><u>[Updated] In 2024, Broadcasting Best Practices  Twitch-Facebook Integration</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-masterclass-naming-your-podcast-and-top-50plus-name-suggestions-for-inspiration-for-2024/"><u>[Updated] Masterclass  Naming Your Podcast & Top 50+ Name Suggestions for Inspiration for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-asmr-the-ultimate-list-of-mics/"><u>[Updated] Mastering ASMR - The Ultimate List of Mics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-content-the-key-to-engaging-yt-shorts/"><u>[Updated] Mastering Content  The Key to Engaging YT Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-google-meet-live-broadcast-steps/"><u>[Updated] Mastering YouTube  Google Meet Live Broadcast Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtubes-visual-flow-five-budget-friendly-methods/"><u>[Updated] Mastering YouTube's Visual Flow - Five Budget-Friendly Methods</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-mp4-from-tiktok-best-free-extractors-available/"><u>[Updated] MP4 From TikTok  Best Free Extractors Available</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-process-of-verifying-your-youtube-id/"><u>[Updated] Navigating the Process of Verifying Your YouTube ID</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-no-software-no-problem-youtube-downloads/"><u>[Updated] No Software, No Problem  YouTube Downloads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-your-youtube-presence-a-video-upload-manual/"><u>[Updated] Perfecting Your YouTube Presence  A Video Upload Manual</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>[Updated] Stay Incognito  How to Stream Unnoticed on Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-concluding-your-videos-powerfully/"><u>[Updated] The Art of Concluding Your Videos Powerfully</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-face-forward-influential-beauty-guides/"><u>[Updated] The Face Forward  Influential Beauty Guides</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-hidden-costs-of-youtube-earning/"><u>[Updated] The Hidden Costs of YouTube Earning</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-fun-crafting-amazing-youtube-reaction-videos-in-3-ways/"><u>[Updated] Unleashing Fun  Crafting Amazing YouTube Reaction Videos in 3 Ways</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[Updated] Unlock Your Potential  Mastering the Art of YouTube Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>[Updated] Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vlog-glow-achieving-professional-video-setup/"><u>[Updated] Vlog Glow  Achieving Professional Video Setup</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-freeze-non-picked-youtube-video-suggestions/"><u>2024 Approved  Freeze Non-Picked YouTube Video Suggestions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/cod-modern-warfare-3-app-keeping-you-out-of-action-heres-how-to-address-the-application-has-stopped-working/"><u>COD: Modern Warfare 3 App Keeping You Out of Action? Here's How To Address The 'Application Has Stopped Working'</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/comprehensive-anker-usb-30-superspeed-hub-analysis-your-ultimate-guide/"><u>Comprehensive Anker USB 3.0 SuperSpeed Hub Analysis - Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-enhanced-productivity-with-the-new-dell-premium-monitor-advanced-noise-cancellation-headset-and-high-definition-webcam/"><u>Experience Enhanced Productivity with the New Dell Premium Monitor, Advanced Noise Cancellation Headset & High-Definition Webcam</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-your-computer-when-you-encounter-an-msvcr71dll-error/"><u>Fix Your Computer When You Encounter an MSVCR71.DLL Error</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo F25 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-play-8t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Play 8T to Roku | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-effortless-video-preservation-android-and-ios-solutions/"><u>In 2024, Effortless Video Preservation  Android & iOS Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obs-masterclass-for-successful-instagram-broadcasts-for-2024/"><u>OBS Masterclass for Successful Instagram Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/oodle-delivers-top-notch-community-offers-dive-into-our-extensive-selection-of-costless-listings/"><u>Oodle Delivers Top-Notch Community Offers - Dive Into Our Extensive Selection of Costless Listings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pc-optimization-tips-to-prevent-soveled-warno-from-crashing/"><u>PC Optimization Tips to Prevent [SOVELED] Warno From Crashing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/say-goodbye-to-low-fps-in-war-thunder-expert-advice-and-optimizations-to-elevate-your-gameplay/"><u>Say Goodbye to Low FPS in War Thunder: Expert Advice & Optimizations to Elevate Your Gameplay</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/solving-cod-vanguard-fixing-error-0x00001338-on-your-pc-complete-guide/"><u>Solving CoD Vanguard: Fixing Error 0X00001338 on Your PC - Complete Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-pc-issues-fixing-ghostwire-tokyo-continuous-crashes/"><u>Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-languages-mysteries-with-openais-text-tools/"><u>Unlocking Language's Mysteries with OpenAI’s Text Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-horizontalvertical-selecting-facebook-video-format/"><u>[Updated] 2024 Approved Horizontal/Vertical Selecting Facebook Video Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rip-and-save-the-best-youtube-download-software/"><u>[Updated] Rip & Save The Best YouTube Download Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-cash-flow-8-simple-money-making-tips/"><u>[Updated] YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-yt-microphone-match-wallet-friendly-finds-and-favorites/"><u>[Updated] YT Microphone Match Wallet-Friendly Finds & Favorites</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-13-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 13 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-secrets-revealed-flawless-and-straightforward-ipad-screen-recording/"><u>In 2024, Secrets Revealed Flawless and Straightforward iPad Screen Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s18-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S18 Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pop-8-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Pop 8</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unraveling-the-mystery-behind-call-of-duty-modern-warfare-3s-memory-error-12707-and-how-to-resolve-it/"><u>Unraveling the Mystery Behind Call of Duty Modern Warfare 3'S Memory Error 12707 and How to Resolve It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-top-5-apps-that-trim-your-long-video-links-down-for-2024/"><u>Youtube’s Top 5 Apps That Trim Your Long Video Links Down for 2024</u></a></li>
 </ul></div>
+
