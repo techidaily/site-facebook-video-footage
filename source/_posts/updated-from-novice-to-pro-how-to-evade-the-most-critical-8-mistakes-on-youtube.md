@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Pro  How to Evade the Most Critical 8 Mistakes on YouTube\""
-date: 2024-09-11T22:48:32.188Z
-updated: 2024-09-12T22:48:32.188Z
+date: 2024-09-11T16:32:27.459Z
+updated: 2024-09-18T16:47:33.297Z
 tags:
   - ai video
   - ai youtube
@@ -30,34 +30,13 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Choosing an ineffective custom URL
 
@@ -73,24 +52,18 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Making weak intros
 
@@ -99,13 +72,6 @@ After you’ve managed to get someone to click on your video through your effect
 New YouTubers often make the mistake of having weak intros. Starting at the beginning of a story makes sense, right? The beginning, however, is not always the most exciting. Consequently, new YouTubers lose their audience’s attention too early on.
 
 To read more on how some of the most successful YouTubers effectively do their intros, check out my blogpost on “[How To Edit YouTube Videos Like a YouTuber](https://tools.techidaily.com/wondershare/filmora/download/).”
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Forgetting to engage with subscribers
 
@@ -120,10 +86,10 @@ YouTube isn’t the only social media platform that people are spending their ti
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Spamming comments
@@ -135,6 +101,13 @@ But rather than leaving interesting comments that are related to the video, rath
 Spam comments annoy YouTubers. It would be much more beneficial to your channel to build good relationships with other YouTubers to possibly collaborate on a video together in the future.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -151,16 +124,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>[Updated] 2024 Approved Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-growth-in-focus-building-a-foundation-of-youtube-backlinks-for-2024/"><u>[Updated] Growth in Focus Building a Foundation of YouTube Backlinks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rise-to-stardom-secrets-to-viral-video-success/"><u>[Updated] Rise to Stardom Secrets to Viral Video Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-scaling-your-income-with-beauty-tutorials/"><u>[Updated] Scaling Your Income with Beauty Tutorials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-profit-enabling-youtuber-earnings-via-mobile-devices/"><u>[Updated] The Pathway to Profit Enabling YouTuber Earnings via Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-transcript-generator/"><u>[Updated] Visual Transcript Generator</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-high-quality-camera-gimbals-iphoneandroiddslr-reconnaissance-for-2024/"><u>10 High-Quality Camera Gimbals IPhone/Android/DSLR Reconnaissance for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-impeccable-crossfades-with-premiere-pro/"><u>2024 Approved Crafting Impeccable Crossfades with Premiere Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-scenes-to-screenings-filming-across-os-ecosystems-for-2024/"><u>From Scenes to Screenings Filming Across OS Ecosystems for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-c53-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C53 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-youtube-videos-for-superior-quality/"><u>[New] 2024 Approved Enhancing YouTube Videos for Superior Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-transformation-blueprint-for-igtv-adaptation/"><u>[New] YouTube's Transformation Blueprint for IGTV Adaptation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-vlog-confidently-like-popular-youtubers/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[Updated] In 2024, Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-optimize-video-content-for-engaging-on-instagram/"><u>[Updated] In 2024, Optimize Video Content for Engaging on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-downgrading-your-nvidia-drivers-in-windows-10/"><u>Effective Techniques for Downgrading Your Nvidia Drivers in Windows 10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-streaming-experience-with-our-guide-to-restoring-the-classic-shuffle-play-on-netflix-like-platforms/"><u>Enhance Your Streaming Experience with Our Guide to Restoring the Classic 'Shuffle Play' On Netflix-Like Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovation-unveiled-the-leading-video-cams-of-2024/"><u>Innovation Unveiled The Leading Video Cams of 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-look-essential-makeup-tips-and-product-reviews-for-2024/"><u>Perfecting Your Look Essential Makeup Tips & Product Reviews for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-phone-shops-find-your-perfect-device-today/"><u>Top-Rated Phone Shops: Find Your Perfect Device Today</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 </ul></div>
 

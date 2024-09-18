@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Best YouTube Thumbnail Size"
-date: 2024-09-11T22:45:34.932Z
-updated: 2024-09-12T22:45:34.932Z
+date: 2024-09-17T16:17:17.521Z
+updated: 2024-09-18T16:36:30.343Z
 tags:
   - ai video
   - ai youtube
@@ -32,19 +32,6 @@ Making better YouTube thumbnails will help you get more views, and knowing the b
 2. [**Tips for Perfect Thumbnails**](#perfect)
 3. [**Making Better Thumbnails for YouTube**](#better)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
 
 An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
@@ -54,13 +41,6 @@ Here is one interesting thing that you need to know; the thumbnail of videos app
 **You May Also Like:**
 [Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
 [ How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **2\. Tips for Perfect Thumbnails**
 
@@ -83,19 +63,6 @@ Mac users need to press Command+Shift+4 and then simply highlight the area that 
 Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
 
 Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Making Better Thumbnails for YouTube
 
@@ -127,21 +94,7 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -158,21 +111,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-new-windows-11-hacks-for-efficiency-experts-for-2024/"><u>[New] New Windows 11 Hacks for Efficiency Experts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>[Updated] In 2024, Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-to-your-own-custom-arranged-music-library-on-youtube/"><u>[Updated] Navigating to Your Own Custom-Arranged Music Library on Youtube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-securely-steering-towards-the-one-million-view-mark-on-youtube/"><u>[Updated] Securely Steering Towards the One-Million View Mark on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-start-a-stream-reap-riches-vlog-money-secrets/"><u>[Updated] Start a Stream, Reap Riches Vlog Money Secrets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>[Updated] Step Into VR Wonderland YouTube's Finest VR Content List</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-reconfiguration-audio-version/"><u>[Updated] Twitter Video Reconfiguration Audio Version</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-creative-potential-using-google-trends-insights/"><u>[Updated] Unlocking Creative Potential Using Google Trends Insights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/a-fun-twist-on-typical-dashcams-the-ddpai-mini3-reviewed-for-google-searches/"><u>A Fun Twist on Typical Dashcams: The Ddpai Mini3 Reviewed for Google Searches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-metadata-management-unveiling-the-best-7-affordable-online-tags-extractors-for-2024/"><u>Elevate Your Metadata Management Unveiling the Best 7 Affordable Online Tags Extractors for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Galaxy A05s?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-z50-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Z50 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-a-grip-on-your-footage-fcpx-video-stabilization-made-easy/"><u>New In 2024, Get a Grip on Your Footage FCPX Video Stabilization Made Easy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-platform-unsupported-message-when-setting-up-intel-serial-io-drivers/"><u>Overcome 'Platform Unsupported' Message When Setting Up Intel Serial IO Drivers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/reliable-and-fun-a-comprehensive-review-of-the-mirari-child-alarm-clock/"><u>Reliable & Fun: A Comprehensive Review of the Mirari Child Alarm Clock!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-free-tech-to-share-pc-screens-seamlessly-for-2024/"><u>[Updated] Leading Free Tech to Share PC Screens Seamlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rise-to-stardom-secrets-to-viral-video-success/"><u>[Updated] Rise to Stardom Secrets to Viral Video Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-scaling-your-income-with-beauty-tutorials/"><u>[Updated] Scaling Your Income with Beauty Tutorials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-profit-enabling-youtuber-earnings-via-mobile-devices/"><u>[Updated] The Pathway to Profit Enabling YouTuber Earnings via Mobile Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unplugged-joy-a-list-of-great-offline-ipad-games/"><u>[Updated] Unplugged Joy A List of Great Offline iPad Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-transcript-generator/"><u>[Updated] Visual Transcript Generator</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-gaining-from-google-a-stepwise-strategy-for-tracking-youtube-income/"><u>[Updated] Your Guide to Gaining From Google A Stepwise Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-360-immersion-to-vr-experience/"><u>Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/efficient-document-production-using-chatgpt-integration-in-microsoft-word/"><u>Efficient Document Production Using ChatGPT Integration in Microsoft Word</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/virtual-streets-best-video-games-mimicking-gta-v-for-2024/"><u>Virtual Streets Best Video Games Mimicking GTA V for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2024-09-11T22:47:15.374Z
-updated: 2024-09-12T22:47:15.374Z
+date: 2024-09-16T16:10:41.438Z
+updated: 2024-09-18T17:07:23.576Z
 tags:
   - ai video
   - ai youtube
@@ -28,25 +28,11 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are 3 of our favorite DIY tripods.
 
@@ -64,13 +50,6 @@ Here it is with binder clips:
 
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here it is with hair clips:
 
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
@@ -78,13 +57,6 @@ And here it is with hair clips:
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **DIY adjustable tripod using books and a towel**
 
@@ -104,10 +76,10 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
@@ -141,10 +113,10 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -162,21 +134,12 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-one-size-fits-all-not-with-these-top-mics-for-diverse-channels/"><u>[Updated] One Size Fits All? Not with These Top Mics for Diverse Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-video-breakdown-fifa-analysis-graphs/"><u>[Updated] Premier Video Breakdown FIFA Analysis Graphs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-profitable-pathways-8-steps-for-youtube-earning/"><u>[Updated] Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-saved-the-day-downloading-youtube-playlists-made-easy/"><u>[Updated] Saved the Day! Downloading YouTube Playlists Made Easy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-video-capture-tools-for-blogging-platforms/"><u>[Updated] Top 10 Video Capture Tools for Blogging Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vimeo-and-youtube-the-ultimate-showdown/"><u>[Updated] Vimeo and YouTube The Ultimate Showdown</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-melodic-matchmaking-music-that-resonates-with-scenes/"><u>2024 Approved Melodic Matchmaking Music That Resonates with Scenes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/collaborate-with-winxdvd-a-strategic-partnership/"><u>Collaborate with WinXDVD – A Strategic Partnership</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harmonious-hub-swapping-your-soundtrack-selection/"><u>Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Phones with/without a PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/master-smooth-drives-eliminate-your-forza-horizon-4-pc-gaming-crash-problems-today/"><u>Master Smooth Drives: Eliminate Your Forza Horizon 4 PC Gaming Crash Problems Today</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-issue-52-drivers-at-a-crossroads/"><u>Navigating Issue #52: Drivers at a Crossroads</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-of-the-best-lego-stop-motion-creators/"><u>New 2024 Approved The Best of the Best Lego Stop Motion Creators</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secretive-suggestions-for-enhanced-vlc-usage-for-2024/"><u>Secretive Suggestions for Enhanced VLC Usage for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y100i-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y100i Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>[Updated] Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/chrome-optimized-performance-overcoming-high-cpu-drain-issues/"><u>Chrome Optimized Performance: Overcoming High CPU Drain Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-trimming-and-merging-tools-for-beginners-2023-update-for-2024/"><u>New Free Video Trimming and Merging Tools for Beginners (2023 Update) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-pay-effortlessly-with-these-10-tips/"><u>Troubleshoot Apple Pay Effortlessly with These 10 Tips</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>Updated Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 
