@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2024-09-14T16:21:36.085Z
-updated: 2024-09-18T17:02:09.556Z
+date: 2024-09-17T22:50:54.788Z
+updated: 2024-09-23T21:12:44.316Z
 tags:
   - ai video
   - ai youtube
@@ -44,7 +44,21 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -78,11 +92,25 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -99,22 +127,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-smart-budget-audio-gear-for-online-sensation-hopefuls/"><u>[Updated] Smart Budget Audio Gear for Online Sensation Hopefuls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[Updated] Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-gaming-sessions-with-xbox-zoom-techniques/"><u>2024 Approved Simplify Gaming Sessions with Xbox Zoom Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/facebook-live-mastery-a-recording-journey/"><u>Facebook Live Mastery A Recording Journey</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/how-does-the-newest-addition-to-netgears-lineup-measure-up-exploring-the-nighthawk-ax8-mesh-extender-review/"><u>How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-essential-view-total-to-secure-income-for-2024/"><u>YouTube's Essential View Total to Secure Income for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effortless-techniques-to-craft-professional-time-lapses-on-galaxy-for-2024/"><u>[New] Effortless Techniques to Craft Professional Time-Lapses on Galaxy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>[New] In 2024, Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>[Updated] 2024 Approved Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-evaluating-the-effectiveness-of-vidma-screen-recorders/"><u>[Updated] 2024 Approved Evaluating the Effectiveness of Vidma Screen Recorders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>[Updated] How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-your-way-to-greatness-a-complete-guide-to-valorant-video-thumbnails/"><u>[Updated] In 2024, Building Your Way to Greatness A Complete Guide to Valorant Video Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-dynamic-collab-videos-with-content-partners-on-youtube/"><u>[Updated] In 2024, Crafting Dynamic Collab Videos with Content Partners on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-key-elements-to-consider-in-asmr-video-watching/"><u>[Updated] Key Elements to Consider in ASMR Video Watching</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-moving-youtube-content-to-dailymotion/"><u>[Updated] Step-by-Step Guide Moving YouTube Content to Dailymotion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-ranking-top-6-apps-for-fb-lite-video-downloads-for-2024/"><u>2023 Ranking Top 6 Apps for FB Lite Video Downloads for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-k70-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-the-future-of-drones-today-and-tomorrow/"><u>In 2024, Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/starting-up-youtube-your-first-gear-list-for-2024/"><u>Starting Up YouTube - Your First Gear List for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-android-resource-guide-to-download-videos-from-youtube-for-2024/"><u>The Ultimate Android Resource Guide to Download Videos From YouTube for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-stunning-videos-top-3-4k8k-editing-software-2024/"><u>Updated Unleash Stunning Videos Top 3 4K/8K Editing Software 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

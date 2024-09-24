@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2024-09-16T16:10:41.438Z
-updated: 2024-09-18T17:07:23.576Z
+date: 2024-09-18T04:37:43.677Z
+updated: 2024-09-23T18:50:13.662Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,13 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 Here are 3 of our favorite DIY tripods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -58,6 +65,13 @@ Now you can set your smartphone upon any stable surface, like a table or a stack
 
  _Here are some more cool ideas!_
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -76,10 +90,10 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
@@ -89,6 +103,13 @@ Gorillapod’s are cool because you can use them like normal tripods, carry them
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _All of your supplies plus the finished product._
 
@@ -112,13 +133,6 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -134,12 +148,25 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>[Updated] Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] YouTube Thumbnails Demystified - Mac Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/chrome-optimized-performance-overcoming-high-cpu-drain-issues/"><u>Chrome Optimized Performance: Overcoming High CPU Drain Issues</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-trimming-and-merging-tools-for-beginners-2023-update-for-2024/"><u>New Free Video Trimming and Merging Tools for Beginners (2023 Update) for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-pay-effortlessly-with-these-10-tips/"><u>Troubleshoot Apple Pay Effortlessly with These 10 Tips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>Updated Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleashing-potential-combining-zoom-and-google-mail/"><u>[New] 2024 Approved Unleashing Potential Combining Zoom & Google Mail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas-for-2024/"><u>[New] Boost Your Online Presence by Mastering Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-numbers-deciphering-how-youtube-measures-popularity/"><u>[New] In 2024, Behind the Numbers Deciphering How YouTube Measures Popularity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>[New] Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>[New] Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-channels-aesthetics-free-banners-available/"><u>[Updated] 2024 Approved Elevate Your Channel's Aesthetics - Free Banners Available</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-converting-spotify-playlist-selections-for-youtube-music-service-for-2024/"><u>[Updated] Converting Spotify Playlist Selections for YouTube Music Service for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-revenue-from-a-million-watches-on-youtube-for-2024/"><u>[Updated] Decoding Revenue From A Million Watches on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-path-to-digital-fame-starting-and-building-a-youtube-chanel/"><u>[Updated] Path to Digital Fame Starting and Building a YouTube Chanel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-savor-your-day-8-essential-tools-for-instagram-video-management-for-2024/"><u>[Updated] Savor Your Day 8 Essential Tools for Instagram Video Management for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974767160-elevate-graphics-efficiency-by-installing-the-latest-intel-gpu-driver-in-w10/"><u>Elevate Graphics Efficiency by Installing the Latest Intel GPU Driver in W10.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhance-your-browsing-efficiency-a-complete-guide-to-pip-on-edge-for-2024/"><u>Enhance Your Browsing Efficiency A Complete Guide to PIP on Edge for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grabacion-y-conversion-de-archivos-mxf-a-formato-wmv-sin-costo-guia-completa-con-movavi/"><u>Grabación Y Conversión De Archivos MXF a Formato WMV Sin Costo: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-x6-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco X6 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-slice-and-tag-the-art-of-chaptering-in-vimeo/"><u>In 2024, Slice and Tag The Art of Chaptering in Vimeo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smart-strategies-for-entrepreneurial-video-marketing-for-2024/"><u>SMART Strategies for Entrepreneurial Video Marketing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-in-2024/"><u>Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity-for-2024/"><u>Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Examining YouTube's Highlighted Comment Mechanics"
-date: 2024-09-15T16:13:07.652Z
-updated: 2024-09-18T16:11:33.872Z
+date: 2024-09-17T22:59:22.075Z
+updated: 2024-09-24T05:52:32.640Z
 tags:
   - ai video
   - ai youtube
@@ -54,6 +54,13 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
@@ -64,6 +71,19 @@ YouTube labels comment replies as well and call it "Highlighted Reply." You can 
 
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -73,10 +93,16 @@ Thus, anybody who wants to get their YouTube comment an HC tag has to follow a f
 For example, if you are a YouTuber who deals in tech information, you need to look for a popular video or channel with a similar genre, in this case, technical knowledge. The more popular the channel is, the more is the chance of a viewer checking the comments on its videos. You will only benefit if you're comment is highlighted on pages of Youtuber's who are huge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Get the URL of Highlighted Comments?
@@ -97,13 +123,6 @@ If you click the notification bell icon, whenever a viewer drops a new comment o
 
 Have you ever wondered why a highlighted comment always shows at the top of the comment list? Both the above options will lead you to the comment thread on YouTube. To help you find the new activity easily, it appears with the highlight tag on it. The purpose is to remind you that you are here for that specific comment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: How to Remove Highlighted Comments?
 
 Can you, as a video maker, remove highlighted comments on YouTube? The direct answer to this would be a 'No.' It is because based on how you have opened the specific video, YouTube does it automatically.
@@ -117,13 +136,6 @@ Alternatively, you can try out a few temporary solutions.
 <https://www.youtube.com/watch?v=XWhjJjhpmQA>
 
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
@@ -155,6 +167,13 @@ In this article, we have shared facts on YouTube's commonly seen highlighted com
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -170,18 +189,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-srt-to-xml-ssa-and-ttml-manual/"><u>[New] The Essential SRT to XML, SSA & TTML Manual</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-expansion-on-glamour-channels-for-2024/"><u>[Updated] Earnings Expansion on Glamour Channels for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-funnier-photos/"><u>[Updated] Fabricate Funnier Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-never-ending-snapstreaks/"><u>[Updated] In 2024, The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-live-streams-logitech-webcam-tips-for-2024/"><u>[Updated] Mastering Live Streams Logitech Webcam Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition/"><u>[Updated] Top 5 Ultimate Camera & Video Recording Apps IPhone/Android Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-legal-framework-on-content-screencasting/"><u>[Updated] YouTube's Legal Framework on Content Screencasting</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-13-mini-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 13 mini to SIM? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a14-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A14 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-digital-diaries-top-picks-for-personal-recorders/"><u>In 2024, Digital Diaries Top Picks for Personal Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame/"><u>In 2024, Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-angle-adjustment-a-step-by-step-editing-guide/"><u>In 2024, Youtube Angle Adjustment A Step-by-Step Editing Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/smartphone-skills-producing-engaging-youtube-thumbnails-for-2024/"><u>Smartphone Skills Producing Engaging YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-alternative-cinema-highlights-audiences/"><u>[New] 2024 Approved Alternative Cinema Highlights Audiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-engagement-with-tailored-templates-for-video-info/"><u>[New] In 2024, Boost Engagement with Tailored Templates for Video Info</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-your-digital-footprint-customizing-your-youtube-url/"><u>[New] Tailoring Your Digital Footprint Customizing Your YouTube Url</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diy-tripods-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[Updated] DIY Tripods| How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-techniques-for-designing-youtube-video-thumbnails-for-2024/"><u>[Updated] Essential Techniques for Designing YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-desktopmobile-adjust-youtube-video-pace/"><u>[Updated] Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>[Updated] Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-windows-10-device/"><u>How to Turn Off Sound Improvement Features on Your Windows 10 Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-magic-6-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor Magic 6 FRP Locks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastery-over-disabling-personalized-podcast-suggestions-on-spotify/"><u>In 2024, Mastery over Disabling Personalized Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-ultimate-checklist-for-channel-buying-success/"><u>In 2024, Your Ultimate Checklist for Channel Buying Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssional-level-youtube-editing-techniques-you-need-to-know/"><u>Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-5-samsung-gear-360-camera-alternatives-2023-update/"><u>Top 5 Samsung Gear 360 Camera Alternatives -2023 Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 | Dr.fone</u></a></li>
 </ul></div>
 

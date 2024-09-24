@@ -1,7 +1,7 @@
 ---
 title: "\"Simple Steps to Great Videos  Crafting 10 Basic Concepts Easily for 2024\""
-date: 2024-08-01T03:49:10.012Z
-updated: 2024-08-02T03:49:10.012Z
+date: 2024-09-18T01:32:14.203Z
+updated: 2024-09-23T16:42:43.348Z
 tags:
   - ai video
   - ai youtube
@@ -47,23 +47,12 @@ Let the world know who you are and what you do. If you are planning on starting 
 
 These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 2\. Vlog About Your Day
 
 Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
 
 Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 3\. Express An Opinion
 
 Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
@@ -72,15 +61,19 @@ Opinion videos are great conversation starters. Expressing an opinion through a 
 
 You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Review Anything
 
 Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Your Favorite Songs / Movies / Etc
 
 Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
@@ -88,17 +81,24 @@ Are you a Tarantino fan? Why not? When you are struggling to find inspiration fo
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. What’s on Your Phone?
 
 There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
 
 Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Make a Slideshow
 
 There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
@@ -117,6 +117,13 @@ Being open is important, so why not share 10 things about yourself you think you
 
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Video Rant
 
 Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
@@ -125,19 +132,26 @@ Don't try to fake a rant, because they only work if they are natural. Scripting 
 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Start Editing Videos with Beginner-friendly Software
 
 If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -145,44 +159,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-stream-start-small-see-big-on-youtube/"><u>[New] 2024 Approved  Earning Stream  Start Small, See Big on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-moving-images-mirrorless-versus-dslr/"><u>[New] In 2024, Capturing Moving Images  Mirrorless Versus DSLR</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-echoes-of-amusement-comical-tune-transformations/"><u>[New] In 2024, Echoes of Amusement  Comical Tune Transformations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-youtube-success-understanding-your-cpm/"><u>[New] The Key to YouTube Success  Understanding Your CPM</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-conceal-dont-reveal-how-to-blur-faces-online-for-2024/"><u>[Updated] Conceal, Don't Reveal  How to Blur Faces Online for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhance-images-androidandiphones-top-10-freeware-overlays/"><u>[Updated] Enhance Images  Android&iPhone's Top 10 Freeware Overlays</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] From Startup to Success  Skyrocketing Youtube Subs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-screen-pro-tips-and-tricks-for-editors/"><u>[Updated] Full Screen Pro Tips and Tricks for Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[Updated] In 2024, Avoiding YouTube Copyright Claims  Understanding the Rules</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bridging-content-gap-youtube-videos-to-instagram/"><u>[Updated] In 2024, Bridging Content Gap  YouTube Videos to Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>[Updated] In 2024, Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-echoes-of-chuckles-parody-playlists/"><u>[Updated] In 2024, Echoes of Chuckles  Parody Playlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[Updated] In 2024, Editing Made Easy  YouTube Edition—Top 10 Tips for Newbies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-youtube-content-manager-toolkit/"><u>[Updated] In 2024, Exploring the YouTube Content Manager Toolkit</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-video-value-calculation-tools/"><u>[Updated] Quick Video Value Calculation Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-shaking-up-the-status-quo-unique-naming-tips-for-filmmakers/"><u>[Updated] Shaking Up the Status Quo  Unique Naming Tips for Filmmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-skyline-artistry-review-studio-25-in-focus-2023/"><u>[Updated] Skyline Artistry Review  Studio 25 in Focus, 2023</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>2024 Approved  Fusion Feats  Mixing Genres in the World's Most Engaging TikToks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-clash-to-harmony-mastering-color-matching-in-final-cut-pro/"><u>2024 Approved From Clash to Harmony Mastering Color Matching in Final Cut Pro</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/advanced-tools-for-efficient-language-learning/"><u>Advanced Tools for Efficient Language Learning</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-galaxy-m34-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Galaxy M34 5G?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>In 2024, Expedite Channel Growth  Surpass the 10K View Threshold Now!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-precision-recording-perfecting-video-captures-on-your-android-phone/"><u>In 2024, Precision Recording  Perfecting Video Captures on Your Android Phone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visual-anonymity-in-sharing-blurring-methods-explained/"><u>In 2024, Visual Anonymity in Sharing  Blurring Methods Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/introducing-enhanced-graphics-driver-for-win10s-nvidia-210/"><u>Introducing Enhanced Graphics Driver for Win10's NVIDIA 210</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/proven-tactics-to-amplify-your-youtube-popularity-for-2024/"><u>Proven Tactics to Amplify Your YouTube Popularity for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-complete-users-manual-to-youtube-editing-via-finalcut-pro-for-2024/"><u>The Complete User's Manual to YouTube Editing via FinalCut Pro for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/icks-for-phone-based-asmr-enthusiasts-for-2024/"><u>Top Picks for Phone-Based ASMR Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-elevating-your-channel-with-strategic-spotlight-techniques-for-2024/"><u>YouTube Mastery  Elevating Your Channel with Strategic Spotlight Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-aces-top-10-list-choosing-superior-capture-cards/"><u>[New] In 2024, Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-your-videos-final-impression-for-2024/"><u>[Updated] Enhancing Your Video's Final Impression for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beating-the-blues-of-overly-green-a-mac-video-editors-handbook/"><u>[Updated] In 2024, Beating the Blues of Overly Green A Mac Video Editor's Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-configuring-who-can-see-your-youtube-clips/"><u>[Updated] In 2024, Configuring Who Can See Your YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-checklist-for-new-channels/"><u>[Updated] The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-8-best-video-grabbers-for-windows-10/"><u>[Updated] Top 8 Best Video Grabbers for Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/daily-productivity-boost-mastering-organization-with-apples-freeform-app/"><u>Daily Productivity Boost: Mastering Organization with Apple's Freeform App</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-gaming-platforms-top-sites-to-download-games/"><u>In 2024, Best Gaming Platforms Top Sites to Download Games</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y100i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y100i</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-navigation-to-your-individual-playlist-library-on-youtube-for-2024/"><u>Seamless Navigation to Your Individual Playlist Library on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-screen-readers-digest-recorder-evaluation/"><u>The Screen Reader's Digest Recorder Evaluation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unbiased-evaluation-of-audacity-why-it-stands-out-in-sound-recording-tools-market/"><u>Unbiased Evaluation of Audacity: Why It Stands Out in Sound Recording Tools Market</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
 </ul></div>
+

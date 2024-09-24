@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Animating Elegance  Self-Designed Tricks & Effects\""
-date: 2024-09-16T16:12:01.481Z
-updated: 2024-09-18T16:47:37.155Z
+date: 2024-09-22T01:00:48.402Z
+updated: 2024-09-23T20:00:59.474Z
 tags:
   - ai video
   - ai youtube
@@ -50,21 +50,35 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -74,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -95,14 +109,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-branding-excellence-integrating-watermarks-and-logos-into-video-media/"><u>[New] In 2024, Branding Excellence Integrating Watermarks and Logos Into Video Media</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-build-haha-images/"><u>[Updated] 2024 Approved Build Haha Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-craft-your-story-with-immersive-youtube-video-editing-tips-for-2024/"><u>[Updated] Craft Your Story with Immersive YouTube Video Editing Tips for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-instagram-tagging-strategies-to-skyrocket-likes-and-followers-for-2024/"><u>[Updated] Top Instagram Tagging Strategies to Skyrocket Likes and Followers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-achieve-smooth-gaming-in-battlefield-v-a-guide-to-resolving-lag-problems/"><u>How to Achieve Smooth Gaming in Battlefield V: A Guide to Resolving Lag Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-blaze-curve-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Blaze Curve 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters-for-2024/"><u>The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-embellish-videos-and-stories-with-charts-notes-and-more/"><u>[New] Embellish Videos & Stories with Charts, Notes & More</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unraveling-youtubes-platform-for-content-crafting/"><u>[New] In 2024, Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-picks-ultimate-portable-devices-for-cutting-edge-editing/"><u>[New] Top Picks Ultimate Portable Devices for Cutting-Edge Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[New] Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-youtube-images-with-ease-online-for-2024/"><u>[Updated] Download YouTube Images with Ease Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterful-multiclip-management-on-youtube/"><u>[Updated] Masterful Multiclip Management on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-critical-number-of-views-for-youtube-earnings/"><u>[Updated] The Critical Number of Views for YouTube Earnings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-affordable-video-chat-for-android-users/"><u>[Updated] Top 10 Affordable Video Chat for Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-refining-images-how-to-use-the-eraser-tool-in-psx/"><u>2024 Approved Refining Images How to Use the Eraser Tool in PSX</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-creative-commons-chill-vibes/"><u>In 2024, Creative Commons Chill Vibes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-safe-no-cost-methods-for-youtube-tracks-extraction/"><u>In 2024, Safe, No-Cost Methods for YouTube Tracks Extraction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-fixes-stop-street-fighter-6-from-freezing-your-pc-tips-and-tweaks/"><u>Master the Fixes: Stop Street Fighter 6 From Freezing Your PC, Tips & Tweaks</u></a></li>
 </ul></div>
 
