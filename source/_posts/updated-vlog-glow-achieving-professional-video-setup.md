@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2024-09-17T22:50:54.788Z
-updated: 2024-09-23T21:12:44.316Z
+date: 2024-09-25T18:29:38.187Z
+updated: 2024-10-01T01:11:04.910Z
 tags:
   - ai video
   - ai youtube
@@ -45,19 +45,19 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
@@ -86,18 +86,18 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
@@ -106,10 +106,16 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -125,5 +131,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-advanced-techniques-in-youtube-video-editing/"><u>[New] 2024 Approved Cutting Edge Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimizing-ppt-presentations-across-devices-for-google-meet/"><u>[New] 2024 Approved Optimizing PPT Presentations Across Devices for Google Meet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blueprint-strategies-for-authentic-life-enrichment-videos/"><u>[New] In 2024, Blueprint Strategies for Authentic Life Enrichment Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-detailed-analysis-of-the-latest-picsart-app-features/"><u>[New] In 2024, Detailed Analysis of the Latest PicsArt App Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>[New] The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[Updated] 2024 Approved Achieving Profitability on YouTube Average View Count for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-beginners-path-to-screen-casting-with-apple-devices/"><u>[Updated] 2024 Approved Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] In 2024, Enhancing Video Reach Convert YT to IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pause-autoplay-on-youtube-suggested-videos/"><u>[Updated] Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tinyvid-masterpiece/"><u>[Updated] TinyVid Masterpiece</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-hurdle-steps-for-successfully-uploading-an-instagram-story-again/"><u>Bypassing the Hurdle: Steps for Successfully Uploading an Instagram Story Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-nvidia-rtx-2060-drivers-for-windows-111087/"><u>Download the Most Recent NVIDIA RTX 2060 Drivers for Windows 11/10/8/7</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-grant-read-permission-on-hidden-outlook-directories-and-files/"><u>How to Grant Read Permission on Hidden Outlook Directories & Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-storytelling-a-step-by-step-ken-burns-effect-tutorial/"><u>New 2024 Approved Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17t | Dr.fone</u></a></li>
+</ul></div>
 

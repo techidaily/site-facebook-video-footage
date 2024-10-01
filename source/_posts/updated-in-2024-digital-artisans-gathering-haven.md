@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2024-09-21T05:38:10.321Z
-updated: 2024-09-23T18:18:19.984Z
+date: 2024-09-29T17:10:24.644Z
+updated: 2024-10-01T02:15:52.498Z
 tags:
   - ai video
   - ai youtube
@@ -59,13 +59,34 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Branded slippers
 
@@ -73,25 +94,18 @@ To help them relax after long days at the summit, YouTube provided creators with
 
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
-_thinknoodles wearing his YouTube slippers._
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+_thinknoodles wearing his YouTube slippers._
 
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Denim jacket
 
@@ -107,21 +121,7 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -136,5 +136,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>[New] 2024 Approved Exposed The Hazards of Fake Follower Purchases on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-average-payout-for-a-million-view-youtube-video/"><u>[New] In 2024, Average Payout for a Million-View YouTube Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>[New] Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-iphone-and-ipad-best-free-video-editors-guide/"><u>[New] Master iPhone & iPad Best Free Video Editors Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-securing-your-zoom-conference-room-audio-and-video-considerations/"><u>[New] Securing Your Zoom Conference Room Audio & Video Considerations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-guide-to-choosing-camgear-the-top-9-innovations/"><u>[New] The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dailymovement-vs-youtube-income-comparison/"><u>[Updated] In 2024, DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-iphoneplusandroid-discover-the-top-10-video-making-picks/"><u>[Updated] IPhone+Android Discover the Top 10 Video-Making Picks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-maniacs-twitters-funniest-video-threads-roundup-for-2024/"><u>[Updated] Meme Maniacs Twitter's Funniest Video Threads Roundup for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-c55-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme C55 Through Google Earth?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/prolong-your-snapstreak-legacy-with-ease-for-2024/"><u>Prolong Your Snapstreak Legacy with Ease for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforme-seu-fotografia-com-elegancia-modificacao-do-fundos-online-sem-custo/"><u>Transforme Seu Fotografia Com Elegância: Modificação Do Fundos Online Sem Custo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726223300263-mkvm4a-movavi/"><u>무료 MKV/M4A 바이트 강조 바로 대화형 온라인 변환 - Movavi</u></a></li>
+</ul></div>
 

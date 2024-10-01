@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Pro  How to Evade the Most Critical 8 Mistakes on YouTube\""
-date: 2024-09-18T20:36:00.381Z
-updated: 2024-09-24T03:33:53.356Z
+date: 2024-09-28T01:18:51.348Z
+updated: 2024-09-30T23:14:50.891Z
 tags:
   - ai video
   - ai youtube
@@ -33,10 +33,10 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 ###  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Failing to have a long-term vision
@@ -44,13 +44,6 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Choosing an ineffective custom URL
 
@@ -67,10 +60,10 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Failing to have a thumbnail strategy
@@ -80,10 +73,10 @@ New YouTubers tend to think about their thumbnail images after they’ve finishe
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Making weak intros
@@ -105,6 +98,13 @@ Connecting with your audience shouldn’t just be limited to YouTube either. Use
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
 
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Spamming comments
 
@@ -129,5 +129,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-circumnavigating-youtubes-block-list/"><u>[New] 2024 Approved Circumnavigating YouTube's Block List</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[New] A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-jump-cut-strategies-for-compelling-vlogs/"><u>[New] Jump Cut Strategies for Compelling Vlogs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scouting-for-cost-effective-clouds-a-pricing-analysis-of-2024/"><u>[New] Scouting for Cost-Effective Clouds A Pricing Analysis of 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mac-users-mastering-mp3-conversion-from-youtube/"><u>[Updated] Mac Users Mastering MP3 Conversion From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-making-the-leap-set-up-a-sports-vlog-on-macos/"><u>[Updated] Making the Leap Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-editing-strategies-for-youtube-videos-after-upload/"><u>[Updated] Professional Editing Strategies for YouTube Videos After Upload</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-medley-choosing-the-best-ringtone-websites/"><u>2024 Approved Melodic Medley Choosing the Best Ringtone Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youth-inspiration-tales-of-overcoming-challenges/"><u>2024 Approved Youth Inspiration Tales of Overcoming Challenges</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-a78-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo A78 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-7-zero-cost-ai-and-chatgpt-travel-assistants-plan-your-journey-in-an-instant/"><u>The Ultimate Guide to 7 Zero-Cost AI and ChatGPT Travel Assistants: Plan Your Journey in an Instant!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-back-to-editing-how-to-reset-final-cut-pro-x/"><u>Updated In 2024, Get Back to Editing How to Reset Final Cut Pro X</u></a></li>
+</ul></div>
 

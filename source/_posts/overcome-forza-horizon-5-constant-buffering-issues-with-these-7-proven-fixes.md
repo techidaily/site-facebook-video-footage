@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-09-20T20:49:18.147Z
-updated: 2024-09-23T21:09:49.629Z
+date: 2024-09-25T23:57:37.795Z
+updated: 2024-09-30T21:23:44.514Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  Make sure all of your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -52,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
@@ -76,6 +76,13 @@ Restart your computer for the changes to take effect.
 3. Scroll down to**HUD** . Change Mini Map Shape into**Square** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -89,10 +96,10 @@ If it’s not working, move to the next fix.
 3. Click**RESTART** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
@@ -112,6 +119,13 @@ If it’s not working, move to the next fix.
 
 No luck with this fix? Try the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change NVIDIA settings
 
  NVIDIA control panel lets you fine-tune your in-game graphics. When there are visual issues, you can change the NVIDIA control panel settings to fix the problem.
@@ -124,13 +138,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -139,13 +146,6 @@ No luck with this fix? Try the next one.
 2. Type **devmgmt.msc** and press **Enter** to open the Device Manager window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 
@@ -156,10 +156,10 @@ No luck with this fix? Try the next one.
 7. Don’t choose the latest driver, select the older one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
@@ -183,5 +183,18 @@ No luck with this fix? Try the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy/"><u>[New] 2024 Approved Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-of-youtube-success-through-social-blade-analysis-for-2024/"><u>[New] Charting the Course of YouTube Success Through Social Blade Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-elevating-your-youtube-presence-with-these-20-hacks/"><u>[New] The Ultimate Guide to Elevating Your YouTube Presence with These 20 Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-livestream-capture-options-for-video-artists/"><u>[Updated] Optimal Livestream Capture Options for Video Artists</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-ensuring-smooth-transition-livestreaming-old-videos-on-fb/"><u>2024 Approved Ensuring Smooth Transition Livestreaming Old Videos on FB</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-triggering-instant-play-for-youtube-videos-on-social-media/"><u>2024 Approved Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-cutting-edge-extracting-frames-from-films-on-windows-10/"><u>2024 Approved Visual Cutting Edge Extracting Frames From Films on Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/explore-premium-4k-converters-for-flawless-recordings/"><u>Explore Premium 4K Converters for Flawless Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>In 2024, From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-11-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 11 Pro Max without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 
