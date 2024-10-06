@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Creative Potential Using Google Trends Insights"
-date: 2024-09-26T19:35:43.374Z
-updated: 2024-10-01T00:35:10.604Z
+date: 2024-09-29T22:28:26.537Z
+updated: 2024-10-06T03:13:20.474Z
 tags:
   - ai video
   - ai youtube
@@ -70,13 +70,6 @@ For example, if you have a gaming channel and you’re looking for a non-gamepla
 
 ![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
 
 Having something to say doesn’t have to mean having a strong opinion. If you just find something interesting and want to pass the information along to your viewers then that’s great too.
@@ -94,32 +87,39 @@ Once you have a keyword in mind, type it into the Explore bar at the top of your
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
 
@@ -130,10 +130,10 @@ Although, when you do a comparison like this you should also go to YouTube and s
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -169,20 +169,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-clearing-the-path-to-account-deactivation-on-linkedin/"><u>[New] Clearing the Path to Account Deactivation on LinkedIn</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-mobile-videos-into-profitable-content-on-youtube/"><u>[New] Turn Your Mobile Videos Into Profitable Content on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>[New] Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breakneck-broadcast-channel-your-youtube-list/"><u>[Updated] 2024 Approved Breakneck Broadcast Channel Your YouTube List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-a-closer-look-at-huawei-p10s-security-measures-for-2024/"><u>[Updated] A Closer Look at Huawei P10’s Security Measures for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-commanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[Updated] Commanding the Screen Top 10 Women Gamers YT for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-edit-like-a-championtop-strategies-for-beginner-youtubers-for-2024/"><u>[Updated] Edit Like a Champion—Top Strategies for Beginner YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-favorite-frameworks-top-instagram-filters/"><u>[Updated] In 2024, Favorite Frameworks Top Instagram Filters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-synchronized-screenscape-tv-loops-of-online-media/"><u>[Updated] Synchronized Screenscape TV Loops of Online Media</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-the-official-samsung-m2020-drivers-without-hassle-free-download-now/"><u>Obtain the Official Samsung M2020 Drivers Without Hassle - Free Download Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-streaming-services-like-netflix-that-dont-cost-a-penny/"><u>Top 10 Streaming Services Like Netflix That Don't Cost a Penny</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-instagram-connection-posting-video-content-for-2024/"><u>YouTube-Instagram Connection Posting Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-banish-annoying-ads-instantly-with-these-7-best-android-tools-for-2024/"><u>[New] Banish Annoying Ads Instantly with These 7 Best Android Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effective-team-videos-boosting-channelnode-growth-rate/"><u>[New] In 2024, Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-overview-of-google-ar-sticker-and-its-alternative/"><u>[New] Overview of Google AR Sticker and Its Alternative</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-accelerated-conversion-of-yt-content-for-mac-screens-for-2024/"><u>[Updated] Accelerated Conversion of YT Content for MAC Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-with-insightful-channel-descriptions-for-2024/"><u>[Updated] Elevate Your Content with Insightful Channel Descriptions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-launching-into-content-creation-account-setup-on-youtube/"><u>[Updated] Launching Into Content Creation Account Setup on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-reasons-you-may-require-a-left-side-number-pad-attachment-for-your-keyboard/"><u>Discover the Reasons You May Require a Left-Side Number Pad Attachment for Your Keyboard!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/scaling-up-efficient-strategies-for-funding-steam-games/"><u>Scaling Up: Efficient Strategies for Funding Steam Games</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellarmac-file-deletion-suite-basic-plan-with-time-sensitive-clean-sweep-options/"><u>StellarMac File Deletion Suite - Basic Plan with Time-Sensitive Clean Sweep Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-apex-legends-anti-cheat-error-quickly-and-effectively/"><u>Troubleshooting Guide: Resolving Apex Legends' Anti-Cheat Error Quickly and Effectively</u></a></li>
 </ul></div>
 

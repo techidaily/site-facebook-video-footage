@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2024-09-25T22:28:25.811Z
-updated: 2024-10-01T04:02:40.894Z
+date: 2024-10-02T17:35:45.629Z
+updated: 2024-10-05T23:26:47.265Z
 tags:
   - ai video
   - ai youtube
@@ -37,10 +37,10 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 Here are 3 of our favorite DIY tripods.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **DIY smartphone tripod using binder clips or hair clips**
@@ -58,10 +58,10 @@ Here it is with binder clips:
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here it is with hair clips:
@@ -71,6 +71,13 @@ And here it is with hair clips:
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **DIY adjustable tripod using books and a towel**
 
@@ -97,13 +104,6 @@ Your wire should be fairly stiff and you’ll need three pieces the same length,
 
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _All of your supplies plus the finished product._
 
 **Readying your legs**
@@ -127,10 +127,10 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -148,24 +148,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dynamic-decibels-the-best-background-sounds-for-yt-shorts/"><u>[New] 2024 Approved Dynamic Decibels The Best Background Sounds for YT Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-best-but-unseen-your-guide/"><u>[New] 2024 Approved Instagram's Best, But Unseen - Your Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-youtubes-economic-strategy-the-rise-of-short-videos-for-2024/"><u>[New] Decoding YouTube’s Economic Strategy The Rise of Short Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-culinary-carousel-swirling-up-top-food-network-names/"><u>[New] In 2024, Culinary Carousel Swirling Up Top Food Network Names</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-expression-a-gallery-of-stunning-video-themes-for-tiktok/"><u>[New] In 2024, Elevate Your Expression A Gallery of Stunning Video Themes for TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-views-understanding-the-key-rankers-for-youtubers/"><u>[New] Optimizing Views Understanding the Key Rankers for YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-high-definition-content-with-youtubes-av1-feature/"><u>[New] Unleash High-Definition Content with YouTube’s AV1 Feature</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-boosting-views-through-imaginative-video-thumbnails/"><u>[Updated] 2024 Approved Boosting Views Through Imaginative Video Thumbnails</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-dive-deep-into-tiktok-lives-how-to-engage-effectively/"><u>[Updated] Dive Deep Into TikTok Lives How to Engage Effectively</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-youtubes-course-for-video-short-growth-with-funding/"><u>[Updated] In 2024, Charting YouTube's Course for Video Short Growth with Funding</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[Updated] Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>2024 Approved How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S24 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-no-money-all-fcp-unveiled-methods/"><u>In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-troubleshooting-resolving-mic-connectivity-problems/"><u>Oculus Quest 2 Troubleshooting: Resolving Mic Connectivity Problems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/organize-and-share-music-how-to-make-youtube-playlists-easier-for-2024/"><u>Organize and Share Music How to Make YouTube Playlists Easier for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rise-to-youtube-prominence-top-strategies-at-a-glance-for-2024/"><u>Rise to YouTube Prominence Top Strategies at a Glance for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-connection-4-ways-to-tie-in-your-fb-story/"><u>The Art of Connection 4 Ways to Tie in Your Fb Story</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>Updated 2024 Approved The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-success-on-youtube-standard-studio-or-beta-for-2024/"><u>[New] Crafting Success on YouTube Standard Studio or Beta for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-screencasting-apps-that-transform-classroom-dynamics-for-2024/"><u>[New] Ideal Screencasting Apps That Transform Classroom Dynamics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[New] Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-rankings-secrets-enhancing-video-visibility/"><u>[New] YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-analyzing-youtube-rankings-what-drives-top-placement/"><u>[Updated] 2024 Approved Analyzing YouTube Rankings What Drives Top Placement?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-high-impact-short-waterway-previews/"><u>[Updated] In 2024, Creating High-Impact Short Waterway Previews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engaging-scriptwriting-techniques-for-higher-video-rankings/"><u>[Updated] In 2024, Engaging Scriptwriting Techniques for Higher Video Rankings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>[Updated] Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-output-displays-in-window-based-os/"><u>Altering Output Displays in Window-Based OS</u></a></li>
+<li><a href="https://solve-news.techidaily.com/elevate-web-analytics-with-cookiebots-advanced-tracking-solutions/"><u>Elevate Web Analytics with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-gt-5-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme GT 5 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>In 2024, The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-trasformare-i-file-audio-in-formato-m4r-online-gratuitamente/"><u>Movavi: Trasformare I File Audio in Formato .m4r Online Gratuitamente</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-free-youtube-intros-and-templates-for-2024/"><u>The Ultimate Guide to Free YouTube Intros & Templates for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unresponsive-support-blizzard-disconnected/"><u>Unresponsive Support: Blizzard Disconnected</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/why-av1-matters-enabling-it-for-youtube-videos-for-2024/"><u>Why AV1 Matters Enabling It for YouTube Videos for 2024</u></a></li>
 </ul></div>
 

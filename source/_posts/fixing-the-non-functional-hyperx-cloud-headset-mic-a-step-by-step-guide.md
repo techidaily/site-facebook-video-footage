@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Non-Functional HyperX Cloud Headset Mic: A Step-by-Step Guide"
-date: 2024-09-25T01:12:55.007Z
-updated: 2024-10-01T04:34:32.202Z
+date: 2024-10-03T01:56:09.241Z
+updated: 2024-10-06T08:18:38.419Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
@@ -54,19 +54,39 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Open Modern Warfare and see if your problem has gone away. If the problem is still there,**repeat step 1** and select your playback device, then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
 4. Navigate to the**Advanced** tab. Under the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works with your device. Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
 5. Launch Modern Warfare and see if you hear any sound.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t give you any luck, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows audio troubleshooter
@@ -82,6 +102,13 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-3.jpg)
 4. Follow the on-screen instructions to troubleshoot your audio issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After running the troubleshooter, you can join a game and see how things go.
 
@@ -107,6 +134,13 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  If updating audio driver doesn’t do the trick for you, please take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install all the Windows updates
 
  There’re many reports that installing system updates fixes the audio issue on Windows, so this could be a potential solution to your sound issue with Modern Warfare.
@@ -120,36 +154,15 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart your computer for it to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To install all the system updates, you might need to**repeat these steps** **several times** until it prompts that “you’re up to date” when you click Check for updates.
 
 You can now open Modern Warfare and check the in-game audio.
 
  If this method doesn’t work for you, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Close conflicting software
 
  Some players reported that they managed to get the sound back by closing programs that have audio output. You can try this method by closing apps such as**Discord** ,**Skype** and**Chrome** , as they might affect the in-game audio.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change your audio channel
 
@@ -161,37 +174,30 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap106.jpg)
 2. Navigate to the **Playback** tab. Select your **default playback device** and click **Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box **next to Front left and right** . Then click **Next** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 
 ---
 
@@ -212,22 +218,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-5-steps-to-crafting-engaging-cost-effective-youtube-ads-for-2024/"><u>[New] 5 Steps to Crafting Engaging, Cost-Effective YouTube Ads for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-amplifying-your-youtube-presence-through-consistent-content-release-for-2024/"><u>[New] Amplifying Your YouTube Presence Through Consistent Content Release for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easy-youtube-introduction-design-tips-and-tricks-for-2024/"><u>[New] Easy YouTube Introduction Design Tips and Tricks for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-video-posting-pathway-for-twitter-and-tumblr-users/"><u>[New] In 2024, Video Posting Pathway for Twitter & Tumblr Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-live-broadcasting-demystified/"><u>[New] YouTube Live Broadcasting Demystified</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[Updated] 2024 Approved 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>[Updated] 2024 Approved 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-traffic-on-youtube-tips-that-actually-work/"><u>[Updated] Free Traffic on YouTube Tips That Actually Work</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-best-sites-for-downloading-youtube-template-videos/"><u>[Updated] Top 10 Best Sites for Downloading YouTube Template Videos</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/10-effective-methods-to-transform-your-dvd-into-mp4-format-a-guide-for-windows-10-11-and-mac-users/"><u>10 Effective Methods to Transform Your DVD Into MP4 Format: A Guide for Windows 10, 11 & Mac Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-remedies-for-common-playback-issues-a-guide-to-silencing-errors/"><u>Instant Remedies for Common Playback Issues – A Guide to Silencing Errors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-how-to-manual-rolling-back-updates-on-your-pc-with-windows-10-or-11-using-revosofts-tool/"><u>The Ultimate How-To Manual: Rolling Back Updates on Your PC with Windows 10 or 11 Using RevoSoft's Tool</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-animated-the-best-tools-for-creating-moving-photos/"><u>Updated In 2024, Get Animated The Best Tools for Creating Moving Photos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels-for-2024/"><u>Your Gateway to YouTube Entrepreneurship The Best 10 Easy-to-Create Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capture-it-right-essential-camera-lenses-for-video-blogging/"><u>[New] 2024 Approved Capture It Right Essential Camera Lenses for Video Blogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficient-techniques-ios-screenshots-and-youtube-content-creation/"><u>[New] 2024 Approved Efficient Techniques IOS Screenshots and YouTube Content Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-11-zero-cost-youtube-moniker-makers/"><u>[New] 2024 Approved Essential 11 Zero-Cost YouTube Moniker Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-payment-systems-in-shortform-creator-ecosystem-for-2024/"><u>[New] Demystifying Payment Systems in Shortform Creator Ecosystem for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-makeup-mastering-youtubes-chromatic-alignment-for-2024/"><u>[New] Digital Makeup Mastering Youtube's Chromatic Alignment for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] In 2024, Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-googles-recent-advancement-the-powerful-palm-2-llm-uncovered/"><u>A Deep Dive Into Google's Recent Advancement: The Powerful PaLM 2 LLM Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-comparing-charge-levels-one-through-three-in-evs/"><u>Comprehensive Guide to Comparing Charge Levels One Through Three in EVs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/differences-between-ipad-pro-and-macbook-pro-performance-design-and-more/"><u>Differences Between iPad Pro and MacBook Pro: Performance, Design & More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-azure-transcript-services-for-2024/"><u>Harnessing the Power of Azure Transcript Services for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-honor-100-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Honor 100 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-dialogue-engaging-your-youtube-fans/"><u>In 2024, Mastering Dialogue Engaging Your YouTube Fans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unseen-streamers-handbook-going-incognito-on-ig-live/"><u>In 2024, Unseen Streamer's Handbook Going Incognito on IG Live</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visionblend-editor/"><u>In 2024, VisionBlend Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mehr-komfort-beim-videokonvertieren-mit-winx-hd-deluxe-anleitung-masterarbeit-von-videoaufwand-zu-qualitatsmaterial/"><u>Mehr Komfort Beim Videokonvertieren Mit WinX HD Deluxe Anleitung - Masterarbeit Von Videoaufwand Zu Qualitätsmaterial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rt-of-dual-careers-youtuber-and-full-time-employee-for-2024/"><u>The Art of Dual Careers YouTuber & Full-Time Employee for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-android-resource-guide-to-download-videos-from-youtube-for-2024/"><u>The Ultimate Android Resource Guide to Download Videos From YouTube for 2024</u></a></li>
 </ul></div>
 

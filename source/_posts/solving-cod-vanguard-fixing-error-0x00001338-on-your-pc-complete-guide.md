@@ -1,7 +1,7 @@
 ---
 title: "Solving CoD Vanguard: Fixing Error 0X00001338 on Your PC - Complete Guide"
-date: 2024-09-26T21:48:10.156Z
-updated: 2024-09-30T21:53:36.019Z
+date: 2024-09-30T02:49:05.577Z
+updated: 2024-10-05T20:08:38.861Z
 tags:
   - win11
   - win10
@@ -50,11 +50,25 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  4) Delete every folder or file under the**Cache** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
 
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update device drivers
 
@@ -68,14 +82,15 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,10 +98,10 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 After updating your drivers, restart your PC and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Revert to DX11
@@ -100,10 +115,10 @@ After updating your drivers, restart your PC and test the gameplay.
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch CoD Vanguard and test the gameplay.
@@ -153,13 +168,6 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -171,13 +179,6 @@ Launch CoD Vanguard and test the gameplay.
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -247,24 +248,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-advanced-techniques-for-youtube-card-use/"><u>[New] 2024 Approved Advanced Techniques for YouTube Card Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[New] 2024 Approved Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breakthrough-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube-for-2024/"><u>[New] Breakthrough in Video Production Advanced Techniques for Uploading 360° Content on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-a-guide-to-customizing-game-banners/"><u>[New] Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[Updated] 2024 Approved Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] 2024 Approved Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-women-gaming-leaders-top-10-on-yt/"><u>[Updated] 2024 Approved Elite Women Gaming Leaders Top 10 On YT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortlessly-create-engaging-youtube-thumbnails/"><u>[Updated] In 2024, Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994210152-ace-your-gaming-solve-apex-legends-load-failures-fast-and-easy/"><u>Ace Your Gaming: Solve Apex Legends Load Failures Fast & Easy!</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-make-a-tiktok-outro-for-2024/"><u>How To Make A Tiktok Outro for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>In 2024, Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-youtubes-photo-publishing/"><u>In 2024, Navigating YouTube's Photo Publishing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>In 2024, Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-queries-sidestep-these-6-frequent-slip-ups/"><u>Mastering ChatGPT Queries: Sidestep These 6 Frequent Slip-Ups</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-preventing-euro-truck-simulator-2-pc-malfunctions/"><u>Step-by-Step Fix for Preventing Euro Truck Simulator 2 PC Malfunctions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/upload-mp3-quickly-step-by-step-to-youtube-broadcasting-for-2024/"><u>Upload MP3 Quickly Step-by-Step to YouTube Broadcasting for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[New] 2024 Approved Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-picks-ultimate-portable-devices-for-cutting-edge-editing/"><u>[New] Top Picks Ultimate Portable Devices for Cutting-Edge Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[New] Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-commandments-of-eye-catching-podcast-album-imagery/"><u>[Updated] 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] 2024 Approved Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-your-shorts-appeal-with-personalized-thumbnails/"><u>[Updated] 2024 Approved Enhance Your Shorts' Appeal with Personalized Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-youtube-images-with-ease-online-for-2024/"><u>[Updated] Download YouTube Images with Ease Online for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-accelerated-pathway-through-keying-fundamentals/"><u>[Updated] In 2024, Accelerated Pathway Through Keying Fundamentals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterful-multiclip-management-on-youtube/"><u>[Updated] Masterful Multiclip Management on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ranking-the-best-mac-for-flawless-gif-saving/"><u>[Updated] Ranking the Best Mac for Flawless GIF Saving</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-critical-number-of-views-for-youtube-earnings/"><u>[Updated] The Critical Number of Views for YouTube Earnings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dont-lose-your-memories-activate-apples-key-icloud-function-to-prevent-accidental-photo-disappearances/"><u>Don't Lose Your Memories: Activate Apple's Key iCloud Function to Prevent Accidental Photo Disappearances</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme Narzo 60 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/the-voice-of-efficiency-unleashing-the-full-potential-of-windows-accessibility-tools/"><u>The Voice of Efficiency: Unleashing the Full Potential of Windows Accessibility Tools</u></a></li>
 </ul></div>
 

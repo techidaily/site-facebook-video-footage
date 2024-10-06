@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2024-09-29T17:10:24.644Z
-updated: 2024-10-01T02:15:52.498Z
+date: 2024-10-01T09:42:31.304Z
+updated: 2024-10-06T11:10:12.283Z
 tags:
   - ai video
   - ai youtube
@@ -59,34 +59,13 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Branded slippers
 
@@ -94,24 +73,38 @@ To help them relax after long days at the summit, YouTube provided creators with
 
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _thinknoodles wearing his YouTube slippers._
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Denim jacket
 
 A denim jacket with a play button on it was also in the box. The idea was that creators would collect pins and display them on their new jackets. At the end of the week, they would have a great souvenir reminding them of every event they attended at the summit.
 
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
 
@@ -122,6 +115,13 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -138,20 +138,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>[New] 2024 Approved Exposed The Hazards of Fake Follower Purchases on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-average-payout-for-a-million-view-youtube-video/"><u>[New] In 2024, Average Payout for a Million-View YouTube Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>[New] Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-master-iphone-and-ipad-best-free-video-editors-guide/"><u>[New] Master iPhone & iPad Best Free Video Editors Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-securing-your-zoom-conference-room-audio-and-video-considerations/"><u>[New] Securing Your Zoom Conference Room Audio & Video Considerations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-guide-to-choosing-camgear-the-top-9-innovations/"><u>[New] The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dailymovement-vs-youtube-income-comparison/"><u>[Updated] In 2024, DailyMovement vs Youtube Income Comparison</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-iphoneplusandroid-discover-the-top-10-video-making-picks/"><u>[Updated] IPhone+Android Discover the Top 10 Video-Making Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-meme-maniacs-twitters-funniest-video-threads-roundup-for-2024/"><u>[Updated] Meme Maniacs Twitter's Funniest Video Threads Roundup for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-c55-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme C55 Through Google Earth?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/prolong-your-snapstreak-legacy-with-ease-for-2024/"><u>Prolong Your Snapstreak Legacy with Ease for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforme-seu-fotografia-com-elegancia-modificacao-do-fundos-online-sem-custo/"><u>Transforme Seu Fotografia Com Elegância: Modificação Do Fundos Online Sem Custo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726223300263-mkvm4a-movavi/"><u>무료 MKV/M4A 바이트 강조 바로 대화형 온라인 변환 - Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-8-prime-video-advancement-aids/"><u>[New] 2024 Approved Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-growth-essential-steps-for-youtube-backlink-creation-for-2024/"><u>[New] Channel Growth Essential Steps for YouTube Backlink Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-viral-videos-how-to-excel-in-youtubers-music-reactions-for-2024/"><u>[New] Crafting Viral Videos How to Excel in Youtubers' Music Reactions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiency-boost-discover-the-top-5-youtube-shorteners/"><u>[New] In 2024, Efficiency Boost Discover the Top 5 YouTube Shorteners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tech-tips-swiftly-sending-videos-as-shorts-on-digital-platforms/"><u>[New] Tech Tips Swiftly Sending Videos as Shorts on Digital Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-your-channel-a-guide-to-gaining-viewers-for-2024/"><u>[Updated] Boosting Your Channel A Guide to Gaining Viewers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-enhanced-window-recording-made-simple-with-spring/"><u>[Updated] In 2024, Enhanced Window Recording Made Simple with Spring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-shots-a-guide-to-capturing-engaging-youtube-content/"><u>[Updated] Perfect Shots A Guide to Capturing Engaging YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-mastery-creating-quality-videos-on-phones/"><u>2024 Approved YouTube Mastery Creating Quality Videos on Phones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-13-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 13 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-5-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 5 V Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-asus-rog-phone-8-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Asus ROG Phone 8 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-content-management-streamline-writing-with-hix-ais-gpt-4-features/"><u>Next-Level Content Management: Streamline Writing with HIX AI's GPT-4 Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps5-versus-ps5-slim-a-detailed-look-at-sonys-latest-gaming-consoles/"><u>PS5 Versus PS5 Slim: A Detailed Look at Sony's Latest Gaming Consoles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-xiaomi-14-ultra-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Xiaomi 14 Ultra has been deleted.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speaking-directly-to-chatgpt-your-guide-to-interactive-chatbots/"><u>Speaking Directly to ChatGPT - Your Guide to Interactive Chatbots</u></a></li>
 </ul></div>
 

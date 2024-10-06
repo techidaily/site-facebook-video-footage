@@ -1,7 +1,7 @@
 ---
 title: "Understanding YouTube's User Interaction Options for 2024"
-date: 2024-09-20T06:00:11.366Z
-updated: 2024-09-23T22:02:51.988Z
+date: 2024-09-29T07:54:32.351Z
+updated: 2024-10-05T22:40:58.012Z
 tags:
   - ai video
   - ai youtube
@@ -91,16 +91,10 @@ Selecting this option holds all the comments from all the users, and waits for y
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Turn on or Turn off Comments for Specific Videos
@@ -126,10 +120,10 @@ From under the **Audience** section in the right window of the **Video details**
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About YouTube Comments
@@ -149,16 +143,10 @@ You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -176,16 +164,10 @@ It is easy to understand **how to turn on comments on YouTube**. The best thing 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -201,5 +183,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>[New] A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-conquer-color-chaos-discover-essential-tutorials-and-techniques-for-2024/"><u>[New] Conquer Color Chaos - Discover Essential Tutorials and Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-media-to-twitter-without-copying-another-users-tweet-for-2024/"><u>[New] How To Upload Media to Twitter without Copying Another User's Tweet for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-10-digital-landscape-replacers-for-videos/"><u>[New] In 2024, Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-content-creator-acclaim-through-subscriber-recognition/"><u>[New] In 2024, Content Creator Acclaim Through Subscriber Recognition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-superior-webcams-for-professional-podcasting/"><u>[New] In 2024, Superior Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monthly-income-patterns-for-content-creators/"><u>[New] Monthly Income Patterns for Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-marketing-game-free-50-youtube-adornments-here-for-2024/"><u>[Updated] Elevate Your Marketing Game - Free 50 YouTube Adornments Here for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-apex-creators-video-giants-in-the-making/"><u>[Updated] In 2024, Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-youtube-seo-optimization/"><u>[Updated] The Ultimate Guide to YouTube SEO Optimization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>[Updated] Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a78-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A78 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-multichannel-video-series-via-strategic-chaptering-in-youtube-videos-for-2024/"><u>Optimizing Multichannel Video Series via Strategic Chaptering in YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-custom-youtube-thumbnail-sizes-for-2024/"><u>Step-by-Step Guide to Custom YouTube Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-methods-pour-deplacer-des-videos-de-votre-iphone-vers-un-mac/"><u>Top 5 Methods Pour Déplacer Des Vidéos De Votre iPhone Vers Un Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-pip-a-step-by-step-guide-to-final-cut-pro/"><u>Updated 2024 Approved Mastering PiP A Step-by-Step Guide to Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/virtual-artisans-haven-retreat-for-2024/"><u>Virtual Artisans' Haven Retreat for 2024</u></a></li>
+</ul></div>
 

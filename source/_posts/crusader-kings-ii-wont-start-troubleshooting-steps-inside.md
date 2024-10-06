@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-09-23T21:20:01.556Z
-updated: 2024-09-30T21:03:34.016Z
+date: 2024-10-01T07:00:31.814Z
+updated: 2024-10-05T17:18:57.239Z
 tags:
   - win11
   - win10
@@ -44,14 +44,14 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
- Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -62,23 +62,9 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
@@ -103,14 +89,21 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -127,7 +120,21 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
@@ -141,10 +148,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -155,10 +162,10 @@ To update your graphics driver, here are two safe ways for you:
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
@@ -169,13 +176,6 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
@@ -204,17 +204,22 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>[New] 2024 Approved Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[New] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-soundtracks-on-digital-platforms-for-2024/"><u>[New] Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ise-in-the-rankings-essential-seo-for-video-creators/"><u>[New] Rise in the Rankings Essential SEO for Video Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-online-collection-of-video-downloader-tools-for-2024/"><u>[Updated] Elite Online Collection of Video Downloader Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964483569-harness-up-to-100w-of-energy-with-the-revolutionary-amd-rx-76m-xt-external-gpu-the-new-laptop-charger-and-performance-behemoth-inside-wiko-hi-gt-cube/"><u>Harness Up to 100W of Energy with the Revolutionary AMD RX 76#M XT External GPU: The New Laptop Charger and Performance Behemoth Inside Wiko Hi GT Cube.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone SE</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y100i-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y100i Phone Now with These Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailor-made-tunes-for-chrome-companions/"><u>In 2024, Tailor-Made Tunes for Chrome Companions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y36-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y36 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tri-tech-freeze-innovation-airjet-pak-coolers-tailored-for-edge-computing-max-power-25w/"><u>Tri-Tech Freeze Innovation: AirJet PAK Coolers Tailored for Edge Computing, Max Power 25W</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-breaking-down-recordcasts-marketing-claims/"><u>[New] 2024 Approved Breaking Down RecordCast’s Marketing Claims</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-cash-flow-on-youtube-an-ad-free-blueprint-for-income/"><u>[New] 2024 Approved Creating Cash Flow on YouTube An Ad-Free Blueprint for Income</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker-for-2024/"><u>[New] Cutting-Edge Techniques for YouTube Video Edits via WM Maker for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>[New] In 2024, Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-visibility-with-customized-channel-names/"><u>[Updated] Boost Visibility with Customized Channel Names!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-demystifying-ajeys-monetization-strategy-youtube-edition-for-2024/"><u>[Updated] Demystifying Ajey's Monetization Strategy - YouTube Edition for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap-for-2024/"><u>[Updated] Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube/"><u>[Updated] In 2024, A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-summit-twitters-top-10-tweets-for-2024/"><u>[Updated] Social Media Summit Twitter’s Top 10 Tweets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-textualizer/"><u>[Updated] Video Textualizer</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-meizu-21-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Meizu 21 Fingerprint Lock</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-to-watch-vr-video-on-iphone-ios/"><u>How to Watch VR Video on Iphone (Ios)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zeroing-in-on-audio-quality-achievable-sans-mic/"><u>In 2024, Zeroing in on Audio Quality Achievable Sans Mic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>Lens Leaderships Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/outro-optimization-making-lasting-impacts-for-2024/"><u>Outro Optimization Making Lasting Impacts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uninstalling-made-easy-crafting-custom-shortcuts/"><u>Windows Uninstalling Made Easy: Crafting Custom Shortcuts</u></a></li>
 </ul></div>
 
