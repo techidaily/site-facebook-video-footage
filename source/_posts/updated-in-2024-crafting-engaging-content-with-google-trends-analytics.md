@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Crafting Engaging Content with Google Trends Analytics"
-date: 2024-10-03T20:42:49.603Z
-updated: 2024-10-06T08:07:24.970Z
+date: 2024-10-09T18:58:10.031Z
+updated: 2024-10-11T18:30:18.249Z
 tags:
   - ai video
   - ai youtube
@@ -47,16 +47,10 @@ Unless you do news or political commentary on your channel these probably aren�
 To get information more relevant to your channel you’re going to have to do some filtering.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Getting Results That Matter to You
@@ -89,6 +83,13 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Battle of the Keywords
 
 Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
@@ -99,6 +100,19 @@ Once you have a keyword in mind, type it into the Explore bar at the top of your
 
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
@@ -107,18 +121,18 @@ You can see near the top that this chart represents searches for the topic over 
 
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
 
@@ -127,13 +141,6 @@ It’s pretty clear from the chart that ‘filmora review’ is the strongest of
 Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
 
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
 
@@ -144,13 +151,6 @@ If the search results for your keyword are dominated by monster channels with mi
 One of the biggest benefits of identifying trends and making videos about them quickly is that you can get in before there’s a lot of competition for the first few pages of search results on YouTube or Google, and before larger channels start making videos of their own on the same topic.
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -175,16 +175,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-a-link-building-foundation-for-video-marketers/"><u>[New] In 2024, Creating a Link-Building Foundation for Video Marketers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-keep-your-music-memories-intact-top-three-storage-methods-for-2024/"><u>[New] Keep Your Music Memories Intact Top Three Storage Methods for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/hriving-in-a-world-of-negative-video-reviews/"><u>[New] Thriving in a World of Negative Video Reviews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-addressing-missing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Addressing Missing Thumbnails in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-your-videography-youtube-studio-edition-techniques/"><u>[Updated] In 2024, Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/2-personalized-spacecraft-deployment-criteria/"><u>2. Personalized Spacecraft Deployment Criteria</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-essentials-in-livestreaming-platform-selection/"><u>2024 Approved Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-wholesome-wisdom-videographically-cooking-up-dishes/"><u>In 2024, Wholesome Wisdom Videographically Cooking Up Dishes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/motorolas-dynamic-offering-an-in-depth-look-at-the-explosive-potential-of-the-motorola-one-hyper/"><u>Motorola's Dynamic Offering: An In-Depth Look at the Explosive Potential of the Motorola One Hyper</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574021414-print-every-page-without-a-glitch-now/"><u>Print Every Page without a Glitch, Now</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/take-your-youtube-clips-to-the-next-level-ultimate-editing-tips-for-2024/"><u>Take Your YouTube Clips to the Next Level Ultimate Editing Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>[New] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-altering-who-can-access-your-youtube-videos/"><u>[Updated] 2024 Approved Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-remedies-for-disabling-obs-fullscreen/"><u>[Updated] 2024 Approved Remedies for Disabling OBS Fullscreen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-content-6-steps-to-higher-youtube-visibility-for-2024/"><u>[Updated] Elevating Your Content 6 Steps to Higher YouTube Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-preventing-complete-loss-of-visuals-in-youtube-streaming/"><u>[Updated] Preventing Complete Loss of Visuals in YouTube Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clearing-imagery-the-canva-method-for-clean-bounds-for-2024/"><u>Clearing Imagery The Canva Method for Clean Bounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-by-frame-helpdesk-for-2024/"><u>Frame by Frame Helpdesk for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-v-purse-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a14-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A14 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-pioneer-record-pcmac-screens-youtube-uploading-made-easy/"><u>In 2024, Video Pioneer Record PC/Mac Screens, YouTube Uploading Made Easy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
 </ul></div>
 

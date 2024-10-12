@@ -1,7 +1,7 @@
 ---
 title: How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
-date: 2024-10-05T11:29:04.613Z
-updated: 2024-10-06T08:54:14.490Z
+date: 2024-10-04T20:14:04.328Z
+updated: 2024-10-12T04:53:04.981Z
 categories:
   - BestProducts
 description: This Article Describes How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
@@ -38,22 +38,16 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -79,13 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -93,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  With very large sides, the front is really just a small panel with light-up LED indicators showing connectivity details and which Ethernet ports are in use. There’s also a small WPS button beneath the LED panel for easy connectivity with a router. On the wider back panel are the four wired[Ethernet ports](https://www.lifewire.com/what-is-an-ethernet-port-817546) for plugging in devices such as game consoles and computers, as well as a USB 3.0 port, DC power port, and the power button itself.
 
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Avoid the app**
 
@@ -106,20 +100,13 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Connectivity: Smooth sailing**
@@ -145,6 +132,19 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  It’s billed as an “8-stream” device, so it should be able to handle several simultaneous media streams at once, with a billed max speed of 4.8Gbps on the 5GHz band and 1.2Gbps on the 2.4GHz band. It has[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple users, multi-in multi-out) and beamforming capabilities, promising expanded range of up to 2,500 square feet and support for 30+ simultaneous devices.
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: More than most**
 
@@ -188,14 +188,24 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-an-easy-to-use-subscribe-url-for-your-yt-channel/"><u>[New] 2024 Approved Creating an Easy-to-Use Subscribe URL for Your YT Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes-for-2024/"><u>[Updated] A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-does-artific-written-by-charles-kingsley-include-any-of-these-themes-from-the-nurses-diary-in-2024/"><u>[Updated] Does Artific Written by Charles Kingsley Include Any of These Themes From 'The Nurse's Diary', In 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-expert-picks-top-6-fb-lite-extractors/"><u>[Updated] Expert Picks Top 6 FB Lite Extractors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-manual-for-installing-microsofts-wm6/"><u>Complete Manual for Installing Microsoft's WM6</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in Excel 2000 files</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-with-toms-hardware-experts/"><u>Navigating the World of Computers with Tom's Hardware Experts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/post-publish-editing-elevating-your-youtube-content-for-2024/"><u>Post-Publish Editing Elevating Your YouTube Content for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-resurrecting-lost-confidential-snapshots/"><u>[New] 2024 Approved Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-listings-for-easy-access-to-youtube-intro-files-for-2024/"><u>[New] Essential Listings for Easy Access to YouTube Intro Files for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>[New] From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-video-quality-on-youtube-top-formats-revealed/"><u>[New] Streamlining Video Quality on YouTube – Top Formats Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-taking-views-viral-the-ultimate-guide-for-youtube-success-for-2024/"><u>[New] Taking Views Viral The Ultimate Guide for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-20-best-free-platforms-for-youtube-channel-beginners-for-2024/"><u>[Updated] 20 Best Free Platforms for YouTube Channel Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-does-immediate-subscribing-affect-content-recommendations-in-2024/"><u>[Updated] Does Immediate Subscribing Affect Content Recommendations, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-experience-non-youtube-hubs-explained-for-2024/"><u>[Updated] Elevating Video Experience Non-Youtube Hubs Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expressing-emotionally-using-emojis-for-yt-comments-for-2024/"><u>[Updated] Expressing Emotionally Using Emojis for YT Comments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-much-income-arises-from-each-snapshot-video/"><u>[Updated] How Much Income Arises From Each Snapshot (Video)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-start-leading-free-video-openers-listed/"><u>[Updated] Perfect Start Leading Free Video Openers Listed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhancing-team-collaboration-with-regular-video-chats/"><u>2024 Approved Enhancing Team Collaboration with Regular Video Chats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>2024 Approved Ultimate Upscaling Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
+<li><a href="https://win-able.techidaily.com/better-gaming-performance-overcoming-high-ping-in-blossoms-pc-version/"><u>Better Gaming Performance: Overcoming High Ping in Blossom's PC Version</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-rendering-api-update-for-dota-2-error-202/"><u>Fix the 'Rendering API Update' For Dota 2 Error 202</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/invest-in-your-future-pursuing-an-mba-through-apples-vision-pro-at-a-premium-price-point/"><u>Invest in Your Future: Pursuing an MBA Through Apple’s Vision Pro at a Premium Price Point</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-top-9-changes-in-win11-february-2023/"><u>Unveiling the Top 9 Changes in Win11 February 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-streams-optimal-webm-converters-ranked-in-2024/"><u>YouTube Streams Optimal WebM Converters Ranked, In 2024</u></a></li>
 </ul></div>
 

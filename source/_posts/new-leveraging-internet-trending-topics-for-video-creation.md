@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Internet Trending Topics for Video Creation"
-date: 2024-08-01T03:41:11.028Z
-updated: 2024-08-02T03:41:11.028Z
+date: 2024-10-09T19:15:34.700Z
+updated: 2024-10-11T20:23:37.975Z
 tags:
   - ai video
   - ai youtube
@@ -34,9 +34,6 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Part 1: Seeing The Big Picture
 
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
@@ -49,9 +46,6 @@ Unless you do news or political commentary on your channel these probably aren�
 
 To get information more relevant to your channel you’re going to have to do some filtering.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Getting Results That Matter to You
 
 In the Google Trend home page, scroll down to the 'Recently Trending' section and click on 'More Trending Searches'.
@@ -74,10 +68,6 @@ Once you have narrowed down your results you can just scroll through and pick ou
 
 For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
 
 The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
@@ -87,8 +77,12 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Battle of the Keywords
 
 Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
@@ -97,11 +91,14 @@ A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-
 
 Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
@@ -109,10 +106,14 @@ What happens after you click **enter** is pretty much magic. Say I want to make 
 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
@@ -139,9 +140,12 @@ One of the biggest benefits of identifying trends and making videos about them q
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
@@ -156,12 +160,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-download-without-risks-the-pathway-to-secure-free-vlc-on-macos/"><u>[New] 2024 Approved Download without Risks The Pathway to Secure, Free VLC on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-video-visibility-with-effective-thumbnail-scaling/"><u>[New] 2024 Approved Enhance Video Visibility with Effective Thumbnail Scaling</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[New] Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] In 2024, Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>[New] Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-callings-30-unique-show-title-suggestions/"><u>[Updated] 2024 Approved Culinary Callings 30 Unique Show Title Suggestions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exclusive-list-best-10-gopro-case-models-reviewed/"><u>[Updated] 2024 Approved Exclusive List Best 10 GoPro Case Models Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-recording-gear-for-vloggers/"><u>[Updated] Ideal Recording Gear for Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] In 2024, Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-12-cutting-edge-flip-screen-cams-for-video-content/"><u>[Updated] In 2024, Discover 12 Cutting-Edge Flip-Screen Cams for Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-your-yt-content-mastery-of-windows-movie-maker/"><u>[Updated] Perfect Your YT Content Mastery of Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-start-recording-youtube-content-on-your-own-terms/"><u>[Updated] Start Recording YouTube Content on Your Own Terms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>2024 Approved Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-get-youcut-video-editing-software-running-on-your-pc-or-mac/"><u>Complete Tutorial: How to Get YouCut Video Editing Software Running on Your PC or Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-choreographing-a-memorable-tiktok-fade-out/"><u>In 2024, Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-flat-screens-to-spatial-storytelling-understanding-vr/"><u>In 2024, From Flat Screens to Spatial Storytelling Understanding VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-rectifying-inaccurate-malware-warning-in-chrome/"><u>Tactics for Rectifying Inaccurate Malware Warning in Chrome</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x7-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-twitter-apps-mastering-the-art-of-hashtag-tracking/"><u>Top 4 Twitter Apps: Mastering the Art of Hashtag Tracking</u></a></li>
+</ul></div>
 

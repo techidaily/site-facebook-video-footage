@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Making Money in the 20-Second Space  The YouTube Shorts Playbook\""
-date: 2024-09-30T11:02:49.848Z
-updated: 2024-10-06T02:42:55.849Z
+date: 2024-10-08T02:43:42.605Z
+updated: 2024-10-12T00:54:25.717Z
 tags:
   - ai video
   - ai youtube
@@ -39,6 +39,13 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Eligibility for Monetizing Shorts and Videos**
 
 The other way you can monetize shorts is by accessing ad revenue and fan-funding. With this option, you will generate income from ads that appear between Shorts in addition to interacting with viewers. This is a great option for creators who make long and short videos. The requirements for this include:
@@ -48,10 +55,10 @@ The other way you can monetize shorts is by accessing ad revenue and fan-funding
 * At least 10 million valid public Shorts views in the last 90 days
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Additional Guidelines for Creators**
@@ -76,28 +83,28 @@ Can you monetize YouTube shorts? Yes, in more than one way. The easiest is throu
 
 ![youtube sign in](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2Select YouTube Studio
 
 In the top right of the YouTube page, click on your profile picture. From the pop-up menu that appears, select **YouTube Studio**.
 
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3In the left menu, Click on **Earn**
 
 ![youtube earn](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-4.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 4
@@ -118,18 +125,18 @@ Link your existing AdSense account if you have one. If not. Click **Start** to s
 
 ![youtube link adsense](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-7.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 7
 
 Wait for YouTube to review and approve your application. The process will normally take a month. Once you are approved for the YPP, go to the Earn section in YouTube Studio. Then accept the Shorts Monetization Module. This will allow you to access ads and other money-making tools on YouTube.
 
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
 
@@ -140,10 +147,10 @@ The money-making feature monetizes Shorts in exciting ways. To start monetizing 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
@@ -174,13 +181,6 @@ The best way to reap big from Shorts YouTube monetization is to make quality vid
 
 The choice of Filmora features you use on your editing projects will depend on your goals. Here are a few favorites to get you started:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\.** [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before uploading a short-form video on YouTube, you want to make sure it is of the right resolution. The Auto Reframe feature on Filmora allows you to instantly resize your videos while keeping all the important details. You only need to record one video for all platforms, and edit to fit with auto reframe.
@@ -188,13 +188,6 @@ Before uploading a short-form video on YouTube, you want to make sure it is of t
 ### **2\.** **[Text to Speech](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -208,6 +201,19 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -217,18 +223,19 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] 2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-does-immediate-subscribing-affect-content-recommendations-for-2024/"><u>[New] Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dynamic-duo-display-youtubes-way-of-creative-splitting-for-2024/"><u>[New] Dynamic Duo Display YouTube’s Way of Creative Splitting for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ingenious-name-makers-elevate-your-channels/"><u>[Updated] Ingenious Name Makers Elevate Your Channels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[Updated] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/engaging-podcast-openers-captivating-intro-lines/"><u>Engaging Podcast Openers Captivating Intro Lines</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-master-organization-with-mematics-toolkit/"><u>In 2024, Master Organization with Mematic's Toolkit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inside-the-directors-suite-powerdirector-2024-deep-dive/"><u>Inside the Director's Suite PowerDirector 2024 Deep Dive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-your-steam-voice-chat-up-and-running-again/"><u>Step-by-Step Solutions: Getting Your Steam Voice Chat Up and Running Again</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/troubleshooting-tips-for-getting-madden-22-up-and-running-again/"><u>Troubleshooting Tips for Getting Madden 22 Up and Running Again</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-multilingual-skills-with-any-of-these-9-free-language-learning-platforms/"><u>Unlock Multilingual Skills with Any of These 9 Free Language-Learning Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-budget-friendly-strategies-to-infuse-text-and-video/"><u>[New] 2024 Approved Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-content-6-steps-to-higher-youtube-visibility/"><u>[New] In 2024, Elevating Your Content 6 Steps to Higher YouTube Visibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pros-choice-top-laptop-recording-tools-reviewed/"><u>[Updated] 2024 Approved Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ascending-with-asmr-top-strategies-for-video-creation-for-2024/"><u>[Updated] Ascending with ASMR Top Strategies for Video Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakthrough-techniques-in-youtube-content-creation-for-2024/"><u>[Updated] Breakthrough Techniques in YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-shorts-earning-potential/"><u>[Updated] Understanding YouTube Shorts Earning Potential</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029145172-adobe-premiere-pro/"><u>Adobe Premiere Pro: 効果的にビデオアスペクト比調整ガイド</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dvd-wonderfox50/"><u>DVD変換ツール WonderFoxを安く手に入れよう!期間限定50%オフでお買い上げしてください。</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968594047-fresh-off-the-shelf-newest-driver-updates-for-your-dell-2330d-and-2330dn-printers-revealed/"><u>Fresh Off The Shelf: Newest Driver Updates For Your Dell 2330D & 2330DN Printers Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-custom-kodi-modifications-and-restoring-default-settings/"><u>Step-by-Step Guide: Removing Custom Kodi Modifications & Restoring Default Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unearthing-origin-of-mysterious-dx-misstep-in-lol/"><u>Unearthing Origin of Mysterious DX Misstep in LOL</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-mts-video-editing-software-a-comprehensive-review/"><u>Updated In 2024, The Top MTS Video Editing Software A Comprehensive Review</u></a></li>
 </ul></div>
 

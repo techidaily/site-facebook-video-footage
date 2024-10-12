@@ -1,7 +1,7 @@
 ---
 title: Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview
-date: 2024-10-03T05:13:16.432Z
-updated: 2024-10-06T13:18:34.363Z
+date: 2024-10-06T19:23:26.419Z
+updated: 2024-10-11T18:57:02.685Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview
@@ -68,13 +68,6 @@ Andrew Hayward / Lifewire
 
  It was one of last year’s greatest new gadgets, and now Oculus has returned with a sequel. The Oculus Quest 2 is smaller and lighter, yet more powerful and with a much better screen—yet it costs $100 less than the original. How did that happen? Well, it’s not all great news, thanks to a couple of cost-cutting measures that you’ll feel and potentially see, but the end result is ultimately a better and more affordable device that serves as an ideal gateway into VR.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design and Comfort: Compromises were made
 
  The Oculus Quest 2 sticks to the familiar modern VR playbook as a module that you strap onto your face to immerse yourself within its digital worlds but features some different material and construction choices than the original. Unfortunately, the design choices largely are not upgrades compared to the original headset
@@ -91,13 +84,6 @@ Andrew Hayward / Lifewire
 
 ![Oculus Rift 2](https://www.lifewire.com/thmb/JkgQv_Sk0ofSL0Sp-jKmqe84xak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-2-a7792535288542dba45c8bc32f882be2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Andrew Hayward / Lifewire
 
 ## Tracking and Controllers: Some improvements, some drawbacks
@@ -107,6 +93,13 @@ Andrew Hayward / Lifewire
  The Quest 2’s wireless, motion-sensing Oculus Touch controllers are identical in function to the original, but are a little heavier and have a larger surface with space to rest your thumb when not in use. That’s handy. Each has an analog stick and two face buttons, along with a trigger button and a grip button. Oculus also swapped out the magnetically-attached battery doors from the first Quest controllers—which would sometimes slide open when I used the original—for ones that simply click into place. That’s a win for function over form.
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -128,6 +121,13 @@ Andrew Hayward / Lifewire
 
  There’s one other potential hitch with the Oculus Quest 2 that wasn’t present with the original: the new headset_requires_ a[Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) and there’s no way around it. Facebook owns Oculus, and while the first Quest could be used simply with an Oculus account, the new one requires the social media account. For some, that may be a deal-breaker, given frustrations over privacy and the increasing role that Facebook plays in our society, so just know that going in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: It’s a big upgrade
 
  The original Oculus Quest did a fine job of delivering immersive VR experiences that didn’t feel compromised or significantly downgraded, even if it didn’t hit the same visual peaks as pricier, PC-powered headsets. And it was pretty amazing that the Quest did so with the Qualcomm Snapdragon 835 processor, a chip found in 2017’s flagship smartphones.
@@ -146,23 +146,9 @@ Andrew Hayward / Lifewire
 
  I felt the Quest 2’s enhancements more prominently in some games over others. Laser sword-swinging music game Beat Saber, for example, ran well on the first headset and isn’t that different here—just smoother and clearer-looking. But with the online battle royale shooter Population: One, the cleaner-looking textures and more fluid performance helped mitigate some of the light motion sickness I felt playing on the first Quest.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sound Quality: Works fine without headphones
 
  Plugging in headphones delivers a more closed-off, immersive experience, but the Oculus Quest 2’s built-in speaker does a solid job of delivering audio and music. It does sound a tiny bit louder and fuller than the original Quest’s speaker, but not significantly so. Still, if you want to play without being fully shut-off from your surroundings, it works just fine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Battery: You’ll get a couple hours
 
@@ -173,13 +159,20 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/Ns2S3DQVema5UEDDSO8n3N7SC_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-7-0a0e40b6a3064fe7abc985f0900dbeff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: Use the headset or connect to PC
 
@@ -193,15 +186,22 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/72vxixVr7kdKoLfUC3QkIrBl26I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-6-12fcb6054cf2475191bc613a3f26bcfc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Andrew Hayward / Lifewire
 
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Games: A good, growing selection
@@ -216,14 +216,14 @@ Andrew Hayward / Lifewire
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/FqVvo044zoPghSD_PR1g2e0L2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-5-216bbf638cbe407b8b6f332abc94ae47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Andrew Hayward / Lifewire
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: It’s an amazing value
 
@@ -284,18 +284,19 @@ Andrew Hayward / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>[New] 2024 Approved Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-redirect-saved-image-to-custom-folder-on-mac/"><u>[New] 2024 Approved Redirect Saved Image to Custom Folder on Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop-for-2024/"><u>[New] Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>[New] Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[Updated] 2024 Approved 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-isolate-key-moments-in-youtube-footage-for-2024/"><u>[Updated] Efficiently Isolate Key Moments in YouTube Footage for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-top-tools-to-reduce-long-link-lengths/"><u>2024 Approved Youtube's Top Tools to Reduce Long Link Lengths</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Nord CE 3 Lite 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-gamers-edition-obs-studio-streaming/"><u>In 2024, Gamers' Edition OBS Studio Streaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-create-a-live-stream-on-youtube-with-the-best-webcams/"><u>In 2024, How to Create a Live Stream on YouTube With the Best Webcams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-intonation-blending-audio-with-imagery/"><u>In 2024, Instagram Intonation Blending Audio with Imagery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones/"><u>[New] 2024 Approved Digital Footprint How to Share Your Short Videos on Computers & Phones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[New] 2024 Approved Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-boosting-your-snapchat-presence-with-easy-voice-modification-tricks/"><u>[New] Boosting Your Snapchat Presence with Easy Voice Modification Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges-for-2024/"><u>[New] Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[New] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters-for-2024/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-free-online-courses-for-beginner-youtube-creators/"><u>[Updated] 8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ascend-your-earning-game-executing-a-three-part-blueprint-for-youtube-revenue-analysis-for-2024/"><u>[Updated] Ascend Your Earning Game Executing a Three-Part Blueprint for YouTube Revenue Analysis for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-olympic-spirits-2022s-short-track-feat/"><u>[Updated] Olympic Spirits 2022'S Short-Track Feat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-guide-manual-setup-vs-seamless-switching/"><u>AirPods Troubleshooting Guide: Manual Setup Vs. Seamless Switching</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-lags-and-pauses-in-overwatch-gameplay/"><u>Effective Solutions for Continuous Lags & Pauses in Overwatch Gameplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech-for-2024/"><u>Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeted-vids-to-mp4wav-conversion/"><u>Tweeted Vids to MP4/WAV Conversion</u></a></li>
 </ul></div>
 

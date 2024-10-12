@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2024-10-04T04:26:57.731Z
-updated: 2024-10-06T13:26:25.832Z
+date: 2024-10-05T00:43:38.858Z
+updated: 2024-10-11T16:25:01.504Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -40,13 +40,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
@@ -71,10 +64,10 @@ Lifewire / Erika Rawes
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Basic, but effective**
@@ -99,13 +92,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Network Performance: Fast speeds, No USB port**
@@ -116,6 +102,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: Even better than advertised**
@@ -125,10 +118,10 @@ Lifewire / Erika Rawes
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
@@ -144,10 +137,10 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Around 100 bucks**
@@ -163,6 +156,19 @@ Lifewire / Erika Rawes
 **Fast speeds and an exceptionally long range.**
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,24 +205,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-content-selecting-top-thumbnail-fonts/"><u>[New] 2024 Approved Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-buzzing-beats-essential-background-scores-for-viral-video-shorts-for-2024/"><u>[New] Buzzing Beats Essential Background Scores for Viral Video Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-a-viral-path-best-hashtags-for-youtube-riches-for-2024/"><u>[New] Crafting a Viral Path Best Hashtags for YouTube Riches for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>[New] The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[New] Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-content-with-text-overlays/"><u>[Updated] 2024 Approved Enhancing YouTube Content with Text Overlays</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-everything-you-need-to-succeed-with-youtube-short-videos/"><u>[Updated] In 2024, Everything You Need to Succeed with YouTube Short Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tricks-to-upgrade-streaming-quality-on-mobile-apps-like-facebook/"><u>[Updated] In 2024, Tricks to Upgrade Streaming Quality on Mobile Apps Like Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-content-creation-top-rated-mac-mp4-slicers/"><u>[Updated] Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails/"><u>[Updated] Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-online-potential-mastering-seo-for-youtube-success/"><u>[Updated] Unlocking Your Online Potential Mastering SEO for YouTube Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4/"><u>無損失でMP4ファイルの画像比率変更テクニック</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-vivid-visuals-selecting-the-best-11-tutorials-for-2024/"><u>Crafting Vivid Visuals Selecting the Best 11 Tutorials for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-narzo-n55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Narzo N55 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-devices-for-immersive-mobile-gaming-an-easy-guide/"><u>Joining Devices for Immersive Mobile Gaming: An Easy Guide</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/simplify-your-billing-mastering-invoicing-with-abbyy-and-m-files-solutions/"><u>Simplify Your Billing: Mastering Invoicing with ABBYY & M-Files Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-essentials-for-launching-a-youtube-success-story-for-2024/"><u>Top Essentials for Launching a YouTube Success Story for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-access-tons-of-free-vocal-textures/"><u>[New] 2024 Approved Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-tutorial-on-professional-looking-youtube-introsends/"><u>[New] 2024 Approved Affordable Tutorial on Professional Looking YouTube Intros/Ends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-direct-from-device-to-digital-world-recording-your-apple-gadgets-for-2024/"><u>[New] Direct From Device to Digital World Recording Your Apple Gadgets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-lut-heaven-the-10-finest-and-accessible-resources/"><u>[New] Free LUT Heaven The 10 Finest and Accessible Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-premier-resources-download-free-high-quality-green-screen-footage/"><u>[New] In 2024, 8 Premier Resources Download Free, High-Quality Green Screen Footage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-excellence-in-work-and-online-content/"><u>[New] In 2024, Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>[New] Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-concept-to-recording-best-practices-for-iphoneipad-podcasts/"><u>[Updated] 2024 Approved From Concept to Recording Best Practices for iPhone/iPad Podcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-guide-to-gathering-creative-themes-using-google-trends-for-2024/"><u>[Updated] A Guide to Gathering Creative Themes Using Google Trends for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-banishing-blackout-blues-from-youtube-videos-for-2024/"><u>[Updated] Banishing Blackout Blues From YouTube Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-13-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi 13 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola Edge 40</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/aqualive-review-robust-speaker-depth-performance/"><u>Aqualive Review: Robust Speaker Depth Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-g2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo G2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>In 2024, Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://win-data.techidaily.com/recuperacion-de-proyectos-eliminados-en-eclipse-4-metodos-sencillos-para-recuperarlo/"><u>Recuperación De Proyectos Eliminados en Eclipse: 4 Métodos Sencillos Para Recuperarlo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-sensitive-information-best-practices-for-securely-utilizing-chatgpt-in-professional-settings/"><u>Safeguarding Sensitive Information: Best Practices for Securely Utilizing ChatGPT in Professional Settings</u></a></li>
 </ul></div>
 

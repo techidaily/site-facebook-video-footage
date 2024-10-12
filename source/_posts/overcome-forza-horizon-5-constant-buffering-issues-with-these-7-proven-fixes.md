@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-10-01T16:36:31.987Z
-updated: 2024-10-06T09:25:12.350Z
+date: 2024-10-10T16:30:19.896Z
+updated: 2024-10-11T19:42:49.473Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
@@ -76,6 +69,13 @@ Restart your computer for the changes to take effect.
 3. Scroll down to**HUD** . Change Mini Map Shape into**Square** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -91,29 +91,22 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Restart Battle.net and relaunch the game.
 
@@ -131,6 +124,13 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -146,20 +146,20 @@ No luck with this fix? Try the next one.
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
@@ -185,21 +185,16 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[New] 2024 Approved Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-digital-diaries-top-picks-for-personal-recorders/"><u>[New] 2024 Approved Digital Diaries Top Picks for Personal Recorders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-sports-highlights-a-comprehensive-guide/"><u>[New] In 2024, DIY Sports Highlights A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-video-potential-through-smart-co-stars-selection/"><u>[New] Maximizing Your Video Potential Through Smart Co-Stars Selection</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[New] The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-drones-that-enhance-your-gopro-cinematic-experience/"><u>[Updated] 2024 Approved Best Drones That Enhance Your GoPro Cinematic Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-captioning-techniques-for-professional-youtube-content/"><u>[Updated] 2024 Approved Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-online-presence-making-videos-on-mobile/"><u>[Updated] In 2024, Elevate Your Online Presence Making Videos on Mobile</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-flashcapture-critique-plus-backup-software/"><u>2024 Approved FlashCapture Critique + Backup Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>2024 Approved Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disable-windows-defender-on-windows-11-3-ways/"><u>Disable Windows Defender on Windows 11 - 3 Ways</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/do-shopping-blogs-have-a-payment-scheme-for-reports-in-2024/"><u>Do Shopping Blogs Have a Payment Scheme for Reports, In 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premier-choices-8-linux-editing-tools-for-2024/"><u>Premier Choices 8 Linux Editing Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/redefine-creativity-the-ultimate-selection-of-best-android-drawing-apps-for-2024/"><u>Redefine Creativity The Ultimate Selection of Best Android Drawing Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/resolved-shorts-display-issue-on-youtube-for-2024/"><u>Resolved Shorts Display Issue on YouTube for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-hidden-dynamics-of-facebooks-newsfeed/"><u>The Hidden Dynamics of Facebook's Newsfeed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-engagement-editing-for-perfect-video-titles-and-descriptions/"><u>[New] 2024 Approved Boosting Engagement Editing for Perfect Video Titles & Descriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] In 2024, Best 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-checklist-for-youtube-production-gear/"><u>[New] The Complete Checklist for YouTube Production Gear</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>[Updated] 2024 Approved Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-guide-to-choosing-the-ideal-youtube-downloader-android/"><u>[Updated] Your Guide to Choosing the Ideal YouTube Downloader (Android)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-access-and-distribute-your-created-flipbooks-without-internet-a-guide-with-flipbuilder/"><u>How to Access and Distribute Your Created Flipbooks Without Internet: A Guide with FlipBuilder</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-asrock-ab350-pro4-with-free-windows-drivers-download-made-easy/"><u>Secure Your ASRock AB350 Pro4 with Free Windows Drivers – Download Made Easy!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-sharing-your-game-library-on-dual-oculus-quest-headsets/"><u>Step-by-Step Guide: Sharing Your Game Library on Dual Oculus Quest Headsets</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-development-essential-wsl-2-tips-for-pcs/"><u>Streamlining Development: Essential WSL 2 Tips for PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/turbulence-tamer-for-mobile-cinematography/"><u>Turbulence Tamer for Mobile Cinematography</u></a></li>
 </ul></div>
 

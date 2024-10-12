@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Viewership  SEO for the Newbie on YouTube\""
-date: 2024-10-02T17:22:14.378Z
-updated: 2024-10-06T12:59:34.173Z
+date: 2024-10-04T16:08:18.055Z
+updated: 2024-10-12T03:08:21.784Z
 tags:
   - ai video
   - ai youtube
@@ -156,13 +156,6 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -197,19 +190,6 @@ For example, in this scrambled egg video you are making, at the end you can ask,
 
 ![Encourage Viewers to Engage in Video](https://images.wondershare.com/filmora/article-images/encourage-viewers-to-engage-min.gif)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Who knows, who will respond.
 
 #### Step 9: Design a Thumbnail
@@ -221,10 +201,10 @@ Your viewers will absolutely judge your video by its cover so it’s important t
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
@@ -235,24 +215,18 @@ You can use an online service called [Canva](https://www.canva.com/)or download 
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Publishing With Attention to Optimization
 
 Well done finishing the video! You are almost there… but not there yet.
 
 ![XDyocwuGRiSptxueJZ5aokKqKt-JXMbX](https://images.filmora.io/5/XDyocwuGRiSptxueJZ5aokKqKt-JXMbX.gif)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Come on, keep going!
 
@@ -261,6 +235,13 @@ Come on, keep going!
 The video is done, the thumbnail is designed, and you have all your title, description, and tags ready to go. This step is easy, upload the video, and fill out the assets, and give yourself a pat on the back.
 
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 11: Add Transcripts
 
@@ -286,6 +267,13 @@ Besides considering YouTube SEO, you should make a good YouTube video as well. F
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Do you have any questions about SEO? Please leave us a comment below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -305,21 +293,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>[New] A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-compelling-channel-names-simplified/"><u>[New] In 2024, Creating Compelling Channel Names Simplified</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-light-settings-in-youtube-video-editing/"><u>[New] Understanding Light Settings in YouTube Video Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts-for-2024/"><u>[Updated] Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[Updated] In 2024, A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audio-to-video-bridge-easy-3-step-guide-for-mp3-to-youtube-uploads/"><u>[Updated] In 2024, Audio-to-Video Bridge Easy 3-Step Guide for MP3 to YouTube Uploads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-rebranding-identity-on-google-meet-laptops-and-phones/"><u>[Updated] In 2024, Rebranding Identity on Google Meet - Laptops & Phones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>[Updated] Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-integrating-seamlessly-into-tiktok-lives-a-blueprint/"><u>2024 Approved Integrating Seamlessly Into TikTok Lives A Blueprint</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-launching-an-engaging-fb-giving-event/"><u>2024 Approved Launching an Engaging FB Giving Event</u></a></li>
-<li><a href="https://extra-information.techidaily.com/9-essential-iphone-x-hacks-for-every-user/"><u>9 Essential iPhone X Hacks for Every User</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-oculus-device-drivers-for-all-windows-versions-111087-get-them-here/"><u>Latest Oculus Device Drivers for All Windows Versions (11/10/8/7) - Get Them Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/revolutionizing-play-with-the-wonder-workshop-dash-robot-toy/"><u>Revolutionizing Play with the Wonder Workshop Dash Robot Toy</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-15-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 15 Pro Max for Parents | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakdown-of-earnings-how-much-does-a-clicky-make/"><u>[New] 2024 Approved Breakdown of Earnings How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[New] In 2024, Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[New] Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-sense-of-creative-commons-licensing-and-usage/"><u>[New] Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-growing-presence-in-video-platforms-via-short-films/"><u>[Updated] Growing Presence in Video Platforms via Short Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-techniques-in-creating-youtube-thumbnails-that-stand-out/"><u>[Updated] In 2024, Essential Techniques in Creating YouTube Thumbnails That Stand Out</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-taming-darkness-for-a-bright-youtube-experience/"><u>[Updated] Taming Darkness for a Bright YouTube Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/engineering-serenity-streamlining-the-noisy-mess-of-a-nzxt-kraken-with-elegant-python-software-solutions/"><u>Engineering Serenity: Streamlining the Noisy Mess of a NZXT Kraken with Elegant Python Software Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-x5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco X5 Devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-content-creators-optimal-stabilizer-companies/"><u>In 2024, YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/msda80dll-explained-why-this-file-matters-for-your-pc/"><u>MSDA80.DLL Explained: Why This File Matters for Your PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-steps-to-validate-your-youtube-login-for-2024/"><u>Quick Steps to Validate Your YouTube Login for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-restore-visual-clarity-to-youtube-videos-for-2024/"><u>Steps to Restore Visual Clarity to YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thunderbolt-3-drivers-download-and-update-for-windows-1087/"><u>Thunderbolt 3 Drivers Download & Update for Windows 10/8/7</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-13c-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi 13C 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

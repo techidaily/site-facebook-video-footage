@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 App Keeping You Out of Action? Here's How To Address The 'Application Has Stopped Working'"
-date: 2024-09-30T07:49:24.859Z
-updated: 2024-10-06T00:12:27.915Z
+date: 2024-10-09T23:43:58.493Z
+updated: 2024-10-12T02:47:40.422Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Run the game executable as administrator
 
  The first quick fix you can try is to run the game executable as administrator. Many players reported that providing the required administrator rights to Forza Horizon 5 has solved the crashing issue for them.
@@ -53,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
  You can either go to the game folder and directly run the game executable as administrator, or create a desktop shortcut then run it as admin. Both ways have solved the crashing problem for many players.
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -82,13 +68,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If updating the graphics driver doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Check your antivirus software
 
  Aggressive antivirus software could cause interference and cause Forza Horizon 5 to crash. If you’re using any antivirus software, there are a few things you can try:
@@ -109,25 +88,11 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Refresh your network
 
@@ -140,6 +105,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
@@ -168,13 +140,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 
@@ -184,6 +149,19 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
 **Here’s how to find out which one(s):**
@@ -192,9 +170,24 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
@@ -207,26 +200,26 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
  If performing a clean boot doesn’t solve your problem, no worries, we have one more fix for you.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -239,10 +232,30 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -263,22 +276,19 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-dive-into-the-premium-list-of-top-10-budget-friendly-youtube-designers/"><u>[New] 2024 Approved A Dive Into the Premium List of Top 10 Budget-Friendly YouTube Designers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-become-a-livestream-king-the-best-webcams-for-youtube-stars-for-2024/"><u>[New] Become a Livestream King The Best Webcams for YouTube Stars for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion-for-2024/"><u>[New] Choosing the Right Platform A Look at Vimeo, YouTube & DailyMotion for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] In 2024, Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-pivotal-role-of-thumbnails-in-video-success-stories/"><u>[New] The Pivotal Role of Thumbnails in Video Success Stories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[Updated] 2024 Approved Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>[Updated] 2024 Approved Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-reclaiming-snaps-secret-images-for-2024/"><u>[Updated] Reclaiming Snap's Secret Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-star-clusters-in-social-media-landscape/"><u>[Updated] Star Clusters in Social Media Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortlessly-correct-the-inverted-screen-problem-top-3-cost-free-solutions/"><u>Effortlessly Correct the Inverted Screen Problem: Top 3 Cost-Free Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-hacks-navigate-through-18-key-shortcuts-on-apples-ios-platform-with-ease/"><u>Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-samsung-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Samsung PIN</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/telegram-notifies-tracking-upholds-user-friendly-features/"><u>Telegram Notifies: Tracking Upholds User-Friendly Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-10-unforgettable-igtv-video-strategies-for-brand-success-for-2024/"><u>Top 10 Unforgettable IGTV Video Strategies for Brand Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-2023s-top-social-moment-infographics/"><u>[New] 2024 Approved 2023'S Top Social Moment Infographics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chart-success-the-top-online-stock-portals/"><u>[New] 2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-visual-stories-in-depth-pc-editing-techniques-for-youtube/"><u>[New] In 2024, Crafting Visual Stories In-Depth PC Editing Techniques for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-revenue-with-youtubes-mobile-monetization-features-for-creators/"><u>[New] Streamlining Revenue with YouTube's Mobile Monetization Features for Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-guide-to-successful-youtube-eluding-these-8-common-slips/"><u>[New] The Complete Guide to Successful YouTube Eluding These 8 Common Slips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safely-save-your-streaming-stash-with-these-free-tools/"><u>[Updated] Safely Save Your Streaming Stash with These Free Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722140060602-ais-influence-on-transforming-dreams-into-tangible-outcomes-discover-how/"><u>AI's Influence on Transforming Dreams Into Tangible Outcomes - Discover How</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-unstuck-from-qbittorrent-slowdowns-and-stalls-effective-solutions/"><u>How to Get Unstuck From qBittorrent Slowdowns and Stalls - Effective Solutions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/memorable-moments-downloading-tweets-emotive-graphics-for-2024/"><u>Memorable Moments Downloading Tweets’ Emotive Graphics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/protect-and-enhance-images-with-top-tools-for-2024/"><u>Protect & Enhance Images with Top Tools for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saying-bonjour-the-elegant-way-to-express-happiness-and-goodwill/"><u>Saying 'Bonjour': The Elegant Way to Express Happiness & Goodwill</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-to-overcome-iphone-image-management-hurdles-practical-solutions-inside/"><u>Tips to Overcome iPhone Image Management Hurdles – Practical Solutions Inside</u></a></li>
 </ul></div>
 

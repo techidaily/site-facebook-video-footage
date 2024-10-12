@@ -1,7 +1,7 @@
 ---
 title: "\"Quick-Win Strategies  Top 20 Video Tips for Content Boosters for 2024\""
-date: 2024-08-01T03:41:16.680Z
-updated: 2024-08-02T03:41:16.680Z
+date: 2024-10-07T18:36:37.171Z
+updated: 2024-10-12T03:33:55.383Z
 tags:
   - ai video
   - ai youtube
@@ -33,17 +33,12 @@ With that said, the following two-columned tables give you detailed information 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Category 1: YouTube Playback Hotkeys
 
 While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
@@ -54,8 +49,12 @@ While watching a YouTube video, there might be instances when you want to pause 
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
 This section talks about the shortcut keys to skim the video forward and backward during playback:
@@ -76,8 +75,18 @@ If you’re watching videos on YouTube mobile app, you can use double-tap on the
 Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Category 3: Manage Playback Speed
 
 This category contains information on increasing or decreasing the playback speed of a YouTube video:
@@ -135,9 +144,6 @@ In this category, the navigation and management of shortcut keys for 360o and Vi
 | '-' (Minus Key on Keyboard) | Decrease font size                                    |
 | '+' (Plus Key on Keyboard)  | Increase font size                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus: How to Get the YouTube Shortcut List with One-Click
 
 In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
@@ -148,10 +154,14 @@ In this section, you will learn how to pull up the list of important YouTube sho
 
 So, when you press the Shift+? on YouTube, you will see a full list of shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![YouTube Shortcut List](https://images.wondershare.com/filmora/article-images/youtube-keyboard-shortcuts-list.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -159,9 +169,6 @@ Watching videos on YouTube is fun, and you can enjoy the clips, movies, tutorial
 
 As one of the most popular video editing software among YouTubers, Filmora provides lots of effects, title templates, transitions, and elements as well as powerful video editing tools such as instant cutter tool, [scene detection](https://tools.techidaily.com/wondershare/filmora/download/), [beat detection](https://tools.techidaily.com/wondershare/filmora/download/), [motion tracking](https://tools.techidaily.com/wondershare/filmora/download/), animation keyframe, and much more. All these editing features and effects makes Filmora as one of the best video editing software for all creators.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -172,12 +179,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-express-thumbnails-for-epic-battle-royale/"><u>[New] 2024 Approved Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-video-downloader-round-up-1-5-edition/"><u>[New] 2024 Approved Facebook Video Downloader Round-Up #1-5 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos-for-2024/"><u>[New] Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-make-facebook-videos-extend-the-wallpaper-for-2024/"><u>[New] Make Facebook Videos Extend the Wallpaper for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-potential-best-gaming-content-to-elevate-your-channel/"><u>[New] Unleash Potential Best Gaming Content to Elevate Your Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>[Updated] 5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-compelling-end-screens-in-youtube-videos/"><u>[Updated] In 2024, Crafting Compelling End Screens in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-edge-16-youtube-intros-that-skyrocket-views/"><u>[Updated] Leading Edge 16 YouTube Intros That Skyrocket Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[Updated] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ringtone-repository-best-sources-online/"><u>2024 Approved Ringtone Repository Best Sources Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-top-bargain-video-snippets-grab-youtube-images-without-cost/"><u>2024 Approved Top Bargain Video Snippets - Grab YouTube Images Without Cost!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/an-introduction-to-bing-and-how-it-works/"><u>An Introduction to Bing and How It Works</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-n30-se-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-12r-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus 12R Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>In 2024, YouTube Partnership Unlocked Break Through at 10K Vistas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pinnacle-graphics-cards-for-4k-entertainment-for-2024/"><u>Pinnacle Graphics Cards for 4K Entertainment for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-youtube-trailer-editing-with-filmora-for-2024/"><u>The Essential Guide to YouTube Trailer Editing with Filmora for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s18-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo S18 Pro Users</u></a></li>
+</ul></div>
 

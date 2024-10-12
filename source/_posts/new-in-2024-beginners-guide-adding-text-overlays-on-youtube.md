@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Beginner's Guide  Adding Text Overlays on YouTube\""
-date: 2024-08-01T03:46:10.148Z
-updated: 2024-08-02T03:46:10.148Z
+date: 2024-10-06T18:43:53.966Z
+updated: 2024-10-12T06:25:19.240Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 # How To Add Captions to YouTube Videos
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,25 +28,10 @@ By captioning your YouTube videos you help to make them accessible to more poten
 
 This article will first explain how you can turn on subtitles for the videos you watch and then walk you through adding captions to your own videos.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Turn On Captions on YouTube
 
 In order for you to be able to view subtitles for a YouTube video the uploader of the video will need to have added them, unless you change your account settings to display automatic captions.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![captions](https://images.wondershare.com/filmora/article-images/captions-how-to-turn-on.JPG)
 
 To toggle subtitles on and off click on the Closed Captioning icon in the bottom right of your video player.
@@ -60,8 +41,12 @@ If the creator of the video has not added captions then you can enable automatic
 If you want to change the language of the subtitles click on the settings icon (the one that looks like a gear) next to the closed captioning icon and choose your language next to   **Subtitles/CC** . If the language you want is not there select **Auto-Translate**  and then pick a language. Google Translate will be used to generate subtitles in your chosen language.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Adding YouTube Captions in 4 Steps
 
 1\. Go to **Video Manager** in your **Creator Studio** and then look at your videos. Decide which one you want to add captions to.
@@ -84,10 +69,14 @@ If you want to change the language of the subtitles click on the settings icon (
 
 The easiest way to add subtitles to your videos is to use **Automatic Captioning**. However, Automatic Captioning is imperfect and may result in your viewers getting a sloppy, skewed, interpretation of your video. Automatic captions are also not indexed by YouTube and Google the way subtitles you create or upload are. This means that they will not have any value to your SEO strategy. If you do not input your own captions or transcript you are missing out on an opportunity for better search engine rankings. Automatic Captions are great if you do not have time to input subtitles and need a temporary solution, though.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -95,12 +84,26 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-dark-heroity-meets-radiant-righteousness/"><u>[New] Dark Heroity Meets Radiant Righteousness</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fanfare-gaming-patch/"><u>[New] Fanfare Gaming Patch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] In 2024, Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unleash-the-full-potential-of-your-android-device-with-obs-studio-for-2024/"><u>[New] Unleash the Full Potential of Your Android Device with OBS Studio for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-discovering-your-own-original-tagline-in-the-realm-of-tiktok-for-2024/"><u>[Updated] Discovering Your Own Original Tagline in the Realm of TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>[Updated] Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-extended-loading-intervals-for-star-wars-battlefront-ii-on-personal-computers/"><u>How to Fix Extended Loading Intervals for Star Wars: Battlefront II on Personal Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-5-240w-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps3-titles-on-a-ps4-possible/"><u>PS3 Titles on a PS4: Possible?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-content-with-youtube-split-screen-videos-for-2024/"><u>Revolutionize Your Content with YouTube Split-Screen Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-storyline-secret-to-youtube-triumph-for-2024/"><u>The Storyline Secret to YouTube Triumph for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-economic-model-month-to-month-income-in-2024/"><u>YouTube's Economic Model Month-to-Month Income, In 2024</u></a></li>
+</ul></div>
 

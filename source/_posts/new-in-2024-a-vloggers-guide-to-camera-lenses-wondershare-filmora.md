@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, A Vlogger's Guide To Camera Lenses | Wondershare Filmora"
-date: 2024-08-01T03:45:52.080Z
-updated: 2024-08-02T03:45:52.080Z
+date: 2024-10-04T20:06:26.163Z
+updated: 2024-10-11T21:41:49.023Z
 tags:
   - ai video
   - ai youtube
@@ -78,23 +78,14 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -111,18 +102,33 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Aperture
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
 
@@ -145,8 +151,12 @@ But do you even need a fast lens?
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -167,12 +177,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-excellence-in-quality-leading-4k-panels-for-filmmaking/"><u>[New] 2024 Approved Excellence in Quality Leading 4K Panels for Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] In 2024, Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovative-split-screen-videos-for-youtube-sharing/"><u>[New] Innovative Split-Screen Videos for YouTube Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-ios-pro-and-plus-free-film-apps-unveiled/"><u>[New] Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-blitzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[Updated] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-precision-the-art-of-perfect-online-image-trimming/"><u>[Updated] Digital Precision The Art of Perfect Online Image Trimming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-copycatting-charisma-making-ingenious-parodies/"><u>[Updated] In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[Updated] In 2024, Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-simple-troubleshooting-steps-to-resolve-installation-hangs-when-setting-up-new-files/"><u>1. Simple Troubleshooting Steps to Resolve Installation Hangs When Setting Up New Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-with-zombies-army-4-dead-war-pc-collision/"><u>Fixing Issues with Zombies, Army 4: Dead War PC Collision</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-p40-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel P40 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>In 2024, Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/redefining-audio-quality-with-samsung-galaxy-buds-pro/"><u>Redefining Audio Quality with Samsung Galaxy Buds Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spawning-new-worlds-chatgpt-generative-ai-for-unique-dandd-creatures/"><u>Spawning New Worlds: ChatGPT, Generative AI for Unique D&D Creatures</u></a></li>
+</ul></div>
 

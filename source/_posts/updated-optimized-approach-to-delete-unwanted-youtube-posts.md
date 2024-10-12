@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimized Approach to Delete Unwanted YouTube Posts"
-date: 2024-10-05T06:24:57.292Z
-updated: 2024-10-06T09:11:17.287Z
+date: 2024-10-07T06:57:27.182Z
+updated: 2024-10-11T22:20:18.059Z
 tags:
   - ai video
   - ai youtube
@@ -48,10 +48,10 @@ In this section, we will tell you how you can do it from your desktop.
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All YouTube Comments from Mobile?
@@ -91,10 +91,10 @@ If it is your video where the comment to be removed is, you can go to My Channel
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
@@ -118,17 +118,16 @@ To find your History from your desktop, you need to click on the three horizonta
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -143,6 +142,13 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
 
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
@@ -171,16 +177,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-erase-unwanted-black-fringes-on-youtube-tracks-for-2024/"><u>[New] Erase Unwanted Black Fringes on YouTube Tracks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[Updated] The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>[Updated] The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>[Updated] The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-videography-101-editing-essentials-taught/"><u>[Updated] YouTube Videography 101 Editing Essentials Taught</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach/"><u>2024 Approved How to Archive Instagram Movies A Comprehensive PC & Mac Approach</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-the-production-process-of-your-short-videos/"><u>2024 Approved Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instant-aspect-update-via-internet/"><u>Instant Aspect Update via Internet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-ereader-devices-a-comprehensive-guide/"><u>Top-Ranked eReader Devices : A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7: Complete Fix Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-success-star-citizen-no-longer-crashing-on-your-windows-pc/"><u>Troubleshooting Success: Star Citizen No Longer Crashing on Your Windows PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[New] Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[Updated] 2024 Approved Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] 2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enriched-tv-experience-seamlessly-looping-online-content-for-2024/"><u>[Updated] Enriched TV Experience Seamlessly Looping Online Content for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-master-screen-integration-into-real-time-streaming/"><u>[Updated] Master Screen Integration Into Real-Time Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>[Updated] The Editor's Journey Creating Impactful Videos for YouTube with PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/how-to-find-your-comments-on-youtube-in-2024/"><u>How to Find Your Comments on YouTube, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-massive-popularity-in-stock-imagery-tales-of-success/"><u>In 2024, Massive Popularity in Stock Imagery Tales of Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-lenovo-bluetooth-driver-version-for-windows-710-users-secure-download-and-setup-process/"><u>Official Lenovo Bluetooth Driver Version for Windows 7/10 Users: Secure Download & Setup Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-usb-detection-issues-on-windows-11-a-step-by-step-guide/"><u>Resolving USB Detection Issues on Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-age-of-wonders-planetfall-from-crashing-on-windows/"><u>Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-guide/"><u>Virtualdub Vs. The Competition A Comprehensive Review and Alternative Guide</u></a></li>
 </ul></div>
 

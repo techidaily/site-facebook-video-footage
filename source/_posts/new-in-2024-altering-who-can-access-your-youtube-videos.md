@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Altering Who Can Access Your YouTube Videos"
-date: 2024-08-01T03:46:00.883Z
-updated: 2024-08-02T03:46:00.883Z
+date: 2024-10-09T05:09:57.892Z
+updated: 2024-10-12T04:48:52.476Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 # How to Change the Privacy Setting on Your YouTube Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  Want to make your YouTube videos more beautiful within minutes? Here we recommend an easy-to-use video editing software for beginner for your reference - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Part 1: Public VS Unlisted VS Private
 
  Let's figure out some terms before runing into the how-to part.
@@ -67,10 +58,20 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  It won’t show up on searches, as related or suggested videos, or even when imbedded in other sites. This is the best setting for a video you need to share with only very specific people, if anyone. Below is a comparison table to know more about [privacy settings](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en&oco=1).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube privacy setting](https://images.wondershare.com/filmora/article-images/youtube-privacy-setting.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change Privacy Settings
 
@@ -82,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![upload youtube video privacy](https://images.wondershare.com/filmora/article-images/upload-youtube-video-privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Method 2:**
 
  To change the privacy setting later, go to Creator Studio, then Video Manager. On the right-hand side you’ll see one of three icons: a world, a chain, and a lock. The world means **"public"**, the chain means **"unlisted"**, and the lock is for **"private"**.
@@ -91,13 +99,24 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  To change the privacy, click the icon. You’ll be taken to the video's info and settings page. Down below where you see the thumbnails you'll see the selected privacy setting. Click this to open a drop down menu, and select your desired privacy level.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Sharing Private Videos
 
  If a video is set to "private', you'll have the option to share it with specific people. Below where it says "private" on the info and settings page you'll see a button labeled "share". Click this and type in the email addresses of the people you want to be able to watch the video. You’ll also have the option of notifying the people via email that you’ve shared the video with them.
 
 ![share youtube privacy video](https://images.wondershare.com/filmora/article-images/share-private-video.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -105,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -116,12 +132,25 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[New] 2024 Approved Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ways-to-download-video-twitter-to-mp3/"><u>[New] In 2024, Ways to Download Video Twitter to MP3</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-the-market-essential-youtube-finance-channels/"><u>[New] Mastering the Market Essential YouTube Finance Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chasing-channel-currency-the-updated-youtube-partner-guide/"><u>[Updated] 2024 Approved Chasing Channel Currency The Updated Youtube Partner Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications/"><u>[Updated] In 2024, A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>[Updated] No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-comprehensive-shoppers-guide-for-top-360cams-for-2024/"><u>[Updated] The Comprehensive Shopper’s Guide for Top 360Cams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-lives-image-language/"><u>[Updated] Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-video-hacks-instant-mp4-downloads/"><u>FB Video Hacks Instant MP4 Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-hobbyist-to-pro-the-full-potential-of-sj-cam-s6/"><u>From Hobbyist to Pro The Full Potential of SJ-CAM S6</u></a></li>
+</ul></div>
 

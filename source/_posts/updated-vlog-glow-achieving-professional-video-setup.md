@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2024-10-04T09:47:12.706Z
-updated: 2024-10-06T00:14:16.218Z
+date: 2024-10-08T17:25:11.021Z
+updated: 2024-10-11T17:51:30.177Z
 tags:
   - ai video
   - ai youtube
@@ -45,19 +45,19 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
@@ -86,6 +86,13 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
@@ -93,16 +100,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -110,13 +111,6 @@ If you are using all of the lighting options available to you and your video sti
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -133,22 +127,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[New] 2024 Approved Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-engage-audiences-writing-magical-youtube-description-templates-for-higher-views-for-2024/"><u>[New] Engage Audiences Writing Magical YouTube Description Templates for Higher Views for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-eradicated-muted-video-entries-shorts-for-2024/"><u>[New] Eradicated Muted Video Entries (Shorts) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>[New] From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frosty-feats-at-the-olympics-of-2022/"><u>[New] Frosty Feats at the Olympics of 2022</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-becoming-a-pro-in-video-game-broadcasts-for-2024/"><u>[Updated] Becoming a Pro in Video Game Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-branding-excellence-integrating-watermarks-and-logos-into-video-media-for-2024/"><u>[Updated] Branding Excellence Integrating Watermarks and Logos Into Video Media for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-easy-customization-free-youtube-visual-templates/"><u>[Updated] In 2024, Easy Customization Free YouTube Visual Templates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>[Updated] In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>[Updated] In 2024, The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ceasing-noise-during-obs-recordings/"><u>Ceasing Noise During OBS Recordings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-scanjet-driver-version-now-windows-supported-11-8-n-based-software-and-more/"><u>Get the Newest HP Scanjet Driver Version Now - Windows Supported (11, 8, N-Based Software, and More</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-k70e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi K70E Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-new-in-youtube-money-regulations/"><u>In 2024, What's New in YouTube Money Regulations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sonys-pursuit-of-perfection-the-4k-smartphone-experience-for-2024/"><u>Sony's Pursuit of Perfection The 4K Smartphone Experience for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>Updated In 2024, How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/opycatting-charisma-making-ingenious-parodies-for-2024/"><u>[New] Copycatting Charisma Making Ingenious Parodies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-youtube-presence-with-strategic-banners-for-2024/"><u>[New] Elevating Your YouTube Presence with Strategic Banners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bite-sized-video-lessons-clearly/"><u>[New] In 2024, Bite-Sized Video Lessons, Clearly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>[New] Video Brand Enhancement Embedding Logos/Watermarks for YouTube Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[Updated] 2024 Approved Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] In 2024, Aim Higher Boosting Views and Reach on YouTube</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-list-of-serene-pc-gaming-for-2024/"><u>The Ultimate List of Serene PC Gaming for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-eliminating-windows-11s-dark-display-dilemma/"><u>Troubleshooting Tips: Eliminating Windows 11'S Dark Display Dilemma</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-blockbusters-and-classic-shows-for-free-discover-crackle-streaming-service/"><u>Watch Blockbusters & Classic Shows for Free - Discover 'Crackle' Streaming Service</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

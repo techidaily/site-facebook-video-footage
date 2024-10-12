@@ -1,7 +1,7 @@
 ---
 title: "Chrome Optimized Performance: Overcoming High CPU Drain Issues"
-date: 2024-09-30T06:00:47.010Z
-updated: 2024-10-06T04:42:36.727Z
+date: 2024-10-10T03:07:16.248Z
+updated: 2024-10-12T02:23:04.855Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -64,16 +71,23 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
@@ -88,16 +102,16 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -136,25 +150,18 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -166,30 +173,17 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch GTFO to see you can play it smoothly.
 
@@ -216,17 +210,22 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>[New] 2024 Approved Optimizing Screen Captures Expert Techniques for HP Laptops</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-examining-youtubes-noteworthy-chats-for-2024/"><u>[New] Examining YouTube's Noteworthy Chats for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[New] In 2024, Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-strategies-in-tagging-and-titling-videos-for-success/"><u>[New] In 2024, Strategies in Tagging and Titling Videos for Success</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leading-5-digital-videography-devices-for-2024/"><u>[New] Leading 5 Digital Videography Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creator-revenue-streams-amidst-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved Creator Revenue Streams Amidst the World of YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[Updated] In 2024, Audiovisual Experts' Choices The Ultimate Video Editing Gear</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-easy-entree-straightforward-screen-capture-methods-dell/"><u>2024 Approved Easy Entrée Straightforward Screen Capture Methods (Dell)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-programs-for-vector-drawing-and-design-mastery/"><u>2024 Approved Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-strategies-for-optimal-youtube-shorts-growth/"><u>In 2024, Strategies for Optimal YouTube Shorts Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-learn-how-to-utilize-this-advanced-tool-effectively/"><u>Mastering Claude 3: Learn How To Utilize This Advanced Tool Effectively</u></a></li>
-<li><a href="https://driver-install.techidaily.com/snappy-driver-update-routine-windows-11817/"><u>Snappy Driver Update Routine (Windows 11/8.1/7)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-beginners-guide-to-io-screen-video/"><u>[New] 2024 Approved Beginner's Guide to IO Screen Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-uploading-lengthy-video-masterpieces-on-youtube/"><u>[New] 2024 Approved Crafting & Uploading Lengthy Video Masterpieces on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-self-assured-vlogging-channeling-youtube-stars/"><u>[New] Mastering Self-Assured Vlogging Channeling YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-face-forward-top-makeup-creatives/"><u>[New] The Face Forward Top Makeup Creatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-authentic-audience-growth-practical-advice-for-content-creators/"><u>[Updated] 2024 Approved Authentic Audience Growth Practical Advice for Content Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhance-projects-no-cost-templates-for-pp-prodigies/"><u>[Updated] 2024 Approved Enhance Projects No-Cost Templates for PP Prodigies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>[Updated] Navigating Content Sharing YouTube Standards Vs. Creative Commons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>[Updated] Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/webm-wav-movavi/"><u>免費線上WebM WAV格式切換服務 - Movavi專業解答方案</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-slogan-generator-for-virtual-events/"><u>Best Slogan Generator for Virtual Events</u></a></li>
+<li><a href="https://win-great.techidaily.com/efficiently-attaching-files-via-vba-scripting-in-microsoft-outlook-steps/"><u>Efficiently Attaching Files via VBA Scripting in Microsoft Outlook Steps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-harmonizing-in-tiktoks-duo-videos/"><u>In 2024, Harmonizing in TikTok's Duo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-analyze-your-and-competitors-youtube-video/"><u>In 2024, How to Analyze Your and Competitor’s YouTube Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>In 2024, Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-create-gifs-from-images-using-your-computer/"><u>Simple Steps: Create GIFs From Images Using Your Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-pinnacle-of-amusement-select-15-laughing-out-loud-channels-for-2024/"><u>The Pinnacle of Amusement Select 15 Laughing-Out-Loud Channels for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-resolving-your-game-of-gears-5-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Your Game of Gears 5 Crashes</u></a></li>
 </ul></div>
 

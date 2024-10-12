@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Elevate Video Engagement by Inserting Captions\""
-date: 2024-08-01T03:43:44.392Z
-updated: 2024-08-02T03:43:44.392Z
+date: 2024-10-09T20:28:35.227Z
+updated: 2024-10-11T18:11:12.984Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
 # How To Add Captions to YouTube Videos
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,17 +28,10 @@ By captioning your YouTube videos you help to make them accessible to more poten
 
 This article will first explain how you can turn on subtitles for the videos you watch and then walk you through adding captions to your own videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How To Turn On Captions on YouTube
 
 In order for you to be able to view subtitles for a YouTube video the uploader of the video will need to have added them, unless you change your account settings to display automatic captions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![captions](https://images.wondershare.com/filmora/article-images/captions-how-to-turn-on.JPG)
 
 To toggle subtitles on and off click on the Closed Captioning icon in the bottom right of your video player.
@@ -51,8 +41,18 @@ If the creator of the video has not added captions then you can enable automatic
 If you want to change the language of the subtitles click on the settings icon (the one that looks like a gear) next to the closed captioning icon and choose your language next to   **Subtitles/CC** . If the language you want is not there select **Auto-Translate**  and then pick a language. Google Translate will be used to generate subtitles in your chosen language.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Adding YouTube Captions in 4 Steps
 
 1\. Go to **Video Manager** in your **Creator Studio** and then look at your videos. Decide which one you want to add captions to.
@@ -75,10 +75,14 @@ If you want to change the language of the subtitles click on the settings icon (
 
 The easiest way to add subtitles to your videos is to use **Automatic Captioning**. However, Automatic Captioning is imperfect and may result in your viewers getting a sloppy, skewed, interpretation of your video. Automatic captions are also not indexed by YouTube and Google the way subtitles you create or upload are. This means that they will not have any value to your SEO strategy. If you do not input your own captions or transcript you are missing out on an opportunity for better search engine rankings. Automatic Captions are great if you do not have time to input subtitles and need a temporary solution, though.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -86,12 +90,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-engagement-learn-to-dim-youtube-video-backgrounds-for-2024/"><u>[New] Enhance Engagement Learn to Dim YouTube Video Backgrounds for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-binge-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>[New] In 2024, Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>[New] Making a Mark Jujutsu Kaisen on the TikTok Scene</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essentials-of-combining-apple-music-and-videos/"><u>[New] The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>[New] Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uncover-the-globes-secrets-with-these-youtubers/"><u>[New] Uncover the Globe's Secrets with These Youtubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/1717302610315-updated-tiny-snippets-deciphered-important-facts/"><u>[Updated] Tiny Snippets Deciphered Important Facts!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-direct-conversation-on-snapchat-follow-these-steps-for-2024/"><u>[Updated] Unlocking Direct Conversation on Snapchat - Follow These Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-non-mic-sound-capture-methods/"><u>[Updated] Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-storytelling-gear-selection-guide/"><u>In 2024, Journey to Storytelling Gear Selection Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-nvidia-geforce-driver-update-available-download-for-windows-systems/"><u>Newest NVIDIA GeForce Driver Update Available - Download for Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-cuts-on-demand-top-10-apps-for-youtube-short-edits-for-2024/"><u>Perfect Cuts on Demand Top 10 Apps for Youtube Short Edits for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unraveling-uneven-earbud-volume-top-4-solutions-for-asymmetrical-sound-in-airpods/"><u>Unraveling Uneven Earbud Volume: Top 4 Solutions for Asymmetrical Sound in AirPods</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expert Tips  Activating or Deactivating YouTube Comments\""
-date: 2024-08-01T03:44:03.979Z
-updated: 2024-08-02T03:44:03.979Z
+date: 2024-10-09T06:28:13.489Z
+updated: 2024-10-12T04:55:50.841Z
 tags:
   - ai video
   - ai youtube
@@ -38,9 +38,6 @@ If you don’t want any comments on any of the videos that you publish, you must
 
 Use your favorite web browser to go to YouTube and sign in to your Google account. Click your profile picture from the top-right corner of the webpage, and click **YouTube Studio** from the menu that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
 #### Step 2: Go to Channel’s Advanced Settings
@@ -59,9 +56,6 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 #### 2\. Define Acceptable Comment Types
@@ -97,8 +91,12 @@ Selecting this option holds all the comments from all the users, and waits for y
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -119,11 +117,22 @@ From under the **Audience** section in the right window of the **Video details**
 
 ![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About YouTube Comments
 
 #### 1\. Why can’t I comment on the YouTube video?
@@ -138,10 +147,14 @@ At the time of this writing, YouTube doesn’t allow anyone to post a comment on
 
 You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **Automated Filters** tab in the right window, add the words to block in the **Blocked words** field. You can add multiple words by separating them with commas. To block the comments with links, check the **Block links** box. Click **SAVE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
@@ -155,9 +168,6 @@ That depends on the nature of the comments. For instance, if you modify the sett
 
 It is easy to understand **how to turn on comments on YouTube**. The best thing is, the comments are enabled by default, and if you don’t need them, you can simply disable them by configuring the videos or the entire channel as ‘Made for kids’. If the comments on any video were enabled previously, and are disabled later on, the existing comments automatically disappear. They reappear when the comments on the video are reenabled.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -166,12 +176,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement-for-2024/"><u>[New] 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ey-view-figures-for-earning-living-on-youtube/"><u>[New] Key View Figures for Earning Living on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-resurrecting-lost-confidential-snapshots/"><u>[New] Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>[New] The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-potential-creating-a-youtube-channel-that-shines-in-games/"><u>[New] Unleash Potential Creating a YouTube Channel that Shines in Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles/"><u>[Updated] 2024 Approved From Struggle to Success A Collection of Best Practices for FB Profiles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-9-essential-apps-for-pulling-youtube-videos-android-for-2024/"><u>[Updated] 9 Essential Apps for Pulling YouTube Videos (Android) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen/"><u>[Updated] Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-time-markers-in-youtube-videos-desktopmobile-edition/"><u>[Updated] In 2024, Efficient Time Markers in YouTube Videos (Desktop/Mobile Edition)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-yt-thumbnail-mastery-guide-to-your-videos-best-images/"><u>[Updated] YT Thumbnail Mastery Guide to Your Video's Best Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-live-stream-providers-with-10-top-insights/"><u>In 2024, Navigating Live Stream Providers with 10 Top Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-testimony-on-fugetek-ft-568-a-durable-top-of-the-line-choice-for-selfies/"><u>Master Testimony on Fugetek FT-568: A Durable, Top-Of-The-Line Choice for Selfies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-event-id-1000-on-your-pc-windows-7810/"><u>Resolving Event ID 1000 on Your PC (Windows 7/8/10)</u></a></li>
+</ul></div>
 
