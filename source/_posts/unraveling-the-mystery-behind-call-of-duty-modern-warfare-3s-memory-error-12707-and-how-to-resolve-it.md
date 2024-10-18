@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind Call of Duty Modern Warfare 3'S Memory Error 12707 and How to Resolve It
-date: 2024-10-06T17:15:46.159Z
-updated: 2024-10-11T21:48:21.392Z
+date: 2024-10-14T05:26:08.237Z
+updated: 2024-10-18T01:54:06.804Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the system requirements
 
  Before any complex fixes, check if your PC meets the minimum requirements.
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 ### Fix 2: Update your driver
@@ -78,8 +78,28 @@ There are mainly two ways you can update the driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable your integrated graphics
 
@@ -94,13 +114,6 @@ There are mainly two ways you can update the driver:
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Disable integrated graphics through Device Manager** :
 
 1. Click the**Search** icon on the bottom of your screen.
@@ -108,22 +121,21 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -139,23 +151,10 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -169,20 +168,27 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Save and restart regularly
 
@@ -209,17 +215,21 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>[Updated] Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-craft-of-loom-seamless-screen-recording-guide/"><u>[Updated] The Craft of Loom Seamless Screen Recording Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-dji-airborne-prototype-scrutiny/"><u>2024 Approved DJI Airborne Prototype Scrutiny</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screen-recording-techniques-for-windows-8-users/"><u>2024 Approved Screen Recording Techniques for Windows 8 Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-blueprint-crafting-engaging-youtube-content-via-windows-movie-maker/"><u>2024 Approved Step-by-Step Blueprint Crafting Engaging YouTube Content via Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>2024 Approved YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pro-video-illumination-top-strategies-for-immaculate-cinematography/"><u>In 2024, Pro Video Illumination Top Strategies for Immaculate Cinematography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-journey-enhancers-best-narrative-methods/"><u>In 2024, YouTube Journey Enhancers Best Narrative Methods</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>Updated In 2024, Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vob-dateien-spielen-unter-windows-10-und-macos-eine-schritt-fur-schritt-anleitung/"><u>VOB-Dateien Spielen Unter Windows 10 Und macOS: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/yt-cover-art-the-key-to-more-views-for-2024/"><u>YT Cover Art The Key to More Views for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-drafting-an-exciting-cinema-flashbacks-series/"><u>[New] 2024 Approved Drafting an Exciting Cinema Flashbacks Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-vlogging-effective-use-of-jump-cuts-for-2024/"><u>[Updated] Elevate Vlogging Effective Use of Jump Cuts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-expert-selecting-best-yt-cameras/"><u>[Updated] From Novice to Expert Selecting Best YT Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-7-creative-thumbnails-free-tools-for-youtube/"><u>[Updated] In 2024, 7 Creative Thumbnails Free Tools for YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities/"><u>[Updated] In 2024, Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-road-to-flawless-screen-recording-with-recmeister/"><u>[Updated] In 2024, The Road to Flawless Screen Recording with Recmeister</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inspire-dont-impose-the-art-of-attracting-subscribers/"><u>[Updated] Inspire, Don't Impose The Art of Attracting Subscribers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-planets-favorites-youtube-sensations-and-their-view-counts-for-2024/"><u>[Updated] Planet's Favorites YouTube Sensations and Their View Counts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>[Updated] Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-xbox-external-drives-review-summary/"><u>2024 Approved Essential Xbox External Drives Review Summary</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-viral-internet-landscape/"><u>2024 Approved Navigating the Viral Internet Landscape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/5yuv55s744gu5yplusw44kk6l6844g44gm6zuj44gx44ge5pmc44cb44or44ov44o844oh44kj44os44kv44k44o844gn5aplusplus5yem5rov44gv5l2v44gl77yf/"><u>動画の取り込みが難しい時、パワーディレクターで対処法は何か？</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/start-streaming-sports-creating-your-own-mac-based-channel-for-2024/"><u>Start Streaming Sports Creating Your Own Mac-Based Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-mobile-sound-treat-asmr-for-2024/"><u>The Ultimate Mobile Sound Treat ASMR for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-fichier-mp4-en-format-aac-sans-frais-avec-movavi-en-ligne/"><u>Transformez Votre Fichier MP4 en Format AAC Sans Frais Avec Movavi en Ligne</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-multitasking-with-windows-11-in-mac-os-using-parallels/"><u>Unlock Full Potential: Multitasking with Windows 11 in Mac OS Using Parallels</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Countdown in Forward  The Counterintuitive Playlist Method for 2024\""
-date: 2024-10-04T10:16:09.843Z
-updated: 2024-10-06T02:01:55.248Z
+date: 2024-10-15T00:13:26.805Z
+updated: 2024-10-18T03:09:14.542Z
 tags:
   - ai video
   - ai youtube
@@ -45,13 +45,6 @@ Step 2:
 
 ![search irdium youtube extension](https://images.wondershare.com/filmora/article-images/searching-iridium-for-youtube-extension.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3:
 
 * Open the extension page.
@@ -59,6 +52,19 @@ Step 3:
 * Click the"Add Extension"option in the pop-up menu.
 
 ![add extension on youtube](https://images.wondershare.com/filmora/article-images/adding-iridium-for-youtube-to-chrome.png)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4:Open a new page, visit [YouTube](https://www.youtube.com/), and a pop-up window will appear. Select"Close"to terminate it, and clickthe"Menu"(hamburger) icon in the top left corner of the screen. Next, scroll down and open your savedPlaylistthat you want to reverse.
 
@@ -69,19 +75,20 @@ Step 5: Click the "Play All" option in the details section of the playlist and c
 ![set iridim for youtube](https://images.wondershare.com/filmora/article-images/setting-iridium-for-youtube-to-reverse-playlist.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's about it. You will now be able to watch a YouTube playlist in reverse order.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using The Third Website
 
@@ -97,13 +104,6 @@ Step 2: In the next step, open a new tab and visit the ["Playlist.Tools"](https:
 
 Step 3: Finally, click the "Sort" icon and select descending order to reverse your playlist. You can always return to the original sequence by clicking the "Original Sequence" option in the top right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Changing the Ordering in Settings
 
 If you are a content creator on YouTube and want to reverse the videos' order in a playlist on your channel, do the following steps in sequence:
@@ -117,22 +117,22 @@ You can also utilize the "Sort" option to reverse the playlist. To do so, click 
 ![reverse youtube playlist order](https://images.wondershare.com/filmora/article-images/sorting-the-playlist-order-to-reverse-it.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Bonus Tip for YouTube Creator: Make Your Own YouTube Channel Trailer
 
 As a YouTube content creator, you need to set your videos' order in your Playlist. Besides, the video's trailer also influences your audiences' browsing and watching experience. To help you with this part in case you are in need, we have prepared a video tutorial for you - How To Make Your Own YouTube Channel Trailer. If you have any interests, please don't miss it, and see how to make a fantastic video trailer with a user-friendly video editor [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/):
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding Playlist to Your Private Playlist
 
@@ -175,18 +175,22 @@ So, keep reading to learn how to reverse a YouTube playlist so you can watch the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-achieving-expert-control-the-steam-switch-controllers-guide/"><u>[New] 2024 Approved Achieving Expert Control The Steam Switch Controllers Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-engage-audiences-best-hashtags-for-going-viral-on-yt-for-2024/"><u>[New] Engage Audiences Best Hashtags for Going Viral on YT for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-audiovisual-excellence-on-youtube-through-enhancements-for-2024/"><u>[Updated] Audiovisual Excellence on YouTube Through Enhancements for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-online-placements-for-youtube-video-popularity/"><u>[Updated] Best Online Placements for YouTube Video Popularity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoiding-youtubes-controversial-scrutiny/"><u>[Updated] In 2024, Avoiding YouTube's Controversial Scrutiny</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-tools-to-transform-your-vocal-recordings/"><u>[Updated] Leading Tools to Transform Your Vocal Recordings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/plating-perfection-30-unique-and-appealing-recipe-channels-for-2024/"><u>Plating Perfection 30 Unique and Appealing Recipe Channels for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-lag-and-stutter-problem-in-fortnite-on-your-computer/"><u>Solving the Lag and Stutter Problem in Fortnite on Your Computer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-economic-escalade-of-ajey-and-carryminati-on-youtube-for-2024/"><u>The Economic Escalade of Ajey and CarryMinati on YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-flaky-airdrop-links-simple-steps-to-solutions-for-2024/"><u>Troubleshoot Flaky AirDrop Links Simple Steps to Solutions for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-150-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 150 (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[New] 2024 Approved Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unpacking-the-best-youtube-music-reactions-2023/"><u>[New] Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-editors-assistant-top-5-portable-devices-for-vfx-artists-for-2024/"><u>[Updated] Editor's Assistant Top 5 Portable Devices for VFX Artists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-online-presence-a-guide-to-thriving-youtube-branding-for-2024/"><u>[Updated] Elevate Your Online Presence A Guide to Thriving YouTube Branding for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-engaging-viewers-at-the-end-of-a-yt-video-for-2024/"><u>[Updated] Engaging Viewers at the End of a YT Video for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-financial-flourishing-with-glamour-vlogs/"><u>[Updated] Financial Flourishing with Glamour Vlogs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-groundbreaking-action-adventure-masterpieces-top-10/"><u>[Updated] In 2024, Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-precision-photography-leading-tripods-for-smartphones/"><u>[Updated] In 2024, Precision Photography Leading Tripods for Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-influencer-networks-for-video-game-success/"><u>[Updated] Leveraging Influencer Networks for Video Game Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-download-of-your-youtube-playlist-today/"><u>[Updated] Mastering the Download of Your YouTube Playlist Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-captivating-content-uploading-h-videos-for-igtv-success/"><u>2024 Approved Crafting Captivating Content Uploading H-Videos for IGTV Success</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/access-iversity-online-lessons-secure-your-copy-of-mooca-and-professional-tutorial-videos/"><u>Access Iversity Online Lessons: Secure Your Copy of MOOCA and Professional Tutorial Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-hevc-codec-installation-guide-for-windows-10-users-unable-to-play-hevc-videos/"><u>Free HEVC Codec Installation Guide for Windows 10 Users Unable to Play HEVC Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-10-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 10 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dell-speaker-and-microphone-errors-in-windows-7/"><u>Resolving Dell Speaker and Microphone Errors in Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshoot-face-recognition-top-5-fixes-when-your-facial-identification-fails/"><u>Troubleshoot Face Recognition: Top 5 Fixes When Your Facial Identification Fails</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Building a Solid Foundation  YouTube Video Script Basics\""
-date: 2024-08-01T03:38:13.949Z
-updated: 2024-08-02T03:38:13.949Z
+date: 2024-10-12T17:33:16.657Z
+updated: 2024-10-17T16:18:57.703Z
 tags:
   - ai video
   - ai youtube
@@ -40,37 +40,42 @@ You have a great idea for a video, but you’re just not sure how to express it 
 Here are some things to do before you start writing your script for YouTube:
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Collect Ideas
 
 Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Find an area that is not distracting
 
 Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Writing a Script for a YouTube Video
 
 Now that you're ready to sit down and write, here's what you do:
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Create an outline for your story
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Set the tone
 
 The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
@@ -101,14 +106,18 @@ While you are scripting and focusing on the information you want to deliver, it�
 
 Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## After Writing your YouTube Video Script
 
 After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
 
 These are the tips to keep in mind when considering how to write a script for a YouTube video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add Subtitles to Your YouTube Video with Wondershare Filmora
 
@@ -124,12 +133,28 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-transformation-from-zero-to-thousand-followers/"><u>[New] 2024 Approved Channel Transformation From Zero to Thousand Followers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>[New] 2024 Approved Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-chaptered-cinema-on-vimeo-cutting-techniques-explained/"><u>[New] In 2024, Chaptered Cinema on Vimeo Cutting Techniques Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-tutorial-on-youtube-data-analysis/"><u>[New] The Ultimate Tutorial on YouTube Data Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps-for-2024/"><u>[Updated] Efficiently Add Your Own Look to YouTube Shorts via Simple Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[Updated] In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-bsod-a-comprehensive-guide-to-the-notorious-blue-screen-errors-on-pc/"><u>Decoding BSOD - A Comprehensive Guide to the Notorious Blue Screen Errors on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-4k-gaming-laptops-unleash-game-potential/"><u>In 2024, Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-beyond-boundaries-how-to-validate-your-tiktok-video-rights/"><u>In 2024, Beyond Boundaries How to Validate Your TikTok Video Rights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-e-identity-evolution-crafting-an-animated-persona/"><u>In 2024, E-Identity Evolution Crafting an Animated Persona</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-insights-top-10-capture-cards-for-youtube-enthusiasts-for-2024/"><u>Professional Insights Top 10 Capture Cards for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973197431-step-by-step-brother-mfc-7360n-driver-update-for-windows-11-8-and-7-users/"><u>Step-by-Step Brother MFC-7360N Driver Update for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-swift-solution-for-effortless-srt-to-text-txt-transform-for-2024/"><u>The Swift Solution for Effortless SRT to Text (TXT) Transform for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-zen-of-zoom-perfecting-your-video-experience/"><u>The Zen of Zoom Perfecting Your Video Experience</u></a></li>
+</ul></div>
 

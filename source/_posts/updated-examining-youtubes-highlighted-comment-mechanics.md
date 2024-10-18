@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Examining YouTube's Highlighted Comment Mechanics"
-date: 2024-10-02T09:10:53.169Z
-updated: 2024-10-05T16:50:43.136Z
+date: 2024-10-14T17:53:47.416Z
+updated: 2024-10-18T00:00:12.012Z
 tags:
   - ai video
   - ai youtube
@@ -54,28 +54,28 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Make My Comment Highlighted?
@@ -87,10 +87,10 @@ Thus, anybody who wants to get their YouTube comment an HC tag has to follow a f
 For example, if you are a YouTuber who deals in tech information, you need to look for a popular video or channel with a similar genre, in this case, technical knowledge. The more popular the channel is, the more is the chance of a viewer checking the comments on its videos. You will only benefit if you're comment is highlighted on pages of Youtuber's who are huge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Get the URL of Highlighted Comments?
@@ -103,13 +103,6 @@ Suppose you are a viewer who is going through the comments section of a video. I
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Reply to Highlighted Comments?
 
 Replying to "highlighted comments" on your YouTube channel is pretty easy since this feature was developed, keeping the user's convenience in mind. If you want to follow up or reply to such comments, you can do so from your email or YouTube Dashboard.
@@ -117,6 +110,19 @@ Replying to "highlighted comments" on your YouTube channel is pretty easy since 
 If you click the notification bell icon, whenever a viewer drops a new comment on one of your videos, YouTube will send you a notification via email. On opening the email, you will find a clickable "Reply" option. Or else, if you follow the comment section in the YouTube Dashboard, you can directly view or reply to highlighted comments from here as well.
 
 Have you ever wondered why a highlighted comment always shows at the top of the comment list? Both the above options will lead you to the comment thread on YouTube. To help you find the new activity easily, it appears with the highlight tag on it. The purpose is to remind you that you are here for that specific comment.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: How to Remove Highlighted Comments?
 
@@ -177,21 +183,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-innovative-yt-tales-share-your-life-journey/"><u>[New] 2024 Approved 5 Innovative YT Tales Share Your Life Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-examination-of-videoshow-24/"><u>[New] In-Depth Examination of VideoShow '24</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-leveraging-spotifys-advertising-mechanisms-for-2024/"><u>[New] Leveraging Spotify's Advertising Mechanisms for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-12-tactics-for-amplifying-your-youtube-traffic/"><u>[New] Top 12 Tactics for Amplifying Your YouTube Traffic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-captivating-video-narratives-for-youtube-success/"><u>[Updated] 2024 Approved Crafting Captivating Video Narratives for YouTube Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-abletons-art-of-softening-soundscapes/"><u>[Updated] Ableton's Art of Softening Soundscapes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-harnessing-online-revenue-multiplatform-studio-use/"><u>[Updated] Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size/"><u>[Updated] In 2024, Achieve More Engagement on YouTube Learn the Best Thumbnail Size</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digging-through-youtube-conversations/"><u>[Updated] In 2024, Digging Through YouTube Conversations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-7-streaming-tools-for-mac-os-x-for-2024/"><u>[Updated] Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-motorola-razr-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Razr 40 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Pixel 8 Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-c02-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C02 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-sound-setup-errors-in-windows-1110-environments/"><u>Fixing Dolby Atmos Sound Setup Errors in Windows 11/10 Environments</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-c55-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco C55 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rapid-techniques-mix-up-and-shuffle-youtube-listings-for-2024/"><u>Rapid Techniques Mix Up and Shuffle YouTube Listings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhance-video-transmission-success-in-messenger-apps-for-iphone-android-for-2024/"><u>[New] Enhance Video Transmission Success in Messenger Apps for iPhone, Android for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerating-engagement-with-optimized-youtube-video-speeds/"><u>[New] In 2024, Accelerating Engagement with Optimized YouTube Video Speeds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dodge-digital-watchers-accelerating-view-count-growth/"><u>[New] In 2024, Dodge Digital Watchers Accelerating View Count Growth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-navigating-steam-with-switch-pro/"><u>[Updated] 2024 Approved The Ultimate Guide to Navigating Steam with Switch Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[Updated] In 2024, Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>[Updated] In 2024, Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-superior-converter-mp4-to-facebook/"><u>[Updated] Superior Converter MP4 to Facebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-edge-40-neo-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Edge 40 Neo Phone When You Forget the Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-vivo-y27-4g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Vivo Y27 4G.</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/qnap-nasgoogle/"><u>QNAP NASデバイスとGoogleドライブ同期に最適解決策</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-non-indexable-world-of-youtube-a-compreayer-guide-to-unlisted-videos-for-2024/"><u>The Non-Indexable World of YouTube A Compreayer Guide to ‘Unlisted’ Videos for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-8-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 8 Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

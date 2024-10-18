@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimized Approach to Delete Unwanted YouTube Posts"
-date: 2024-10-07T06:57:27.182Z
-updated: 2024-10-11T22:20:18.059Z
+date: 2024-10-14T23:34:21.715Z
+updated: 2024-10-18T06:05:21.152Z
 tags:
   - ai video
   - ai youtube
@@ -48,10 +48,10 @@ In this section, we will tell you how you can do it from your desktop.
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All YouTube Comments from Mobile?
@@ -76,6 +76,13 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -89,13 +96,6 @@ If it is your video where the comment to be removed is, you can go to My Channel
 
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
 
@@ -117,19 +117,6 @@ To find your History from your desktop, you need to click on the three horizonta
 
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Delete All Your Posted YouTube Comments?
 
 You can also delete all comments you ever posted on any YouTube video by hiding your channel. When you do this, you can hide your video content temporarily. But it will irreversibly erase all your comments throughout YouTube. If you are curious, read on to know how you can do it.
@@ -139,22 +126,29 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
 
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Thoughts
 
@@ -177,19 +171,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[New] Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[Updated] 2024 Approved Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] 2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enriched-tv-experience-seamlessly-looping-online-content-for-2024/"><u>[Updated] Enriched TV Experience Seamlessly Looping Online Content for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-master-screen-integration-into-real-time-streaming/"><u>[Updated] Master Screen Integration Into Real-Time Streaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>[Updated] The Editor's Journey Creating Impactful Videos for YouTube with PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/how-to-find-your-comments-on-youtube-in-2024/"><u>How to Find Your Comments on YouTube, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-massive-popularity-in-stock-imagery-tales-of-success/"><u>In 2024, Massive Popularity in Stock Imagery Tales of Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-lenovo-bluetooth-driver-version-for-windows-710-users-secure-download-and-setup-process/"><u>Official Lenovo Bluetooth Driver Version for Windows 7/10 Users: Secure Download & Setup Process</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-usb-detection-issues-on-windows-11-a-step-by-step-guide/"><u>Resolving USB Detection Issues on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-age-of-wonders-planetfall-from-crashing-on-windows/"><u>Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-guide/"><u>Virtualdub Vs. The Competition A Comprehensive Review and Alternative Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerating-or-slowing-down-youtube-videos-playback/"><u>[New] 2024 Approved Accelerating or Slowing Down YouTube Videos Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-strategies-for-successful-mukbang-production/"><u>[New] 2024 Approved Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-game-on-youtube-top-11-video-seo-insights/"><u>[New] In 2024, Elevate Your Content Game on YouTube Top 11 Video SEO Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>[New] Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-media-spotlight-top-twitters/"><u>[New] Social Media Spotlight Top Twitters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turn-your-youtube-snippets-into-memorable-gifs/"><u>[New] Turn Your YouTube Snippets Into Memorable GIFs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-demystifying-the-digital-canvas-a-complete-guide-to-beginners-chroma-keying/"><u>[Updated] 2024 Approved Demystifying the Digital Canvas A Complete Guide to Beginner's Chroma Keying</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-art-and-science-of-enhancing-visual-appeal-with-adobes-look-up-tables-luts/"><u>[Updated] The Art and Science of Enhancing Visual Appeal with Adobe's Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-is-the-best-video-format-for-youtube-for-2024/"><u>[Updated] What Is the Best Video Format for YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-battlefield-geniuses-discovering-the-quintessential-7-total-war-experiences/"><u>2024 Approved Battlefield Geniuses Discovering the Quintessential 7 Total War Experiences</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-pro-w5700-latest-driver-version-available-for-windows-users/"><u>AMD Radeon Pro W5700 - Latest Driver Version Available for Windows Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-selecting-superior-capture-cards-switch-style/"><u>In 2024, Selecting Superior Capture Cards, Switch Style</u></a></li>
+<li><a href="https://win11.techidaily.com/linux-uncomplicated-without-wsl/"><u>Linux Uncomplicated, Without WSL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secrets-to-successful-scrape-mass-tiktok-videos/"><u>Secrets to Successful Scrape Mass TikTok Videos</u></a></li>
 </ul></div>
 

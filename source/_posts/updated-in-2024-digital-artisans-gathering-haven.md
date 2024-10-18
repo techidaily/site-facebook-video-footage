@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2024-10-08T18:22:15.049Z
-updated: 2024-10-12T03:30:57.083Z
+date: 2024-10-13T01:23:13.300Z
+updated: 2024-10-17T19:36:26.670Z
 tags:
   - ai video
   - ai youtube
@@ -60,10 +60,10 @@ _Tess takes you to some of her favorite places in Dumbo._
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Post Cards
@@ -71,22 +71,15 @@ Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Branded slippers
 
@@ -94,14 +87,14 @@ To help them relax after long days at the summit, YouTube provided creators with
 
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _thinknoodles wearing his YouTube slippers._
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Pins, pins, pins
 
@@ -123,6 +116,13 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -138,20 +138,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-all-embracing-audit-evaluating-the-gecata-game-monitor-for-2024/"><u>[New] All-Embracing Audit Evaluating the Gecata Game Monitor for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies-for-2024/"><u>[New] From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] In 2024, Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-clearer-communication-the-art-of-adding-text-to-video-media/"><u>[Updated] 2024 Approved Crafting Clearer Communication The Art of Adding Text to Video Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-your-online-presence-with-these-50-complimentary-banners-for-2024/"><u>[Updated] Enhance Your Online Presence with These 50 Complimentary Banners for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-entrance-with-these-tools/"><u>[Updated] In 2024, Elevate Your Video Entrance with These Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-video-production-pick-your-favorite-sounds/"><u>[Updated] Professional Video Production - Pick Your Favorite Sounds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-meeting-fundamentals-for-the-uninitiated/"><u>[Updated] Zoom Meeting Fundamentals for the Uninitiated</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-our-planet-exploring-how-space-technology-could-resolve-terrestrial-issues/"><u>Beyond Our Planet: Exploring How Space Technology Could Resolve Terrestrial Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-content-delivery-with-live-streaming-expertise-for-2024/"><u>Revolutionize Your Content Delivery with Live Streaming Expertise for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scriptwriting-success-on-youtube-using-chatgpts-ai-technology/"><u>Scriptwriting Success on YouTube Using ChatGPT's AI Technology</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocket-your-youtube-rankings-with-these-insider-moves-for-2024/"><u>Skyrocket Your YouTube Rankings with These Insider Moves for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/three-easy-ways-to-harvest-youtubes-default-iconography-for-2024/"><u>Three Easy Ways to Harvest Youtube's Default Iconography for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-fixing-a-blackout-on-your-facetime-apps-interface/"><u>Troubleshooting Tips for Fixing a Blackout on Your FaceTime App's Interface</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-youtubes-operations-after-video-upload/"><u>[New] 2024 Approved Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blend-your-belief-with-mobile-melodies/"><u>[New] Blend Your Belief with Mobile Melodies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-perfect-youtube-music-sets/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Music Sets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-no-cost-soundtracks-for-video-production/"><u>[Updated] In 2024, Discover the Best No-Cost Soundtracks for Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-inauguration-setting-up-a-twitter-profile/"><u>[Updated] Inauguration Setting Up a Twitter Profile</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-m6-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco M6 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-razer-man-o-war-mic-issues-step-by-step-solutions/"><u>Fixing Razer Man O' War Mic Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Bootloader Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-techs-choice-best-online-screen-capturing-tools/"><u>In 2024, Tech's Choice Best Online Screen Capturing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/news-to-closure-a-producers-primer-for-2024/"><u>News to Closure A Producer’s Primer for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-guide-to-itunes-podcast-upload/"><u>The Complete Guide to iTunes Podcast Upload</u></a></li>
 </ul></div>
 

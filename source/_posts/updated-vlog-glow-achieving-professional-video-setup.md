@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2024-10-08T17:25:11.021Z
-updated: 2024-10-11T17:51:30.177Z
+date: 2024-10-13T23:17:45.973Z
+updated: 2024-10-17T21:47:05.914Z
 tags:
   - ai video
   - ai youtube
@@ -45,19 +45,19 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
@@ -87,10 +87,10 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -99,18 +99,18 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -127,17 +127,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/opycatting-charisma-making-ingenious-parodies-for-2024/"><u>[New] Copycatting Charisma Making Ingenious Parodies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-youtube-presence-with-strategic-banners-for-2024/"><u>[New] Elevating Your YouTube Presence with Strategic Banners for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bite-sized-video-lessons-clearly/"><u>[New] In 2024, Bite-Sized Video Lessons, Clearly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>[New] Video Brand Enhancement Embedding Logos/Watermarks for YouTube Shows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[Updated] 2024 Approved Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] In 2024, Aim Higher Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-list-of-serene-pc-gaming-for-2024/"><u>The Ultimate List of Serene PC Gaming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-eliminating-windows-11s-dark-display-dilemma/"><u>Troubleshooting Tips: Eliminating Windows 11'S Dark Display Dilemma</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/watch-blockbusters-and-classic-shows-for-free-discover-crackle-streaming-service/"><u>Watch Blockbusters & Classic Shows for Free - Discover 'Crackle' Streaming Service</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-a-course-youtubes-best-brands-for-2024/"><u>[New] Charting a Course YouTube's Best Brands for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-erase-effortlessly-social-media-live-on-desktop-and-phone-for-2024/"><u>[New] Erase Effortlessly Social Media Live on Desktop & Phone for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[New] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>[Updated] 2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers-for-2024/"><u>[Updated] Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-activating-or-deactivating-user-feedback-on-videos/"><u>[Updated] In 2024, Activating or Deactivating User Feedback on Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-circle-cinematic-mounts/"><u>2024 Approved Complete Circle Cinematic Mounts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-glass-fade-9-proven-methods-to-restore-color-accuracy-on-iphones/"><u>Beat the Glass Fade: 9 Proven Methods to Restore Color Accuracy on iPhones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-alpha-s-microphone-issues-a-comprehensive-guide/"><u>Fixing HyperX Cloud Alpha S Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-g310-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia G310 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-persistent-black-screen-glitch-on-magic-the-gathering-online-platform/"><u>How to Resolve the Persistent Black Screen Glitch on Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>In 2024, YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-successful-backlink-generation-in-youtube-channels-for-2024/"><u>Secrets to Successful Backlink Generation in YouTube Channels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
 </ul></div>
 

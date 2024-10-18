@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Animating Elegance  Self-Designed Tricks & Effects\""
-date: 2024-10-03T05:13:47.497Z
-updated: 2024-10-06T02:18:35.014Z
+date: 2024-10-11T21:33:41.948Z
+updated: 2024-10-17T17:13:33.809Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Richard Harrington on Lynda
@@ -64,10 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Bloop Animation
@@ -75,16 +75,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -94,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,21 +109,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-accelerate-audience-engagement-with-high-impact-hash-tags-for-2024/"><u>[New] Accelerate Audience Engagement with High-Impact Hash Tags for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors-for-2024/"><u>[New] Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-download-youtube-responsibly-legal-mp4-conversion-methods-for-2024/"><u>[New] Download YouTube Responsibly Legal MP4 Conversion Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos-for-2024/"><u>[New] Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>[New] In 2024, How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-constructive-approaches-to-defeating-digital-trolls-for-2024/"><u>[Updated] Constructive Approaches to Defeating Digital Trolls for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-video-mastery-seizing-the-seo-opportunity/"><u>2024 Approved YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766526141-macx-mediatrans/"><u>人気のデータ移動ソフト：MacX MediaTransで正式版を手に入れる方法 - レビューとバイザクション!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-getting-scammed-by-genuine-vs-faux-bingchat-coins/"><u>Avoid Getting Scammed by Genuine vs Faux BingChat Coins</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-blaze-curve-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Blaze Curve 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-gt-10-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix GT 10 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/shortcut-to-success-the-top-5-youtube-link-trimming-apps-for-2024/"><u>Shortcut to Success The Top 5 YouTube Link Trimming Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/take-it-upward-expert-techniques-for-phones-for-2024/"><u>Take It Upward Expert Techniques for Phones for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726220729957-windowsmovavi/"><u>Windows版本：Movavi软件激活指南</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ethical-approaches-to-achieve-one-million-youtube-subscribers/"><u>[New] 2024 Approved Ethical Approaches to Achieve One Million YouTube Subscribers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster-for-2024/"><u>[New] Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-compelling-youtube-narratives-with-chapters-and-subsections/"><u>[New] In 2024, Crafting Compelling YouTube Narratives with Chapters and Subsections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-look-expert-tutorials-for-everyone-for-2024/"><u>[Updated] Elevating Your Look Expert Tutorials for Everyone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video-for-2024/"><u>[Updated] How to Easily Add Subtitles and Closed Captions to YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-9-pinnacle-in-live-game-broadcasting/"><u>[Updated] In 2024, 9 Pinnacle in Live Game Broadcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-process-of-adding-subtitles-to-your-youtube-content/"><u>[Updated] Step by Step Process of Adding Subtitles to Your YouTube Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[Updated] Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c33-2023-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C33 2023 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-green-screen-mastery-on-youtube-ideas-unleashed/"><u>In 2024, Green Screen Mastery on YouTube - Ideas Unleashed!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/restoring-removed-files-on-your-windows-8-pc-a-step-by-step-guide/"><u>Restoring Removed Files on Your Windows 8 PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/synth-symphony-selecting-superior-dj-templates-for-download-for-2024/"><u>Synth Symphony Selecting Superior DJ Templates for Download for 2024</u></a></li>
 </ul></div>
 

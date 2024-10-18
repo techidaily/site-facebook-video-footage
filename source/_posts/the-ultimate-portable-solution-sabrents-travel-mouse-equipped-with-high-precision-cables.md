@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Portable Solution: Sabrent's Travel Mouse, Equipped with High-Precision Cables"
-date: 2024-10-07T22:15:55.990Z
-updated: 2024-10-12T05:53:42.187Z
+date: 2024-10-13T21:08:07.204Z
+updated: 2024-10-18T06:07:29.454Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Portable Solution: Sabrent's Travel Mouse, Equipped with High-Precision Cables"
@@ -36,6 +36,13 @@ Lifewire / Jonno Hill
 
 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Clearstream ECLIPSE
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/0gXsFyigpZzsnNAEj3tIrKImB8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
@@ -65,28 +72,21 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Inoffensive but unexceptional**
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Simple and easy**
@@ -101,13 +101,6 @@ Lifewire / Jonno Hill
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: Fair to middling**
 
  Antenna’s Direct rates the ClearStream Eclipse Antenna for up to 35 miles of range, although I’ve seen reports of people getting good results from further, or having trouble from much closer. My apartment is well within the supported range, so my sentiments reflect its use in city settings more than suburbs or exurbs.
@@ -115,13 +108,20 @@ Lifewire / Jonno Hill
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Not bad for the performance**
 
@@ -164,24 +164,19 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-climate-change-mitigation-through-urban-design-innovations-for-2024/"><u>[New] Climate Change Mitigation Through Urban Design Innovations for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-list-of-8-free-video-editing-programs-for-creatives/"><u>[New] The Ultimate List of 8 FREE Video Editing Programs for Creatives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enjoy-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>[Updated] 2024 Approved Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers-for-2024/"><u>[Updated] Dominate the Scene The Best Hashtag Tactics for YouTube Gamers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[Updated] Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deciphering-the-complexity-of-online-content-monetization/"><u>[Updated] In 2024, Deciphering the Complexity of Online Content Monetization</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>[Updated] In 2024, Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfecting-playback-game-capturing-on-windows-10-for-2024/"><u>[Updated] Perfecting Playback Game Capturing on Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-propel-your-youtube-presence-with-google-analytics-skills/"><u>[Updated] Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-recording-sound-wonders-without-the-use-of-a-microphone/"><u>[Updated] Recording Sound Wonders Without the Use of a Microphone</u></a></li>
-<li><a href="https://win11.techidaily.com/ai-driven-windows-11-an-inevitable-shift/"><u>AI-Driven Windows 11: An Inevitable Shift</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-urban-armor-gears-robust-macbook-pro-shield-case/"><u>Expert Evaluation of Urban Armor Gear’s Robust MacBook Pro Shield Case</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guide-on-moving-your-files-from-samsung-devices-to-windows-10-system-with-ease/"><u>Guide on Moving Your Files From Samsung Devices to Windows 10 System with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-p60-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Huawei P60 Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-websites-for-extracting-text-visual-upgrades/"><u>Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-hey-siri-malfunctions-top-20-techniques-to-enable-voice-assistance-on-your-iphone-17-methods/"><u>Overcoming 'Hey Siri' Malfunctions: Top 20 Techniques to Enable Voice Assistance on Your iPhone (17 Methods)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-brio-webcam-connection-with-updated-drivers-for-windows-systems/"><u>Secure Your Logitech BRIO Webcam Connection with Updated Drivers for Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-creating-your-new-x-by-formerly-twitter-profile/"><u>Step-by-Step Guide: Creating Your New X by Formerly Twitter Profile</u></a></li>
-<li><a href="https://driver-install.techidaily.com/turbox-nvidia-rtx-3090-download-guide/"><u>TurboX NVIDIA RTX 3090 - Download Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-dynamic-collab-videos-with-content-partners-on-youtube/"><u>[New] 2024 Approved Crafting Dynamic Collab Videos with Content Partners on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes-for-2024/"><u>[New] Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-to-affordable-and-effective-intros/"><u>[New] In 2024, The Ultimate Guide to Affordable and Effective Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>[New] The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-injecting-external-urls-into-instagram-content/"><u>[Updated] 2024 Approved Injecting External URLs Into Instagram Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-nuances-of-snapchat-high-visibility/"><u>[Updated] Navigating the Nuances of Snapchat High-Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-taking-charge-of-your-visual-brand-identity/"><u>[Updated] Taking Charge of Your Visual Brand Identity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>2024 Approved Mastering AVI-to-GIF Conversion Windows & Mac Edition Using Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-usb-functionality-in-windows-10-and-11-systems/"><u>Effective Solutions to Restore USB Functionality in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-critical-alerts-when-to-reset-windows/"><u>Nine Critical Alerts: When to Reset Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/surface-pro-display-dilemma-discover-how-to-stop-the-shakingflickering/"><u>Surface Pro Display Dilemma? Discover How To Stop the Shaking/Flickering!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-10-youtube-shorts-video-editing-apps-for-ios-and-android-for-2024/"><u>Top 10 YouTube Shorts Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transitioning-from-43-to-169-screens-impacts-on-productivity-and-daily-routines/"><u>Transitioning From 4:3 to 16:9 Screens: Impacts on Productivity & Daily Routines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/what-makes-youtube-and-dailymention-stand-out-in-2024/"><u>What Makes YouTube and DailyMention Stand Out, In 2024</u></a></li>
 </ul></div>
 

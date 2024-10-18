@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Elevate Your Content with Professional End Screen Templates for 2024"
-date: 2024-10-03T16:06:29.071Z
-updated: 2024-10-06T04:30:38.548Z
+date: 2024-10-17T02:50:13.240Z
+updated: 2024-10-17T16:35:15.440Z
 tags:
   - ai video
   - ai youtube
@@ -85,6 +85,13 @@ Here’s one for the Minecraft fans:
 
 Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
 
 1\. First, you have to sign up with an e-mail address
@@ -110,46 +117,39 @@ Another way to get your YouTube end screens for free, of course, is to make them
 ![stretch-end-screen-templates-canva](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7\. Insert your own shapes, lines, colours, images, and text over the image.
 
 ![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
 
 ![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -166,22 +166,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-econo-audio-amps-for-youtubers-with-limited-dough/"><u>[New] 2024 Approved Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos-for-2024/"><u>[New] Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-conference-quality-the-list-of-top-10-free-audio-capture-for-2024/"><u>[New] Elevate Conference Quality The List of Top 10 Free Audio Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audience-alchemy-converting-shorts-to-sensations/"><u>[New] In 2024, Audience Alchemy Converting Shorts to Sensations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[New] In 2024, Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inspirational-themes-for-regular-vlogs/"><u>[New] Inspirational Themes for Regular Vlogs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-in-cinematography-best-lenses-to-invest-in/"><u>[New] Masterclass in Cinematography Best Lenses to Invest In</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-start-broadcasting-now-instagram-live-guide-for-2024/"><u>[New] Start Broadcasting Now Instagram Live Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-youtube-video-shooting/"><u>[New] Tips for YouTube Video Shooting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-financial-independence-through-youtube-and-adsense/"><u>[Updated] 2024 Approved Achieving Financial Independence Through YouTube and AdSense</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[Updated] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-14-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 14 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/macs-leading-10-screen-capture-and-recorder-software-for-2024/"><u>Mac's Leading 10 Screen Capture & Recorder Software for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/esign-principles-for-orderly-youtube-broadcasts/"><u>[New] Design Principles for Orderly YouTube Broadcasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-blocking-the-buzz-no-more-fb-video-ads/"><u>[New] In 2024, Blocking the Buzz No More FB Video Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-crafting-professional-grade-steam-gameplay-videos/"><u>[New] In 2024, Crafting Professional-Grade Steam Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-definitive-guide-for-effective-and-smooth-youtube-video-uploads/"><u>[New] The Definitive Guide for Effective and Smooth YouTube Video Uploads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-beginners-guide-to-creating-engaging-short-form-videos/"><u>[New] The Ultimate Beginner's Guide to Creating Engaging Short-Form Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-content-how-to-edit-instagrams-preferred-format-in-fcpx/"><u>[Updated] In 2024, Elevate Your Content How to Edit Instagram's Preferred Format in FCPX</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-the-best-youtube-extractors-for-android-devices/"><u>[Updated] In 2024, Exploring the Best YouTube Extractors for Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-precise-codex-of-conduct-in-the-digital-realm/"><u>[Updated] Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-redefining-visual-storytelling-with-vidas-advanced-tools/"><u>[Updated] Redefining Visual Storytelling with Vida's Advanced Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>[Updated] Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-is-the-youtube-highlighted-comment/"><u>[Updated] What Is the YouTube Highlighted Comment?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-edge-group-chat-apps-on-android-5plus-users/"><u>Leading Edge Group Chat Apps on Android (5+ Users)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-creative-vision-with-digital-cropting-skills-for-2024/"><u>Master Your Creative Vision with Digital Cropting Skills for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-personal-data-defend-against-unauthorized-session-takeovers/"><u>Securing Personal Data: Defend Against Unauthorized Session Takeovers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/viewer-count-trophies-and-channel-prominence-honors-for-2024/"><u>Viewer Count Trophies & Channel Prominence Honors for 2024</u></a></li>
 </ul></div>
 

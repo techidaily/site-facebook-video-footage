@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building Mental Armor Against Online Critics for 2024"
-date: 2024-08-01T03:38:25.390Z
-updated: 2024-08-02T03:38:25.390Z
+date: 2024-10-15T01:36:32.673Z
+updated: 2024-10-17T21:55:08.689Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -58,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -69,12 +60,36 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-television-experience-playback-tips-for-youtube-content-for-2024/"><u>[New] Enhancing Television Experience Playback Tips for YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-content-for-specific-youtube-subsets/"><u>[New] In 2024, Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-professional-camera-techniques-for-superior-igtv-videos-for-2024/"><u>[New] Mastering Professional Camera Techniques for Superior IGTV Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-free-youtube-channels-for-exceptional-art-creation/"><u>[New] Top 10 FREE YouTube Channels for Exceptional Art Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-a-lyric-video-pro-a-lyric-video-makers-journey/"><u>[Updated] 2024 Approved Becoming a Lyric Video Pro A Lyric Video Maker's Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-visibility-popularize-your-youtube-short-videos/"><u>[Updated] 2024 Approved Enhancing Visibility Popularize Your YouTube Short Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-dive-into-immersion-youtubes-best-vr-content/"><u>[Updated] Dive Into Immersion YouTube's Best VR Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-fb-link-collection-access-8-free-and-online-downloads/"><u>[Updated] In 2024, 2023 FB Link Collection Access 8 Free & Online Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-visibility-with-any-channel-title-through-free-makers/"><u>[Updated] In 2024, Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quickshot-ff-utilities-for-2024/"><u>[Updated] QuickShot FF Utilities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-a-distinctive-youtube-channel-url/"><u>[Updated] Step-by-Step Guide to a Distinctive YouTube Channel URL</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-viewer-interest-with-accurate-time-stamping/"><u>2024 Approved Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289189910-ai/"><u>AIを活用した高解像度アップコンバート - 小さな画像も美しく巨大化可能！</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/product-overview-the-aukey-usb-30-hubs-blend-of-style-and-functionality/"><u>Product Overview: The Aukey USB 3.0 Hub's Blend of Style and Functionality</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-se-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone SE You Should Try Out</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Chrome Optimized Performance: Overcoming High CPU Drain Issues"
-date: 2024-10-10T03:07:16.248Z
-updated: 2024-10-12T02:23:04.855Z
+date: 2024-10-13T18:38:33.345Z
+updated: 2024-10-17T19:11:51.392Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -41,10 +48,10 @@ GTFO
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -71,24 +78,10 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
 
@@ -102,16 +95,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -157,10 +157,16 @@ There are mainly two methods for you to update the graphics driver:
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -173,15 +179,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -210,22 +216,22 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-beginners-guide-to-io-screen-video/"><u>[New] 2024 Approved Beginner's Guide to IO Screen Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-uploading-lengthy-video-masterpieces-on-youtube/"><u>[New] 2024 Approved Crafting & Uploading Lengthy Video Masterpieces on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-self-assured-vlogging-channeling-youtube-stars/"><u>[New] Mastering Self-Assured Vlogging Channeling YouTube Stars</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-face-forward-top-makeup-creatives/"><u>[New] The Face Forward Top Makeup Creatives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-authentic-audience-growth-practical-advice-for-content-creators/"><u>[Updated] 2024 Approved Authentic Audience Growth Practical Advice for Content Creators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhance-projects-no-cost-templates-for-pp-prodigies/"><u>[Updated] 2024 Approved Enhance Projects No-Cost Templates for PP Prodigies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>[Updated] Navigating Content Sharing YouTube Standards Vs. Creative Commons</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>[Updated] Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/webm-wav-movavi/"><u>免費線上WebM WAV格式切換服務 - Movavi專業解答方案</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-slogan-generator-for-virtual-events/"><u>Best Slogan Generator for Virtual Events</u></a></li>
-<li><a href="https://win-great.techidaily.com/efficiently-attaching-files-via-vba-scripting-in-microsoft-outlook-steps/"><u>Efficiently Attaching Files via VBA Scripting in Microsoft Outlook Steps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-harmonizing-in-tiktoks-duo-videos/"><u>In 2024, Harmonizing in TikTok's Duo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-analyze-your-and-competitors-youtube-video/"><u>In 2024, How to Analyze Your and Competitor’s YouTube Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>In 2024, Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/simple-steps-create-gifs-from-images-using-your-computer/"><u>Simple Steps: Create GIFs From Images Using Your Computer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-pinnacle-of-amusement-select-15-laughing-out-loud-channels-for-2024/"><u>The Pinnacle of Amusement Select 15 Laughing-Out-Loud Channels for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-resolving-your-game-of-gears-5-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Your Game of Gears 5 Crashes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-quality-videos-a-guide-to-apple-device-screen-recording-for-2024/"><u>[New] Crafting Quality Videos A Guide to Apple Device Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-generate-funny-image-jokes-at-flipfotohub/"><u>[New] Generate Funny Image Jokes at FlipFotoHub</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-delete-facebook-story/"><u>[New] How to Delete Facebook Story?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-android-apps-youtube-video-downloads-compared/"><u>[New] In 2024, Best Android Apps YouTube Video Downloads Compared</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-wealthiest-webcast-wonders/"><u>[New] Wealthiest Webcast Wonders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[Updated] 2024 Approved Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beginning-the-video-odyssey-how-to-create-an-engaging-youtube-channel/"><u>[Updated] In 2024, Beginning the Video Odyssey How to Create an Engaging YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-profit-potentials-in-producing-product-centric-youtube-clips/"><u>[Updated] Profit Potentials in Producing Product-Centric YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-secrets-of-soaring-wealth-joshis-youtube-path/"><u>[Updated] Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>[Updated] Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamline-visual-content-expert-mac-tips-for-instagram-video-size/"><u>2024 Approved Streamline Visual Content Expert Mac Tips for Instagram Video Size</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oneplus-nord-3-5g-frp-bypass-by-drfone-android/"><u>About OnePlus Nord 3 5G FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-data-protection-in-depth-windows-similar-search-engine-titles-with-same-meaning-as-seagate-backup-manager-on-windows-10-a-comprehensive-guide/"><u>Mastering Data Protection: In-Depth Windows # Similar Search Engine Titles with Same Meaning as Seagate Backup Manager on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723088574330-transition-mechanisms-between-ipv4-and-ipv6-require-careful-consideration-of-their-increased-attack-surface-and-potential-exposure-risks/"><u>Transition Mechanisms Between IPv4 and IPv6 Require Careful Consideration of Their Increased Attack Surface and Potential Exposure Risks.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-github-desktop-efficiently-on-windows-11-pro/"><u>Utilizing GitHub Desktop Efficiently on Windows 11 Pro</u></a></li>
 </ul></div>
 
