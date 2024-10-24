@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes"
-date: 2024-10-10T21:50:07.340Z
-updated: 2024-10-18T05:39:48.714Z
+date: 2024-10-16T23:22:56.194Z
+updated: 2024-10-23T23:24:19.452Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Delete temporary files in Windows
 
  Excessive temporary files in your system can sometimes take up a large space on your computer. Deleting all the temporary files in Windows could speed up your PC and help Vegas Pro run more stably. Here’s how:
@@ -41,21 +48,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -116,26 +123,19 @@ If the issue is still there, you can move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Import your footage via the Explorer window
 
@@ -144,13 +144,6 @@ If the issue is still there, you can move on to the next fix.
 1. Click**Explorer** , then you’ll be able to search files on your PC via the left-side navigation panel. (If you can’t find the Explorer button, press**Alt** and**1** to enable the Explorer window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
@@ -173,10 +166,10 @@ If the issue is still there, you can move on to the next fix.
 2. Switch to the**Video** tab, adjust the**Dynamic RAM Preview max (MB)** value. You can set a value that’s**between 1/3 to 1/2 of your maximum RAM available** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
@@ -184,13 +177,6 @@ If the issue is still there, you can move on to the next fix.
 
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
 
@@ -205,6 +191,14 @@ If the issue is still there, you can move on to the next fix.
 2. Type**multi-core** in the search bar at the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
@@ -219,6 +213,13 @@ If the issue is still there, you can move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
@@ -246,21 +247,24 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-success-elite-video-tagging-secrets/"><u>[New] Unlocking YouTube Success Elite Video Tagging Secrets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-eliminating-an-obsolete-linkedin-identity-stepwise-guide-for-2024/"><u>[Updated] Eliminating an Obsolete LinkedIn Identity Stepwise Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-domain-decision-which-platform-for-your-videos/"><u>[Updated] In 2024, Digital Domain Decision Which Platform for Your Videos?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>[Updated] In 2024, Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pro-gif-maker-software-that-wins-every-time/"><u>[Updated] Pro-Gif Maker Software That Wins Every Time</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-shegames-supreme-the-10-best-female-youtubers/"><u>[Updated] SheGames Supreme The 10 Best Female YouTubers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/download-youtube-videos-to-mp4-without-breaching-laws-for-2024/"><u>Download YouTube Videos to MP4 without Breaching Laws for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-the-error-code-0x80070643-during-windows-updatesinstallations/"><u>How to Correctly Handle the Error Code 0X80070643 During Windows Updates/Installations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yogi-essentials-top-ten-web-channels-for-exercise/"><u>In 2024, Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/quick-and-easy-caption-crafting-for-engaging-fb-video-posts-for-2024/"><u>Quick and Easy Caption Crafting for Engaging FB Video Posts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artists-roadmap-to-professional-growth/"><u>The Artist's Roadmap to Professional Growth</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-blueprint-to-acquire-clean-images-for-2024/"><u>The Blueprint to Acquire Clean Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-of-must-watch-historical-youtubes-for-students-for-2024/"><u>The Ultimate List of Must-Watch Historical YouTubes for Students for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences-for-2024/"><u>The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/young-yachtsmens-playtime-pleasures-for-2024/"><u>Young Yachtsmen's Playtime Pleasures for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>[New] 2024 Approved Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-text-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[New] Text Gymnastics Ingenious Techniques for Animated Bounces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>[Updated] 2024 Approved Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-borders-blurring-techniques-for-global-audienes-for-2024/"><u>[Updated] Beyond Borders Blurring Techniques for Global Audienes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakdown-of-ad-revenue-average-income-for-youtube-vids-in-2024/"><u>[Updated] Breakdown of Ad Revenue Average Income for YouTube Vids, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[Updated] In 2024, Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-classic-cinematography-step-by-step-guide/"><u>[Updated] In 2024, Crafting Classic Cinematography Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-viewer-tool-for-chilled-pleasures/"><u>[Updated] In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[Updated] Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-techniques-to-remove-black-screen-glitches-in-youtube/"><u>[Updated] Techniques to Remove Black Screen Glitches in YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-complete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>[Updated] The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-every-independent-youtuber-should-know-about-mcns/"><u>[Updated] What Every Independent YouTuber Should Know About MCNs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137627863-50-ransomware-fix-with-smartphone-hacks-plus-how-chatgpt-is-shaping-our-podcast-conversations-today/"><u>$50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/boost-your-pcs-performance-discover-the-secret-windows-11-feature-that-rapidly-terminates-sluggish-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Discover the Secret Windows 11 Feature That Rapidly Terminates Sluggish Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-csr8510-a10-chipset-drivers-on-windows-comprehensive-guide/"><u>How to Fix CSR8510 A10 Chipset Drivers on Windows - Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-lowering-discord-cpu-use-a-step-by-step-guide/"><u>Master the Art of Lowering Discord CPU Use: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-multi-screen-browsing-effortlessly-in-google-chrome-for-2024/"><u>Navigating Multi-Screen Browsing Effortlessly in Google Chrome for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos-for-2024/"><u>Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos for 2024</u></a></li>
 </ul></div>
 

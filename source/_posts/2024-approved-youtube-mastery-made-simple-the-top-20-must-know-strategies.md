@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  YouTube Mastery Made Simple  The Top 20 Must-Know Strategies\""
-date: 2024-08-01T03:29:08.640Z
-updated: 2024-08-02T03:29:08.640Z
+date: 2024-10-21T22:11:23.188Z
+updated: 2024-10-23T21:22:36.656Z
 tags:
   - ai video
   - ai youtube
@@ -28,12 +28,16 @@ YouTube, as one of the most popular free streaming video portals, the majority o
 
 With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazing YouTube Keyboard Shortcuts You May Not Know
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Category 1: YouTube Playback Hotkeys
 
@@ -45,8 +49,12 @@ While watching a YouTube video, there might be instances when you want to pause 
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
 This section talks about the shortcut keys to skim the video forward and backward during playback:
@@ -67,9 +75,12 @@ If you’re watching videos on YouTube mobile app, you can use double-tap on the
 Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Category 3: Manage Playback Speed
 
 This category contains information on increasing or decreasing the playback speed of a YouTube video:
@@ -101,9 +112,6 @@ This category shows the shortcut keys to manage audio for a YouTube video:
 | '↑'               | Increase volume by 5% |
 | '↓'               | Decrease volume by 5% |
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Category 6: Switching Between Screen Modes
 
 The shortcut keys given in this table enable you to switch between different screen modes:
@@ -118,9 +126,6 @@ Double press F/T/I on the keyboard will exit the full-screen/theater model/indep
 
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Category 7: Viewing 360o/VR Videos
 
 In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
@@ -133,6 +138,13 @@ In this category, the navigation and management of shortcut keys for 360o and Vi
 | '-' (Minus Key on Keyboard) | Decrease font size                                    |
 | '+' (Plus Key on Keyboard)  | Increase font size                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus: How to Get the YouTube Shortcut List with One-Click
 
 In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
@@ -143,9 +155,6 @@ In this section, you will learn how to pull up the list of important YouTube sho
 
 So, when you press the Shift+? on YouTube, you will see a full list of shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube Shortcut List](https://images.wondershare.com/filmora/article-images/youtube-keyboard-shortcuts-list.jpg)
 
 **Conclusion**
@@ -164,12 +173,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>[New] Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-stay-ahead-of-the-curve-with-iphone-and-androids-best-photo-sticker-apps/"><u>[New] Stay Ahead of the Curve with iPhone and Android's Best Photo Sticker Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-trend-driven-infographics-the-leaders-in-23/"><u>[New] Trend-Driven Infographics The Leaders in '23</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-youtube-stardom-top-strategies-for-recognition-and-growth/"><u>[Updated] 2024 Approved Achieve YouTube Stardom Top Strategies for Recognition and Growth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directly-download-youtube-videos/"><u>[Updated] 2024 Approved Directly Download YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-youtube-comment-finder-you-should-try/"><u>[Updated] 2024 Approved YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[Updated] In 2024, Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity/"><u>[Updated] Strategic Marketing Insights for Maximizing YouTube Shorts Popularity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-entering-and-exiting-iphones-recovery-mode/"><u>A Step-by-Step Guide: Entering and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/how-to-analyze-your-and-competitors-youtube-video-for-2024/"><u>How to Analyze Your and Competitor’s YouTube Video for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-hot-30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Hot 30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-to-digital-stardom-launch-your-chanel-today/"><u>In 2024, Charting the Course to Digital Stardom Launch Your Chanel Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-10-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 10 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/pemulihan-hdd-acer-aspire-instructions-tutorial-untuk-memulokasi-data/"><u>Pemulihan Hdd Acer Aspire - Instructions Tutorial Untuk Memulokasi Data</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/syma-s111g-quadcopter-evaluation-affordable-and-entertaining-indoor-flight/"><u>Syma S111G Quadcopter Evaluation: Affordable and Entertaining Indoor Flight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-leap-how-gpt4all-works/"><u>The Evolutionary Leap: How GPT4All Works</u></a></li>
+</ul></div>
 

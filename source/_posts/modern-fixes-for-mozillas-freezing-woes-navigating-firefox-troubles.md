@@ -1,7 +1,7 @@
 ---
 title: "Modern Fixes for Mozilla's Freezing Woes: Navigating Firefox Troubles"
-date: 2024-10-13T04:03:52.537Z
-updated: 2024-10-17T23:49:58.521Z
+date: 2024-10-21T16:38:33.307Z
+updated: 2024-10-23T18:03:33.819Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable virtualization
 
  Virtualization technology allows multiple operating systems to run on one physical PC. Since we’re trying to run an Android emulator on a Windows PC, it’s essential to enable virtualization which could improve the performance of Nox Player.
@@ -68,7 +61,21 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-system-info.jpg)
 2. Look for**CPU VT** . If it’s already on, you can jump to[fix 3](https://tools.techidaily.com/drivereasy/download/) . If not, you’ll need to enter BIOS to enable it.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-cpu-vt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable virtualization in BIOS
 
@@ -92,13 +99,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-09-45.jpg)
 4. **Untick the boxes of Hyper-V related settings** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-10-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve enabled virtualization but Nox Player still crashes, try the next fix.
 
@@ -135,23 +135,16 @@ If this doesn’t solve your problem, try the next fix.
 5. **Tick the checkbox of Private network** . This will ensure Nox Player is only unblocked when you’re using a private network, such as home Wi-Fi, out of safety concerns. Or you can allow Nox Player through all types of networks if needed.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05-1.jpg)
 6. Click**OK** to save the changes.
 
  You can test if the crashing issue returns. If it persists and you’re not using any antivirus tools, jump to[fix 4](https://tools.techidaily.com/drivereasy/download/) . If you have installed antivirus on your PC, follow the steps below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Configure your antivirus software
 
@@ -198,6 +191,19 @@ If this doesn’t solve your problem, move on to the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -214,27 +220,26 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab. Under the Performance option, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-18-37.jpg)
 4. Switch to the**Advance** d tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-19-32.jpg)
 5. You’ll see your virtual memory (paging file) size.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-08-10_11-54-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Increase virtual memory size
 
@@ -243,8 +248,29 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Untick the checkbox of**Automatically manage paging file size for all drives** , then select**Custom size** . It’s suggested to set your paging file size between 1.5 times and 3 times your RAM.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-27-33.jpg)
 2. If you don’t know how much RAM you have, first, press the**Windows key** and**R** to invoke the Run box. Then, type in**msinfo32** and hit**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-msinfo32.jpg)
 3. In the pop-up window, look for**Installed Physical Memory (RAM)** .
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Once you know how much RAM you have, use the following formula to calculate the values you should fill in:  
 
@@ -256,6 +282,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
  If you’ve customized the paging size to create more virtual memory, but the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Change Nox Player settings
 
  If you’ve tried the fixes above but nothing worked, consider adjusting the settings of Nox Player. You may have to sacrifice a little graphics quality, but it should help improve the stability of the emulator and hopefully stop it from crashing. Here’s how:
@@ -266,22 +299,8 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn’t fix your problem, we have one more fix you can try.
 
@@ -316,18 +335,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-recording-devices-for-livestream-producers/"><u>[New] 2024 Approved Elite Recording Devices for Livestream Producers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>[Updated] 2024 Approved Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-revenue-with-review-videos-of-household-items/"><u>[Updated] Unleashing Revenue with Review Videos of Household Items</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>2024 Approved Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-zoom-engagement-unlocking-communication-success/"><u>In 2024, The Ultimate Guide to Zoom Engagement Unlocking Communication Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-top-8-trending-facebook-video-hits/"><u>In 2024, Top 8 Trending Facebook Video Hits</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-n3-flip-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find N3 Flip Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-videos-with-free-sound-effects-a-final-cut-pro-tutorial/"><u>New 2024 Approved Elevate Your Videos with Free Sound Effects A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/al-film-and-camera-choices-for-youtube-vloggers/"><u>Optimal Film & Camera Choices for YouTube Vloggers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/prime-7-cameras-elevating-virtual-event-coverage-and-vlogging-for-2024/"><u>Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-6-methods-for-capturing-your-netflix-viewing-experience-on-mac/"><u>Top 6 Methods for Capturing Your Netflix Viewing Experience on Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] 2024 Approved Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-4k-cameras-and-their-perfect-gimbals/"><u>[New] Excellent 4K Cameras & Their Perfect Gimbals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-delicious-ideas-top-30-creative-recipe-show-titles/"><u>[New] In 2024, Delicious Ideas Top 30 Creative Recipe Show Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones/"><u>[New] In 2024, Voice Transformation on the Move Best Audio Modification Tools for Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>[New] Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-captivate-and-enchant-explore-the-best-creative-reactions-on-yt-for-2024/"><u>[Updated] Captivate and Enchant Explore the Best Creative Reactions on YT for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-echoes-unleashed-mac-studio-techniques/"><u>[Updated] Echoes Unleashed Mac Studio Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-frequent-monetization-is-it-real-on-youtube-for-2024/"><u>[Updated] Frequent Monetization Is It Real on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gamers-signature-look-essential-template-tips-for-channels/"><u>[Updated] Gamers' Signature Look Essential Template Tips for Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[Updated] In 2024, Achieving Top Quality on YouTube Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exciting-vlog-subjects-daily-selection/"><u>[Updated] In 2024, Exciting Vlog Subjects Daily Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-zero-cost-youtube-intros-essential-tips-and-templates/"><u>[Updated] Mastering Zero-Cost YouTube Intros Essential Tips & Templates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/"><u>Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028219386-mov3/"><u>MOVファイルを別形式に変換する効果的な3手法 - ステップバイステップ解説</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-era-of-emoji-powered-financial-insights-addressing-activisions-data-breach-and-anticipating-ai-driven-workforce-shifts-via-chatgpt-integration/"><u>New Era of Emoji-Powered Financial Insights: Addressing Activision's Data Breach & Anticipating AI-Driven Workforce Shifts via ChatGPT Integration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-and-optimize-downloading-and-updating-drivers-for-the-samsung-groovy/"><u>Secure & Optimize: Downloading & Updating Drivers for the Samsung Groovy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smooth-path-to-crafting-unique-video-shorts-thumbnail-credits-for-2024/"><u>Smooth Path to Crafting Unique Video Shorts Thumbnail Credits for 2024</u></a></li>
 </ul></div>
 

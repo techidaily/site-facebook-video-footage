@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Secrets of YouTube’s Shorts Revenue Sharing"
-date: 2024-08-01T03:30:33.368Z
-updated: 2024-08-02T03:30:33.368Z
+date: 2024-10-17T16:18:33.058Z
+updated: 2024-10-23T22:19:15.757Z
 tags:
   - ai video
   - ai youtube
@@ -22,14 +22,8 @@ YouTube offers content creators a platform for creating a lucrative career. Of t
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1\. YouTube Shorts Fund: Introduction and Benefits**
 
 YouTube launched YouTube Shorts Funds in 2021 to financially support creators who produce engaging and popular Shorts content. The monetization scheme would distribute $100 million to high-performing creators on the platform. The creators would receive high engagement and views from their Shorts for funding.
@@ -49,8 +43,18 @@ Participating in YouTube Shorts Funds offer several benefits to the creators:
 YouTube incorporated monetization of Shorts in its YouTube Partner Program (YPP). Therefore, YouTube merged the Shorts Fund with the YPP in February 2023\. This led to YouTube Shorts Fund 2023 which now offers creators more opportunities to make money quickly on YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 2\. Making Money with YouTube Shorts: Eligibility and Earnings**
 
 The new YouTube Shorts monetization policy means that content creators on YouTube with access to the YPP can also earn from Shorts. The revenue-sharing model has now taken the place of the YouTube Shorts Fund, which only rewarded creators using YouTube’s money. However, creators don’t have to be members of the YPP to start receiving YouTube Shorts funding. They only need to meet certain requirements, make unique content, and adhere to Community Guidelines.
@@ -64,9 +68,6 @@ The new YouTube Shorts monetization policy means that content creators on YouTub
 
 As of 2023, YouTube offers Shorts Funding as a monetization option. Creators can also choose to monetize with YPP combined with Shorts Fundings.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube shorts fund eligibility](https://images.wondershare.com/filmora/article-images/2023/everything-you-need-to-know-about-the-youtube-shorts-fund-3.jpeg)
 
 The eligibility requirements for Shorts funding include:
@@ -79,6 +80,13 @@ To become a member of the YPP and start accessing Shorts funding this way, the m
 * At least 500 subscribers (You previously needed 1,000)
 * At least 3,000 public watch hours over the last 13 months (You previously needed 4,000)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Additional Steps of Actions to Activate YouTube Shorts Funding**
 
 In addition to the basic eligibility requirements, creators are also required to take additional measures to comply with YouTube’s requirements. Additional steps include:
@@ -88,6 +96,13 @@ In addition to the basic eligibility requirements, creators are also required to
 * **Enable Monetization for Individual Shorts:** Edit the monetization settings for each Short to start generating ad revenue.
 * **Comply with YouTube Policies and Guidelines:** Visit the YouTube Creator Academy to learn more about the platform’s policies and guidelines.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **What the YPP Shorts Fund Entails**
 
 The YPP Shorts Fund program includes the following features:
@@ -96,16 +111,10 @@ The YPP Shorts Fund program includes the following features:
 * **Shorts Monetization Module** – Creators earn money from ads that play between YouTube Shorts.
 * **Commerce Product Addendum** – Additional monetization features, including Super Chats. Channel Memberships, Super Thanks, and Super Stickers.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### **How Much Can You Make with Short** **s**
 
 The amount of money you can make on Shorts often varies. It can be hard to make decent money on Shorts sometimes, and other times it brings in a nice chunk of revenue. Unfortunately, the earnings are not as spectacular as the long YouTube videos. Most creators agree that the revenue per thousand views (RPM) for shorts is around $0.05 - $0.07\. This would translate to about $50 - $70 for a million Shorts views. Although the ad revenue is relatively lower, you can generate more revenue with the shopping features. This will depend on how wee you keep your audience active and engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Part 3\. How to Use YouTube Shorts Funding: Application and Activation**
 
 The process of applying for and activating YouTube Short Funding is simple. You need to accept the Shorts Monetization Module in your terms and conditions. After activating, monetization starts immediately.
@@ -120,17 +129,12 @@ Head over to the YouTube Studio. Sign in to your account to accept the terms. Be
 4. **Setp 4**: Save your settings and the ads will be active.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 4\. Editing YouTube Shorts for More Revenue with Wondershare Filmora**
 
 The best way to earn from the YouTube Shorts Fund is to create quality content. With good video editing software, you can achieve this and build a community of subscribers. Wondershare Filmora is a video editing software that is effective in creating quality Shorts videos. It supports various video resolutions, including vertical videos. It also has some fascinating features that make every creation unique and exciting. Take your overexposed footage to cinema-quality Shorts video that will keep your audience engaged.
@@ -145,20 +149,28 @@ Filmora can help create visually appealing and engaging videos, ultimately incre
 
 You may have recorded horizontal videos and want to upload them as Shorts. The Auto Reframe feature allows you to automatically resize the video in seconds. You only need to choose the clip you want to resize and reframe it. No editing skills are required to do this.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [**Add Text to Video**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Texts tell the audience what is happening in the video. It is also a great way to highlight major events in YouTube Shorts. The Add Text to Video feature on Filmora makes it easy to add text or captions to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [**Auto Synchronization**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 When editing Shorts, you will likely add many footage in a short video. It is common for the audio to end up being where it is not supposed to. The Auto Synchronization feature is the ultimate audio sync. It effortlessly matches your audio with the video, making sure viewers see what they hear
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. [**Mask & Blend**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Creativity is a major component of YouTube Shorts content. The Filmora Masking and Blending mode helps you make creative video clips. It comes with a pen tool for creating free-form shapes on the go. Make your videos more impressive to your audience.
@@ -173,13 +185,7 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -187,4 +193,27 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlocking-mac-recording-capabilities/"><u>[New] In 2024, Unlocking Mac Recording Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-keyboard-moguls-choices-leading-16-youtube-intros-for-more-watchers/"><u>[New] Keyboard Moguls' Choices Leading 16 YouTube Intros for More Watchers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetizing-mastery-comparing-streaming-giants-strategies/"><u>[New] Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-pinnacle-tools-studio-vs-next-gen-beta/"><u>[New] YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-clout-not-content-efficient-video-length-reduction/"><u>[Updated] 2024 Approved Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-excellent-sound-devices-for-video-blogs/"><u>[Updated] 2024 Approved Excellent Sound Devices for Video Blogs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-complete-sphere-unveiled-in-film-tech/"><u>[Updated] 2024 Approved The Complete Sphere Unveiled in Film Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-film-fans-choice-cutting-edge-youtube-channels/"><u>[Updated] Film Fan's Choice Cutting-Edge YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>[Updated] In 2024, Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-5-online-facebook-video-downloader/"><u>2024 Approved Top 5 Online Facebook Video Downloader</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-sony-xperia-5-v-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Sony Xperia 5 V</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-comparison-of-windows-10-and-windows-8-key-upgrades-explained/"><u>Comprehensive Comparison of Windows 10 & Windows 8: Key Upgrades Explained</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/culinary-secrets-cooking-the-best-fried-eggs-in-7-steps-93-characters/"><u>Culinary Secrets: Cooking the Best-Fried Eggs in 7 Steps (93 Characters)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-gone-mailboxes-to-current-a-live-server-migration-guide/"><u>From Gone Mailboxes to Current: A Live Server Migration Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-make-a-youtube-subscribe-link-easy/"><u>In 2024, How to Make a YouTube Subscribe Link - Easy!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-master-cams-for-clay-character-creation/"><u>In 2024, Master Cams for Clay Character Creation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/my-journey-to-fluency-top-10-ways-mondly-shaped-my-studies/"><u>My Journey to Fluency: Top 10 Ways Mondly Shaped My Studies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-steps-for-effortless-creation-of-youtube-shorts-credits-for-2024/"><u>Proven Steps for Effortless Creation of YouTube Shorts Credits for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-itunes-detected-problems-with-your-devices-sound-settings-efficiently/"><u>Solving iTunes' Detected Problems with Your Device’s Sound Settings Efficiently</u></a></li>
+</ul></div>
 

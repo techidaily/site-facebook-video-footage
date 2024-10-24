@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-10-15T21:03:43.551Z
-updated: 2024-10-17T23:17:07.369Z
+date: 2024-10-17T19:01:38.865Z
+updated: 2024-10-23T23:36:50.770Z
 tags:
   - win11
   - win10
@@ -38,33 +38,33 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
@@ -76,6 +76,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
@@ -85,19 +92,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -120,10 +114,10 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -140,23 +134,16 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
- Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 ### Fix 5 – Disable cloud storage
 
@@ -169,6 +156,19 @@ To update your graphics driver, here are two safe ways for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
@@ -210,22 +210,21 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audiences-on-the-rise-gauge/"><u>[New] 2024 Approved Audiences on the Rise Gauge</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-visual-impact-a-guide-to-jump-cut-techniques-for-2024/"><u>[New] Enhancing Visual Impact A Guide to Jump Cut Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-editing-techniques-youtube-and-comparable-tools/"><u>[New] In 2024, Cutting-Edge Editing Techniques YouTube & Comparable Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[New] In 2024, From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-power-of-pixels-expert-advice-on-youtube-thumbnail-sizing/"><u>[New] Unlock the Power of Pixels Expert Advice on YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-evaluating-m1s-capabilities-for-heavy-duty-media-editing-for-2024/"><u>[Updated] Evaluating M1's Capabilities for Heavy-Duty Media Editing for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-the-world-of-youtube-keywords/"><u>[Updated] In 2024, Navigating the World of YouTube Keywords</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-video-spin-a-comprehensive-2023-users-guide-to-youtube-angles/"><u>[Updated] Mastering Video Spin A Comprehensive 2023 User's Guide to YouTube Angles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-utilize-youtube-metrics-to-transform-views-into-revenue/"><u>[Updated] Utilize YouTube Metrics to Transform Views Into Revenue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-what-are-the-earning-prospects-for-youtubers-from-branded-video-plays/"><u>[Updated] What Are the Earning Prospects for YouTubers From Branded Video Plays?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-selecting-your-perfect-mp4-device/"><u>2024 Approved Selecting Your Perfect MP4 Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-image-marketing-dos-vs-donts-explained/"><u>2024 Approved YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6 Waze | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c32-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C32 Device SIM</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/exploring-options-for-advanced-livestreaming-setups-for-2024/"><u>Exploring Options for Advanced Livestreaming Setups for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/resolve-your-tubechop-malfunction-discover-top-5-alternative-solutions/"><u>Resolve Your TubeChop Malfunction: Discover Top 5 Alternative Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/tutoriel-pratique-comment-retrouver-sans-effort-vos-fichiers-telecharges/"><u>Tutoriel Pratique : Comment Retrouver Sans Effort Vos Fichiers Téléchargés</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>[New] 2024 Approved Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-video-card-selections-for-peak-streaming-performance/"><u>[New] In 2024, Best 10 Video Card Selections for Peak Streaming Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[New] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-content-conundrum-youtubes-shorts-versus-tiktoks-the-decision/"><u>[New] Video Content Conundrum YouTubes Shorts Versus TikToks – The Decision</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-art-of-youtube-channel-blocking-a-step-by-step-approach/"><u>[Updated] Mastering the Art of Youtube Channel Blocking A Step-by-Step Approach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-dominating-youtube-search-results-through-seo/"><u>[Updated] Strategies for Dominating YouTube Search Results Through SEO</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-beginners-blueprint-for-youtube-trailers-via-filmora/"><u>[Updated] The Beginner's Blueprint for YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-camera-woes-ended-by-fix-obs/"><u>2024 Approved Camera Woes Ended by Fix - OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/excellent-sd-cards-compatible-with-gopro-hero-7-and-8-for-2024/"><u>Excellent SD Cards Compatible with GoPro Hero 7 & 8 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-helldivers-2-initialization-issue-no-more-black-screens/"><u>Expert Tips to Correct Helldivers 2 Initialization Issue – No More Black Screens!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-6-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 6 without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 8 Plus?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-counter-strike-modern-warfare-persistent-game-crashes-no-more/"><u>Resolved: Counter-Strike: Modern Warfare Persistent Game Crashes No More</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212304821-showcase-your-touchpad-regain-control/"><u>Showcase Your Touchpad, Regain Control</u></a></li>
 </ul></div>
 

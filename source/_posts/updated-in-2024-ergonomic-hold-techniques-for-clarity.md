@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2024-10-15T01:44:33.399Z
-updated: 2024-10-17T23:38:55.986Z
+date: 2024-10-16T21:47:24.754Z
+updated: 2024-10-23T21:49:32.289Z
 tags:
   - ai video
   - ai youtube
@@ -36,13 +36,6 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -58,15 +51,22 @@ Here it is with binder clips:
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here it is with hair clips:
 
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
@@ -98,10 +98,10 @@ Your wire should be fairly stiff and you’ll need three pieces the same length,
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _All of your supplies plus the finished product._
@@ -127,10 +127,10 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -148,24 +148,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-binge-watching-to-billions-jake-pauls-video-venture/"><u>[New] 2024 Approved Binge-Watching to Billions Jake Paul's Video Venture</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-expertise-short-video-revenue-boosting/"><u>[New] 2024 Approved Earning Expertise Short Video Revenue Boosting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>[Updated] 2024 Approved Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-preserving-audio-visual-content-itunes-edition/"><u>[Updated] 2024 Approved Preserving Audio-Visual Content ITunes Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-beyond-youtube-elite-video-sharing-hubs-revealed-for-2024/"><u>[Updated] Beyond YouTube Elite Video Sharing Hubs Revealed for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-screen-recorders-for-todays-windows-users/"><u>[Updated] Essential Screen Recorders for Today's Windows Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-business-via-beauty-vlogs/"><u>[Updated] In 2024, Building Business via Beauty Vlogs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-design-channels-get-free-visuals-now/"><u>[Updated] In 2024, Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-increase-your-videos-impact-essential-keyword-analysis-resources/"><u>[Updated] Increase Your Video's Impact Essential Keyword Analysis Resources</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-multiperspective-media-expert-guide-to-instagram-video-rotations/"><u>[Updated] Mastering Multiperspective Media Expert Guide to Instagram Video Rotations</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-quest-for-your-own-distinctive-stream-tagline/"><u>2024 Approved The Quest for Your Own Distinctive Stream Tagline</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-ultimate-guide-to-subscribing-to-youtube-news-leaders/"><u>2024 Approved Your Ultimate Guide to Subscribing to YouTube News Leaders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c12-plus-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Nokia C12 Plus.</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-swiftly-remove-unwanted-video-post-comments-for-2024/"><u>Strategies to Swiftly Remove Unwanted Video Post-Comments for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-anker-powercoreplus-ebtity-saving-sleek-battery-backup/"><u>The Ultimate Guide to the Anker PowerCore+ Ebtity-Saving, Sleek Battery Backup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-virtual-reality-movies-in-the-cinema/"><u>The Virtual Reality Movies in the Cinema</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722650273827-top-review-mastering-the-market-with-apples-2018-ipad-pro-11-a-game-changer-in-tech/"><u>Top Review: Mastering the Market with Apple's 2018 iPad Pro 11 - A Game-Changer in Tech!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-first-step-into-youtube-creating-an-engaging-channel-for-2024/"><u>Your First Step Into YouTube Creating an Engaging Channel for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-updated-monetization-playbook-for-2024/"><u>YouTube's Updated Monetization Playbook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[New] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-live-excellence-a-comprehensive-tutorial/"><u>[New] YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-scenes-iphone-video-loops-unveiled/"><u>[Updated] 2024 Approved Behind the Scenes IPhone Video Loops Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-evaluating-the-efficacy-of-magix-picture-tool/"><u>[Updated] In 2024, Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] In 2024, Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-free-melodies-a-guide-for-youtube-producers/"><u>[Updated] Mastering Free Melodies A Guide for YouTube Producers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips Selecting Android's Top Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-time-traveling-through-retro-filmmaking-techniques/"><u>[Updated] Time Traveling Through Retro Filmmaking Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-action-perfected-in-depth-on-the-t5-camera/"><u>2024 Approved Action Perfected In-Depth on the T5 Camera</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-sem-custo-transformar-videos-em-formato-wtv-usando-o-movaviconverter/"><u>Download Sem Custo: Transformar Vídeos Em Formato WTV Usando O MovaviConverter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-5-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic 5 Pro Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y100-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y100 Lock Screen Password</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-video-builder-how-to-create-video-ads-for-free/"><u>In 2024, YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickly-enhance-productivity-using-excel-template-designs/"><u>Quickly Enhance Productivity Using Excel Template Designs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-logitech-gaming-software-not-launching-successfully/"><u>Resolving Issues with Logitech Gaming Software Not Launching Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-fixes-to-optimize-cpu-usage-during-your-phasmophobia-sessions/"><u>Tips and Fixes to Optimize CPU Usage During Your Phasmophobia Sessions</u></a></li>
 </ul></div>
 

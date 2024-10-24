@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing Final Viewers' Interactions on YT"
-date: 2024-08-01T03:33:14.859Z
-updated: 2024-08-02T03:33:14.859Z
+date: 2024-10-16T22:53:54.061Z
+updated: 2024-10-23T23:18:53.664Z
 tags:
   - ai video
   - ai youtube
@@ -32,9 +32,6 @@ The traditional annotation’s features are replaced by its successor YouTube Ca
 
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle&spm=rs.filmora%5Fweb)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Part 1: Why You Need to Add End Screens and Cards to Videos
 
 There are several reasons that make the YouTube end screen and cards a great tool when added to the videos. The new channel builtin features, donation choices, embedded polls and more are some of the best interactive and powerful features of YouTube end screen that’s when added to the video can drive in users to your channel. It is a strong tool to build viewership of your channel. When you use YouTube end screen at the end of the video, it helps in directing the users to other channels, playlists, and videos and also helps in promoting crowdfunding campaigns, merchandise and website. The YouTube end screen is a part of the video and to have an end screen on your video, it must be around 25seconds long.
@@ -59,8 +56,12 @@ Do you wish to add YouTube end screen to your video? Just follow the steps and g
 **Link**\- This element helps in sending the users directly to your website. Although, Google has restricted other link addition in the video. In order to add, you must have an Adsense account and permit monetization.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How To Use Youtube Cards
 
 YouTube Cards is more interactive. Users can add images and other linkes. Here are the steps.
@@ -71,8 +72,12 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * Click “create” button. Select the timeline. In the end, apply.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The types of YouTube cards
 
 * **Video or playlist**: links to other videos/the complete palylist on YouTube related or non-related to that specific videolinks to further purchase websites or specific product.
@@ -81,8 +86,12 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 * **Link**: links to a website which compliments whatever content is in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4 Tips for Using YouTube Cards
 
 **1\.** You might be used to pointing to the part of your screen where you intend to put an annotation, but when you use YouTube Cards they might switch locations depending on what device a viewer is watching on.
@@ -93,17 +102,18 @@ YouTube Cards is more interactive. Users can add images and other linkes. Here a
 
  **4.** The end of your video is always a great place to link viewers to another of your videos, whether you use a card or an end screen. If somebody liked your video enough to watch until the end they’ll probably welcome a chance to consume similar content.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Now, that you are aware how to add YouTube end screen to your video, make use of the amazing features of YouTube end screen and cards and let driving in traffic to your site be easy and fruitful.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -111,12 +121,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-comparing-youtube-and-dailymotion-notable-contrasts/"><u>[New] 2024 Approved Comparing YouTube and Dailymotion Notable Contrasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube/"><u>[New] 2024 Approved Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-free-youtube-video-editing-apps-for-iphone-and-ipad-and-how-tos-for-2024/"><u>[New] Best Free YouTube Video Editing Apps for iPhone & iPad & How-Tos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>[New] Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide/"><u>[New] In 2024, Unraveling Instagram's Complex World of Data A Beginner to Pro Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-tricks-making-powerful-yt-thumbnails/"><u>[New] Top Tricks Making Powerful YT Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-writing-click-worthy-youtube-titles/"><u>[Updated] 2024 Approved Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-software-to-rip-youtube-trailers/"><u>[Updated] 2024 Approved Essential Software to Rip YouTube Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-youtube-performance-rapid-video-rendering-guide/"><u>[Updated] In 2024, Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premiere-masterclass-making-your-videos-shine-on-youtube/"><u>[Updated] Premiere Masterclass Making Your Videos Shine on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>[Updated] Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-full-screen-potential-of-premiere-pro/"><u>[Updated] Unlocking the Full Screen Potential of Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-easy-guide-to-capturing-youtube-content/"><u>2024 Approved Easy Guide to Capturing YouTube Content</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-repair/"><u>Android System Repair</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-the-continuous-run-of-edge-in-win11/"><u>Managing the Continuous Run of Edge in Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-art-of-programming-top-coding-techniques-unveiled/"><u>Master the Art of Programming: Top Coding Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/no-money-down-mics-the-frugal-filmmakers-list-for-2024/"><u>No-Money-Down Mics The Frugal Filmmaker's List for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726226167751-ppm-ff-movavi/"><u>손상 없는 인터넷에서 제공하는 무료 PPM 티 Ff 이미지 변환 - Movavi</u></a></li>
+</ul></div>
 

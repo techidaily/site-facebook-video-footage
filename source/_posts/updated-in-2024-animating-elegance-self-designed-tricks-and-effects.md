@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Animating Elegance  Self-Designed Tricks & Effects\""
-date: 2024-10-11T21:33:41.948Z
-updated: 2024-10-17T17:13:33.809Z
+date: 2024-10-20T23:10:32.374Z
+updated: 2024-10-23T19:45:35.664Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Richard Harrington on Lynda
@@ -64,10 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Bloop Animation
@@ -75,10 +75,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -88,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -109,20 +109,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ethical-approaches-to-achieve-one-million-youtube-subscribers/"><u>[New] 2024 Approved Ethical Approaches to Achieve One Million YouTube Subscribers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-expert-tips-for-sharing-videos-the-ultimate-youtube-photo-poster-for-2024/"><u>[New] Expert Tips for Sharing Videos The Ultimate YouTube Photo Poster for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-compelling-youtube-narratives-with-chapters-and-subsections/"><u>[New] In 2024, Crafting Compelling YouTube Narratives with Chapters and Subsections</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-look-expert-tutorials-for-everyone-for-2024/"><u>[Updated] Elevating Your Look Expert Tutorials for Everyone for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video-for-2024/"><u>[Updated] How to Easily Add Subtitles and Closed Captions to YouTube Video for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-9-pinnacle-in-live-game-broadcasting/"><u>[Updated] In 2024, 9 Pinnacle in Live Game Broadcasting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-process-of-adding-subtitles-to-your-youtube-content/"><u>[Updated] Step by Step Process of Adding Subtitles to Your YouTube Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[Updated] Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-c33-2023-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C33 2023 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-green-screen-mastery-on-youtube-ideas-unleashed/"><u>In 2024, Green Screen Mastery on YouTube - Ideas Unleashed!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restoring-removed-files-on-your-windows-8-pc-a-step-by-step-guide/"><u>Restoring Removed Files on Your Windows 8 PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/synth-symphony-selecting-superior-dj-templates-for-download-for-2024/"><u>Synth Symphony Selecting Superior DJ Templates for Download for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[New] 2024 Approved Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-navigating-the-world-of-android-video-snapshots/"><u>[New] 2024 Approved Navigating the World of Android Video Snapshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-becoming-a-confident-content-creator-youtubes-top-tips-for-2024/"><u>[New] Becoming a Confident Content Creator YouTube's Top Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] In 2024, Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comedy-classics-a-curated-15-channel-collection-for-humor/"><u>[Updated] 2024 Approved Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[Updated] In 2024, Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-start-chatting-in-real-time-learn-live-on-instagram/"><u>[Updated] In 2024, Start Chatting in Real-Time Learn Live on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-video-load-times-desktop-advice-for-2024/"><u>[Updated] Mastering Instagram Video Load Times Desktop Advice for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-seo-mastery-balancing-titles-and-tags/"><u>[Updated] YouTube SEO Mastery Balancing Titles and Tags</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-your-ultimate-guide-to-the-best-affordable-online-video-effect-tools/"><u>2024 Approved Your Ultimate Guide to the Best Affordable Online Video Effect Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/move-and-modify-how-to-find-and-adjust-outlooks-backup-file-settings/"><u>Move and Modify: How to Find and Adjust Outlook's Backup File Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-youtube-popularity-through-seo-know-how-for-2024/"><u>Skyrocketing YouTube Popularity Through SEO Know-How for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-unveiling-the-latest-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest Computer Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-ultimate-stylus-tablet-picks-for-2-cufflinks-and-57-gold-chains-expertly-reviewed-by-zdnet/"><u>Unveiling the Ultimate Stylus Tablet Picks for 2 Cufflinks and 57 Gold Chains, Expertly Reviewed by ZDNet</u></a></li>
 </ul></div>
 

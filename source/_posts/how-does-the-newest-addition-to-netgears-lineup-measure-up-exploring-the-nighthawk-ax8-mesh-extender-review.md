@@ -1,7 +1,7 @@
 ---
 title: How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
-date: 2024-10-13T16:52:58.733Z
-updated: 2024-10-17T19:46:14.584Z
+date: 2024-10-18T21:25:21.497Z
+updated: 2024-10-23T21:55:15.675Z
 categories:
   - BestProducts
 description: This Article Describes How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
@@ -38,9 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -74,13 +88,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Avoid the app**
 
  The setup options for the Netgear Nighthawk AX8 are the same as with Netgear’s other extenders—even those without Wi-Fi 6 support. You’ll begin with the extender plugged in near your router. If your router supports[WPS](https://www.lifewire.com/what-is-wps-4842308) , then you can pair the extender with it easily by following the process listed in the included booklet, which is as simple as pressing a button on the router and then doing the same on the extender.
@@ -93,14 +100,14 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Smooth sailing**
 
@@ -117,13 +124,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  Given the high max speeds, it wasn’t surprising to see strong gaming performance, as well. While playing Rocket League, I saw smooth gameplay across the wired Ethernet connection as well as both wireless networks, with a ping as low as 33 via the wired connection. The wireless ping was only a few points higher.
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -150,10 +150,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -182,21 +182,14 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-video-view-count-top-hashtag-trends-guide/"><u>[New] 2024 Approved Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast-for-2024/"><u>[New] Ace Your Youtube Livestreams Mastering Broadcast Techniques Using WireCast for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-captivation-creator-for-articles/"><u>[New] Captivation Creator for Articles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-youtube-for-dynamic-instagram-stories/"><u>[New] Leveraging YouTube for Dynamic Instagram Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>[New] Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>[Updated] Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-the-power-of-first-impressions-with-top-30-youtube-intra-craftsmen/"><u>[Updated] Unleash the Power of First Impressions with Top 30 YouTube Intra Craftsmen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-the-use-of-screencastify-app-step-by-step-guide/"><u>2024 Approved Mastering the Use of Screencastify App Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 Pro with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/deciding-between-youtube-tv-and-hulu-live-tv-the-ultimate-showdown-for-premium-online-viewing-options/"><u>Deciding Between YouTube TV and Hulu Live TV: The Ultimate Showdown for Premium Online Viewing Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-n3-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find N3</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-mp4-companies-to-watch-for-2024/"><u>Leading MP4 Companies to Watch for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premier-choice-the-best-10-recorders-for-tech-talks-for-2024/"><u>Premier Choice The Best 10 Recorders for Tech Talks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolving-delay-issues-how-to-fix-stuttering-videos-during-premiere-pro-playback/"><u>Resolving Delay Issues: How to Fix Stuttering Videos During Premiere Pro Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stop-stutter-comprehensive-guide-for-fixing-bluetooth-audio-issues-on-windows-1011/"><u>Stop Stutter: Comprehensive Guide for Fixing Bluetooth Audio Issues on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>[New] 2024 Approved Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-video-making-opt-for-studio-versus-beta-version/"><u>[Updated] 2024 Approved Expert Video Making Opt for Studio Versus Beta Version</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-practices-selecting-among-top-9-free-logo-designers/"><u>[Updated] In 2024, Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-m14-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy M14 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-with-showcase-pro-secure-your-favorite-shows-from-showcaseca-for-pcs-and-macs/"><u>Download with Showcase Pro: Secure Your Favorite Shows From Showcase.ca for PCs & Macs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-stature-symbolized-by-play-and-follower-awards-for-2024/"><u>Streaming Stature Symbolized by Play & Follower Awards for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-skywalkers-unite-new-war-epoch/"><u>The Skywalkers Unite! New War Epoch</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transferencia-de-datos-desde-un-disco-mbr-a-una-unidad-ssd-con-gpt-sin-necesidad-de-reinstalacion/"><u>Transferencia De Datos Desde Un Disco MBR a Una Unidad SSD Con GPT Sin Necesidad De Reinstalación</u></a></li>
 </ul></div>
 

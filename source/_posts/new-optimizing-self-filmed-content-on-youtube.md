@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimizing Self-Filmed Content on YouTube\""
-date: 2024-08-01T03:29:26.461Z
-updated: 2024-08-02T03:29:26.461Z
+date: 2024-10-18T19:41:33.872Z
+updated: 2024-10-23T20:25:07.209Z
 tags:
   - ai video
   - ai youtube
@@ -31,24 +31,21 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.  Close Quarters Wide-Angle Vlog Set-Up
 
 Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
@@ -86,8 +83,12 @@ If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you 
 With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4.  Long Teleprompter Vlog Set-Up
 
 If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
@@ -105,18 +106,26 @@ It is difficult to know whether the movement in his eyes is caused by not being 
 Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Tips for Making a Talking Head Video Better
 
 To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -124,12 +133,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-content-composer-arena/"><u>[New] 2024 Approved Content Composer Arena</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[New] 2024 Approved Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-journey-through-high-impact-youtube-banner-designs-for-2024/"><u>[New] A Step-by-Step Journey Through High-Impact YouTube Banner Designs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-academic-avenue-leading-educators-on-youtube/"><u>[New] In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-4-free-tools-for-youtube-audio-conversion-to-wav/"><u>[New] Top 4 Free Tools for YouTube Audio Conversion to WAV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-practices-for-writing-testable-maintainable-javascript-code-for-2024/"><u>[Updated] Best Practices for Writing Testable, Maintainable JavaScript Code for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-classrooms-prime-ed-tutorials-online/"><u>[Updated] In 2024, Digital Classrooms Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-what-to-expect-from-your-instagram-experience-now/"><u>[Updated] In 2024, What to Expect From Your Instagram Experience Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-phones-and-samsung-gear-vr-interaction-for-2024/"><u>[Updated] Navigating Phones & Samsung Gear VR Interaction for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-roadmap-to-establishing-your-unique-flair/"><u>[Updated] The Roadmap to Establishing Your Unique Flair</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decadal-meme-construction-breakthroughs/"><u>Decadal Meme Construction Breakthroughs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-creation-software-ultimate-dvd-burning-and-making-tool-for-windows-11/"><u>Free WinX DVD Creation Software: Ultimate DVD Burning & Making Tool for Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-realme-gt-5-by-fonelab-android-recover-video/"><u>How to recover old videos from your Realme GT 5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-honor-70-lite-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Honor 70 Lite 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/logitech-c920-pro-hd-webcam-review/"><u>Logitech C920 Pro HD Webcam Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-pdf-transformations/"><u>Pinnacle PDF Transformations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/when-to-clean-up-your-social-circle-on-new-twitter-a-comprehensive-guide/"><u>When to Clean Up Your Social Circle on [New Twitter]: A Comprehensive Guide</u></a></li>
+</ul></div>
 

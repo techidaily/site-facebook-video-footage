@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-10-13T19:42:59.086Z
-updated: 2024-10-18T05:31:56.255Z
+date: 2024-10-22T22:09:09.759Z
+updated: 2024-10-23T18:49:50.147Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
@@ -77,14 +70,14 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
-If it’s not working, move to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not working, move to the next fix.
 
 ### Fix 3: Reinstall shaders & clear cache
 
@@ -104,33 +97,26 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -143,6 +129,13 @@ No luck with this fix? Try the next one.
 5. Restart your PC and relaunch the game.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the old driver
 
@@ -158,14 +151,27 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
@@ -191,18 +197,22 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>[New] 2024 Approved Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>[New] Cultivate Creativity 10+ Channel-Driven Video Suggestions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-youtube-shorts-for-total-beginners-for-2024/"><u>[New] Demystifying YouTube Shorts for Total Beginners for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data-for-2024/"><u>[New] Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-master-the-art-of-video-presentations-with-these-themes-for-2024/"><u>[Updated] Master the Art of Video Presentations with These Themes for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[Updated] Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-8-selecting-top-live-stream-cameras/"><u>2024 Approved Masterclass 8 Selecting Top Live Stream Cameras</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-ordinary-pictures-into-art-using-pixlr-secrets/"><u>2024 Approved Transform Ordinary Pictures Into Art Using Pixlr Secrets</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-8-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 8 Safe and Legal</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-inter-service-playlist-shuffling-with-ease/"><u>In 2024, Navigating Inter-Service Playlist Shuffling with Ease</u></a></li>
-<li><a href="https://article-posts.techidaily.com/speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>Speed Photography Showdown GoPro Hero 4 VS Ghost-S Drift</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-strategies-for-testing-video-games-before-purchasing-save-time-and-money/"><u>Top Strategies for Testing Video Games Before Purchasing: Save Time and Money</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-process-of-writing-youtube-video-content/"><u>[New] 2024 Approved Demystifying the Process of Writing YouTube Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-footprint-and-interactive-iconography-honors/"><u>[New] 2024 Approved Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-complete-directors-guide-to-powerdirector-24-software-for-2024/"><u>[New] Complete Director's Guide to PowerDirector '24 Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-15-essential-gaming-capture-programs/"><u>[New] In 2024, 15 Essential Gaming Capture Programs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-best-ways-to-record-and-preserve-internet-radio-for-2024/"><u>[New] The Best Ways to Record and Preserve Internet Radio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-compare-and-contrast-leading-online-and-desktop-gif-tools/"><u>[Updated] In 2024, Compare & Contrast Leading Online & Desktop GIF Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[Updated] Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-user-reviews-youtube-app-performance-on-phones/"><u>[Updated] User Reviews YouTube App Performance on Phones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-affiliate-marketing-how-to-make-money-with-it/"><u>[Updated] YouTube Affiliate Marketing How to Make Money with It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-setting-up-dns-on-windows-11/"><u>A Complete Walkthrough to Setting Up DNS on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-3-freezing-woes-heres-how-you-can-smoothly-play-it-on-your-windows-10-machine/"><u>Fallout 3 Freezing Woes? Here's How You Can Smoothly Play It on Your Windows 10 Machine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a59-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A59 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-learning-at-40plus-four-ways-it-can-improve-your-quality-of-life/"><u>Language Learning at 40+: Four Ways It Can Improve Your Quality of Life</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rise-to-stardom-secrets-to-viral-video-success-for-2024/"><u>Rise to Stardom Secrets to Viral Video Success for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-youtube-thumbnail-crafting-mac-for-2024/"><u>The Essential Guide to YouTube Thumbnail Crafting (Mac) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-took-the-lead-an-insight-into-its-phenomenal-surge-as-a-top-rated-app/"><u>Why ChatGPT Took the Lead: An Insight Into Its Phenomenal Surge as a Top-Rated App</u></a></li>
 </ul></div>
 

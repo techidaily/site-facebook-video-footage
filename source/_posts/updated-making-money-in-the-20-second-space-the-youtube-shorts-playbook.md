@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Making Money in the 20-Second Space  The YouTube Shorts Playbook\""
-date: 2024-10-16T16:39:02.031Z
-updated: 2024-10-17T18:55:38.833Z
+date: 2024-10-17T17:30:17.532Z
+updated: 2024-10-23T19:29:29.491Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,13 @@ YouTube Shorts have grown in popularity since the launch of the platform in 2021
 
 With short monetization options, you can monetize your short-firm content by joining the YouTube Partner Program (YPP). Being a member of this program gives you access to all tools for making money on YouTube. This includes the ability to place ads on your videos or make money directly from your audience through fan funding.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Eligibility Requirements for Monetizing Shorts**
 
 The easiest way to monetize Shorts on YouTube is to access the fan-funding program. This program gives you access to special tools that you can use to generate revenue by interacting with views. This is a great option for creators who primarily make short-form videos. The requirements for this option are as follows:
@@ -40,10 +47,10 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Eligibility for Monetizing Shorts and Videos**
@@ -53,13 +60,6 @@ The other way you can monetize shorts is by accessing ad revenue and fan-funding
 * At least 1,000 subscribers to your channels
 * At least 4,000 public watch hours in the last 365 days, or
 * At least 10 million valid public Shorts views in the last 90 days
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Additional Guidelines for Creators**
 
@@ -83,6 +83,13 @@ Can you monetize YouTube shorts? Yes, in more than one way. The easiest is throu
 
 ![youtube sign in](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2Select YouTube Studio
 
 In the top right of the YouTube page, click on your profile picture. From the pop-up menu that appears, select **YouTube Studio**.
@@ -90,10 +97,10 @@ In the top right of the YouTube page, click on your profile picture. From the po
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3In the left menu, Click on **Earn**
@@ -124,26 +131,26 @@ Wait for YouTube to review and approve your application. The process will normal
 
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
 
 The money-making feature monetizes Shorts in exciting ways. To start monetizing with Super Thanks fan funding, click Supers on the Earn tab in YouTube Studio. Then click Get Started, and follow the presented prompts. The same process is applicable for Channel Memberships, and other fan-funding options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3\. YouTube Shorts Monetization: A Realistic Look at Earnings Potential**
 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
@@ -154,13 +161,6 @@ The amount of money you make on YouTube Shorts is not fixed. It will depend on s
 * **Viewer engagement:** Viewer engagement brings in additional revenue through features like Super Thanks.
 * **Number of monetized Shorts:** Monetizing most of your short-form videos will increase the revenue generated.
 * **Shopping Revenue:** How well you promote your products and the set price point of the products will determine the shopping revenue generated.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Examples of Creators Who Have Earned from Shorts**
 
@@ -186,10 +186,10 @@ The choice of Filmora features you use on your editing projects will depend on y
 Before uploading a short-form video on YouTube, you want to make sure it is of the right resolution. The Auto Reframe feature on Filmora allows you to instantly resize your videos while keeping all the important details. You only need to record one video for all platforms, and edit to fit with auto reframe.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\.** **[Text to Speech](https://tools.techidaily.com/wondershare/filmora/download/)**
@@ -217,16 +217,24 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capture-your-pc-hp-laptop-screen-recording-guide/"><u>[New] 2024 Approved Capture Your PC HP Laptop Screen Recording Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-dells-direct-methods-easy-screenshot-solutions/"><u>[Updated] 2024 Approved Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[Updated] 2024 Approved Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-humour-haven-strategies-for-parody-video-creation/"><u>[Updated] Humour Haven Strategies for Parody Video Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-online-presence-choosing-the-right-webcam/"><u>[Updated] In 2024, Elevate Your Online Presence Choosing the Right Webcam</u></a></li>
-<li><a href="https://win-great.techidaily.com/hier-erfahren-sie-vier-schritte-wie-sie-fotos-vom-iphone-direkt-auf-ihrem-desktop-anzeigen-konnen/"><u>Hier Erfahren Sie Vier Schritte, Wie Sie Fotos Vom iPhone Direkt Auf Ihrem Desktop Anzeigen Können</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-cost-effective-audio-equipment-for-newcomers/"><u>In 2024, Cost-Effective Audio Equipment for Newcomers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-local-installation-a-complete-guide-to-llama-2/"><u>Navigating Local Installation: A Complete Guide to Llama 2</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedy-frequent-display-flickering/"><u>Remedy Frequent Display Flickering</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/savory-sensations-top-youtube-food-influencers-for-2024/"><u>Savory Sensations Top YouTube Food Influencers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/scouring-youtubes-discussions-for-2024/"><u>Scouring YouTubes' Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-black-screens-in-youtube-playback/"><u>[New] 2024 Approved Clearing Up Black Screens in YouTube Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[New] In 2024, Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-content-strategy-with-targeted-tagging/"><u>[New] In 2024, Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-photos-and-video-in-pixiz-a-comprehensive-guide/"><u>[Updated] Bridging Photos & Video in Pixiz A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-analyzing-why-youtube-features-specific-comments/"><u>[Updated] In 2024, Analyzing Why YouTube Features Specific Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-easy-youtube-animation-subscribe-bars-in-filmora/"><u>[Updated] In 2024, Crafting Easy YouTube Animation Subscribe Bars in Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-detailed-look-into-youtubes-featured-community-dialogue/"><u>[Updated] In 2024, Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[Updated] In 2024, Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-steps-activating-windows-11-hdr/"><u>[Updated] Quick Steps Activating Windows 11 HDR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-shopping-insights-into-youtube-paychecks/"><u>[Updated] Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-success-selecting-co-stars-for-youtube-projects/"><u>[Updated] Unlocking Success Selecting Co-Stars for YouTube Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-star-wars-squadrons-game-crashes-completely-solved/"><u>How to Fix Star Wars: Squadrons Game Crashes Completely Solved</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-10t-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 10T 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974837807-phase-change-heat-exchangers-facilitate-transitions-between-fluid-phases-like-liquid-vapor/"><u>Phase Change Heat Exchangers Facilitate Transitions Between Fluid Phases Like Liquid-Vapor.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-techniques-for-captivating-viewers-with-live-video-graphics-for-2024/"><u>Proven Techniques for Captivating Viewers with Live Video Graphics for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-stars-decoding-the-language-mysteries-in-star-wars/"><u>Speaking Stars: Decoding the Language Mysteries in Star Wars</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-12-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme 12 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-channel-art-make-banners-icons-and-thumbnails-for-2024/"><u>YouTube Channel Art - Make Banners, Icons, and Thumbnails for 2024</u></a></li>
 </ul></div>
 
