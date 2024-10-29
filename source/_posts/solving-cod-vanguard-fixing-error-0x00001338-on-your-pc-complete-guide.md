@@ -1,7 +1,7 @@
 ---
 title: "Solving CoD Vanguard: Fixing Error 0X00001338 on Your PC - Complete Guide"
-date: 2024-10-21T23:30:27.330Z
-updated: 2024-10-24T00:01:15.585Z
+date: 2024-10-24T16:07:14.388Z
+updated: 2024-10-29T19:39:18.702Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 7. [**Repair your system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1\. Remove the operator skin
@@ -41,13 +41,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
  For those who’re getting 0x00001338 (5573) N error code, according to many Vanguard players, the game works right after they remove the operator skin and switch back to the base skin.
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Clear the game cache
 
@@ -59,29 +52,36 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
 `(C:\ProgramData\Blizzard Entertainment\Battle.net\Cache)`
 
  4) Delete every folder or file under the**Cache** folder.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
 
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update device drivers
 
@@ -97,10 +97,10 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
@@ -109,13 +109,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5\. Revert to DX11
 
@@ -173,6 +166,13 @@ Launch CoD Vanguard and test the gameplay.
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -254,18 +254,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>[New] Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[New] In 2024, Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exclusive-list-of-premium-online-and-desktop-gif-makers/"><u>[New] In 2024, Exclusive List of Premium Online & Desktop GIF Makers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-az-screenshot-mastery-full-app-review/"><u>[Updated] 2024 Approved AZ Screenshot Mastery - Full App Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>[Updated] 2024 Approved Comprehensive Lookup Experience the World in Virtual Reality</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-enhance-video-speed-in-minutes-on-tiktok-filming/"><u>[Updated] 2024 Approved Enhance Video Speed in Minutes on TikTok Filming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>[Updated] 2024 Approved Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[Updated] In 2024, Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-shifting-gender-identity-in-online-profile-pictures/"><u>[Updated] In 2024, Shifting Gender Identity in Online Profile Pictures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-power-of-precision-crafting-effective-video-titles/"><u>[Updated] The Power of Precision Crafting Effective Video Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visionedit-ace/"><u>[Updated] VisionEdit Ace</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-local-fm-channels-using-your-smartphone-tips-for-iphoneandroid-users/"><u>Access Local FM Channels Using Your Smartphone: Tips for iPhone/Android Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-premiere-pro-fs-view-techniques/"><u>In 2024, In-Depth Premiere Pro FS View Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-object-oriented-programming-for-complex-applications/"><u>[New] 2024 Approved Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[New] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fixing-feed-frustration-reclaim-missing-video-suggestions/"><u>[New] Fixing Feed Frustration Reclaim Missing Video Suggestions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-top-7-adblocker-apps-for-android-users/"><u>[New] Unveiling Top 7 AdBlocker Apps for Android Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-five-game-changing-updates-from-facebook/"><u>[Updated] 2024 Approved Top Five Game-Changing Updates From Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-online-collection-of-video-downloader-tools-for-2024/"><u>[Updated] Elite Online Collection of Video Downloader Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[Updated] In 2024, Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-naming-mastery-in-the-digital-age-a-comprehensive-guide/"><u>[Updated] Naming Mastery in the Digital Age A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ranked-top-5-ps3-virtual-players-for-pc/"><u>[Updated] Ranked Top 5 PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>[Updated] Streamline Storage Solutions The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F14 5G Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-gaming-quality-of-am08-pro-validated/"><u>Is the Gaming Quality of AM08 Pro Validated?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-with-toms-hardware-essentials/"><u>Mastering Tech with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-10-most-popular-free-video-compressor-apps-for-windows-10/"><u>Updated 2024 Approved The 10 Most Popular Free Video Compressor Apps for Windows 10</u></a></li>
 </ul></div>
 

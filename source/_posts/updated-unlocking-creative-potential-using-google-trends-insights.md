@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Creative Potential Using Google Trends Insights"
-date: 2024-10-17T19:58:28.570Z
-updated: 2024-10-23T22:17:13.948Z
+date: 2024-10-24T18:48:09.645Z
+updated: 2024-10-29T18:04:15.487Z
 tags:
   - ai video
   - ai youtube
@@ -56,6 +56,13 @@ On top you will see two drop-down menus, one is for the category and one is for 
 
 ![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Under **All categories** select the general theme your channel falls under.
 
 Your options are business, entertainment, health, Sci/Tech, sports, and top stories.
@@ -77,10 +84,10 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Battle of the Keywords
@@ -94,16 +101,10 @@ Once you have a keyword in mind, type it into the Explore bar at the top of your
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
@@ -113,13 +114,6 @@ What happens after you click **enter** is pretty much magic. Say I want to make 
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
@@ -145,13 +139,6 @@ One of the biggest benefits of identifying trends and making videos about them q
 
 Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
@@ -159,6 +146,13 @@ As one of the most widely used video editing software among YouTubers, Filmora p
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -175,20 +169,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-best-drawing-apps-for-chromebook/"><u>[New] 10 Best Drawing Apps for Chromebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-15-must-have-openers-for-maximum-youtube-engagement-for-2024/"><u>[New] 15 Must-Have Openers for Maximum YouTube Engagement for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-seamless-film-documentation-on-windowsmacos-and-ios-gadgets/"><u>[New] 2024 Approved Seamless Film Documentation on Windows/MacOS & iOS Gadgets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-video-visibility-11-secrets-of-successful-seo/"><u>[Updated] 2024 Approved Elevate Your Video Visibility 11 Secrets of Successful SEO</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[Updated] 2024 Approved Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-personal-barriers-in-yt-content-creation-for-2024/"><u>[Updated] Breaking Personal Barriers in YT Content Creation for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-animated-and-personalized-filmora-subscribe-button-for-youtube-for-2024/"><u>[Updated] Dynamic, Animated, and Personalized Filmora Subscribe Button for YouTube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-starting-off-with-vlogging-necessary-equipmentsoftware/"><u>[Updated] In 2024, Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>2024 Approved Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994582044-banish-the-shadows-expert-fixes-to-minecrafts-ominous-black-screen-problem-2024-solutions-revealed/"><u>Banish the Shadows: Expert Fixes to Minecraft's Ominous Black Screen Problem - 2024 Solutions Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fachkundige-unterstutzung-im-internet-fur-die-nutzung-von-winx-dvd-ripping-und-videobearbeitungssoftware/"><u>Fachkundige Unterstützung Im Internet Für Die Nutzung Von WinX DVD Ripping Und Videobearbeitungssoftware</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-on-azure-speech-transcription-services-for-2024/"><u>Step-by-Step on Azure Speech Transcription Services for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-dji-robomaster-s1-breakdown-educational-coding-meets-exciting-tank-drone-battles/"><u>The DJI RoBOmaster S1 Breakdown: Educational Coding Meets Exciting Tank Drone Battles!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-lasting-linguistic-legacy-of-the-english-playwright/"><u>The Lasting Linguistic Legacy of the English Playwright</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[New] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-az-video-logger-full-application-scrutiny/"><u>[New] AZ Video Logger - Full Application Scrutiny</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-marketplace-where-to-invest-in-monetized-channels-for-2024/"><u>[New] Decoding the Marketplace Where to Invest in Monetized Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-youtube-responsibly-legal-mp4-conversion-methods/"><u>[New] In 2024, Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tactics-for-youtube-success-in-25-ways/"><u>[New] In 2024, Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-social-network-synergy-broadcasting-twitch-on-social-media-platforms/"><u>[New] Social Network Synergy Broadcasting Twitch on Social Media Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-branding-101-brainstorm-techniques/"><u>[Updated] 2024 Approved Channel Branding 101 Brainstorm Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>2024 Approved Learn to Bring Text Alive Free Animation for Vids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/aesthetic-video-upgrade-implement-lc-overlay-and-black-bars-on-facebook-for-2024/"><u>Aesthetic Video Upgrade Implement LC Overlay & Black Bars on Facebook for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-you-to-me-updating-your-social-network-identifier/"><u>From You to Me: Updating Your Social Network Identifier</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Play 7T FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-views-for-livelihood-mastering-youtubes-true-numbers/"><u>In 2024, Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-correct-windows-code-28-errors/"><u>Step-by-Step Guide: How to Troubleshoot and Correct Windows Code 28 Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PC Optimization Tips to Prevent [SOVELED] Warno From Crashing
-date: 2024-10-20T21:24:50.103Z
-updated: 2024-10-23T22:00:30.442Z
+date: 2024-10-26T19:39:52.148Z
+updated: 2024-10-29T16:48:58.607Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,10 +53,25 @@ If this fix doesn’t work, move to the next fix.
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -74,23 +82,16 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
@@ -112,10 +113,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -124,13 +125,6 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -142,18 +136,25 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -180,18 +181,18 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-your-digital-destiny-the-art-of-creating-and-launching-a-youtube-chanel/"><u>[New] Unveiling Your Digital Destiny The Art of Creating and Launching a YouTube Chanel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers-for-2024/"><u>[Updated] Download YouTube Tunes with These 10+ No-Cost Audio Crackers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-video-engagement-top-7-free-thumbnail-design-tools-for-2024/"><u>[Updated] Elevate Video Engagement Top 7 Free Thumbnail Design Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channels-aesthetics-free-banners-available-for-2024/"><u>[Updated] Elevate Your Channel's Aesthetics - Free Banners Available for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eco-filmmaking-simplified-youtubes-green-screen-wonders/"><u>[Updated] In 2024, Eco-Filmmaking Simplified YouTube's Green Screen Wonders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-seo-success-precision-crafted-video-titles-and-tags/"><u>[Updated] Unlock SEO Success Precision-Crafted Video Titles and Tags</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-asmrs-upside-exploring-its-health-impacts/"><u>2024 Approved ASMR's Upside Exploring Its Health Impacts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/command-and-conquer-the-ultimate-guide-to-using-voice-for-chatgpt-control/"><u>Command and Conquer: The Ultimate Guide to Using Voice for ChatGPT Control</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-smoothing-out-freezes-in-grand-theft-auto-v/"><u>Step-by-Step Solution for Smoothing Out Freezes in Grand Theft Auto V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-no-cost-artificial-intelligence-tools-for-boosting-videos-on-pc-and-mac/"><u>Top 12 No-Cost Artificial Intelligence Tools for Boosting Videos on PC and Mac</u></a></li>
-<li><a href="https://win-premium.techidaily.com/tudo-o-que-voce-precisa-saber-sobre-ativacao-de-arquivos-off-line-e-sua-sincronizacao-com-o-windows/"><u>Tudo O Que Você Precisa Saber Sobre Ativação De Arquivos Off-Line E Sua Sincronização Com O Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[New] 2024 Approved 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-makers-paradise-downloading-premium-dj-visuals/"><u>[New] 2024 Approved Beat Makers' Paradise Downloading Premium DJ Visuals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-spotting-gone-from-your-friend-list/"><u>[New] In 2024, Spotting Gone From Your Friend List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-sports-video-editing/"><u>[New] The Fundamentals of Sports Video Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-100plus-cool-gaming-channel-names-for-every-gamer-for-2024/"><u>[Updated] 100+ Cool Gaming Channel Names for Every Gamer for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>[Updated] 2024 Approved Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-videos-innovative-youtube-editing-techniques-revealed-for-2024/"><u>[Updated] Elevate Videos Innovative YouTube Editing Techniques Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-synergy-of-data-and-imagination-ideas-from-google-trends/"><u>[Updated] Synergy of Data and Imagination Ideas From Google Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-dealing-with-destiny-2s-servers-offline-error-messages/"><u>Easy Solutions: Dealing with Destiny 2'S 'Servers Offline' Error Messages</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-zooms-on-snapchat-enhance-photo-and-video-quality-for-2024/"><u>Smart Zooms on Snapchat Enhance Photo & Video Quality for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210594467-9780647531402-still/"><u>Still | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-production-evolution-prime-lenses-for-youtube-enthusiasts-for-2024/"><u>Video Production Evolution Prime Lenses for YouTube Enthusiasts for 2024</u></a></li>
 </ul></div>
 

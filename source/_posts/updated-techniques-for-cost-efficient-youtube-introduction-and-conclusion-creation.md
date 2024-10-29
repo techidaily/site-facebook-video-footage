@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation\""
-date: 2024-08-01T03:26:56.449Z
-updated: 2024-08-02T03:26:56.449Z
+date: 2024-10-23T18:54:47.214Z
+updated: 2024-10-29T16:14:29.141Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/1Mf180TEx4vzIE6Gapb8w6vTOn0=/400x300/fi
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -43,9 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/1Mf180TEx4vzIE6Gapb8w6vTOn0=/400x300/fi
 
 [How To Make an End Card](#how-to)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -72,9 +66,6 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -87,8 +78,18 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -122,11 +123,14 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -134,12 +138,30 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>[New] Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-creative-commons-rights-step-by-step-tutorial/"><u>[New] Navigating Creative Commons Rights Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>[New] The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-youtube-short-video-insights/"><u>[New] The Ultimate Guide to YouTube Short Video Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] 2024 Approved 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-empower-your-filmmaking-skills-using-phone-cameras-for-recording/"><u>[Updated] 2024 Approved Empower Your Filmmaking Skills Using Phone Cameras for Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-fair-assessment-unveiling-recordcasts-capabilities/"><u>[Updated] In 2024, A Fair Assessment Unveiling RecordCast's Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[Updated] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-windows-10-know-how-reference/"><u>[Updated] The Complete WINDOWS 10 Know-How Reference</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-20-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 20 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>In 2024, Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>In 2024, How Does YouTube Count Views? It's Not as Simple as You Think!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photobooth-recording-stalls-whats-goin-on-for-2024/"><u>Photobooth Recording Stalls What's Goin' On for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/playstation-5-is-it-a-smart-choice-here-are-4-strong-arguments-for-the-prospective-gamers-investment/"><u>PlayStation 5: Is It a Smart Choice? Here Are #4 Strong Arguments for the Prospective Gamer's Investment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Realme .</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-vs-dailymention-identifying-key-variations-for-2024/"><u>YouTube Vs. DailyMention Identifying Key Variations for 2024</u></a></li>
+</ul></div>
 

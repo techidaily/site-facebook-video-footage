@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Efficient Tools  Simplifying the Task of Feedback Erasure\""
-date: 2024-08-01T03:27:19.508Z
-updated: 2024-08-02T03:27:19.508Z
+date: 2024-10-27T18:46:33.190Z
+updated: 2024-10-29T17:44:14.385Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
 # Deleting YouTube Comments
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,10 +36,6 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
@@ -65,8 +58,12 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -80,8 +77,12 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -95,6 +96,13 @@ If it is your video where the comment to be removed is, you can go to My Channel
 
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
 
@@ -116,6 +124,13 @@ To find your History from your desktop, you need to click on the three horizonta
 
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete All Your Posted YouTube Comments?
 
 You can also delete all comments you ever posted on any YouTube video by hiding your channel. When you do this, you can hide your video content temporarily. But it will irreversibly erase all your comments throughout YouTube. If you are curious, read on to know how you can do it.
@@ -131,21 +146,10 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -158,12 +162,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-advanced-guide-to-virtual-backgrounds-in-videography-for-2024/"><u>[New] Advanced Guide to Virtual Backgrounds in Videography for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube-for-2024/"><u>[New] Content Creation Conundrums Understanding the Differences Between IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-video-seo-on-youtube-as-a-novice-for-2024/"><u>[New] Demystifying Video SEO on YouTube as a Novice for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-direct-hit-the-techno-friendly-way-to-upload-your-short-clips-for-2024/"><u>[New] Direct Hit The Techno-Friendly Way to Upload Your Short Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-make-outstanding-youtube-outro/"><u>[New] How to Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue-for-2024/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-tackle-missing-thumbnails-on-youtube-shorts/"><u>[Updated] How to Tackle Missing Thumbnails on YouTube Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>[Updated] Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playbook-for-earning-via-youtube-shorts/"><u>[Updated] The Ultimate Playbook for Earning via YouTube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-by-drfone-android/"><u>About Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-endless-benefits-at-no-charge-discover-top-quality-free-offerings-today/"><u>Enjoy Endless Benefits at No Charge: Discover Top-Quality Free Offerings Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-google-pixel-7a-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Google Pixel 7a Phone that is Locked?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-guide-to-studio-lights-and-equipment-17/"><u>In 2024, Your Guide to Studio Lights & Equipment (#17)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocket-traffic-with-the-top-12-youtube-growth-methods-for-2024/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/soundbot-sb210-appraisal-stellar-sonic-performance-when-running-smoothly-this-winter/"><u>Soundbot SB210 Appraisal: Stellar Sonic Performance when Running Smoothly This Winter</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ty-tips-for-hosting-webinars-on-youtube/"><u>Thrifty Tips for Hosting Webinars on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-glitches-on-pc-solutions-to-restore-sea-of-thieves-audio/"><u>Troubleshooting Voice Chat Glitches on PC: Solutions to Restore 'Sea of Thieves' Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-surprising-gem-how-ios-18-stole-the-show-at-wwdc-beyond-artificer/"><u>Unveiling the Surprising Gem: How iOS 18 Stole the Show at WWDC - Beyond Artificer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2024-10-19T18:10:45.958Z
-updated: 2024-10-23T21:04:58.682Z
+date: 2024-10-27T19:27:40.042Z
+updated: 2024-10-29T19:07:38.815Z
 tags:
   - ai video
   - ai youtube
@@ -59,15 +59,22 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. S’well bottle
@@ -82,6 +89,13 @@ To help them relax after long days at the summit, YouTube provided creators with
 
 _thinknoodles wearing his YouTube slippers._
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
@@ -92,13 +106,6 @@ A denim jacket with a play button on it was also in the box. The idea was that c
 
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
 
 Most creators here on Filmora are still trying to grow their channels, but one day I hope you’ll be able to attend an event like the YouTube Creator Summit and tell us all about it!
@@ -108,20 +115,13 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -138,16 +138,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-vlogging-quality-the-ultimate-12-recommended-cam-picks-for-2024/"><u>[New] Elevate Vlogging Quality - The Ultimate 12 Recommended Cam Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[New] In 2024, Dish on Titles Creative Concepts for Cookery Vids</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-visionaries-convergence-dissecting-virtual-reality-augmented-and-mixed-realms/"><u>[New] In 2024, Visionaries Convergence Dissecting Virtual Reality, Augmented & Mixed Realms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads/"><u>[New] Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>[Updated] Love in Full Bloom Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>[Updated] Top SRT Enhancements Maximizing Performance on Both Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-the-sims-4-white-screen-issues-easily/"><u>Fix The Sims 4 White Screen Issues Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-launch-effective-fixes-for-starting-stardee-valley-smoothly/"><u>Mastering the Launch: Effective Fixes for Starting Stardee Valley Smoothly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-ditch-adobe-top-10-premiere-elements-competitors-for-video-editing/"><u>New In 2024, Ditch Adobe? Top 10 Premiere Elements Competitors for Video Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/screen-solidarities-picking-the-right-media-company-for-2024/"><u>Screen Solidarities Picking the Right Media Company for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/srtmp4-mp4srt/"><u>SRTファイルとMP4動画のシームレスな融合: MP4ビデオへのSRT字幕統合手順</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-clearing-your-name-after-a-youtube-copyright-strike-notice/"><u>[New] In 2024, Clearing Your Name After a YouTube Copyright Strike Notice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-mp4-devices-roundup/"><u>[New] The Best MP4 Devices Roundup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[Updated] 2024 Approved Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>[Updated] 2024 Approved IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune-for-2024/"><u>[Updated] Chromatic Soundscapes Selecting the Right Tune for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] In 2024, Best Free Live Streaming Software and App for All Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-youtube-videos-to-mp4-without-breaching-laws/"><u>[Updated] In 2024, Download YouTube Videos to MP4 without Breaching Laws</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-monetizing-mastery-comparing-streaming-giants-strategies/"><u>[Updated] Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reimagining-cityscapes-the-integration-of-ecosystem-services/"><u>[Updated] Reimagining Cityscapes The Integration of Ecosystem Services</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-20-trending-memes-reddit-vs-twitter/"><u>[Updated] Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-want-to-try-sub4sub-check-this-guide-first/"><u>[Updated] Want to Try Sub4sub? Check This Guide First</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-profitability-guide-cpm-and-earnings-analysis/"><u>[Updated] YouTube Profitability Guide CPM and Earnings Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you/"><u>2024 Approved Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/android-and-iphone-select-top-tier-mobile-multimedia-tools-for-2024/"><u>Android & iPhone Select Top-Tier Mobile Multimedia Tools for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-add-special-characters-during-text-input-in-flipbuilder/"><u>How to Add Special Characters During Text Input in FlipBuilder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recent-ios-beta-release-halted-by-apple-amidst-iphone-issues-revealed/"><u>Recent iOS Beta Release Halted by Apple Amidst iPhone Issues Revealed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209961609-9781644110836-sensitive-soul/"><u>Sensitive Soul | Free Book</u></a></li>
 </ul></div>
 

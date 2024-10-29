@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Thriving Despite Cyberbullying and Scathing Feedback"
-date: 2024-08-01T03:24:54.566Z
-updated: 2024-08-02T03:24:54.566Z
+date: 2024-10-23T17:41:00.055Z
+updated: 2024-10-29T19:18:33.357Z
 tags:
   - ai video
   - ai youtube
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -33,9 +26,6 @@ No advertising on the website.
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -62,9 +52,6 @@ No advertising on the website.
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -73,12 +60,40 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beginning-your-first-community-support-blitz-on-facebook/"><u>[New] Beginning Your First Community Support Blitz on Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>[New] Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-brief-snippet-analysis-for-beginners-for-2024/"><u>[New] Brief Snippet Analysis for Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[New] The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] 2024 Approved Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[Updated] 2024 Approved Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-personalize-your-channel-with-free-pics/"><u>[Updated] 2024 Approved Personalize Your Channel With Free Pics!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-adapting-spotify-playlists-into-a-youtube-music-format/"><u>[Updated] Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>[Updated] In 2024, Audiovisual Power Evaluating Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curated-list-dj-video-sources-at-your-fingertips/"><u>[Updated] In 2024, Curated List DJ Video Sources at Your Fingertips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-click-through-rates-with-youtube-images/"><u>[Updated] Maximizing Click-Through Rates with Youtube Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-complexity-of-youtube-thumbnail-psychology/"><u>[Updated] Navigating the Complexity of YouTube Thumbnail Psychology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pedagogical-approaches-to-video-enhanced-education/"><u>[Updated] Pedagogical Approaches to Video-Enhanced Education</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-savvy-ig-filter-hits-for-2024/"><u>[Updated] Social Media Savvy IG Filter Hits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-key-practices-for-integrating-ai-into-editorial-workflows/"><u>7 Key Practices for Integrating AI Into Editorial Workflows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/android-collage-innovators-your-picks-for-artistry/"><u>Android Collage Innovators – Your Picks for Artistry</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/riconversione-dei-video-da-mp4-ad-ogv-soluzione-web-free-con-movavi/"><u>Riconversione Dei Video Da MP4 Ad OGV: Soluzione Web Free Con Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-breakdown-of-payment-percentages-in-short-video-royalties-for-2024/"><u>The Breakdown of Payment Percentages in Short Video Royalties for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

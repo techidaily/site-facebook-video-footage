@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Blitz  30-Second Guide to Fast Thumbnails\""
-date: 2024-08-01T03:26:24.343Z
-updated: 2024-08-02T03:26:24.343Z
+date: 2024-10-28T19:21:57.868Z
+updated: 2024-10-29T17:43:15.339Z
 tags:
   - ai video
   - ai youtube
@@ -40,16 +40,10 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
 
 **Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -62,10 +56,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
 
 **Step 08:** It will remove the background of the screenshot.
@@ -74,9 +64,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
 
 **Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
@@ -85,9 +72,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
 
 **Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
@@ -96,18 +80,12 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
 
 #### Conclusion
 
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -116,12 +94,40 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-potential-with-these-12-best-flip-screen-cameras/"><u>[New] Unleash Your Potential with These 12 Best Flip-Screen Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-look-expert-tutorials-for-everyone/"><u>[Updated] 2024 Approved Elevating Your Look Expert Tutorials for Everyone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ever-fading-memories-revived-youtubes-lost-content-hunt-for-2024/"><u>[Updated] Ever-Fading Memories Revived YouTube's Lost Content Hunt for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>[Updated] Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-nintendo-switchs-ultimate-hd-gameplay/"><u>[Updated] Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-choices-in-video-capture-tools-for-websites/"><u>[Updated] Premium Choices in Video Capture Tools for Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>[Updated] Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-platforms-for-linux-video-buffs/"><u>[Updated] Top 8 Platforms for Linux Video Buffs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-system-problems-detected-during-initial-hardware-check-post/"><u>Diagnosing and Repairing System Problems Detected During Initial Hardware Check (POST)</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-x90s-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo X90S Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Phone without PIN</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-complete-understanding-of-facetune/"><u>In 2024, Transforming Images with Complete Understanding of Facetune</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-7-dslr-recommendations-for-dynamic-video-content-for-2024/"><u>Optimal 7 DSLR Recommendations For Dynamic Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-tutorial-for-professional-looking-youtube-channels-for-2024/"><u>The Ultimate Tutorial for Professional-Looking YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-picks-for-efficient-youtube-video-url-condensers-for-2024/"><u>Top Picks for Efficient YouTube Video URL Condensers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-how-to-bring-back-gone-desktop-icons-in-windows-10-with-these-steps/"><u>Uncover How to Bring Back Gone Desktop Icons in Windows 10 with These Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-building-toms-component-chronicles/"><u>Unveiling the Latest in PC Building - Tom's Component Chronicles</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sourav Joshi’s Financial Journey  Charting a Profitable Course on YouTube\""
-date: 2024-10-20T16:57:32.445Z
-updated: 2024-10-23T22:15:59.957Z
+date: 2024-10-22T17:25:43.796Z
+updated: 2024-10-29T16:31:36.628Z
 tags:
   - ai video
   - ai youtube
@@ -66,13 +66,6 @@ Want to know Sourav Joshi's income from YouTube? He’s known to earn $30,000 to
 
 Sourav receives 320-350 million views monthly on his two YouTube videos that helped him elevate his net worth.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Sourav Joshi YouTube Stats
 
 | Monthly Earnings    | Rs. 35-50 lakh, $30,000 to $45,000                                |
@@ -82,6 +75,19 @@ Sourav receives 320-350 million views monthly on his two YouTube videos that hel
 | Subscribers         | Sourav Joshi Vlogs - 17.2MSourav Joshi Arts - 3.75M               |
 | Video Views         | Sourav Joshi Vlogs - 6,378,282,781Sourav Joshi Arts - 177,342,864 |
 | Last 30-Day Views   | Sourav Joshi Vlogs - 316.365M                                     |
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Famous Sourav Joshi is?
 
@@ -169,6 +175,13 @@ In the duration settings, you can adjust the video duration. If there’s need f
 
 ![fix size and positioning](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For this step, you can use editing interface, so you can work on your video’s position. Drag the sliders to the interface and change the size, position, and direction of your footage.
 
 ##### Step5 See Advance Editing Option
@@ -205,25 +218,11 @@ _Effects_
 
 ![effects](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find “effects” on the top menu, click, and choose from the list.
 
 _Stock Video_
 
 ![stock media](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 “Stock video” button is also located on the top menu. Click on it to find more eye-pleasing content for your footage.
 
@@ -261,6 +260,13 @@ Part 1: Who is Sourav Joshi?
 
 ![sourav joshi image](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 An Indian YouTuber, Sourav started his first channel “Sourav Joshi Arts” on the Platform in September, 2015\. You can find drawings of famous people, including Abraham Lincoln on his arts channel.
 
 Later in February, 2019, Sourav started his vlogging channel “Sourav Joshi Vlogs.” And no doubt, he has been successful in his journey and has established himself as a popular YouTuber.
@@ -295,13 +301,6 @@ Want to know Sourav Joshi's income from YouTube? He’s known to earn $30,000 to
 
 Sourav receives 320-350 million views monthly on his two YouTube videos that helped him elevate his net worth.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Sourav Joshi YouTube Stats
 
 | Monthly Earnings    | Rs. 35-50 lakh, $30,000 to $45,000                                |
@@ -313,10 +312,10 @@ Sourav receives 320-350 million views monthly on his two YouTube videos that hel
 | Last 30-Day Views   | Sourav Joshi Vlogs - 316.365M                                     |
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Famous Sourav Joshi is?
@@ -398,13 +397,6 @@ Drag and drop your files from the media library to be used as the background in 
 ##### Step3 Work on Speed and Duration Settings
 
 ![speed and duration setting](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In the duration settings, you can adjust the video duration. If there’s need for adding more video clips together, repeat the same process on several tracks, sharing the same frame.
 
@@ -556,13 +548,6 @@ What you need to get started as both beginner and professional is Wondershare Fi
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The very step is to add the video by clicking the + icon. We have added the three **sample videos** from the library of Wondershare Filmora itself. Adjust them in the timeline as per your requirements.
 
 After doing all the essential editing functions, click on the **Effects tab** given at the upper-left corner. Simply type the word Old in the Search tab.
@@ -589,16 +574,16 @@ On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filt
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, you need to desaturate the video clip with Ash & Willow filters. We have typed Ash in the Search bar, and you can see the filter below. These filters are essential to desaturate the video with preset contrast, brightness, or exposure values.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, we have combined the black & white filter with an overlay of Film Reel Horizontal. It will help you sell the effect and make the video look more authentic. However, the only application of Black & White or Ash & Willow filters is not going to make any creative thing in terms of vintage videos. You have to mix overlays with features such as Random Dust or Film Reel Horizontal.
 
@@ -794,6 +779,13 @@ What you need to get started as both beginner and professional is Wondershare Fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Steps for the vintage effect to videos on Wondershare Filmora Video Editor**
 
 **Step 1:** Upload video & make specific changes
@@ -816,6 +808,13 @@ The second step is to apply the Black & White filters. Go to the **Effects** tab
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There are various other categories of filters you can apply, such as Retro, Sun Kissed, and Sepia Tone, etc. The features of Filmora also present several subcategories such as Faux Film or Shake.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-4.png)
@@ -825,6 +824,13 @@ On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filt
 **Step 4:** Desaturate Video Clip
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, you need to desaturate the video clip with Ash & Willow filters. We have typed Ash in the Search bar, and you can see the filter below. These filters are essential to desaturate the video with preset contrast, brightness, or exposure values.
 
@@ -993,22 +999,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-adventurers-anthology-the-finest-10-affordable-mmos/"><u>[New] 2024 Approved Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[New] 2024 Approved Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/"><u>[New] 2024 Approved Clip Groove Best BGM Choices For Today's Popular YT Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cultivating-a-community-building-followers-on-youtube-without-spending-for-2024/"><u>[New] Cultivating a Community Building Followers on YouTube Without Spending for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>[New] Thriving as a Team on YouTube Perfect Pairings for Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>[Updated] 2024 Approved A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-viewership-responsibly-strategies-that-work/"><u>[Updated] In 2024, Boosting Viewership Responsibly Strategies That Work</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-video-magic-find-your-favorite-mobile-edit-apps/"><u>[Updated] In 2024, Enhance Video Magic Find Your Favorite Mobile Edit Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-appreciation-showcase-easy-access-to-otus/"><u>2024 Approved Appreciation Showcase Easy Access to OTUs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-shuttered-brilliance-selecting-the-ultimate-cam-for-slow-speed-vids/"><u>2024 Approved Shuttered Brilliance Selecting the Ultimate Cam for Slow Speed Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-to-resolve-the-windows-update-failed-with-error-code-0x800705b4-in-windows-solved/"><u>Comprehensive Walkthrough to Resolve the Windows Update Failed with Error Code 0X800705B4 in Windows ([Solved])</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embellish-slides-with-sonic-elements/"><u>Embellish Slides with Sonic Elements</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/guide-ultime-comment-rapidement-et-encore-une-fois-transformer-du-ts-en-mp4-sans-pecher-sur-la-qualite/"><u>Guide Ultime : Comment Rapidement Et Encore Une Fois Transformer Du TS en MP4 Sans Pécher Sur La Qualité</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-data-recovery-recover-lost-data-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>Lava Data Recovery – recover lost data from Lava Blaze 2</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/speak-slide-and-convince-the-vo-powerpoint-pathway/"><u>Speak, Slide & Convince - The VO Powerpoint Pathway</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-satire-building-parodies-online-for-2024/"><u>Understanding Satire Building Parodies Online for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-s-embracing-a-disc-free-future/"><u>Xbox S: Embracing a Disc-Free Future</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-strategies-to-secure-best-youtube-collaborative-pairs/"><u>[New] 2024 Approved Strategies to Secure Best YouTube Collaborative Pairs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimized-approach-to-delete-unwanted-youtube-posts/"><u>[Updated] Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rise-to-stardom-secrets-to-viral-video-success/"><u>[Updated] Rise to Stardom Secrets to Viral Video Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-viewership-seo-for-the-newbie-on-youtube/"><u>[Updated] Transform Viewership SEO for the Newbie on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-stepwise-quietening-routine-for-mixes/"><u>2024 Approved Stepwise Quietening Routine for Mixes</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-ai-is-reshaping-the-legal-industry-expert-perspectives-on-technology-at-abbyy/"><u>How AI Is Reshaping the Legal Industry | Expert Perspectives on Technology at ABBYY</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-success-selecting-co-stars-for-youtube-projects/"><u>In 2024, Unlocking Success Selecting Co-Stars for YouTube Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/overcome-forza-horizon-5-constant-buffering-issues-with-these-7-proven-fixes/"><u>Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes</u></a></li>
 </ul></div>
 

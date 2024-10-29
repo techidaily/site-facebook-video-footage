@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expert Advice on Selecting The Best Lenses For Filmmaking\""
-date: 2024-08-01T03:28:10.558Z
-updated: 2024-08-02T03:28:10.558Z
+date: 2024-10-27T16:00:47.427Z
+updated: 2024-10-29T16:36:16.007Z
 tags:
   - ai video
   - ai youtube
@@ -78,19 +78,27 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Focal Length Equivalency Table
 
@@ -107,9 +115,6 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
@@ -118,15 +123,19 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
 
 Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
 
 But do you even need a fast lens?
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -142,8 +151,12 @@ But do you even need a fast lens?
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -156,9 +169,6 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
  Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -167,12 +177,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] 2024 Approved Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[New] In 2024, A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tech-savvy-tips-for-downloading-youtube-playlists-fast/"><u>[New] Tech-Savvy Tips for Downloading YouTube Playlists Fast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-efficacy-of-quick-subscribing-in-video-platforms/"><u>[New] The Efficacy of Quick-Subscribing in Video Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-trendsetter-youtube-video-tactics/"><u>[Updated] In 2024, Becoming a Trendsetter YouTube Video Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-studio-strategies-for-video-impact-and-growth/"><u>[Updated] Studio Strategies for Video Impact and Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insightful-guide-to-utilizing-adobe-cloud-plus-non-adobe-strategies/"><u>2024 Approved Insightful Guide to Utilizing Adobe Cloud + Non-Adobe Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-caption-implementation-essentials/"><u>2024 Approved YouTube Caption Implementation Essentials</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/3-simple-methods-watching-dvds-on-your-windows-11-computer/"><u>3 Simple Methods: Watching DVDs on Your Windows 11 Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/everything-you-need-to-know-about-the-upcoming-samsung-z-fold-4-price-release-date-and-specs-included/"><u>Everything You Need to Know About the Upcoming Samsung Z Fold 4 - Price, Release Date & Specs Included</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quickly-change-digital-pictures-darkness-level/"><u>In 2024, Quickly Change Digital Pictures' Darkness Level</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-online-concert-streamers/"><u>In 2024, Superior Online Concert Streamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-poco-m6-pro-4g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Poco M6 Pro 4G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-windows-safescreensaver-alteration/"><u>Preventive Measures for Windows SafeScreensaver Alteration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-watch-top-15-youtube-guides-for-2024/"><u>Stock Watch Top 15 YouTube Guides for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-when-davinci-resolve-fails-to-launch-on-windows/"><u>Troubleshooting Guide: Fixing Issues When DaVinci Resolve Fails to Launch on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-your-youtube-potential-6-crucial-actions-for-visibility-for-2024/"><u>Unleash Your YouTube Potential 6 Crucial Actions for Visibility for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimized Approach to Delete Unwanted YouTube Posts"
-date: 2024-10-18T20:56:13.460Z
-updated: 2024-10-23T16:11:55.765Z
+date: 2024-10-23T16:09:29.485Z
+updated: 2024-10-29T18:55:07.145Z
 tags:
   - ai video
   - ai youtube
@@ -69,19 +69,6 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -95,6 +82,13 @@ If it is your video where the comment to be removed is, you can go to My Channel
 
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
 
@@ -117,10 +111,23 @@ To find your History from your desktop, you need to click on the three horizonta
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -136,25 +143,18 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Thoughts
 
@@ -177,20 +177,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability/"><u>[New] Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-short-form-content-leading-edits-for-iosandroid/"><u>[New] Streamlining Short-Form Content Leading Edits for iOS/Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-playbook-for-exceptional-obs-studio-content-for-2024/"><u>[New] The Ultimate Playbook for Exceptional OBS Studio Content for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhancing-photo-coexistence-on-devices-for-2024/"><u>[Updated] Enhancing Photo Coexistence on Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efface-thin-borders-for-a-seamless-youtube-experience/"><u>[Updated] In 2024, Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[Updated] Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-satirists-handbook-video-creation-for-comedy/"><u>[Updated] The Satirist's Handbook Video Creation for Comedy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-6-youtube-outros-made-easy-and-free-guide/"><u>[Updated] Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>2024 Approved Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>2024 Approved Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-tracking-shader-adjustments-for-easy-star-wars-battlefront-ii-customization/"><u>Fast Tracking Shader Adjustments for Easy Star Wars Battlefront II Customization</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A05 Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-13-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 13 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfect-start-leading-free-video-openers-listed-for-2024/"><u>Perfect Start Leading Free Video Openers Listed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-culinary-kings-and-queens-youtube-food-experts-for-2024/"><u>[New] Culinary Kings & Queens YouTube Food Experts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-does-quick-subscribe-strategy-boost-audience-growth-in-2024/"><u>[New] Does Quick-Subscribe Strategy Boost Audience Growth, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>[Updated] 2024 Approved Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[Updated] 2024 Approved Capture & Store Videos Effortlessly with Our Top List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-vlogging-mastering-tripod-angles-and-positions-for-2024/"><u>[Updated] Elevate Your Vlogging Mastering Tripod Angles and Positions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-estimated-video-monetization-totals-for-2024/"><u>[Updated] Estimated Video Monetization Totals for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-endorsed-gpus-for-top-quality-online-video-playback/"><u>[Updated] Expert-Endorsed GPUs for Top Quality Online Video Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-audience-counting-the-intricacies-of-youtubes-metrics/"><u>[Updated] In 2024, Beyond Audience Counting The Intricacies of YouTube’s Metrics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-effective-content-marketing-instagrams-podcast-spotlight/"><u>[Updated] In 2024, Effective Content Marketing Instagram's Podcast Spotlight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-glassify-privacy-webcam-panel/"><u>2024 Approved Glassify Privacy Webcam Panel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-why-you-must-enable-av1-for-ultimate-video-experience-on-youtube/"><u>2024 Approved Why You Must Enable AV1 for Ultimate Video Experience on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/chrome-os-native-screen-recorder/"><u>Chrome OS Native Screen Recorder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-3d-prints-say-goodbye-to-blobs-and-zits-forever/"><u>Elevate Your 3D Prints - Say Goodbye to Blobs and Zits Forever</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fix-guide-understanding-and-rectifying-security-violation-in-games/"><u>Expert Fix Guide: Understanding and Rectifying 'Security Violation in Games'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Galaxy XCover 7?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-motorola-moto-g-5g-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Motorola Moto G 5G (2023) Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-your-online-presence-zooming-into-tiktok-videos-for-2024/"><u>Optimizing Your Online Presence Zooming Into TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfect-picture-perfection-a-guide-to-resolving-blurriness-on-iphones/"><u>Perfect Picture Perfection: A Guide to Resolving Blurriness on iPhones</u></a></li>
 </ul></div>
 
