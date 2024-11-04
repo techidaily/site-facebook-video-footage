@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-10-27T19:21:43.525Z
-updated: 2024-10-29T16:10:03.295Z
+date: 2024-10-29T08:50:21.109Z
+updated: 2024-11-04T01:20:33.192Z
 tags:
   - win11
   - win10
@@ -48,16 +48,23 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
@@ -73,10 +80,10 @@ Restart your computer for the changes to take effect.
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -88,15 +95,21 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
@@ -108,28 +121,15 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
@@ -144,6 +144,13 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -152,13 +159,6 @@ No luck with this fix? Try the next one.
 2. Type **devmgmt.msc** and press **Enter** to open the Device Manager window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 
@@ -191,16 +191,18 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-your-vlog-video-structure-with-jump-cuts/"><u>[New] Transforming Your Vlog Video Structure with Jump Cuts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ethical-practices-for-accumulating-over-a-million-video-engagements-for-2024/"><u>[Updated] Ethical Practices for Accumulating Over A Million Video Engagements for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-g24-power-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to G24 Power Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-poco-m6-pro-4g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Poco M6 Pro 4G Without PUK Codes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-13-pro-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 13 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/professional-insights-expert-level-youtube-video-tweaks-for-2024/"><u>Professional Insights Expert-Level Youtube Video Tweaks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/professional-youtubers-guide-studio-vs-next-generation-beta-for-2024/"><u>Professional YouTuber's Guide Studio Vs. Next Generation Beta for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/soaring-visions-with-dji-mavic-pro-insight/"><u>Soaring Visions with DJI Mavic Pro Insight</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-bookworms-companion-inside-look-at-the-2018-kindle-paperwhite/"><u>The Ultimate Bookworm's Companion - Inside Look at the 2018 Kindle Paperwhite</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-windows-11-capture-tools-win-edition-for-2024/"><u>Top Windows 11 Capture Tools Win Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp4-safely/"><u>[New] In 2024, How to Convert YouTube to MP4 Safely?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-switching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-the-secret-to-massive-engagement-3-top-tips-for-making-powerful-two-pov-reaction-videos-on-youtube/"><u>[Updated] 2024 Approved Unlock the Secret to Massive Engagement 3 Top Tips for Making Powerful Two-POV Reaction Videos on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-easy-ipad-images-jpgpng-to-pdf-transformation-tips-for-2024/"><u>[Updated] Easy iPad Images (JPG/PNG) to PDF Transformation Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-jumpstart-your-youtube-venture-top-equipment-choices/"><u>[Updated] Jumpstart Your YouTube Venture Top Equipment Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>2024 Approved Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y100a-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y100A without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/biometric-permissions-managing-domain-users-in-w11/"><u>Biometric Permissions: Managing Domain Users in W11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-click-reward-spectrum/"><u>In 2024, The Ultimate Click Reward Spectrum</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
 </ul></div>
 

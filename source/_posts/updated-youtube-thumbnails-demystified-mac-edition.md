@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] YouTube Thumbnails Demystified - Mac Edition\""
-date: 2024-10-23T16:22:25.957Z
-updated: 2024-10-29T17:26:13.966Z
+date: 2024-10-28T17:04:32.780Z
+updated: 2024-11-03T18:06:26.202Z
 tags:
   - ai video
   - ai youtube
@@ -46,6 +46,13 @@ If you don’t create a thumbnail then youtube will generate one by itself which
 
 You can easily create interesting thumbnails for youtube videos using a thumbnail maker like[FilmoraX](https://tools.techidaily.com/wondershare/filmora/download/) . Here is a step by step guide:
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. Preview the video and choose the still snapshot
 
 The first step in creating a thumbnail is to import the final video into the FilmoraX editor on your MacBook.
@@ -58,18 +65,18 @@ You can easily choose the frame from the video or use the preview frame button t
 
 ![thumbnails editor](https://images.wondershare.com/filmora/Mac-articles/thumbnails-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Add text, shape, and image overlays
 
 Once you’ve chosen the frame for the thumbnail, the next step would be to add text to it to catch the attention of the audience. You can also adjust the thumbnail size as per your requirement, however, the ideal size would be 1280x720 pixels with a minimum width of 640 pixels.
 
 ![add text on thumbnail](https://images.wondershare.com/filmora/Mac-articles/add-text-on-thumbnail.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3. Add effects
 
@@ -78,10 +85,10 @@ FilmoraX has a wide range of effects that you can apply to your videos or pictur
 ![filter9](https://images.wondershare.com/filmora/guide/filter-9-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4. Save the thumbnail
@@ -98,26 +105,13 @@ Hopefully, the above-mentioned steps have given you enough insight and clarity o
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,19 +129,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists-for-2024/"><u>[New] 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audio-conversion-made-simple-youtube-to-mp3-mac-edition-for-2024/"><u>[New] Audio Conversion Made Simple YouTube to MP3, Mac Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie-for-2024/"><u>[New] Cut, Trim & Enhance YouTube Editing Tips for the Rookie for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] In 2024, Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tips-to-make-your-instagram-video-goes-viral/"><u>[New] Tips to Make Your Instagram Video Goes Viral</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-methods-to-craft-your-own-youtube-intros/"><u>[Updated] 2024 Approved Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-avoiding-common-pitfalls-with-zoom-recording-methods/"><u>[Updated] Avoiding Common Pitfalls with Zoom Recording Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] In 2024, How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android-in-2024/"><u>[Updated] The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android, In 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-the-discord-live-stream-method/"><u>2024 Approved Capture and Share The Discord Live Stream Method</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-cross-platform-shares-igtv-and-facebook/"><u>2024 Approved Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buffer-free-entertainment-in-kodi-effective-techniques-to-ensure-seamless-playback/"><u>Buffer-Free Entertainment in Kodi: Effective Techniques to Ensure Seamless Playback</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-forza-horizon-4-game-crash-issue-on-your-pc/"><u>Fixing the Forza Horizon 4 Game Crash Issue on Your PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-educational-power-leveraging-youtube-in-academic-settings/"><u>[New] 2024 Approved Educational Power Leveraging YouTube in Academic Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-tech-evolution/"><u>[New] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>[New] Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-where-the-best-youtube-symbols-are-hidden/"><u>[New] Where the Best YouTube Symbols Are Hidden</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-look-at-the-future-leading-photo-framing-apps/"><u>[Updated] A Look at the Future Leading Photo Framing Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[Updated] In 2024, Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rectification-of-injustice/"><u>[Updated] Rectification of Injustice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>[Updated] Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722108033794-discover-the-ios-mobile-app-for-chatgpt-your-ai-companion-on-the-go/"><u>Discover the iOS Mobile App for ChatGPT: Your AI Companion on the Go!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-podcasting-tech-updates-unveiled/"><u>In 2024, Podcasting Tech Updates Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-wav-flac/"><u>Movavi의 WAV텍스트를 FLAC로 전환하기: 무료, 인터넷을 통한 유용한 서비스</u></a></li>
 </ul></div>
 

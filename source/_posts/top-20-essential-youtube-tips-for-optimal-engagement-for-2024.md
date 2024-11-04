@@ -1,7 +1,7 @@
 ---
 title: "Top 20 Essential YouTube Tips for Optimal Engagement for 2024"
-date: 2024-10-16T16:45:45.833Z
-updated: 2024-10-23T18:01:14.328Z
+date: 2024-11-01T22:38:40.263Z
+updated: 2024-11-03T20:33:52.170Z
 tags:
   - ai video
   - ai youtube
@@ -33,10 +33,10 @@ With that said, the following two-columned tables give you detailed information 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Category 1: YouTube Playback Hotkeys
@@ -67,6 +67,13 @@ If you’re watching videos on YouTube mobile app, you can use double-tap on the
 
 Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Category 3: Manage Playback Speed
 
 This category contains information on increasing or decreasing the playback speed of a YouTube video:
@@ -75,13 +82,6 @@ This category contains information on increasing or decreasing the playback spee
 | ---------------------- | ----------------------- |
 | 'SHIFT' + '.' (Period) | Increase playback speed |
 | 'SHIFT' + ',' (Comma)  | Decrease playback speed |
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Category 4: Managing the Captions
 
@@ -95,6 +95,13 @@ This category talks about managing the video captions using the shortcut keys:
 | '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
 | '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Category 5: Managing the Audio Video
 
 This category shows the shortcut keys to manage audio for a YouTube video:
@@ -104,13 +111,6 @@ This category shows the shortcut keys to manage audio for a YouTube video:
 | 'M'               | Mute YouTube video    |
 | '↑'               | Increase volume by 5% |
 | '↓'               | Decrease volume by 5% |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Category 6: Switching Between Screen Modes
 
@@ -125,6 +125,13 @@ The shortcut keys given in this table enable you to switch between different scr
 Double press F/T/I on the keyboard will exit the full-screen/theater model/independent mode accordingly.
 
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Category 7: Viewing 360o/VR Videos
 
@@ -160,13 +167,6 @@ As one of the most popular video editing software among YouTubers, Filmora provi
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -182,24 +182,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broaden-viewership-with-simultaneous-yt-and-twitch-broadcasts/"><u>[New] 2024 Approved Broaden Viewership with Simultaneous YT & Twitch Broadcasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-grasp-the-art-of-steadiness-in-photography/"><u>[New] Grasp the Art of Steadiness in Photography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-popularly-highlighted-video-remarks/"><u>[New] In 2024, Exploring Popularly Highlighted Video Remarks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revamping-graphic-design-with-non-acid-pro-options/"><u>[New] Revamping Graphic Design with Non-ACID Pro Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-top-tools-to-reduce-long-link-lengths/"><u>[New] Youtube's Top Tools to Reduce Long Link Lengths</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-gifs-like-a-pro-industry-leaders-tools-for-2024/"><u>[Updated] Crafting GIFs Like a Pro Industry Leaders' Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-accessibility-your-guide-to-an-intuitive-youtube-signup-for-2024/"><u>[Updated] Creating Accessibility Your Guide to an Intuitive YouTube Signup for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enabling-autoplay-youtube-without-alerts-for-2024/"><u>[Updated] Enabling Autoplay YouTube Without Alerts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-expert-idevice-screen-techniques/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Expert iDevice Screen Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[Updated] In 2024, Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-musical-mosaics-15-video-tutorials-on-collaborative-projects/"><u>[Updated] Musical Mosaics 15 Video Tutorials on Collaborative Projects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-timestamp-use-for-increased-youtube-traction/"><u>[Updated] Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-wonders-your-macbook-video-journey/"><u>[Updated] Webcam Wonders Your MacBook Video Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-rated-vr-joysticks-unveiled/"><u>Best-Rated VR Joysticks Unveiled</u></a></li>
-<li><a href="https://fox-links.techidaily.com/create-captivating-content-engaging-windows-movie-maker-on-w11-for-2024/"><u>Create Captivating Content Engaging Windows Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-nvidia-quadro-drivers-on-windows-10-step-by-step-tutorial-with-downloads/"><u>How to Update or Install NVIDIA Quadro Drivers on Windows 10: Step-by-Step Tutorial with Downloads</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-sunset-symphony-cinematic-darkening-in-pro/"><u>In 2024, Sunset Symphony Cinematic Darkening in Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-frequent-airpods-iphone-disconnections-with-these-proven-11-strategies/"><u>Overcome Frequent AirPods-iPhone Disconnections With These Proven 11 Strategies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-steps-to-live-stream-youtube-via-obs-for-novices-for-2024/"><u>Quick Steps to Live Stream Youtube via OBS for Novices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-auditory-landscapes-in-your-videos-for-2024/"><u>[New] Crafting Auditory Landscapes in Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-9-free-online-tools-to-craft-your-logo-for-2024/"><u>[New] Discover the Top 9 Free Online Tools to Craft Your Logo for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>[New] In 2024, Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-your-sightline-in-roblox-playground/"><u>[New] Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoid-mainstream-underrated-movies-of-the-year/"><u>[Updated] 2024 Approved Avoid Mainstream Underrated Movies of the Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-mp3s-galore-10-no-cost-online-tools/"><u>[Updated] Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-igniting-interest-from-day-one-with-impactful-audio-starts/"><u>[Updated] Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-full-time-employees-guide-to-video-content-success/"><u>[Updated] The Full-Time Employee's Guide to Video Content Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-xperia-1-v-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Xperia 1 V Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-meizu-21-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Meizu 21? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-free-youtube-audio-extractors-for-pc-mac-ios-and-android-for-2024/"><u>Top Free YouTube Audio Extractors for PC, Mac, iOS & Android for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-12r-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi Note 12R? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-10-22T16:42:02.020Z
-updated: 2024-10-29T17:51:36.840Z
+date: 2024-11-02T10:45:32.117Z
+updated: 2024-11-03T22:33:21.999Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
@@ -65,6 +65,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
@@ -92,17 +99,17 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -117,13 +124,6 @@ To update your graphics driver, here are two safe ways for you:
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -134,20 +134,20 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
@@ -155,16 +155,16 @@ To update your graphics driver, here are two safe ways for you:
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
@@ -176,14 +176,14 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -210,22 +210,16 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-day-jobs-and-digital-passion-striking-a-balance-for-2024/"><u>[New] Day Jobs & Digital Passion Striking a Balance for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>[New] In 2024, Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-video-quality-sharing-imovie-work-via-youtube/"><u>[New] In 2024, Elevating Video Quality Sharing iMovie Work via YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-earners-on-youtube/"><u>[New] Top Earners on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists-for-2024/"><u>[Updated] 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>[Updated] 2024 Approved Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-break-down-barriers-streaming-google-meet-on-youtube-stepwise-for-2024/"><u>[Updated] Break Down Barriers Streaming Google Meet on YouTube, Stepwise for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-guide-to-mobile-video-sharing-on-youtube-for-2024/"><u>[Updated] Comprehensive Guide to Mobile Video Sharing on YouTube for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[Updated] IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-civi-3-disney-100th-anniversary-edition-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Civi 3 Disney 100th Anniversary Edition Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-25-steps-forward-in-youtube-mastery-and-recognition/"><u>In 2024, 25 Steps Forward in YouTube Mastery and Recognition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>In 2024, Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-cut-mkv-files-for-free-top-10-editors/"><u>New In 2024, Cut MKV Files for Free Top 10 Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/profiting-from-gaming-channels-for-2024/"><u>Profiting From Gaming Channels for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-simplest-way-to-convert-your-soundcloud-content-into-mp3s-for-easy-sharing/"><u>The Simplest Way to Convert Your SoundCloud Content Into MP3s for Easy Sharing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-windows-8-podcast-software-insights/"><u>Top Windows 8 Podcast Software Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[New] In 2024, Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[Updated] 2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-deeper-dive-into-video-enhancement-techniques-for-pcmobile/"><u>[Updated] In 2024, A Deeper Dive Into Video Enhancement Techniques for PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>[Updated] In 2024, Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-10-premium-youtube-to-webm-converter-tools/"><u>[Updated] In 2024, Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepwise-decrease-in-mix-dynamics/"><u>[Updated] Stepwise Decrease in Mix Dynamics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-windows-experience-through-keys-and-discounts/"><u>Elevating Your Windows Experience Through Keys and Discounts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-news-microsoft-offers-office-2er-2024-at-an-unprecedented-one-off-price/"><u>Exciting News: Microsoft Offers Office 2Er 2024 at an Unprecedented One-Off Price!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-a-comprehensive-guide-to-claude-pro-vs-chatgpt-plus/"><u>Exploring the Differences: A Comprehensive Guide to Claude Pro Vs. ChatGPT Plus</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-process-on-converting-mpeg-transport-streams-ts-to-mp4-video-file/"><u>Step-by-Step Process on Converting MPEG Transport Streams (TS) to MP4 Video File</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-g54-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola G54 5G Users</u></a></li>
 </ul></div>
 

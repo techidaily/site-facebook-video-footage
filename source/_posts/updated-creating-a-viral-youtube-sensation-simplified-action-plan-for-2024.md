@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Creating a Viral YouTube Sensation  Simplified Action Plan for 2024\""
-date: 2024-10-22T20:59:26.173Z
-updated: 2024-10-23T23:24:05.288Z
+date: 2024-10-28T16:07:55.847Z
+updated: 2024-11-03T20:09:05.632Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,13 @@ The keywords that you choose to use with your video will be the greatest factors
 
 Consider doing some keyword research into your video’s subject using the Google Keyword Planner in or a variety of other[keyword tools](https://tools.techidaily.com/wondershare/filmora/download/). Make sure the most important keywords are in your tags, title, and description.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Full Use of Your Video's Tags
 
 Tags are essential. A lot of creators either skip tags or only put in 1-5, and their actions will benefit you if you choose to use a lot.
@@ -53,22 +60,15 @@ Loading up your tags with keywords that are relevant to your video and genre wil
 
 Including the maximum amount of tags possible will help to give YouTube the maximum amount of information to use in order to place your video in the results of different searches or to have it come up as ‘related’ to other videos. Users that only post 3 or 4 tags with each video could be missing out on countless amounts of traffic for their content.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Post a Transcript in Your Video Description
 
 If you have a script or a transcript for your entire video you should consider posting it in the description of your video in order to improve your search engine ranking. This can also help for users that would like to have a written article to accompany your video and for indexing your video in search engine results. There are so many people that don't make proper use of their video descriptions on YouTube that doing so will give you an advantage.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Write Searchable YouTube Video Tiles
@@ -79,18 +79,18 @@ Try to write titles that are searchable and which also get potential viewers exc
 
 Phrases such as ‘review’, ‘how-to’, and ‘tutorial’ get searched for a lot, so always include them in your titles when they apply to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Optimize your Video Description for YouTube SEO
 
 Video descriptions should generally include around 4000 characters (about 900 words) in which you describe the content of your YouTube video, include important keywords, provide links to your other social media accounts, and ask viewers to subscribe. Using up all the space in your description is a good way to ensure you’re getting the maximum search value out of it.
 
 If you use a lot of products in your videos (i.e. you make cooking videos, so your favorite frying pan is in a lot of shots) then it is a good idea to look into affiliate programs. Amazon has one of the best. If you become an affiliate you can post links to the products you use in your video description and, if a viewer follows one and buys something (even if it’s not the thing you liked to) you’ll earn a commission. This won’t help you with search rankings, but it’s a nice bonus.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Use Custom Video Thumbnails
 
@@ -105,10 +105,10 @@ If you are interested in generating more traffic to any YouTube video be sure to
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -126,19 +126,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-quick-method-stop-spotify-from-suggesting-podcasts/"><u>[New] 2024 Approved Quick Method Stop Spotify From Suggesting Podcasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-deception-navigating-false-subscriber-sells/"><u>[New] In 2024, Deception Navigating False Subscriber Sells</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-protouch-4k-uniscreen-hub-systems/"><u>[New] ProTouch 4K UniScreen Hub Systems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels/"><u>[New] Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adjust-your-video-feedback-control-in-youtube/"><u>[Updated] 2024 Approved Adjust Your Video Feedback Control in YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-tips-for-converting-your-favorite-videos-into-animated-shareable-gifs/"><u>[Updated] 2024 Approved Expert Tips for Converting Your Favorite Videos Into Animated, Shareable GIFs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-evading-tiktoks-covert-account-limitations/"><u>[Updated] Evading TikTok’s Covert Account Limitations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-zoom-in-on-kinemaster/"><u>[Updated] How to Zoom in on Kinemaster</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-the-art-of-quiet-videography-for-2024/"><u>[Updated] Perfecting the Art of Quiet Videography for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-social-momentum-in-infographics-2023s-pioneers/"><u>[Updated] Social Momentum in Infographics - 2023'S Pioneers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-power-of-words-crafting-impactful-documentary-narratives/"><u>2024 Approved Unleash the Power of Words Crafting Impactful Documentary Narratives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-facile-pour-transformer-des-sous-titres-dvd-en-fichiers-srt-sur-windows-ou-mac/"><u>Guide Facile Pour Transformer Des Sous-Titres DVD en Fichiers SRT Sur Windows Ou Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/knowledge-base-articles-and-resources/"><u>Knowledge Base Articles & Resources</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/visionary-voices-celebrating-innovative-female-creators-on-youtube-for-2024/"><u>Visionary Voices Celebrating Innovative Female Creators on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-8-mirrorless-cameras-that-transform-vlogging/"><u>[New] 2024 Approved Discover the Best 8 Mirrorless Cameras That Transform Vlogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] In 2024, Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovative-split-screen-videos-for-youtube-sharing/"><u>[New] Innovative Split-Screen Videos for YouTube Sharing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-is-facebook-better-for-vertical-videos/"><u>[Updated] 2024 Approved Is Facebook Better for Vertical Videos?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-reverse-youtube-video-in-creative-ways/"><u>[Updated] How to Reverse YouTube Video in Creative Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-copycatting-charisma-making-ingenious-parodies/"><u>[Updated] In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[Updated] In 2024, Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-advanced-features-of-vlc-for-mac-users/"><u>[Updated] In 2024, Unveiling Advanced Features of VLC for Mac Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-soundtracking-online/"><u>2024 Approved Photographic Soundtracking Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-vision-the-premier-6-for-artists-nfts/"><u>2024 Approved Unleash Your Vision The Premier 6 for Artists' NFTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-360-degree-gearing/"><u>In 2024, Ultimate 360 Degree Gearing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>In 2024, Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/logitech-c615-camera-assessment-balancing-cost-effectiveness-with-high-functionality/"><u>Logitech C615 Camera Assessment: Balancing Cost-Effectiveness with High Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tackling-frame-rate-glitches-in-obs-outputs-for-2024/"><u>Tackling Frame Rate Glitches in OBS Outputs for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/updating-user-information-effortlessly-on-facebook/"><u>Updating User Information Effortlessly on Facebook</u></a></li>
 </ul></div>
 

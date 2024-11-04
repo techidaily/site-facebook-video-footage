@@ -1,7 +1,7 @@
 ---
 title: "Understanding YouTube's User Interaction Options for 2024"
-date: 2024-10-17T19:38:46.792Z
-updated: 2024-10-23T22:32:50.202Z
+date: 2024-11-03T02:33:24.550Z
+updated: 2024-11-03T17:41:43.505Z
 tags:
   - ai video
   - ai youtube
@@ -90,13 +90,6 @@ Selecting this option holds all the comments from all the users, and waits for y
 
 When this option is selected, no one can post a comment to the video(s) whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Turn on or Turn off Comments for Specific Videos
 
 As you might have noticed, any video that is marked as ‘Made for kids’ doesn’t allow users to post comments. You can exploit this feature to enable or disable commenting on specific YouTube videos as well.
@@ -118,19 +111,19 @@ From under the **Audience** section in the right window of the **Video details**
 ![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About YouTube Comments
@@ -149,6 +142,13 @@ You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **
 
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 4\. If I turn comments off and back on again, will the old comments come back?
 
 Yes. When you turn off the comments, the existing comments disappear. When you turn them back on, all the previous comments reappear, and become visible to the audience.
@@ -164,10 +164,10 @@ It is easy to understand **how to turn on comments on YouTube**. The best thing 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -185,18 +185,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-online-engagements-with-pc-and-phone-recordings/"><u>[New] Elevate Your Online Engagements with PC & Phone Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-edit-youtube-videos-in-finalcut-pro-for-2024/"><u>[New] How to Edit YouTube Videos in Finalcut Pro for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-overcoming-internet-barriers-in-cod-cold-war/"><u>[SOLVED] Overcoming Internet Barriers in CoD Cold War</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-to-webm-video-transformers/"><u>[Updated] 2024 Approved Essential YouTube-to-WebM Video Transformers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-social-media-enhancing-your-facebook-page-position/"><u>[Updated] 2024 Approved Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-tips-for-adequate-lighting-in-youtube-video-production-for-2024/"><u>[Updated] Detailed Tips for Adequate Lighting in YouTube Video Production for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-snapchat-to-subscribers-jake-pauls-youtube-quest/"><u>[Updated] Snapchat to Subscribers Jake Paul’s Youtube Quest</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-path-to-youtube-wealth-top-revenue-tactics/"><u>[Updated] The Path to YouTube Wealth Top Revenue Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-step-by-step-journey-of-becoming-an-ez-grabber-user/"><u>2024 Approved The Step-By Step Journey of Becoming an EZ Grabber User</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-stunning-photographic-mosaics/"><u>Mastering Stunning Photographic Mosaics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/setting-up-your-digital-stage-your-first-youtube-profile-for-2024/"><u>Setting Up Your Digital Stage Your First YouTube Profile for 2024</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-game-changer-creating-eye-catching-logo-templates/"><u>[New] The Game-Changer Creating Eye-Catching Logo Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-auditory-journey-in-a-film-teaser/"><u>[Updated] Crafting the Auditory Journey in a Film Teaser</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[Updated] In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[Updated] In 2024, Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[Updated] In 2024, Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ngs-on-youtube-the-crucial-number-of-video-views-for-money/"><u>Earnings on YouTube The Crucial Number of Video Views for Money</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elden-ring-players-rejoice-multiplayer-feature-fixed/"><u>Elden Ring Players Rejoice: Multiplayer Feature Fixed!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-p60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei P60 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tackling-the-mystery-of-missing-shorts-video-images-for-2024/"><u>Tackling the Mystery of Missing Shorts Video Images for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-cityscapes-into-sustainable-havens-of-life-for-2024/"><u>Transforming Cityscapes Into Sustainable Havens of Life for 2024</u></a></li>
 </ul></div>
 

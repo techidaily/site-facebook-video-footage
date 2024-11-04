@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2024-10-26T19:07:42.343Z
-updated: 2024-10-29T19:16:53.508Z
+date: 2024-10-28T10:27:38.007Z
+updated: 2024-11-03T17:37:27.819Z
 tags:
   - ai video
   - ai youtube
@@ -36,13 +36,6 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -58,25 +51,32 @@ Here it is with binder clips:
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here it is with hair clips:
 
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **DIY adjustable tripod using books and a towel**
@@ -104,13 +104,6 @@ Your wire should be fairly stiff and you’ll need three pieces the same length,
 
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _All of your supplies plus the finished product._
 
 **Readying your legs**
@@ -133,6 +126,13 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -148,16 +148,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-broadcast-perfection-recommended-tech-and-apps-for-youtubers-for-2024/"><u>[New] Broadcast Perfection Recommended Tech and Apps for YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-an-odyssey-through-time-unexplored-worlds-in-classic-books-for-2024/"><u>[Updated] An Odyssey Through Time Unexplored Worlds in Classic Books for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-flourishing-on-a-beauty-youtube-channel/"><u>[Updated] Flourishing on a Beauty YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[Updated] In 2024, Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>[Updated] Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-ensure-video-perfection-before-sharing-on-instagram/"><u>2024 Approved Ensure Video Perfection Before Sharing on Instagram</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nubia-red-magic-8s-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nubia Red Magic 8S Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-role-of-high-stakes-soundtracks-in-crafting-unforgettable-movie-experiences/"><u>The Role of High-Stakes Soundtracks in Crafting Unforgettable Movie Experiences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-spaces-and-elevate-brands-the-ultimate-apps-list-for-youtube-artistry-for-2024/"><u>Transform Spaces & Elevate Brands The Ultimate Apps List for YouTube Artistry for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-your-youtube-channel-url-in-minutes-for-2024/"><u>Transform Your YouTube Channel URL in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beat-boulevard-optimal-dj-video-downloads-for-2024/"><u>[New] Beat Boulevard Optimal DJ Video Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enriching-youtube-content-with-improved-sound-quality/"><u>[New] In 2024, Enriching YouTube Content with Improved Sound Quality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-mobility-in-film-crafting-youtubes-best-thumbnails/"><u>[New] In 2024, Navigating Mobility in Film Crafting YouTubes' Best Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>[Updated] Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-appeal-mac-thumbnails-tutorial-for-2024/"><u>[Updated] Enhancing Video Appeal Mac Thumbnails Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement/"><u>[Updated] In 2024, 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>[Updated] In 2024, Craft and Share 360 Videos to YouTube An Essential Guide for Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>[Updated] Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/dynabookpc/"><u>「初期設定ガイド：東芝Dynabookで正しいPCリセット手順を見つけた！」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-terraria-game-boosters/"><u>2024 Approved Top 10 Terraria Game Boosters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-c50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco C50 Location | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users-for-2024/"><u>New Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revitalize-your-intel-imac-with-this-detailed-system-improvement-guide/"><u>Revitalize Your Intel iMac With This Detailed System Improvement Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/superior-7-dslr-choices-perfect-for-social-media-streaming-for-2024/"><u>Superior 7 DSLR Choices Perfect for Social Media Streaming for 2024</u></a></li>
 </ul></div>
 

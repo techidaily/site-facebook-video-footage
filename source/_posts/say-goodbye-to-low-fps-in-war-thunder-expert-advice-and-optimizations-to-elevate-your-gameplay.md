@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Low FPS in War Thunder: Expert Advice & Optimizations to Elevate Your Gameplay"
-date: 2024-10-27T19:24:53.685Z
-updated: 2024-10-29T16:43:32.360Z
+date: 2024-10-31T18:13:05.131Z
+updated: 2024-11-03T16:30:56.925Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -51,13 +64,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
  Test how War Thunder works with the dedicated GPU. If the low FPS remains, you can move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -91,13 +97,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -108,10 +107,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Shut down unnecessary applications
@@ -123,10 +128,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click the application you want to close and click**End task** .
@@ -134,10 +139,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -158,6 +163,13 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
@@ -165,6 +177,19 @@ Lately, many players have been complaining about War Thunder low FPS after the n
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the in-game graphics settings
 
@@ -175,28 +200,15 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
@@ -248,15 +260,24 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>[New] Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-engaging-youtube-content-a-step-by-step-approach/"><u>[Updated] In 2024, Creating Engaging YouTube Content A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-youtubes-mystery-a-sequential-exploration-guide/"><u>[Updated] In 2024, Decoding YouTube's Mystery A Sequential Exploration Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[Updated] In 2024, Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tracing-influence-the-quest-for-your-passionate-pioneers-for-2024/"><u>[Updated] Tracing Influence The Quest for Your Passionate Pioneers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sprint-through-style-speedy-tips-for-enhancing-photos-in-windows-app/"><u>In 2024, Sprint Through Style Speedy Tips for Enhancing Photos in Windows App</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/leverage-editing-to-boost-youtube-profile-impact/"><u>Leverage Editing to Boost YouTube Profile Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimal-data-rescue-utility/"><u>Optimal Data Rescue Utility</u></a></li>
-<li><a href="https://win-tips.techidaily.com/tecnicas-efectivas-para-optimizar-la-notificacion-de-mensajes-electronicos/"><u>Técnicas Efectivas Para Optimizar La Notificación De Mensajes Electrónicos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-undetected-gpu-in-computers/"><u>Troubleshooting: Undetected GPU in Computers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-channelizing-imovie-productions-on-youtube/"><u>[New] 2024 Approved Crafting and Channelizing iMovie Productions on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enablingdisabling-youtube-video-comments/"><u>[New] 2024 Approved Enabling/Disabling YouTube Video Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>[New] In 2024, DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhanced-entertainment-tv-ready-looping-techniques-for-video-content/"><u>[New] In 2024, Enhanced Entertainment Tv-Ready Looping Techniques for Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-to-youtubes-video-editor-interface-for-2024/"><u>[New] Navigating to YouTube's Video Editor Interface for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-accelerate-your-classic-gaming-top-choices-of-android-emulators-for-ps2-for-2024/"><u>[Updated] Accelerate Your Classic Gaming - Top Choices of Android Emulators for PS2 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-gamers-capturing-solutions-for-2024/"><u>[Updated] Elite Gamers' Capturing Solutions for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-approach-to-yt-channel-descriptors/"><u>[Updated] In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-business-beginnings-easier-than-ever-top-10-youtube-channel-ideas/"><u>[Updated] In 2024, Business Beginnings Easier Than Ever Top 10 YouTube Channel Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-stock-market-strategies-in-yt-reviews/"><u>[Updated] Pro Stock Market Strategies in YT Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>2024 Approved Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/brand-battlegrounds-mastery-of-marketing-metrics-on-youtube-for-2024/"><u>Brand Battlegrounds Mastery of Marketing Metrics on YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cyclone-shaper-setup/"><u>Cyclone Shaper Setup</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-dreams-unite-conference/"><u>Digital Dreams Unite Conference</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-10-most-popular-beauty-gurus-on-youtube/"><u>In 2024, 10 Most Popular Beauty Gurus on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-x100-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo X100 Through Google Earth?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-vlogs-with-smart-youtube-editing-tips-for-2024/"><u>Optimize Your Vlogs with Smart YouTube Editing Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/post-extended-clip-on-youtube-per-your-request-for-2024/"><u>Post Extended Clip on YouTube Per Your Request for 2024</u></a></li>
 </ul></div>
 

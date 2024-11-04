@@ -1,7 +1,7 @@
 ---
 title: "Star Clusters in Social Media Landscape for 2024"
-date: 2024-09-28T17:02:10.101Z
-updated: 2024-10-05T20:41:23.582Z
+date: 2024-10-29T16:47:08.608Z
+updated: 2024-11-04T06:16:29.246Z
 tags:
   - ai video
   - ai youtube
@@ -62,22 +62,21 @@ The most common videos on Felix's channel are gaming videos in which he comments
 
 ![HolaSoyGerman](https://images.wondershare.com/filmora/article-images/hola-soy-german.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 At the age of 27, Germán Alejandro Garmendia Aranis is the owner of the second most subscribed channel on YouTube with more than 32 million subscribers. Furthermore, HolaSoyGerman’s channel is the most subscribed Spanish-speaking channel today. Germán's second YouTube channel JuegaGerman has made him the only YouTuber ever to receive two diamond play buttons for having over 40 million subscribers on his two channels.
 
 The Chilean YouTube superstar uploaded his first YouTube video in 2011 and by October 2012 his channel has reached 1 million subscribers. Recently, German has lent his voice to a character in the Spanish version of Ice Age: Collision Course. He finds inspiration for his comic YouTube videos in everyday life and topics like ex-girlfriends, school, and phobias are frequently covered in videos published on the HolaSoyGerman channel. In 2014 and 2015 German won the 'Icon of the Year' prize from MTV Millennial Awards.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\.  ElrubiusOMG
@@ -98,9 +97,23 @@ Most channels that have one viral video do not go on to have sustained success o
 
 In 2017, Anthony Padilla chose to leave Smosh to focus on his own solo YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\.  Fernanfloo
 
 ![Fernanfloo](https://images.wondershare.com/filmora/article-images/fernan-floo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Yet another enormously popular YouTuber that comes from a Spanish speaking country whose channel attracted millions of subscribers. A 24-year-old Salvadoran named Luis Fernando Flores Alvarado is the man behind one of the most subscribed YouTube channels of all time. The Fernanfloo channel was created in 2011, and in February 2014 it had only 100,000 subscribers. By August 2014, Alvarado's channel reached 1 million subscribers, making him one of YouTube's biggest success stories. The videos featured on Feranfloo channel mostly cover gaming topics, but with a touch of comedy which makes Alvarado's videos unique.
 
@@ -111,10 +124,10 @@ At the end of 2015, Alvarado launched the Fenanfloo mobile app that had 2.3 mill
 Looking for a live [YouTube subscriber chart](https://tools.techidaily.com/wondershare/filmora/download/)?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Edit YouTube Videos with Full-Featured Video Editing Software
@@ -122,13 +135,6 @@ Looking for a live [YouTube subscriber chart](https://tools.techidaily.com/wonde
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -145,24 +151,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beginners-guide-video-setup-must-haves/"><u>[New] 2024 Approved Beginner's Guide Video Setup Must-Haves</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-constructing-captivating-valorant-youtube-thumbnails/"><u>[New] 2024 Approved Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-list-of-best-online-sound-capturing-devices-2023/"><u>[New] Elite List of Best Online Sound Capturing Devices 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-intuitive-steps-for-photo-integration-in-instagram/"><u>[New] Intuitive Steps for Photo Integration in Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-secrets-to-effective-video-tagging-revealed-here/"><u>[New] Secrets to Effective Video Tagging Revealed Here!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[Updated] 2024 Approved Cloaking in Content An Introduction to Video Smoothing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile/"><u>[Updated] In 2024, Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>2024 Approved Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-mastery-in-visual-storytelling/"><u>2024 Approved Melodic Mastery in Visual Storytelling</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fast-track-framework-for-crafting-facebook-collage/"><u>Fast-Track Framework for Crafting Facebook Collage</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-instructions-grid-view-activation-in-google-meet/"><u>In 2024, Instructions Grid View Activation in Google Meet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>In 2024, Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premier-top-youtube-views-monitor-for-content-success-for-2024/"><u>Premier Top YouTube Views Monitor for Content Success for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/time-traveling-through-history-students-top-youtubes-to-watch-for-2024/"><u>Time Traveling Through History Students' Top YouTubes To Watch for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-fixing-freezes-and-delays-in-fall-guys-while-playing-on-your-laptop-or-desktop/"><u>Ultimate Guide to Fixing Freezes and Delays in 'Fall Guys' While Playing on Your Laptop or Desktop</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-flawless-video-thumbnails-instantly-for-2024/"><u>Unlock Flawless Video Thumbnails Instantly for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-clearing-tactics-for-youtubes-stored-video-queue-for-2024/"><u>[New] Clearing Tactics for YouTube's Stored Video Queue for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earnings-breakdown-one-million-glances-at-youtube/"><u>[New] In 2024, Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] In 2024, Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview/"><u>[New] In 2024, From Basic to Advanced Usage Maximize Your Experience with Mac's Preview</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007487653-solved-nba-2k20-crash-issue-quickly-and-easily/"><u>[SOLVED] NBA 2K20 Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-curbing-common-mishaps-youtube-short-edition-for-2024/"><u>[Updated] Curbing Common Mishaps YouTube Short Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>[Updated] In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[Updated] In 2024, Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-no-cash-only-computers-recording-youtube-video-playback-for-screenshots/"><u>[Updated] No Cash, Only Computers Recording YouTube Video Playback for Screenshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sportscasting-your-pathway-to-highlight-videos/"><u>[Updated] Sportscasting Your Pathway to Highlight Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essence-of-insta-bokeh-a-step-by-step-guide-for-2024/"><u>[Updated] The Essence of Insta Bokeh - A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>[Updated] Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/alternative-cinema-highlights-audiences/"><u>Alternative Cinema Highlights Audiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209419836-crackling-audio-issue-fix-your-sound-on-windows-11-and-windows-7/"><u>Crackling Audio Issue? Fix Your Sound on Windows 11 and Windows 7!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-mouse-game-with-cross-border-powertoys-techniques/"><u>Elevate Your Mouse Game with Cross-Border PowerToys Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/setting-up-sports-content-sharing-on-a-mac-device-for-2024/"><u>Setting Up Sports Content Sharing on a Mac Device for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/two-effective-methods-for-transferring-your-iphones-sms-conversations-to-a-pc-or-mac/"><u>Two Effective Methods for Transferring Your iPhone's SMS Conversations to a PC or Mac</u></a></li>
 </ul></div>
 

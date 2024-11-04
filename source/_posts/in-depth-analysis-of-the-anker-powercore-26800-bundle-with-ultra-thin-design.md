@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2024-10-25T17:48:08.212Z
-updated: 2024-10-29T17:30:40.584Z
+date: 2024-10-28T05:21:25.830Z
+updated: 2024-11-03T22:34:03.081Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -40,9 +40,23 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -63,13 +77,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -77,13 +84,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -101,13 +101,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -116,19 +109,20 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
@@ -149,16 +143,16 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -205,22 +199,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>[New] 2024 Approved Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhance-video-quality-by-cutting-out-background-sounds/"><u>[New] 2024 Approved Enhance Video Quality by Cutting Out Background Sounds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>[New] In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[New] In 2024, Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-editors-for-youtube-writers-and-creators-all-free/"><u>[New] Top Editors for YouTube' Writers and Creators - All Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-budget-edits-8-no-charge-video-editing-software/"><u>[Updated] In 2024, Best Budget Edits 8 No-Charge Video Editing Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-free-youtube-to-mp3-converters-you-should-know-onlinewinmac/"><u>[Updated] In 2024, Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac]</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[Updated] In 2024, Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-playback-paradox-starting-at-the-finish-line-on-youtube/"><u>2024 Approved The Playback Paradox Starting at the Finish Line on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unveiling-the-secret-flip-your-videos-on-snapchat/"><u>2024 Approved Unveiling the Secret Flip Your Videos on Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-ipados-18-release-timeline-zero-price-tag-and-new-functionalities/"><u>Comprehensive Guide to iPadOS 18 - Release Timeline, Zero Price Tag, and New Functionalities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-spark-20c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Spark 20C to iPad | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-v27-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo V27 Phone? Unlock It Now</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211398899-9781960415196-rejected/"><u>Rejected | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a18-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo A18</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators-for-2024/"><u>The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel-for-2024/"><u>The Ultimate Guide to Banner & Art Design for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>[New] 2024 Approved The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unilateral-earbud-error-how-to-rectify/"><u>[New] 2024 Approved Unilateral Earbud Error How to Rectify</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>[New] Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-insiders-look-at-youtube-content-regulations/"><u>[New] In 2024, The Insider's Look at YouTube Content Regulations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-channels-earning-potential-through-trailers/"><u>[New] Maximizing Your Channel's Earning Potential Through Trailers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ios-and-android-asmr-experience-leaders/"><u>[Updated] IOS and Android ASMR Experience Leaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-digital-interruptions-building-personalized-mac-focus-screens-with-macos-monterey/"><u>Avoiding Digital Interruptions: Building Personalized Mac Focus Screens with macOS Monterey</u></a></li>
+<li><a href="https://discover-best.techidaily.com/boost-your-website-traffic-with-cookiebot-technology/"><u>Boost Your Website Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-5740-drivers-fast-simple-setup-guide/"><u>Download HP OfficeJet 5740 Drivers - Fast, Simple Setup Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-acquiring-free-audio-tracks-for-videos-for-2024/"><u>Secrets to Acquiring Free Audio Tracks for Videos for 2024</u></a></li>
 </ul></div>
 
