@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimized Approach to Delete Unwanted YouTube Posts"
-date: 2024-11-02T16:35:12.563Z
-updated: 2024-11-03T16:39:29.541Z
+date: 2024-11-09T07:23:39.127Z
+updated: 2024-11-12T22:51:15.257Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,13 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -56,13 +63,6 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 3. Select the video from where you want to delete a comment. Scroll down to reach the desired comment.
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from YouTube?
 
@@ -75,13 +75,6 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from Your Phone?
 
@@ -96,6 +89,13 @@ If it is your video where the comment to be removed is, you can go to My Channel
 
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
 
@@ -118,23 +118,10 @@ To find your History from your desktop, you need to click on the three horizonta
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -145,6 +132,13 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 2. Next, you can either click on the profile icon at the top right corner or the three horizontal lines beside the YouTube logo on your homepage. From the list of options, click Settings.
 
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from[here](https://www.youtube.com/account%5Fadvanced).
 
@@ -177,20 +171,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-backtrack-your-youtube-queue-swiftly-and-sweetly/"><u>[New] In 2024, Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-keeping-cameras-steady-in-motion-landscapes/"><u>[New] Keeping Cameras Steady in Motion Landscapes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-synthesizing-waterway-content-with-impact/"><u>[New] Synthesizing Waterway Content with Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capturing-quality-lens-recommendations-for-content-makers/"><u>[Updated] 2024 Approved Capturing Quality Lens Recommendations for Content Makers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-review-of-ios-free-video-editing-apps/"><u>[Updated] 2024 Approved Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-your-own-path-on-youtube-a-course-guide-for-2024/"><u>[Updated] Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-easy-steps-to-download-twitters-media-to-phone/"><u>[Updated] Easy Steps to Download Twitters Media to Phone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-unique-thumbnails-for-youtube-content/"><u>[Updated] In 2024, Crafting Unique Thumbnails for YouTube Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-timeless-treasures-accessing-fbs-historic-stories/"><u>2024 Approved Timeless Treasures Accessing FB's Historic Stories</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725284798825-dvd/"><u>読み取り不能のDVDを修正する方法: レンタル・自作再生で遭遇した一般的な問題と解決策</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/complete-removal-guide-how-to-fully-uninstall-quicktime-from-your-windows-pc-xp-vista-and-win-10/"><u>Complete Removal Guide: How To Fully Uninstall QuickTime From Your Windows PC (XP, Vista & Win 10)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Redmi A2+</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2023-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2023 Files for Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-visionary-templates-high-quality-afx-design-resources/"><u>[New] 2024 Approved Visionary Templates High-Quality AFX Design Resources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-compreayers-guide-to-polishing-youtube-content-via-imovie-editing-techniques/"><u>[New] In 2024, A Compreayer's Guide to Polishing YouTube Content via iMovie Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-music-crafting-stunning-lyric-videos-using-lyric-video-maker/"><u>[Updated] 2024 Approved Elevating Your Music Crafting Stunning Lyric Videos Using Lyric Video Maker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-groundbre-folio-of-gaming-loggers-alternatives-to-fbx-for-2024/"><u>[Updated] Groundbre Folio of Gaming Loggers Alternatives to FBX for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inside-the-latest-movavi-editor-plus-unveiling-features-of-2024/"><u>[Updated] Inside The Latest Movavi Editor Plus Unveiling Features of 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-deleted-yt-content-two-simplified-approaches/"><u>[Updated] Mastering Deleted YT Content Two Simplified Approaches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-producing-teaser-videos-with-a-twist/"><u>[Updated] Producing Teaser Videos with a Twist</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlined-list-6-efficient-mac-screen-recording-solutions-for-2024/"><u>[Updated] Streamlined List 6 Efficient Mac Screen Recording Solutions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transformative-notetaking-the-mematic-way-for-2024/"><u>[Updated] Transformative Notetaking The Mematic Way for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ignite-your-channels-engagement-with-targeted-youtube-links/"><u>2024 Approved Ignite Your Channel's Engagement with Targeted YouTube Links</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-smart-automation-how-abbyy-and-blue-prism-revolutionize-digital-labor/"><u>Enhancing Smart Automation: How ABBYY & Blue Prism Revolutionize Digital Labor</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kobo-libra-h2o-waterproof-e-reader-a-comprehensive-review/"><u>Kobo Libra H2O Waterproof E-Reader - A Comprehensive Review</u></a></li>
 </ul></div>
 

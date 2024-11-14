@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Affordable Techniques to Enhance Written Content with Media\""
-date: 2024-08-01T03:09:59.470Z
-updated: 2024-08-02T03:09:59.470Z
+date: 2024-11-10T11:12:55.479Z
+updated: 2024-11-13T07:38:23.610Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
 # How to Add Video to Text
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,9 +28,6 @@ It may be challenging to capture the attention of your audience if the video ope
 
 Luckily, video editing and presentation software products offer the tools you will need to combine video and text. In this article, we are going to show you how to add a video to text in PowerPoint and Filmora.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 1: How to Add Video to Text for Free with PowerPoint?
 
 An effective PowerPoint presentation should contain proportionate amounts of textual and visual elements. Using too many images, videos or animations can make following a presentation difficult, just as too much text can render a presentation too static.
@@ -50,14 +44,18 @@ The next step you will have to take is to create the cut-out of the text within 
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Adding Video to Text in Filmora
 
@@ -65,28 +63,40 @@ Besides presentation software, you can also use video editing software products 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
 
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -106,12 +116,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[New] 2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid/"><u>[New] Fixing Video Transmission Issues on Facebook Chat for iOS/Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimal-aspect-ratios-for-video-production/"><u>[New] Optimal Aspect Ratios for Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-potential-a-treasury-of-youtube-themes-for-channels/"><u>[New] Unleashing Potential A Treasury of YouTube Themes for Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elite-smartphones-reigning-in-ultra-clarity-video-recording/"><u>[Updated] 2024 Approved Elite Smartphones Reigning in Ultra-Clarity Video Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>[Updated] In 2024, Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-methods-for-converting-twitter-videos-into-mp3-format/"><u>[Updated] Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-best-online-pixel-ringtones-hubs/"><u>[Updated] Navigating the Best Online Pixel Ringtones Hubs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-network-power-play-understanding-igtv-vs-youtubes-dynamics/"><u>[Updated] Social Network Power Play Understanding IGTV Vs. YouTube's Dynamics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[Updated] Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/get-started-with-ease-facebook-insight-basics/"><u>Get Started with Ease Facebook Insight Basics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>In 2024, Fusion of Video & Melody Adding Music to Vimeo Projects</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktoks-a-step-by-step-guide-to-televising-the-app/"><u>Streaming TikToks: A Step-by-Step Guide to Televising the App</u></a></li>
+</ul></div>
 

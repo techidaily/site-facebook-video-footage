@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Enhancing Visuals  Using Chroma Key Effectively\""
-date: 2024-10-28T02:10:01.294Z
-updated: 2024-11-04T07:01:19.538Z
+date: 2024-11-12T13:54:17.306Z
+updated: 2024-11-13T07:01:17.033Z
 tags:
   - ai video
   - ai youtube
@@ -128,6 +128,13 @@ Suboptimal green screen lighting can lead to inconsistencies in keying and editi
 
 Chroma keying should leave your videos with crisp, defined, natural-looking edges. But post-production editing can make all the difference if it doesn’t come out to your taste. Softening and refining edges make a smoother transition between the foreground object and the new background. Light adjustments to edge thickness and screen matte settings can also help enhance overall visual quality and add finesse to your work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Green screen photography produces excellent results, and its ease of use makes it indispensable for videographers of all levels. In this guide, we've discussed chroma key technology, its role in the industry, and how to apply it to your craft to elevate visual content.
@@ -143,10 +150,10 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **How Does Chroma Key Work?**
@@ -328,23 +335,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
@@ -413,16 +406,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
 ![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
@@ -491,16 +484,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
@@ -521,13 +514,6 @@ With time, Filmora brings new and advanced features for its users to equip them 
 **Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
 
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
@@ -576,6 +562,13 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
@@ -588,16 +581,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
@@ -619,16 +612,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
@@ -643,6 +636,13 @@ This article on making a thumbnail for your Youtube is just an idea for you, and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -665,20 +665,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-inspire-creativity-brainstorming-for-channels-names/"><u>[New] 2024 Approved Inspire Creativity Brainstorming for Channels' Names</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-professional-edge-in-instagram-videos-with-green-screen-tech/"><u>[New] 2024 Approved Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discover-dynamic-channels-advanced-youtube-naming-guides-for-2024/"><u>[New] Discover Dynamic Channels Advanced YouTube Naming Guides for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-synergy-between-youtube-and-creative-commons-licensinas/"><u>[New] The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-practices-for-saving-screen-and-webcam-chats/"><u>[Updated] Best Practices for Saving Screen and Webcam Chats</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-through-online-beauty-networks-for-2024/"><u>[Updated] Earning Through Online Beauty Networks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-visual-branding-crafting-compelling-youtube-logos-for-2024/"><u>[Updated] Effective Visual Branding Crafting Compelling YouTube Logos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-maximizing-impact-making-an-engaging-podcast-trailer-for-2024/"><u>[Updated] Maximizing Impact Making an Engaging Podcast Trailer for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-audiovisual-transmitters/"><u>2024 Approved Comprehensive Guide to Audiovisual Transmitters</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S24 Ultra Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/recording-sound-wonders-without-the-use-of-a-microphone-for-2024/"><u>Recording Sound Wonders Without the Use of a Microphone for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-tecno-pop-7-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Pop 7 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-transition-erfolgvoll-vorbereiten-sicherheitshinweise-fur-deinen-computer-plus-5-zusatzliche-strategien/"><u>Windows-Transition: Erfolgvoll Vorbereiten – Sicherheitshinweise Für Deinen Computer (Plus 5 Zusätzliche Strategien)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-virality-on-youtube-essential-steps-demystified/"><u>[New] 2024 Approved Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[New] 2024 Approved Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-engaging-video-content-for-live-streams/"><u>[New] In 2024, Crafting Engaging Video Content for Live Streams</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-simplifying-social-media-synergy-twitter-videos-on-insta/"><u>[New] In 2024, Simplifying Social Media Synergy Twitter Videos on Insta</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-impact-or-rapid-rhythm-youtube-shorts-vs-tiktok-for-quick-content/"><u>[New] Instant Impact or Rapid Rhythm YouTube Shorts Vs. TikTok for Quick Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adding-impact-strategies-for-youtubes-last-impressions/"><u>[Updated] 2024 Approved Adding Impact Strategies for Youtubes' Last Impressions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-down-barriers-with-shared-youtube-curations/"><u>[Updated] 2024 Approved Breaking Down Barriers with Shared YouTube Curations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/1717306393728-updated-free-end-credits-maker-the-1-video-closers-guide/"><u>[Updated] Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-acquisitions-starting-off-with-profitable-youtube-channel-buys/"><u>[Updated] Ideal Acquisitions Starting Off with Profitable YouTube Channel Buys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-comprehensive-guide-to-great-ig-videos/"><u>2024 Approved The Comprehensive Guide to Great IG Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/advanced-mac-photo-tips-5-efficient-snapshot-techniques-for-2024/"><u>Advanced Mac Photo Tips 5 Efficient Snapshot Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-to-clearing-your-inbox-on-the-gmail-mobile-application/"><u>Complete Guide to Clearing Your Inbox on the Gmail Mobile Application</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-stepwise-approach-transform-fish-voices-on-pcs/"><u>In 2024, Stepwise Approach Transform Fish Voices on PCs</u></a></li>
+<li><a href="https://fox-where.techidaily.com/maximize-disk-capacity-top-three-tips-for-efficient-backup-management-on-windows-systems-windows-1087/"><u>Maximize Disk Capacity: Top Three Tips for Efficient Backup Management on Windows Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-a-beginners-guide-to-minitool-movie-maker-review-tutorial-and-alternatives-for-2024/"><u>New A Beginners Guide to Minitool Movie Maker Review, Tutorial, and Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-gpt-free-yet-restricted-use/"><u>The Hidden Side of GPT: Free, Yet Restricted Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
 </ul></div>
 

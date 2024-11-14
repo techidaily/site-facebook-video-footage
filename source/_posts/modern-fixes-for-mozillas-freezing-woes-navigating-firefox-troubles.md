@@ -1,7 +1,7 @@
 ---
 title: "Modern Fixes for Mozilla's Freezing Woes: Navigating Firefox Troubles"
-date: 2024-10-29T03:12:07.131Z
-updated: 2024-11-03T22:20:42.039Z
+date: 2024-11-09T03:40:20.549Z
+updated: 2024-11-13T03:01:20.244Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ If this doesn’t solve your problem, try the next fix.
 
  First you can check if virtualization is already enabled on your PC. If not, you’ll need to enable it in BIOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check if virtualization is turned on
 
 1. Run Nox Player. On the top-right corner, click the**three-line icon** and select**System info** .  
@@ -63,11 +70,32 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-cpu-vt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable virtualization in BIOS
 
 1. Click**Start** \>>**Power** . Hold down the**shift key** and click**Restart** at the same time. This will completely shut down your PC before it reboots.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/shut-down-pc.jpg)
 2. When your PC restarts and shows the manufacturer logo,**hold down the BIOS hotkey** until you enter BIOS setup.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The hotkey is usually**F1, F2, F12, Del or Esc** depending on different models. If you’re not sure which one works on your PC, consult the manufacturer manual or search online.
 3. Find the virtualization setting in BIOS. The layout can also differ on motherboards, so you may see different terms. Look for**Virtual, Virtualization, VT-X, or SVM** .
@@ -87,13 +115,6 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-10-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve enabled virtualization but Nox Player still crashes, try the next fix.
 
 ## Fix 3: Check your security software
@@ -112,28 +133,21 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Nox Player is already on the exception list. If so, jump to[antivirus configuration](https://tools.techidaily.com/drivereasy/download/) . If not, follow the steps below to unblock Nox Player.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Add Nox Player to the exception list**
 
 1. Click**Change settings** , then click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05.jpg)
 2. Click**Browse** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
@@ -142,21 +156,14 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-12-02.jpg)
 5. **Tick the checkbox of Private network** . This will ensure Nox Player is only unblocked when you’re using a private network, such as home Wi-Fi, out of safety concerns. Or you can allow Nox Player through all types of networks if needed.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05-1.jpg)
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can test if the crashing issue returns. If it persists and you’re not using any antivirus tools, jump to[fix 4](https://tools.techidaily.com/drivereasy/download/) . If you have installed antivirus on your PC, follow the steps below.
@@ -185,13 +192,6 @@ If this doesn’t solve your problem, try the next fix.
  Many programs such as Twitch and Zoom have an overlay feature, which is quite handy. However, overlays could cause performance issues for other programs, including emulators and games. If your Nox Player keeps crashing while you have overlays turned on, make sure to disable them and test the issue.
 
 If this doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Update your graphics driver
 
@@ -237,6 +237,13 @@ If this doesn’t solve your problem, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-08-10_11-54-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Increase virtual memory size
 
  If you want to increase the virtual memory size to fix the Nox crashing issue, you can manually allocate the paging file size:
@@ -258,13 +265,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
  If you’ve customized the paging size to create more virtual memory, but the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Change Nox Player settings
 
  If you’ve tried the fixes above but nothing worked, consider adjusting the settings of Nox Player. You may have to sacrifice a little graphics quality, but it should help improve the stability of the emulator and hopefully stop it from crashing. Here’s how:
@@ -275,17 +275,17 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
 
  If this doesn’t fix your problem, we have one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Update/reinstall Nox Player
 
@@ -318,22 +318,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-burst-into-action-the-art-of-engaging-instagram-boomers/"><u>[New] 2024 Approved Burst Into Action The Art of Engaging Instagram Boomers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas-for-2024/"><u>[New] Boost Your Online Presence by Mastering Video Editing in Sony Vegas for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-numbers-deciphering-how-youtube-measures-popularity/"><u>[New] In 2024, Behind the Numbers Deciphering How YouTube Measures Popularity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-riches-anywhere-adopting-youtube-analytics-and-monetization/"><u>[New] In 2024, Channel Riches Anywhere Adopting YouTube Analytics & Monetization</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-sales-through-effective-strategies-for-channel-trailer-creation/"><u>[Updated] 2024 Approved Boosting Sales Through Effective Strategies for Channel Trailer Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-revenue-from-a-million-watches-on-youtube-for-2024/"><u>[Updated] Decoding Revenue From A Million Watches on YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-gauging-storage-capacity-for-full-length-films-for-2024/"><u>[Updated] Gauging Storage Capacity for Full-Length Films for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-polaroid-xs-review-capturing-life-in-full-hd/"><u>[Updated] Polaroid XS Review Capturing Life in Full HD</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x100-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X100 Pro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-restoring-iphone-xs-trust-reviving-biometric-lock/"><u>2024 Approved Restoring iPhone X's Trust Reviving Biometric Lock</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-vs-after-effects-which-one-should-you-use/"><u>New Adobe Premiere vs After Effects Which One Should You Use?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-proportions-understanding-youtube-video-sizes-for-2024/"><u>Perfecting Proportions Understanding YouTube Video Sizes for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-youtube-to-wav-4-budget-friendly-solutions-revealed-for-2024/"><u>Seamless YouTube to WAV 4 Budget-Friendly Solutions Revealed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/smart-strategies-for-entrepreneurial-video-marketing-for-2024/"><u>SMART Strategies for Entrepreneurial Video Marketing for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169938014-top-15-pre-loaded-ios-games-fun-without-connections/"><u>Top 15 Pre-Loaded iOS Games: Fun WITHOUT Connections</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-premiere-pro-essentials-20-free-title-and-intro-templates/"><u>Updated In 2024, Premiere Pro Essentials 20 Free Title and Intro Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost-for-2024/"><u>[New] A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-building-a-solid-foundation-youtube-video-script-basics-for-2024/"><u>[New] Building a Solid Foundation YouTube Video Script Basics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-custom-coverage-made-simple-fast-track-your-youtube-shorts-design-for-2024/"><u>[New] Custom Coverage Made Simple Fast-Track Your YouTube Shorts Design for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieve-10-free-tools-for-thumbnail-extraction/"><u>[New] In 2024, Achieve 10 Free Tools for Thumbnail Extraction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-views-with-your-own-youtube-thumbnail-design/"><u>[New] In 2024, Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[New] In 2024, Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-building-engagement-the-role-of-youtube-shorts-template-design/"><u>[Updated] 2024 Approved Building Engagement The Role of YouTube Shorts Template Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-video-magic-with-imovie-directed-to-youtube/"><u>[Updated] In 2024, Crafting Video Magic with iMovie, Directed to YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimizing-chromebook-prime-zoom-features-for-2024/"><u>[Updated] Optimizing Chromebook Prime Zoom Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-started-streaming-learn-obs-for-youtube-now-in-2024/"><u>[Updated] Started Streaming? Learn OBS for Youtube Now, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>[Updated] The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/explore-top-10-no-cost-digital-photography-tools/"><u>Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-10t-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 10T 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Phone without PIN</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reviving-old-images-the-ultimate-guide-to-using-stellar-photo-repair-on-windows/"><u>Reviving Old Images: The Ultimate Guide to Using Stellar Photo Repair on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-errcachemiss-issues-in-google-chrome/"><u>Troubleshooting Guide: How to Resolve 'ERR_CACHE_MISS' Issues in Google Chrome</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-income-potential-youtube-studios-global-reach-for-2024/"><u>Unlock Your Income Potential YouTube Studio's Global Reach for 2024</u></a></li>
 </ul></div>
 

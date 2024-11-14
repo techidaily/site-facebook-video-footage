@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-10-29T08:50:21.109Z
-updated: 2024-11-04T01:20:33.192Z
+date: 2024-11-09T12:23:45.701Z
+updated: 2024-11-13T07:24:44.753Z
 tags:
   - win11
   - win10
@@ -49,23 +49,16 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
 
@@ -77,14 +70,14 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
-If it’s not working, move to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not working, move to the next fix.
 
 ### Fix 3: Reinstall shaders & clear cache
 
@@ -98,24 +91,18 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
@@ -124,13 +111,6 @@ If it’s not working, move to the next fix.
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -144,13 +124,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -160,13 +133,46 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
 9. Double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -191,18 +197,20 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp4-safely/"><u>[New] In 2024, How to Convert YouTube to MP4 Safely?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-switching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-the-secret-to-massive-engagement-3-top-tips-for-making-powerful-two-pov-reaction-videos-on-youtube/"><u>[Updated] 2024 Approved Unlock the Secret to Massive Engagement 3 Top Tips for Making Powerful Two-POV Reaction Videos on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-easy-ipad-images-jpgpng-to-pdf-transformation-tips-for-2024/"><u>[Updated] Easy iPad Images (JPG/PNG) to PDF Transformation Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-jumpstart-your-youtube-venture-top-equipment-choices/"><u>[Updated] Jumpstart Your YouTube Venture Top Equipment Choices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>2024 Approved Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y100a-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y100A without App | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/biometric-permissions-managing-domain-users-in-w11/"><u>Biometric Permissions: Managing Domain Users in W11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-click-reward-spectrum/"><u>In 2024, The Ultimate Click Reward Spectrum</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audience-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>[New] Audience Allure Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-on-acquiring-profitable-yt-channels-for-2024/"><u>[New] Essential Tips on Acquiring Profitable YT Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[New] Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[Updated] 2024 Approved Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy-for-2024/"><u>[Updated] Chromebook Webcam Usage Recording Made Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capture-it-right-essential-camera-lenses-for-video-blogging/"><u>[Updated] In 2024, Capture It Right Essential Camera Lenses for Video Blogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-off-determining-your-creative-passion/"><u>[Updated] Starting Off Determining Your Creative Passion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-boosting-android-video-brilliance/"><u>[Updated] The Ultimate Guide to Boosting Android Video Brilliance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-4-screen-recording-features-for-windows-8/"><u>2024 Approved Top 4 Screen Recording Features for Windows 8</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a05-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A05 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-gesture-control-a-comprehensive-overview/"><u>Mastering Gesture Control A Comprehensive Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-typing-typingaids-expertise/"><u>Speeding Up Typing: TypingAid's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-enhances-vehicle-safety-with-groundbreaking-ota-software-upgrade-inside-the-latest-industry-milestone/"><u>Tesla Enhances Vehicle Safety with Groundbreaking OTA Software Upgrade: Inside the Latest Industry Milestone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wonderfox-accessing-the-missing-pages-a-guide-to-finding-your-way/"><u>WonderFox - Accessing the Missing Pages: A Guide to Finding Your Way</u></a></li>
 </ul></div>
 

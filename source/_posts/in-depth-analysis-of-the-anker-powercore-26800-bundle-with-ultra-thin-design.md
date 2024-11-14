@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2024-10-28T05:21:25.830Z
-updated: 2024-11-03T22:34:03.081Z
+date: 2024-11-09T21:45:48.512Z
+updated: 2024-11-13T09:05:28.962Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -41,22 +41,21 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -85,6 +84,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
  Overall, the C80 feels pretty sturdy. There are four antennas, and they don’t feel flimsy or easily breakable. The antennas are exceptionally long—disproportionately so when compared to the router’s body—but the length of the antennas is advantageous for performance. You can move the antennas 90 degrees up and down and roughly 180 degrees side to side, which lets you appropriately adjust them for placement on a wall or table. The Gigabit Ethernet ports (one WAN, four LAN) and power adapter port are located on the back of the device, which is ideal for placement on a flat surface, but not as great for mounting on a wall because the cables come out of the top of the router, and they’re difficult to hide or organize.
@@ -101,6 +107,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -109,21 +122,7 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
@@ -141,14 +140,14 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Price: Around 100 bucks**
 
@@ -163,6 +162,13 @@ Lifewire / Erika Rawes
 **Fast speeds and an exceptionally long range.**
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,15 +205,19 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>[New] 2024 Approved The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unilateral-earbud-error-how-to-rectify/"><u>[New] 2024 Approved Unilateral Earbud Error How to Rectify</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>[New] Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-insiders-look-at-youtube-content-regulations/"><u>[New] In 2024, The Insider's Look at YouTube Content Regulations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-channels-earning-potential-through-trailers/"><u>[New] Maximizing Your Channel's Earning Potential Through Trailers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ios-and-android-asmr-experience-leaders/"><u>[Updated] IOS and Android ASMR Experience Leaders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoiding-digital-interruptions-building-personalized-mac-focus-screens-with-macos-monterey/"><u>Avoiding Digital Interruptions: Building Personalized Mac Focus Screens with macOS Monterey</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-website-traffic-with-cookiebot-technology/"><u>Boost Your Website Traffic with Cookiebot Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-5740-drivers-fast-simple-setup-guide/"><u>Download HP OfficeJet 5740 Drivers - Fast, Simple Setup Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-acquiring-free-audio-tracks-for-videos-for-2024/"><u>Secrets to Acquiring Free Audio Tracks for Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-free-software-review-for-techies/"><u>[New] 2024 Approved Apowersoft Free Software Review for Techies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-continuous-streams-perfect-loops-of-youtube-videos-for-tvs-for-2024/"><u>[New] Continuous Streams Perfect Loops of YouTube Videos for TVs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-hashtagging-for-game-focused-yt-channels-for-2024/"><u>[New] Essential Guide to Hashtagging for Game-Focused YT Channels for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-artisans-handbook-to-photomontage-creation-for-2024/"><u>[New] The Artisan's Handbook to PhotoMontage Creation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-2023s-premier-action-cameras-for-ocean-thrills/"><u>[Updated] 2024 Approved 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beauty-bliss-essential-tutorials-for-ultimate-style/"><u>[Updated] 2024 Approved Beauty Bliss Essential Tutorials for Ultimate Style</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[Updated] 2024 Approved The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-procedures-for-elevating-youtube-clips-through-wm-maker-for-2024/"><u>[Updated] Detailed Procedures for Elevating YouTube Clips Through WM Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-entering-income-territory-with-a-thousand-followers/"><u>[Updated] In 2024, Entering Income Territory with a Thousand Followers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-preservation-direct-and-indirect-approaches-for-2024/"><u>[Updated] Instagram Video Preservation Direct & Indirect Approaches for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>[Updated] YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-hd-video-capture-ultimate-recorder-reviews/"><u>In 2024, Prime HD Video Capture Ultimate Recorder Reviews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge+ (2023) | Dr.fone</u></a></li>
 </ul></div>
 

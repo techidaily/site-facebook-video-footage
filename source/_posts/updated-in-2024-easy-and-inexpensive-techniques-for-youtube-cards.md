@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Easy and Inexpensive Techniques for YouTube Cards"
-date: 2024-08-01T03:12:11.967Z
-updated: 2024-08-02T03:12:11.967Z
+date: 2024-11-10T03:20:52.003Z
+updated: 2024-11-12T23:43:39.305Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -44,9 +40,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 [How To Make an End Card](#how-to)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -73,9 +66,6 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -88,13 +78,18 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -128,10 +123,20 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -139,12 +144,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style/"><u>[New] Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-accelerate-yt-growth-strategies-for-1kplus-subscribers/"><u>[Updated] 2024 Approved Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-leading-youtube-to-webm-converter-tools/"><u>[Updated] 2024 Approved Discover the Leading YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-enhance-photoshop-snaps-with-shake-effects/"><u>[Updated] 2024 Approved Enhance Photoshop Snaps with Shake Effects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-sharestream-downloader-fb-edition/"><u>[Updated] 2024 Approved ShareStream Downloader, FB Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-audio-matters-ensuring-excellent-sound-in-your-youtube-shots-for-2024/"><u>[Updated] Audio Matters Ensuring Excellent Sound in Your YouTube Shots for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid-for-2024/"><u>[Updated] Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>[Updated] In 2024, Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-your-creativity-crafting-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Channel Your Creativity Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-success-in-online-content-creation/"><u>[Updated] Strategies for Success in Online Content Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-youtube-playback-tweaks-turn-off-auto-play-videos-for-2024/"><u>[Updated] YouTube Playback Tweaks Turn Off Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-branding-in-small-business-marketing/"><u>2024 Approved Visual Branding in Small Business Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-writers-guide-embedding-images-in-articles-without-spending/"><u>2024 Approved Writers' Guide Embedding Images in Articles Without Spending</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-scenes-of-vivacut-full-video-editing-review-24-for-2024/"><u>Behind the Scenes of VivaCut Full Video Editing Review '24 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725285338903-digiarty/"><u>Digiarty에서 도움이 필요한 기사: 솔루션 및 자세 정보</u></a></li>
+<li><a href="https://network-issues.techidaily.com/installing-latest-intel-graphic-drivers-in-windows/"><u>Installing Latest Intel Graphic Drivers in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-post-failures-on-your-computer/"><u>Step-by-Step Guide: Resolving POST Failures on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-stability-enhancements-to-prevent-gzw-from-freezing-your-pc/"><u>Step-by-Step Guide: Stability Enhancements to Prevent GZW From Freezing Your PC</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ultimate-how-to-simple-methods-for-adding-santa-hats-in-images/"><u>Ultimate How-To: Simple Methods for Adding Santa Hats in Images</u></a></li>
+</ul></div>
 

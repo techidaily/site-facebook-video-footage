@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] YouTube Thumbnails Demystified - Mac Edition\""
-date: 2024-10-28T17:04:32.780Z
-updated: 2024-11-03T18:06:26.202Z
+date: 2024-11-06T14:08:23.666Z
+updated: 2024-11-13T09:14:50.757Z
 tags:
   - ai video
   - ai youtube
@@ -46,18 +46,18 @@ If you don’t create a thumbnail then youtube will generate one by itself which
 
 You can easily create interesting thumbnails for youtube videos using a thumbnail maker like[FilmoraX](https://tools.techidaily.com/wondershare/filmora/download/) . Here is a step by step guide:
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. Preview the video and choose the still snapshot
 
 The first step in creating a thumbnail is to import the final video into the FilmoraX editor on your MacBook.
 
 ![import](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/3.import-media-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, use the thumbnail editor to play your video and choose the snapshot that you want to be appearing as your thumbnail.
 
@@ -66,10 +66,17 @@ You can easily choose the frame from the video or use the preview frame button t
 ![thumbnails editor](https://images.wondershare.com/filmora/Mac-articles/thumbnails-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Add text, shape, and image overlays
@@ -78,18 +85,18 @@ Once you’ve chosen the frame for the thumbnail, the next step would be to add 
 
 ![add text on thumbnail](https://images.wondershare.com/filmora/Mac-articles/add-text-on-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3. Add effects
 
 FilmoraX has a wide range of effects that you can apply to your videos or pictures to make them look more attractive.
 
 ![filter9](https://images.wondershare.com/filmora/guide/filter-9-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4. Save the thumbnail
 
@@ -107,13 +114,6 @@ Hopefully, the above-mentioned steps have given you enough insight and clarity o
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -129,16 +129,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-educational-power-leveraging-youtube-in-academic-settings/"><u>[New] 2024 Approved Educational Power Leveraging YouTube in Academic Settings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-tech-evolution/"><u>[New] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>[New] Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-where-the-best-youtube-symbols-are-hidden/"><u>[New] Where the Best YouTube Symbols Are Hidden</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-a-look-at-the-future-leading-photo-framing-apps/"><u>[Updated] A Look at the Future Leading Photo Framing Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[Updated] In 2024, Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rectification-of-injustice/"><u>[Updated] Rectification of Injustice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>[Updated] Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722108033794-discover-the-ios-mobile-app-for-chatgpt-your-ai-companion-on-the-go/"><u>Discover the iOS Mobile App for ChatGPT: Your AI Companion on the Go!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-podcasting-tech-updates-unveiled/"><u>In 2024, Podcasting Tech Updates Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavi-wav-flac/"><u>Movavi의 WAV텍스트를 FLAC로 전환하기: 무료, 인터넷을 통한 유용한 서비스</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-engaging-and-memorable-youtube-channel-graphics/"><u>[New] 2024 Approved Creating Engaging and Memorable YouTube Channel Graphics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-bright-ideas-top-17-lighting-setups-for-youtubers-for-2024/"><u>[New] Bright Ideas Top 17 Lighting Setups for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eye-catching-youtube-most-followed-channels-for-2024/"><u>[New] Eye-Catching YouTube Most Followed Channels for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-must-have-tech-gadgets-for-seamless-video-meetings/"><u>[Updated] 10 Must-Have Tech Gadgets for Seamless Video Meetings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-bring-your-stories-alive-techniques-for-animation-in-text/"><u>[Updated] Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-camerawork-innovative-techniques-for-video-savvy-youtubers-for-2024/"><u>[Updated] Creative Camerawork Innovative Techniques for Video-Savvy YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[Updated] In 2024, Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-access-recovery-mastering-post-hack-facebook-fixes/"><u>In 2024, Access Recovery Mastering Post-Hack Facebook Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 8 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-intenseflame-screen-recorders/"><u>In 2024, IntenseFlame Screen Recorders</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-securely-wiping-data-from-your-iphone-or-ipad/"><u>Step-by-Step Guide: Securely Wiping Data From Your iPhone or iPad</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-site-including-youtube-playlists-directly-for-2024/"><u>Streamline Your Site Including YouTube Playlists Directly for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-no-more-crashes-in-updated-version-of-classic-diablo-2/"><u>Troubleshooting Guide: No More Crashes in Updated Version of Classic Diablo 2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/whats-grabbing-twitter-users-attention-for-2024/"><u>What's Grabbing Twitter Users' Attention for 2024</u></a></li>
 </ul></div>
 

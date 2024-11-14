@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind Call of Duty Modern Warfare 3'S Memory Error 12707 and How to Resolve It
-date: 2024-10-28T23:57:38.249Z
-updated: 2024-11-03T20:25:18.656Z
+date: 2024-11-07T00:15:24.000Z
+updated: 2024-11-12T19:05:21.304Z
 tags:
   - win11
   - win10
@@ -51,20 +51,21 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your driver
 
@@ -84,20 +85,27 @@ There are mainly two ways you can update the driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable your integrated graphics
@@ -111,21 +119,20 @@ There are mainly two ways you can update the driver:
 2. Select**Manage 3D settings** in the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Disable integrated graphics through Device Manager** :
 
@@ -134,23 +141,9 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
 
@@ -175,20 +168,27 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -221,22 +221,18 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[New] 2024 Approved Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engineering-video-excerpts-for-online-platforms/"><u>[New] 2024 Approved Engineering Video Excerpts for Online Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-best-pairing-practices-in-the-youtube-space-for-2024/"><u>[New] Exploring Best Pairing Practices in the YouTube Space for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[New] In 2024, Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[New] In 2024, Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-15-indispentic-tools-to-launch-your-youtube-career/"><u>[Updated] 15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-economical-audio-devices-for-vloggers-on-a-budget/"><u>[Updated] 2024 Approved Economical Audio Devices for Vloggers on a Budget</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-make-your-linkedin-profile-professional/"><u>[Updated] 2024 Approved How To Make Your LinkedIn Profile Professional</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[Updated] In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-from-scratch-video-gear-insights/"><u>[Updated] Starting From Scratch Video Gear Insights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-youtube-creators-subscription-leaders/"><u>[Updated] Top 5 YouTube Creators Subscription Leaders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-iphone-audio-applications-ranked/"><u>[Updated] Top iPhone Audio Applications Ranked</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-early-bird-savings-exclusive-sneak-peeks-before-prime-day-2024-shop-smart/"><u>Best Early Bird Savings: Exclusive Sneak Peeks Before Prime Day 2024 - Shop Smart</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-4605e-laserjet-pro-m127fn-printer-drivers-secure-and-easy-installation/"><u>Get Your HP 4605E (LaserJet Pro M127FN) Printer Drivers - Secure & Easy Installation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-12-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme 12 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-itel-s23plus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Itel S23+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-conquering-camera-fear-paving-the-path-to-youtube-success/"><u>[New] 2024 Approved Conquering Camera Fear Paving the Path to YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-earning-game-with-youtube-monetization-strategies-for-2024/"><u>[New] Elevating Your Earning Game with YouTube Monetization Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>[New] Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-educator-elite-selective-learning-yt-channels-for-2024/"><u>[Updated] Educator Elite Selective Learning YT Channels for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-free-range-humor-development-unleash-your-wit-for-2024/"><u>[Updated] Free-Range Humor Development Unleash Your Wit for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-excellence-the-premier-video-formats-for-youtube/"><u>[Updated] In 2024, Audiovisual Excellence The Premier Video Formats for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocketing-channels-essential-narrative-methods/"><u>[Updated] Skyrocketing Channels Essential Narrative Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-adding-audio-files-to-inshots-library-for-2024/"><u>Guide to Adding Audio Files to InShot's Library for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s18e-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/inexpensive-pc-playback-devices/"><u>Inexpensive PC Playback Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-d3dx925dll-file-not-found-step-by-step-guide/"><u>Resolving d3dx9_25.dll File Not Found: Step-by-Step Guide</u></a></li>
 </ul></div>
 

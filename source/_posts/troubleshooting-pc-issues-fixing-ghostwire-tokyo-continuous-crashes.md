@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes"
-date: 2024-10-28T06:25:44.269Z
-updated: 2024-11-04T12:04:40.567Z
+date: 2024-11-07T02:33:04.972Z
+updated: 2024-11-12T18:30:34.779Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
 
 ### Fix 2: Set priority to high for Vegas Pro
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 1. Right-click anywhere empty on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
@@ -76,13 +76,20 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 Once done, restart your PC and check if Vegas crashes again.
 
 If the issue is still there, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics card driver
 
@@ -109,26 +123,19 @@ If the issue is still there, you can move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Import your footage via the Explorer window
 
@@ -164,13 +171,6 @@ If the issue is still there, you can move on to the next fix.
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
 
 #### 2: Disable multi-core rendering
@@ -184,10 +184,10 @@ If the issue is still there, you can move on to the next fix.
 2. Type**multi-core** in the search bar at the bottom.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
@@ -195,14 +195,14 @@ If the issue is still there, you can move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable a CPU processor for Vegas Pro
 
@@ -212,15 +212,15 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
@@ -248,22 +248,19 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[New] 2024 Approved Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>[New] A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ortnite-thumbnail-blitz-a-30-second-guide-for-2024/"><u>[New] Fortnite Thumbnail Blitz A 30-Second Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-sports-highlights-a-comprehensive-guide/"><u>[New] In 2024, DIY Sports Highlights A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-video-potential-through-smart-co-stars-selection/"><u>[New] Maximizing Your Video Potential Through Smart Co-Stars Selection</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-captioning-techniques-for-professional-youtube-content/"><u>[Updated] 2024 Approved Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts-for-2024/"><u>[Updated] Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-expert-selecting-best-yt-cameras-for-2024/"><u>[Updated] From Novice to Expert Selecting Best YT Cameras for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>[Updated] The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mac-dvddvdmp4-h264-hevcitunes/"><u>最新免費Mac DVD轉檔程式：迅速地改造任何DVD成MP4 H264 HEVC，iTunes友好型解答</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfecting-film-editing-final-cut-pro-101/"><u>Perfecting Film Editing Final Cut Pro 101</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/resolved-shorts-display-issue-on-youtube-for-2024/"><u>Resolved Shorts Display Issue on YouTube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-graphics-issues-in-red-dead-redemption-2-with-errgfxstate-errors/"><u>Resolving Graphics Issues in Red Dead Redemption 2 with ERR_GFX_STATE Errors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swift-and-secure-efficient-downloads-of-podcasts-onto-iphone-for-2024/"><u>Swift and Secure Efficient Downloads of Podcasts Onto iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[New] 2024 Approved Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-video-storytelling-how-to-craft-impactful-and-informative-edu-vids-on-youtube/"><u>[New] 2024 Approved The Art of Video Storytelling How to Craft Impactful and Informative Edu-Vids on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>[New] 2024 Approved Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-seamless-igtv-and-fb-sharing-guide-for-2024/"><u>[New] Seamless IGTV and FB Sharing Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-no-tripod-path-to-flawless-images/"><u>[New] The No-Tripod Path to Flawless Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro/"><u>[Updated] 5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-extracting-audio-from-youtube-video-playback-for-2024/"><u>[Updated] Expert Tips Extracting Audio From YouTube Video Playback for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>[Updated] Keywords that Catapult Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-creating-youtube-video-thumbnails/"><u>[Updated] The Art of Creating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[Updated] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-money-calculators-calculate-youtube-money-for-2024/"><u>Free YouTube Money Calculators-Calculate YouTube Money for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>How To Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-13-mini-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 13 mini GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
 </ul></div>
 

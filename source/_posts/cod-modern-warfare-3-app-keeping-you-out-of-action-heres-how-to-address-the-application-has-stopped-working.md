@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 App Keeping You Out of Action? Here's How To Address The 'Application Has Stopped Working'"
-date: 2024-11-02T10:43:20.521Z
-updated: 2024-11-04T12:07:51.550Z
+date: 2024-11-11T20:34:51.864Z
+updated: 2024-11-12T22:34:45.862Z
 tags:
   - win11
   - win10
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Run the game executable as administrator
 
  The first quick fix you can try is to run the game executable as administrator. Many players reported that providing the required administrator rights to Forza Horizon 5 has solved the crashing issue for them.
@@ -48,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -67,20 +80,27 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the graphics driver doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check your antivirus software
 
@@ -104,23 +124,9 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Refresh your network
 
@@ -137,6 +143,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
 **If you’re using Wi-Fi** :
@@ -147,6 +160,19 @@ If updating the graphics driver doesn’t help, try the next fix.
 **If you’re using ethernet:** Unplug the ethernet cable from your PC, leave it disconnected for a minute, and then plug it back in.
 
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -160,13 +186,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
@@ -186,6 +205,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -203,17 +229,17 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
  If performing a clean boot doesn’t solve your problem, no worries, we have one more fix for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -229,21 +255,7 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -264,20 +276,21 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-changing-ideas-inspiring-videos-to-enhance-creativity/"><u>[New] 2024 Approved Channel-Changing Ideas Inspiring Videos to Enhance Creativity</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-writing-with-impact-sculpting-scripts-for-engaging-docus/"><u>[New] 2024 Approved Writing with Impact Sculpting Scripts for Engaging Docus</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-clipcrafter-app/"><u>[New] ClipCrafter App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[New] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-dos-and-donts-of-creating-an-authentic-tiktok-version-of-ourselves/"><u>[Updated] 2024 Approved The Dos and Don'ts of Creating an Authentic TikTok Version of Ourselves</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-diversifying-audience-across-30plus-online-venues-for-2024/"><u>[Updated] Diversifying Audience Across 30+ Online Venues for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-reach-convert-yt-to-igtv-for-2024/"><u>[Updated] Enhancing Video Reach Convert YT to IGTV for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-minecraft-branding-tools-download/"><u>[Updated] Free Minecraft Branding Tools Download</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-gamified-learning-educational-youtubers-to-subscribe/"><u>[Updated] Gamified Learning Educational YouTubers to Subscribe</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beyond-chatgpt-10-superior-ai-dialogue-alternatives-unveiled/"><u>Beyond ChatGPT: 10 Superior AI Dialogue Alternatives Unveiled</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-icons-the-step-by-step-process/"><u>Resetting Icons: The Step-by-Step Process</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/shine-on-mastering-the-art-of-illumination-for-youtube-videos-for-2024/"><u>Shine On Mastering the Art of Illumination for YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/technological-testing-and-tracking-the-vll-method-for-2024/"><u>Technological Testing and Tracking The VLL Method for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-hey-siri-discover-the-ultimate-17-methods-to-repair-apples-voice-assistant-on-iphones/"><u>Unsticking 'Hey Siri': Discover the Ultimate 17 Methods to Repair Apple's Voice Assistant on iPhones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[New] In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-experience-beyond-reality-with-these-immersive-titles/"><u>[New] In 2024, Experience Beyond Reality with These Immersive Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-zenith-of-leisure-top-12-pc-gamez/"><u>[New] In 2024, Zenith of Leisure Top 12 PC Gamez</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tapping-into-trending-topics-for-videography-ideas-via-google/"><u>[New] Tapping Into Trending Topics for Videography Ideas via Google</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-views/"><u>[Updated] In 2024, 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-decoding-the-impact-of-instagrams-algorithm-shifts/"><u>[Updated] In 2024, Decoding the Impact of Instagram's Algorithm Shifts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tips-for-recording-and-saving-google-voice-interactions/"><u>[Updated] In 2024, Tips for Recording and Saving Google Voice Interactions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-offline-viewing-8-best-youtube-downloaders/"><u>[Updated] Maximize Offline Viewing 8 Best YouTube Downloaders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-channels-aesthetics-with-these-tools/"><u>[Updated] Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-rank-the-best-fb-video-downloaders-heres-how-for-2024/"><u>[Updated] Rank the Best FB Video Downloaders - Here's How for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-engaging-vids-with-template-magic/"><u>Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-740-elevation-woes-on-windows-devices/"><u>Eliminating Error Code 740: Elevation Woes on Windows Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-projector-vs-television-the-battle-for-4k-dominance/"><u>In 2024, Projector vs Television The Battle for 4K Dominance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios-for-2024/"><u>Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-why-isnt-my-thaumaturge-game-starting-on-windows/"><u>Troubleshooting Steps: Why Isn't My Thaumaturge Game Starting on Windows?</u></a></li>
 </ul></div>
 

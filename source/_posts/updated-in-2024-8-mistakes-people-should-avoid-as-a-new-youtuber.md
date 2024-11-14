@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 8 Mistakes People Should Avoid as a New YouTuber"
-date: 2024-10-29T23:31:34.351Z
-updated: 2024-11-04T05:37:10.569Z
+date: 2024-11-05T18:58:56.363Z
+updated: 2024-11-13T05:11:11.639Z
 tags:
   - ai video
   - ai youtube
@@ -32,13 +32,6 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ###  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
@@ -46,10 +39,10 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Choosing an ineffective custom URL
@@ -59,10 +52,16 @@ Another mistake I made with my first YouTube channel was choosing an ineffective
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Coming up with titles that won't get searched
@@ -72,13 +71,6 @@ Many new YouTubers make the mistake of titling their videos in an ineffective wa
 Big YouTubers can take advantage of non-searched, curiosity evoking titles like “You won’t believe what just happened…” because they already have a huge following. Their channels aren’t depending on getting discovered through search. But yours is. So come up with titles that people are actually searching.
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Failing to have a thumbnail strategy
 
@@ -100,6 +92,13 @@ An important thing to do as a new YouTuber is engaging with your subscribers. So
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Not promoting with social media
 
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
@@ -116,6 +115,13 @@ Spam comments annoy YouTubers. It would be much more beneficial to your channel 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -131,19 +137,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-the-world-of-youtube-where-are-my-comments/"><u>[New] 2024 Approved Exploring the World of YouTube Where Are My Comments?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-the-process-of-submitting-videos-on-youtube-for-2024/"><u>[New] Demystifying the Process of Submitting Videos on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-esports-news-and-analysis-from-top-vloggers/"><u>[New] In 2024, Esports News and Analysis From Top Vloggers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[New] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[Updated] 2024 Approved Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-techniques-for-rapid-deletion-of-youtube-feedback/"><u>[Updated] Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tis-the-season-for-laughs-the-goofy-vhs-special/"><u>In 2024, 'Tis the Season for Laughs 'The Goofy' VHS Special</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-crafting-distinctive-video-stream-names-tips-for-filmora-users/"><u>In 2024, Crafting Distinctive Video Stream Names Tips for Filmora Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-pova-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Pova 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-look-at-fraps-screen-capture-for-2024/"><u>In-Depth Look at Fraps Screen Capture for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/premium-showdown-apple-ipad-air-nvs-samsungs-galaxy-tab-s7plus/"><u>Premium Showdown: Apple iPad Air Nvs Samsung's Galaxy Tab S7+</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x5-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X5.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-thumbnails-top-20-font-selection-tips-for-2024/"><u>YouTube Thumbnails Top 20 Font Selection Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-success-story-turning-budget-into-brands/"><u>[New] 2024 Approved Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-audio-integration-on-reels/"><u>[New] The Ultimate Guide to Audio Integration on Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-vocal-modification-devices-for-digital-creators/"><u>[New] Top Vocal Modification Devices for Digital Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[Updated] 2024 Approved Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-guide-to-the-best-budget-friendly-editors/"><u>[Updated] 2024 Approved Your Guide to the Best Budget-Friendly Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[Updated] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-gold-class-8-unseen-media-extractors/"><u>[Updated] Gold-Class 8 Unseen Media Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-your-media-essential-flv-to-youtube-applications-ranked/"><u>[Updated] In 2024, Direct Your Media Essential Flv-to-YouTube Applications Ranked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-audience-engagement-top-hashtag-strategies-revealed/"><u>[Updated] In 2024, Elevate Audience Engagement Top Hashtag Strategies Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-step-by-step-guide-to-efficient-telegram-web-use/"><u>[Updated] In 2024, Step-By-Step Guide to Efficient Telegram Web Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[Updated] Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-revenue-breakdown-cpm-insights/"><u>[Updated] YouTube Revenue Breakdown CPM Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-key-factors-optimizing-chatgpt-use-in-mental-health-interventions/"><u>6 Key Factors: Optimizing ChatGPT Use in Mental Health Interventions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>In 2024, Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/numbers-in-focus-yearly-yt-trends-and-trivia-2017-for-2024/"><u>Numbers in Focus! Yearly YT Trends & Trivia (2017) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reductions-exclusives-achat-numerique-facile-et-privilegie-chez-macx-mediatrans/"><u>Réductions Exclusives - Achat Numérique Facile Et Privilégié Chez MacX MediaTrans</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-google-pixelbook-go-unveiled-striking-quality-with-a-price-tag-to-match-in-chromebooks/"><u>The Google Pixelbook Go Unveiled: Striking Quality with a Price Tag to Match in Chromebooks</u></a></li>
 </ul></div>
 

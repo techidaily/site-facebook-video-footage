@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Achieving Perfect Reproduction  Tips for Exceptional Sound Capture\""
-date: 2024-08-01T03:11:57.743Z
-updated: 2024-08-02T03:11:57.743Z
+date: 2024-11-10T10:08:18.229Z
+updated: 2024-11-13T14:38:38.336Z
 tags:
   - ai video
   - ai youtube
@@ -43,21 +43,19 @@ Getting the best sound for your recording is not as simplistic as buying an expe
 
 Wondershare Filmora has great recording features that enable you to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam. Just connect the recording device to your computer, and start the recording in Wondershare Filmora and you will get high-quality audio. And you can also easily pick a song from the royalty-free music library on Wondershare Filmora. These audio features on Filmora are rare and very simple to use, you only need to click a few times and your video will have a new sound and background song.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **1\. Silence everything you don’t want your microphone to record**
 
 When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **2\. Put your mobile phone in airplane mode**
 
 Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
@@ -71,8 +69,18 @@ If you are recording yourself talk or sing, make sure to set up your recording s
 Although it might not sound so loud and distracting to the naked ear, wind sounds terribly loud through a microphone recording and can cause your audio to clip (distortion of waveform due to output of sound exceeding maximum capacity or 0 dB point). This includes the “wind” that comes out of your mouth when you pronounce words starting with the letter “p.” Use pop filters, windscreens, and deadcats to block wind from reaching your microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **5\. Upgrade your microphone**
 
 As much as you try to control all the noise in your surroundings, your greatest recording limitation will come from the hardware that you use. Improve your recordings by plugging in an external microphone into your camera’s microphone jack or record audio completely separately with a professional microphone.
@@ -83,32 +91,37 @@ Need help with deciding on a microphone to buy? Check out our recommended list o
 
 Before pressing the record button, see how loudly your microphone picks up the sound you wish to record. Adjust your levels (sensitivity of your microphone) until the sound sits in between -6 dBs and -12dBs. This range gives the source of your sound some room to get louder without the recorded audio getting clipped. When you first listen to audio recorded within this range, it may sound very quiet. No need to worry though because you can increase the volume later in editing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **7\. Start with a sound cue if you’re planning to do some syncing in post**
 
 If you’re recording separate audio that you plan to sync to your video later in editing, start your recording with a short and loud sound cue like a clap or a high pitched “beep” tone. Later, when you’re editing, it’ll be much easier for you to find the section where your video and additional audio match.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **8\. Get close to the sound**
 
 Unless you’re aiming to record ambient sound, bring your microphone close to the source of sound you are wanting to record. The closer your microphone is to the source of sound, the lower your sensitivity setting can be on your microphone. As a result of lowering your levels, sounds you are not meaning to record will also sound fainter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **9\. ADR**
 
 When you need to record a scene in a loud setting where you have very little control over the noise, record additional vocals later and replace the original vocals through a process called automated dialogue replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **10\. Record Ambient Sound**
 
 Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -116,12 +129,26 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[New] In 2024, Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superb-costless-video-rendezvous-games/"><u>[New] In 2024, Superb Costless Video Rendezvous Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-superior-streaming-recorders-for-youtube-vloggers/"><u>[New] Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-critical-game-analysis-from-top-creators/"><u>[Updated] 2024 Approved Critical Game Analysis From Top Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas-for-2024/"><u>[Updated] Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterpiece-maker-top-free-editors-for-android-devices-for-2024/"><u>[Updated] Masterpiece Maker Top Free Editors for Android Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-role-of-timestamps-in-content-longevity-and-popularity/"><u>[Updated] The Role of Timestamps in Content Longevity and Popularity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-fee-audio-understanding-tool/"><u>2024 Approved No-Fee Audio Understanding Tool</u></a></li>
+<li><a href="https://win-net.techidaily.com/aomei-software-per-la-sincronizzazione-inserzioni-di-backup-centralizzate-utilita-difensiva/"><u>AOMEI Software Per La Sincronizzazione Inserzioni Di Backup Centralizzate - Utilità Difensiva</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-deadlocks-fixing-windows-semaphore-expired-error/"><u>Unfreezing Deadlocks: Fixing Windows' 'Semaphore Expired' Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-full-gpu-power-for-call-of-duty-warzone-on-your-pc/"><u>Unlocking Full GPU Power for Call of Duty: Warzone on Your PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-x-creating-stunning-titles-for-your-videos-for-2024/"><u>Updated Final Cut Pro X Creating Stunning Titles for Your Videos for 2024</u></a></li>
+</ul></div>
 

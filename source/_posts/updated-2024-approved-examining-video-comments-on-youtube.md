@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Examining Video Comments on YouTube\""
-date: 2024-08-01T03:10:04.508Z
-updated: 2024-08-02T03:10:04.508Z
+date: 2024-11-06T03:16:35.528Z
+updated: 2024-11-12T16:50:22.024Z
 tags:
   - ai video
   - ai youtube
@@ -31,9 +31,6 @@ Are you trying to search for something on a document or a web page? You know how
 
 So, if you want to search YouTube comments quickly, what can you do? We will show you in this blog.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Using the Built-in YouTube Studio Feature to Search Comments
 
 How does the built-in YouTube Studio Feature make searching comments on YouTube easier?
@@ -60,12 +57,16 @@ Besides the comment search feature, the YouTube Studio also has some in-built se
 
 **Response status:** Filter the comments to which you have responded or haven’t responded to.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  YouTube Studio comment filter](https://images.wondershare.com/filmora/article-images/youtube-studio-comment-filter-search.jpg)
 
 You can combine these additional filters to narrow your comments search for YouTube.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Using YCS – YouTube Comment Search Extension
 
@@ -77,14 +78,8 @@ You can use the YouTube Comment Search browser extension supported by Google Chr
 4. Tap on ‘Load comments’ and wait till the extension loads all the comments on the video.
 5. Now type your keywords, press Enter, and YCS will show all comments having the keyword you typed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![ YouTube Comment Search Extension](https://images.wondershare.com/filmora/article-images/search-comment-from-specific-user-with-ycs-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: Using Comments Search for YouTube Extension
 
 If you are looking for an easy method to search YouTube comments, you can use the Comments Search for YouTube extension. Google Chrome supports this extension that allows you to search comments on YouTube without leaving the website.
@@ -111,14 +106,18 @@ This mode allows you to enter special commands to carry out an advanced search. 
 2. ‘:all’ to see all comments
 3. ‘:creator’ to get comments made by the creator
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How Do You Search Comments You Have Posted on YouTube?
 
 Did you post a comment on your favorite celebrity’s video? Do you think it may be embarrassing and want to delete it now but cannot find it now amidst so many comments? It is where you can make use of YouTube’s Comment History feature.
 
 YouTube has now added this feature which you can see all the comments you ever posted on YouTube in one place.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use the Comment History feature to Search Comments?
 
@@ -130,7 +129,21 @@ You can see all the comments you have posted in the Comment History in a few qui
 
 ![ YouTube History Comment](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can also access the Comments History page directly from[here](https://www.youtube.com/feed/history/comment%5Fhistory).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Find Out Who Posts the Most Comments on Your YouTube Videos?
 
@@ -153,10 +166,6 @@ YouTube is a global platform to share helpful and entertaining videos. The comme
 
 Find feedback or questions. Report offensive comments. If you are a regular YouTube user, use our tips and tricks to search comments quickly and grow your channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -165,12 +174,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-visibility-youtube-thumbnails-made-simple-for-2024/"><u>[New] Enhance Visibility YouTube Thumbnails Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] In 2024, Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-success-pushing-your-video-into-top-charts/"><u>[New] In 2024, Crafting Success Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-notch-ae-extensions-selection/"><u>[New] In 2024, Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-zoom-mastery-for-selfie-success-in-instagram-stories/"><u>[New] Zoom Mastery for Selfie Success in Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-fusion-of-youtube-audio-with-imovie-masterpieces-for-2024/"><u>[Updated] Effortless Fusion of YouTube Audio with iMovie Masterpieces for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-journey-of-a-movie-maker-youtube-tutorials-and-more/"><u>[Updated] Journey of a Movie Maker YouTube Tutorials & More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-your-videos-top-youtube-friendly-cameras/"><u>[Updated] Mastering Your Videos Top YouTube-Friendly Cameras</u></a></li>
+<li><a href="https://win-data.techidaily.com/5q2l6amf5pwz5l2g5aac5l2v5pyj5pwi5zyw5b6e5p2x6iqd56gs55uk56e75qsn5yiw6auy6ycf5bplusr6zad6kiy5oa26auu/"><u>步驟教你如何有效地從東芝硬盤移植到高速快閃記憶體</u></a></li>
+<li><a href="https://fox-links.techidaily.com/breakdown-of-funds-required-for-music-video-shooting-for-2024/"><u>Breakdown of Funds Required for Music Video Shooting for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-beginner-to-pro-transforming-windows-videos-with-minimal-tools-for-2024/"><u>From Beginner to Pro Transforming Windows Videos with Minimal Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-webs-frontier-leading-browsers-for-screen-recording/"><u>In 2024, Web's Frontier Leading Browsers for Screen Recording</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-fixes-addressing-top-youtube-short-challenges-for-2024/"><u>Quick Fixes Addressing Top YouTube Short Challenges for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transforming-your-region-2-discs-to-multi-region-playability/"><u>Step-by-Step Tutorial: Transforming Your Region 2 Discs to Multi-Region Playability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-income-framework-that-supports-tseries-youtube-success-for-2024/"><u>Understanding the Income Framework that Supports TSeries' Youtube Success for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unseen-exthdds-revealed-on-your-mac-platform/"><u>Unseen ExtHDDs Revealed on Your Mac Platform</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Non-Functional HyperX Cloud Headset Mic: A Step-by-Step Guide"
-date: 2024-10-28T03:12:25.788Z
-updated: 2024-11-03T23:10:12.210Z
+date: 2024-11-11T01:21:40.555Z
+updated: 2024-11-13T08:21:11.932Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your default playback device
 
  You’ll have no sound when you set the wrong playback device. You can follow these steps to do a quick check:
@@ -52,21 +45,14 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Check if there’s a**green tick** on your desired playback device. If not, select your device and click**Set Default** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Open Modern Warfare and see if your problem has gone away. If the problem is still there,**repeat step 1** and select your playback device, then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
@@ -75,33 +61,7 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
 5. Launch Modern Warfare and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t give you any luck, please continue to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows audio troubleshooter
 
@@ -111,25 +71,25 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings.jpg)
 2. Click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-2.jpg)
 3. Select**Playing Audio** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-3.jpg)
 4. Follow the on-screen instructions to troubleshoot your audio issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After running the troubleshooter, you can join a game and see how things go.
 
@@ -150,10 +110,10 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -181,9 +141,23 @@ You can now open Modern Warfare and check the in-game audio.
 
  If this method doesn’t work for you, simply move on to the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Close conflicting software
 
  Some players reported that they managed to get the sound back by closing programs that have audio output. You can try this method by closing apps such as**Discord** ,**Skype** and**Chrome** , as they might affect the in-game audio.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Change your audio channel
 
@@ -204,7 +178,21 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -225,20 +213,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-of-breed-top-rated-youtubers-streaming-arsenal-for-2024/"><u>[New] Best of Breed Top-Rated Youtuber's Streaming Arsenal for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-customize-your-youtube-experience-with-altered-pace-for-2024/"><u>[New] Customize Your YouTube Experience with Altered Pace for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-discover-the-pathway-to-photo-mosaic-brilliance-for-2024/"><u>[New] Discover the Pathway to Photo Mosaic Brilliance for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-icicle-illusions-winter-games-showcase/"><u>[New] Icicle Illusions Winter Games Showcase</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-channel-appeal-with-free-professional-banner-designs-for-2024/"><u>[Updated] Enhance Channel Appeal with Free, Professional Banner Designs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-first-steps-in-filmmaking-essentials-for-new-youtube-talents/"><u>[Updated] First Steps in Filmmaking Essentials for New YouTube Talents</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[Updated] From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-backward-in-time-reversing-youtube-media/"><u>[Updated] Step Backward in Time Reversing YouTube Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[Updated] Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-video-capture-perfection-achieving-silence-success/"><u>[Updated] Video Capture Perfection Achieving Silence Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-windows-8-podcast-apps-reviewed/"><u>2024 Approved Leading Windows 8 Podcast Apps Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-shift-pictures-from-ios-devices-to-laptopspcs-discover-11-alternative-methods-avoiding-itunes/"><u>How to Seamlessly Shift Pictures From iOS Devices to Laptops/PCs - Discover 11 Alternative Methods Avoiding iTunes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726225354374-movavi-youtube/"><u>Movavi의 인사이트가 있는 YouTube 비디오 수정을 위한 가장 좋은 방법</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-fun-car-games-also-for-kids/"><u>[New] Best Fun Car Games [Also for Kids ]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[New] Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-which-channel-pulls-more-money-dailymotion-versus-youtube-monetization/"><u>[New] In 2024, Which Channel Pulls More Money? Dailymotion Versus YouTube Monetization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-youtube-brand-creation-best-names-for-vloggers-and-filmmakers-limit-to-156-characters/"><u>[New] Mastering the Art of YouTube Brand Creation Best Names for Vloggers & Filmmakers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>[New] Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dynamics-in-design-illustrating-motion-in-photos-for-2024/"><u>[Updated] Dynamics in Design Illustrating Motion in Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-17-best-lights-and-lighting-equipment-for-youtube-videos/"><u>[Updated] In 2024, 17 Best Lights and Lighting Equipment for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>[Updated] In 2024, Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionize-your-videos-here-are-the-top-8-free-cutting-suites/"><u>[Updated] Revolutionize Your Videos - Here Are the Top 8 Free Cutting Suites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-to-solve-off-screen-problems-on-youtube/"><u>[Updated] Strategies to Solve Off-Screen Problems on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>[Updated] Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-obtain-and-install-gigabyte-ethernet-drivers/"><u>Easy Guide: How to Obtain and Install Gigabyte Ethernet Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/free-audible-audiobooks-a-comprehensive-guide-to-downloading-without-cost/"><u>Free Audible Audiobooks: A Comprehensive Guide to Downloading Without Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-make-a-photomontage-for-2024/"><u>How to Make a PhotoMontage for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-shorts-thumbnail-woes-a-quick-guide-to-solutions/"><u>In 2024, YouTube Shorts Thumbnail Woes A Quick Guide to Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-value-in-cutting-edge-vr-tech/"><u>The Best Value in Cutting-Edge VR Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
 
