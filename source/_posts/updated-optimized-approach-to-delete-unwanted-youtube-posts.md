@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimized Approach to Delete Unwanted YouTube Posts"
-date: 2024-11-08T22:05:19.148Z
-updated: 2024-11-14T07:52:14.340Z
+date: 2024-11-20T16:13:09.953Z
+updated: 2024-11-23T20:25:27.087Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,10 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Delete YouTube Comments from Desktop?
 
 In this section, we will tell you how you can do it from your desktop.
@@ -56,6 +60,10 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 3. Select the video from where you want to delete a comment. Scroll down to reach the desired comment.
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from YouTube?
 
@@ -84,10 +92,7 @@ If it is your video where the comment to be removed is, you can go to My Channel
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
@@ -111,10 +116,7 @@ To find your History from your desktop, you need to click on the three horizonta
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -130,25 +132,15 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final Thoughts
 
@@ -171,24 +163,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-androidiphones-ultimate-arvr-game-list-for-2024/"><u>[New] Android/iPhone's Ultimate AR/VR Game List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-youtube-content-via-finalcut-pro-techniques-for-2024/"><u>[New] Enhancing YouTube Content via FinalCut Pro Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-swift-strategies-randomize-your-video-playlist-quickly/"><u>[New] Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-10-step-plan-thriving-in-social-media-management/"><u>[New] The Ultimate 10-Step Plan Thriving in Social Media Management</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-three-methods-to-capture-youtube-images-for-macwindows-users/"><u>[New] Three Methods to Capture YouTube Images for Mac/Windows Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-yield-your-content-mastering-youtube-ads-for-earnings/"><u>[New] Yield Your Content Mastering YouTube Ads for Earnings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-thumbnails-for-youtube-for-2024/"><u>[Updated] Creating Captivating Thumbnails for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr-for-2024/"><u>[Updated] How to Create Stunning IGTV Video Footage Using Smartphones and DSLR for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[Updated] In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-windows-10-video-grabber-ultimate/"><u>[Updated] In 2024, Windows 10 Video Grabber Ultimate</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[Updated] Listeners' Crossroads Podcasts versus YouTube for Your Favorite Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-the-pathway-of-imovie-content-to-youtube/"><u>[Updated] Perfecting the Pathway of iMovie Content to YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-silent-youtube-browsing-for-iphones-and-androids/"><u>[Updated] Silent YouTube Browsing for iPhones and Androids</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-adjust-youtube-video-speeds-on-the-fly/"><u>[Updated] Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-recording-on-ios-devices-for-2024/"><u>Best Practices Recording on iOS Devices for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-past-graphic-errors-in-fifa-20-a-comprehensive-guide-to-fixing-directx-hitches/"><u>Navigate Past Graphic Errors in FIFA 20 - A Comprehensive Guide to Fixing DirectX Hitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-fixing-audio-hardware-problems-for-windows-10-and-11-users/"><u>Overcoming the Challenge: Fixing Audio Hardware Problems for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-with-epson-xp-330-driver-download-for-smooth-printing-experience/"><u>Quick Start with Epson XP-330 Driver Download for Smooth Printing Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-exploring-the-world-of-mycams-home-based-recording-technology/"><u>[New] 2024 Approved Exploring the World of MyCam's Home-Based Recording Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[New] In 2024, Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exclusive-list-of-premium-online-and-desktop-gif-makers/"><u>[New] In 2024, Exclusive List of Premium Online & Desktop GIF Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-text-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[New] Text Gymnastics Ingenious Techniques for Animated Bounces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>[Updated] 2024 Approved Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[Updated] In 2024, Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-classic-cinematography-step-by-step-guide/"><u>[Updated] In 2024, Crafting Classic Cinematography Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-magic-transforming-still-images-to-video-with-pixiz/"><u>[Updated] Pixel Magic Transforming Still Images to Video with Pixiz</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-power-of-precision-crafting-effective-video-titles/"><u>[Updated] The Power of Precision Crafting Effective Video Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visionedit-ace/"><u>[Updated] VisionEdit Ace</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>In 2024, Determining Frame Rates Master Choice Between 30Fps and 60Fps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlights-of-snowboard-cross-olympics-2022/"><u>In 2024, Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/premium-vimeo-file-extractors-for-2024/"><u>Premium Vimeo File Extractors for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-final-fantasy-xiv-version-verification/"><u>Trouble with Final Fantasy XIV Version Verification</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-starting-dragons-dogma-2-heres-how-to-fix-it/"><u>Trouble with Starting Dragon's Dogma 2? Here's How to Fix It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-switching-fonts-on-windows-11-easily/"><u>Ultimate Guide: Switching Fonts on Windows 11 Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024"
-date: 2024-10-29T06:07:14.805Z
-updated: 2024-11-03T21:29:50.885Z
+date: 2024-11-21T04:15:50.486Z
+updated: 2024-11-23T23:20:41.681Z
 tags:
   - ai video
   - ai youtube
@@ -34,6 +34,10 @@ On the main dashboard of the Creator Studio, you will see a menu that includes y
 
 Also on the dashboard, you can see analytics for the most successful videos that you have posted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adjusting the Dashboard
 
 Pinning new charts to the dashboard will ensure that all of the data you need most often is easily viewable upon first entering the Creator Studio. All you need to do to add new widgets to the dashboard sidebar is to use the **add widget** feature.
@@ -41,10 +45,7 @@ Pinning new charts to the dashboard will ensure that all of the data you need mo
 Making adjustments to your current widgets simply involves clicking on the gear icon in the top right corner to add custom tiles as well as rearrange the order of the various widgets that you have selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## YouTube Creator Studio Tools
@@ -62,16 +63,7 @@ How many times a week do you check your stats in the YouTube Creator Studio?
 ---
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit YouTube Videos with Filmora
@@ -81,19 +73,13 @@ As one of the most versatile video editing software, Filmora offers various type
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -111,22 +97,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-advanced-techniques-for-youtube-shorts-and-mp4-exportation/"><u>[New] 2024 Approved Advanced Techniques for YouTube Shorts and Mp4 Exportation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-video-to-youtube-specifications/"><u>[New] 2024 Approved Enhance Your Video to YouTube Specifications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-leading-hd-video-capture-technology/"><u>[New] 2024 Approved Leading HD Video Capture Technology</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-down-the-monetization-barriers-for-2024/"><u>[New] Breaking Down the Monetization Barriers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-corrected-non-existence-of-shorts-on-feeds-for-2024/"><u>[New] Corrected Non-Existence of Shorts on Feeds for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[New] In 2024, DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-the-power-of-optimization-5-secrets-to-skyrocket-your-audience/"><u>[New] Unleash the Power of Optimization 5 Secrets to Skyrocket Your Audience</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-architecting-a-stellar-tiktok-closing-segment/"><u>[Updated] Architecting a Stellar TikTok Closing Segment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ephemeral-clip-creator-for-2024/"><u>[Updated] Ephemeral Clip Creator for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-snap-camera-on-zoom-for-2024/"><u>[Updated] How to Use Snap Camera on Zoom for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools/"><u>[Updated] In 2024, Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-missing-mscorwksdll-message-on-your-pc-step-by-step-instructions/"><u>Fix the 'Missing mscorwks.dll' Message on Your PC – Step-by-Step Instructions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-securing-an-appointment-at-apples-authorized-service-providers-for-iphone-hardware-check/"><u>Guide: Securing an Appointment at Apple's Authorized Service Providers for iPhone Hardware Check</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/instantaneous-window-imaging-technique-for-2024/"><u>Instantaneous Window Imaging Technique for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-forces-in-mc-adventures-5-social-gaming-strategies/"><u>Joining Forces in MC Adventures: 5 Social Gaming Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers-for-2024/"><u>The Quintessential List of Top-Tier Gaming Cams for Live Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[New] 2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] 2024 Approved The Pinnacle of New Zooids in Panzoids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieve-professional-aesthetics-embedding-watermarks-and-branding-in-videos-for-2024/"><u>[New] Achieve Professional Aesthetics Embedding Watermarks & Branding in Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-battle-for-ephemeral-content-youtube-shorts-versus-tiktok/"><u>[New] The Ultimate Battle for Ephemeral Content YouTube Shorts Versus TikTok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exclusive-insights-into-windows-superior-video-players/"><u>[Updated] Exclusive Insights Into Window's Superior Video Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fix-noted-shorts-now-shown-prominently/"><u>[Updated] Fix Noted Shorts Now Shown Prominently</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[Updated] How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insider-look-at-youtube-revenue-policies/"><u>[Updated] Insider Look at YouTube Revenue Policies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-video-potential-leading-youtube-seo-tools/"><u>[Updated] Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/2-effektive-methods-zum-sicherstellen-ihrer-windows-10-installation-auf-dvd/"><u>2 Effektive Methods Zum Sicherstellen Ihrer Windows 10-Installation Auf DVD</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-trailblazers-the-trending-threads-showdown/"><u>2024 Approved Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-excel-users-with-smart-ai-applications-of-chatgpt/"><u>Empowering Excel Users with Smart AI Applications of ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-gaming-a-step-by-step-guide-to-overcoming-roblox-startup-problems/"><u>Get Back to Gaming: A Step-by-Step Guide to Overcoming Roblox Startup Problems</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-photo-collage-using-iphoto-for-2024/"><u>How to Make a Photo Collage Using iPhoto for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-zte-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our ZTE Phone Screen?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/max-tv-highlights-must-watch-programming-today/"><u>Max TV Highlights: Must-Watch Programming Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210766601-9788293725398-original-resistance/"><u>Original Resistance | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-your-creativity-with-youtubes-green-screens-for-2024/"><u>Unleash Your Creativity with YouTube's Green Screens for 2024</u></a></li>
 </ul></div>
 

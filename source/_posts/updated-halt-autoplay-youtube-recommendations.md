@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Halt Autoplay YouTube Recommendations"
-date: 2024-11-05T23:09:29.245Z
-updated: 2024-11-13T11:00:46.831Z
+date: 2024-11-22T19:14:44.623Z
+updated: 2024-11-24T02:17:05.810Z
 tags:
   - ai video
   - ai youtube
@@ -38,9 +38,17 @@ Here’s what you can do about it:
 2. [**Tell YouTube You Aren’t Interested**](#notinterested)
 3. [**But Why Does It Recommend Stuff I Don’t Like?**](#butwhy)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manage Your Watch History
 
 ![Manage Watch History](https://images.wondershare.com/filmora/article-images/manage-watch-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Scroll to the bottom of any page on YouTube and you will see a button marked **History** with an hourglass icon. To access this feature using a mobile device, go to the **Account** tab and tap **History**.
 
@@ -48,23 +56,9 @@ You will be able to completely clear your watch history, remove specific videos 
 
 If you are being recommended more things you aren’t interested in than things you are, you might want to clear your history completely and start fresh. Maybe your tastes have changed since YouTube started keeping track of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tell YouTube You Aren’t Interested
 
 ![Tell YouTube Not Interested](https://images.wondershare.com/filmora/article-images/tell-youtube-not-interested.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Based on your watch history, YouTube knows what you like. However, they have no way of automatically collecting data on what kinds of videos you’d rather not see.
 
@@ -73,6 +67,10 @@ What they do have is a system for you to flag recommendations you don’t like.
 Hover over the thumbnail of a video you don’t want to be recommended to you and a small icon that looks like three stacked dots will appear next to the title. Click on that, and then click **Not Interested**.
 
 When you tell YouTube you aren’t interested in certain videos they use that data to adjust what they recommend for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But Why Does It Recommend Stuff I Don’t Like?
 
@@ -87,10 +85,7 @@ The only way to stop certain types of videos from being recommended for you is t
  Are you usually happy with YouTube's recommended videos?
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What video editing software did YouTube suggested videos are used?
@@ -100,10 +95,7 @@ The only way to stop certain types of videos from being recommended for you is t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -121,24 +113,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox/"><u>[New] In 2024, Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>[New] Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beginners-obs-techniques-for-youtube-live-streaming/"><u>[Updated] 2024 Approved Beginner's OBS Techniques for YouTube Live Streaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ecological-architecture-merging-nature-and-city-planning/"><u>[Updated] 2024 Approved Ecological Architecture Merging Nature and City Planning</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-step-by-step-approach-to-screening-on-switch-for-2024/"><u>[Updated] A Step-by-Step Approach to Screening on Switch for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-adding-descriptive-tags-to-your-images-on-pcs-and-macs/"><u>[Updated] Adding Descriptive Tags to Your Images on PCs and Macs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>[Updated] Navigating Best Options Expert Picks From Top 9 Free Logomakers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-15-virtual-classrooms-for-aspiring-scientists/"><u>[Updated] Top 15 Virtual Classrooms for Aspiring Scientists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-vanishing-act-cutting-duration-on-youtube/"><u>[Updated] Video Vanishing Act Cutting Duration on YouTube</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728502140953-pcpc/"><u>「移動時にノートPCとデスクトップPCの情報を同期する方法」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-to-use-travel-wizards-the-compilation-of-top-7-planning-apps/"><u>Free-to-Use Travel Wizards - The Compilation of Top 7 Planning Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-remove-stickers-from-a-tiktok-video/"><u>How To Remove Stickers From A Tiktok Video</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visionary-video-planning-using-the-power-of-google-trends/"><u>In 2024, Visionary Video Planning Using the Power of Google Trends</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>In 2024, Warmth Amidst Cold Selecting Perfect Winter Backdrops</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-poco-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Poco X6 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pioneer-productions-leading-free-editors-on-android-for-2024/"><u>Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quality-streaming-balancing-webcam-and-gaming-recordings/"><u>Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/swift-guide-eliminating-images-backdrops-with-affinity-photo-for-2024/"><u>Swift Guide Eliminating Images' Backdrops with Affinity Photo for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-8-essential-tools-for-your-youtube-to-avi-needs-for-2024/"><u>[New] 8 Essential Tools for Your YouTube-to-AVI Needs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[New] In 2024, Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-angled-artistry-elevating-youtube-video-editing-skills-for-2024/"><u>[Updated] Angled Artistry Elevating YouTube Video Editing Skills for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[Updated] In 2024, Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-qui-ont-been-deleted-using-ccleaner/"><u>Comment Pouvez-Vous Récupérer Des Fichiers Qui Ont Been Deleted Using CCleaner?</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-code-6-issue-in-dive-into-call-of-duty-modern-warfare-and-battlefield/"><u>Fixing Code 6 Issue in Dive Into Call of Duty: Modern Warfare & Battlefield</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optional-12-cup-grated-parmesan-cheese/"><u>Optional: 1/2 Cup Grated Parmesan Cheese</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionary-top-8-methods-convert-subtitles-to-srt-format-seamlessly-for-2024/"><u>Revolutionary Top 8 Methods Convert Subtitles to SRT Format Seamlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-leverage-youtubes-cc-licensing-for-2024/"><u>Strategies to Leverage YouTube's CC Licensing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

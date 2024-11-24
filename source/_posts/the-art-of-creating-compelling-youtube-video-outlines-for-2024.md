@@ -1,7 +1,7 @@
 ---
 title: "The Art of Creating Compelling YouTube Video Outlines for 2024"
-date: 2024-08-01T03:00:21.233Z
-updated: 2024-08-02T03:00:21.233Z
+date: 2024-11-22T00:41:31.080Z
+updated: 2024-11-23T16:10:00.302Z
 tags:
   - ai video
   - ai youtube
@@ -40,20 +40,16 @@ You have a great idea for a video, but you’re just not sure how to express it 
 Here are some things to do before you start writing your script for YouTube:
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Collect Ideas
 
 Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find an area that is not distracting
 
@@ -63,6 +59,10 @@ Once you have gathered enough ideas for the YouTube video, the next step is to f
 
 Now that you're ready to sit down and write, here's what you do:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Create an outline for your story
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
@@ -71,16 +71,10 @@ The first step in writing a script is to develop an outline for the story. You m
 
 The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Just keep writing
 
 When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Make sure that the script is well structured
 
 It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
@@ -104,25 +98,24 @@ While you are scripting and focusing on the information you want to deliver, it�
 Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## After Writing your YouTube Video Script
 
 After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
 
 These are the tips to keep in mind when considering how to write a script for a YouTube video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Add Subtitles to Your YouTube Video with Wondershare Filmora
 
 Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -132,12 +125,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-winning-collaboration-plans-on-youtube/"><u>[New] In 2024, Crafting Winning Collaboration Plans on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-zoom-techniques-for-chromebook-proficiency/"><u>[New] In 2024, Essential Zoom Techniques for Chromebook Proficiency</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-9-free-youtube-logo-makers/"><u>[New] Top 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>[New] Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-how-to-add-logowatermark-to-youtube-video/"><u>[Updated] 2024 Approved How to Add Logo/Watermark to YouTube Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-winning-strategy-youtube-keyword-mastery-explained-for-2024/"><u>[Updated] Crafting a Winning Strategy YouTube Keyword Mastery Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-youtubes-seo-a-keyword-research-guide/"><u>[Updated] In 2024, Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-inspirational-insta-captions-to-elevate-your-social-presence/"><u>[Updated] In 2024, Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-reversed-color-photography/"><u>[Updated] Mastering the Art of Reversed Color Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-6-hidden-sources-for-custom-youtube-symbols/"><u>[Updated] Unlocking 6 Hidden Sources for Custom YouTube Symbols</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-top-tools-studio-vs-latest-beta-features/"><u>[Updated] YouTube's Top Tools Studio Vs. Latest Beta Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1-general-trivia-challenge-web-series-for-2024/"><u>1 General Trivia Challenge Web Series for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-hashtag-hype-unveiling-twitters-toptiktok-videos/"><u>In 2024, Hashtag Hype Unveiling Twitter's #TopTikTok Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>In 2024, YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
+<li><a href="https://article-helps.techidaily.com/must-have-add-ons-for-your-gopro-adventure-for-2024/"><u>Must-Have Add-Ons for Your GoPro Adventure for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/public-post-perusal-on-instagram-a-no-account-approach-for-browsing/"><u>Public Post Perusal on Instagram: A No-Account Approach for Browsing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-video-content-with-dynamic-unboxing-for-2024/"><u>Revolutionize Video Content with Dynamic Unboxing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-windows-10-search-issues-effective-solutions-and-tricks/"><u>Solving Windows 10 Search Issues: Effective Solutions and Tricks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-take-a-screenshot-share-the-fun-a-guide-to-ps4-online-sharing/"><u>Updated In 2024, Take a Screenshot, Share the Fun A Guide to PS4 Online Sharing</u></a></li>
+</ul></div>
 

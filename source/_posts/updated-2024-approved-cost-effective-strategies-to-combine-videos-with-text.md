@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Cost-Effective Strategies to Combine Videos with Text\""
-date: 2024-11-01T11:10:08.133Z
-updated: 2024-11-04T09:54:50.892Z
+date: 2024-11-19T18:11:21.430Z
+updated: 2024-11-24T03:37:10.471Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,10 @@ Head over to the Insert tab, select Rectangle from the Shapes menu, and create a
 
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
@@ -50,19 +54,6 @@ Click on the Insert tab, and then choose the Video option from the Media menu. Y
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
@@ -70,25 +61,23 @@ Besides presentation software, you can also use video editing software products 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
@@ -96,6 +85,10 @@ Proceed to select a font and adjust the text size before deciding if you want to
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -108,13 +101,6 @@ There are so many different ways to create visually striking content, and adding
 Merging text with video is equally easy in PowerPoint and Filmora, so you just have to choose which software better suits your needs and select the materials that fit the style of your project. Learning how to add a video to text won’t take too much of your time, as this process can be completed in just a few quick steps. Which software are you using to add a video to text? Leave a comment below and let us know.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -131,16 +117,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>[New] 2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-command-center-redefined-your-pathway-through-studio/"><u>[New] 2024 Approved Command Center Redefined Your Pathway Through Studio</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[New] 2024 Approved How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-exclusive-top-8-gear-in-the-vr-sphere/"><u>[New] In 2024, Exclusive Top 8 Gear in the VR Sphere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration-for-2024/"><u>[New] Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quantum-leap-in-photography-understanding-hdr/"><u>[Updated] 2024 Approved Quantum Leap in Photography Understanding HDR</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seamlessly-connect-your-youtube-and-tiktok-accounts/"><u>[Updated] Seamlessly Connect Your YouTube and TikTok Accounts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2039176-9781782793373-angel-healing-alchemy-how-to-begin/"><u>Angel Healing & Alchemy – How To Begin | Free Book</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-essential-social-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: Essential Social Networking Sites - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/starting-off-right-must-haves-for-youtube-enthusiasts-for-2024/"><u>Starting Off Right Must-Haves for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tailor-made-melodies-your-roadmap-for-playlists-for-2024/"><u>Tailor-Made Melodies Your Roadmap for Playlists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-storytelling-free-soundtrack-options-available/"><u>[New] 2024 Approved Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-picks-top-9-video-chat-and-conference-apps-iosandroid/"><u>[New] 2024 Approved Expert Picks Top 9 Video Chat & Conference Apps iOS/Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-affordable-gaming-wonders-keyboards-under-100-reviewed/"><u>[Updated] 2024 Approved Affordable Gaming Wonders Keyboards Under $100 Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-prime-asmr-software-options-for-2024/"><u>[Updated] Android & iOS Prime ASMR Software Options for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-diving-into-drones-syma-x5c-review-beginners-dream-uav/"><u>[Updated] Diving Into Drones? Syma X5C Review Beginner's Dream UAV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-unlock-your-potential-50-free-high-impact-banners-at-your-disposal/"><u>2024 Approved Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-13c-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-spotting-unique-audience-groups/"><u>In 2024, Youtube Mastery Spotting Unique Audience Groups</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/manual-paso-a-paso-para-instalar-y-usar-el-programa-winxdvd/"><u>Manual Paso a Paso Para Instalar Y Usar El Programa WinXDVD</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies-for-2024/"><u>The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies for 2024</u></a></li>
 </ul></div>
 

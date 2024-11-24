@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2024-11-11T23:58:52.347Z
-updated: 2024-11-13T19:55:36.633Z
+date: 2024-11-17T02:28:04.801Z
+updated: 2024-11-23T22:05:28.428Z
 tags:
   - win11
   - win10
@@ -33,10 +33,7 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -55,10 +52,18 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
 
@@ -69,13 +74,6 @@ Restart your computer for the changes to take effect.
 3. Scroll down to**HUD** . Change Mini Map Shape into**Square** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -88,22 +86,8 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
@@ -115,9 +99,17 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -130,13 +122,6 @@ No luck with this fix? Try the next one.
 5. Restart your PC and relaunch the game.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the old driver
 
@@ -152,15 +137,12 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
 9. Double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -185,24 +167,24 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhance-your-gaming-sims-4-on-camera-techniques/"><u>[New] 2024 Approved Enhance Your Gaming Sims 4 on Camera Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-channel-changing-ideas-inspiring-videos-to-enhance-creativity-for-2024/"><u>[New] Channel-Changing Ideas Inspiring Videos to Enhance Creativity for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat-for-2024/"><u>[New] Guide to Overcoming Mobile Video Sending Problems in FB Chat for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enhancing-your-syma-x8c-experience/"><u>[New] In 2024, Enhancing Your Syma X8C Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-taking-control-your-comprehensive-yt-studio-manual/"><u>[New] Taking Control Your Comprehensive YT Studio Manual</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-how-to-download-youtube-videos-without-any-software/"><u>[Updated] 2024 Approved How to Download YouTube Videos without Any Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base-for-2024/"><u>[Updated] Channel Branding Mastery Securing a Loyal YouTube Subscriber Base for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-the-world-of-youtuber-shorts-for-2024/"><u>[Updated] Dive Into the World of Youtuber Shorts for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[Updated] From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-novices-introduction-to-av1-codec/"><u>[Updated] In 2024, A Novice's Introduction to AV1 Codec</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>[Updated] Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-stop-screen-blackouts-with-obs-game-recordings/"><u>[Updated] Stop Screen Blackouts with OBS Game Recordings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>[Updated] The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-decibel-upgraders-for-every-os/"><u>[Updated] Top 10 Decibel Upgraders for Every OS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-x50-gt-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor X50 GT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-av1-with-ffmpeg-simplified-steps-for-audiovideo-conversion/"><u>Mastering AV1 with FFmpeg: Simplified Steps for Audio/Video Conversion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/start-saving-youtube-videos-as-screen-captures-today-completely-free-for-2024/"><u>Start Saving YouTube Videos as Screen Captures Today - Completely Free for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unseen-youtube-videos-the-meaning-of-unlisted-status-for-2024/"><u>Unseen YouTube Videos The Meaning of 'Unlisted' Status for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-initiate-twitter-journey-joining-the-network/"><u>[New] 2024 Approved Initiate Twitter Journey Joining the Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unbeatable-11-audio-devices-reviewed-here/"><u>[New] 2024 Approved Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-in-youtube-keyword-selection-for-2024/"><u>[New] Best Practices in YouTube Keyword Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-success-story-optimal-themes-and-ideas-to-boost-content-for-2024/"><u>[New] Channel Success Story Optimal Themes and Ideas to Boost Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>[New] Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>[New] In 2024, Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>[New] Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>[New] Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-maximize-views-download-youtube-artwork-for-free/"><u>[Updated] In 2024, Maximize Views Download YouTube Artwork for Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-thumbnail-tips-for-mac-users-youtube/"><u>[Updated] Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-upgrade-your-youtube-bio-with-pro-templates/"><u>[Updated] Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-wanderlust-wonders-crafting-engaging-travel-content-for-your-audience/"><u>[Updated] Wanderlust Wonders Crafting Engaging Travel Content for Your Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-look-at-mac-preview-software/"><u>2024 Approved The Insider's Look at Mac Preview Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-where-to-find/"><u>2024 Approved Where to Find</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-next-level-entertainment-with-hitachi-ultra-hd-smart-tvs-featuring-roku-streaming/"><u>Experience Next-Level Entertainment with Hitachi Ultra HD Smart TVs Featuring Roku Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>In 2024, Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-the-process-of-soft-ending-an-audio-track/"><u>New Mastering the Process of Soft-Ending an Audio Track</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prime-mc-house-designs-for-communities-for-2024/"><u>Prime MC House Designs for Communities for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-commands-define-wins-cli/"><u>Streamlining Your Commands: Define Win's CLI</u></a></li>
 </ul></div>
 

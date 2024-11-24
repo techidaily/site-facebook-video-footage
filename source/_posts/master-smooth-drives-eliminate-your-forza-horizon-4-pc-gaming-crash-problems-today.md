@@ -1,7 +1,7 @@
 ---
 title: "Master Smooth Drives: Eliminate Your Forza Horizon 4 PC Gaming Crash Problems Today"
-date: 2024-11-08T02:30:18.024Z
-updated: 2024-11-13T19:18:56.218Z
+date: 2024-11-23T00:20:52.330Z
+updated: 2024-11-23T17:42:32.649Z
 tags:
   - win11
   - win10
@@ -57,24 +57,25 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
@@ -104,6 +105,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -117,11 +122,23 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -129,28 +146,18 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
@@ -160,20 +167,10 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
@@ -197,13 +194,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -216,10 +206,7 @@ Here are the system requirements for Control:
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
@@ -238,6 +225,10 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -255,13 +246,6 @@ Here are the system requirements for Control:
 1. On your desktop,**right-click** on the shortcut of Control, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
@@ -294,24 +278,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-compre-written-by-dr-john-smith-phd-in-environmental-science/"><u>[New] 2024 Approved A Compre Written By Dr. John Smith, PhD in Environmental Science</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>[New] In 2024, Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[New] In 2024, Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-youtube-video-screens-without-barriers/"><u>[New] In 2024, Enhancing YouTube Video Screens Without Barriers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-your-guide-to-studio-lights-and-equipment-17/"><u>[New] In 2024, Your Guide to Studio Lights & Equipment (#17)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tales-before-twilight-a-review-of-video-driven-narratives/"><u>[New] Tales Before Twilight A Review of Video-Driven Narratives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] Expert's Choice Top 8 Proven Video Marketing Actions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>[Updated] In 2024, 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-virality-on-youtube-essential-steps-demystified/"><u>[Updated] In 2024, Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>[Updated] In 2024, Exclusive Offer 20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-path-to-profitable-videography-starting-strong/"><u>[Updated] The Path to Profitable Videography Starting Strong</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo Reno 10 Pro+ 5G.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-film-previews-unveiled/"><u>In 2024, Top Film Previews Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-image-integration-made-simple-for-2024/"><u>Instagram Image Integration Made Simple for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/navigating-through-the-best-8-voice-interpretation-programs-across-different-os-platforms/"><u>Navigating Through the Best 8 Voice Interpretation Programs Across Different OS Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-youtube-closures-a-comprehensive-guide-to-crafting-effective-end-screens-and-cards-for-2024/"><u>Optimizing YouTube Closures A Comprehensive Guide to Crafting Effective End Screens and Cards for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-crafting-youtube-content-expert-tips-with-imovie-integration-for-2024/"><u>The Art of Crafting YouTube Content Expert Tips with iMovie Integration for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-7-applicazioni-per-la-registrazione-dello-screenshot-su-pc-con-sistema-operativo-windows-7/"><u>Top 7 Applicazioni per La Registrazione Dello Screenshot Su PC Con Sistema Operativo Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-building-your-perfect-vinyl-record-system-top-turntables-and-audio-equipment-recommendations-zdnet/"><u>Ultimate Guide to Building Your Perfect Vinyl Record System: Top Turntables & Audio Equipment Recommendations | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-combining-youtube-videos-for-seamless-playback-for-2024/"><u>[New] Combining YouTube Videos for Seamless Playback for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>[New] Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unleashing-humor-kinemaster-for-memes/"><u>[New] In 2024, Unleashing Humor KineMaster for Memes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-subscriber-success-youtubes-best-practices/"><u>[New] Unlocking Subscriber Success YouTube's Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts/"><u>[Updated] 2024 Approved Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>[Updated] From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>[Updated] In 2024, Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-club-anthems-expertly-curated-dj-vids-downloads/"><u>[Updated] In 2024, Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-five-best-free-fb-video-downloader-hacks/"><u>[Updated] In 2024, Five Best Free FB Video Downloader Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-the-top-10-making-magic-on-youtube/"><u>[Updated] Navigating Through the Top 10 Making Magic on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-top-online-tools-for-ytvideo-to-text-translation/"><u>2024 Approved Ultimate Guide Top Online Tools for YTVideo to Text Translation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-speech-clarity-chromebooks-best-voice-modification-extensions-for-2024/"><u>Elevate Speech Clarity Chromebook's Best Voice Modification Extensions for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-closed-down-calendar-and-mail-on-w11/"><u>Navigating Closed-Down Calendar and Mail on W11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-viewer-engagement-and-loyalty-6-proven-strategies-for-youtube-success-for-2024/"><u>The Ultimate Guide to Viewer Engagement and Loyalty 6 Proven Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-picks-a-curated-list-of-the-12-most-innovative-and-ideal-gifts-for-tech-savvy-enthusiasts-hackers/"><u>ZDNet Picks: A Curated List of the 12 Most Innovative and Ideal Gifts for Tech-Savvy Enthusiasts (Hackers)</u></a></li>
 </ul></div>
 

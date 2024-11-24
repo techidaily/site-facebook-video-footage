@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Budget-Friendly Methods for YouTube Card Creation\""
-date: 2024-08-01T02:54:20.562Z
-updated: 2024-08-02T02:54:20.562Z
+date: 2024-11-16T20:32:33.148Z
+updated: 2024-11-23T17:56:34.334Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -44,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -72,10 +70,11 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
 2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
@@ -87,8 +86,9 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -122,10 +122,11 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -133,12 +134,28 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure/"><u>[New] 2024 Approved Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>[New] In 2024, Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-video-gear-for-youtube-starters/"><u>[New] In 2024, Essential Video Gear for YouTube Starters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-sites-with-public-domain-game-soundtracks-for-2024/"><u>[Updated] Best Sites with Public Domain Game Soundtracks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-deep-dive-into-the-top-9-youtube-downloader-apps-for-android/"><u>[Updated] In 2024, A Deep Dive Into the Top 9 YouTube Downloader Apps for Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-your-youtube-stream-with-wirecast/"><u>[Updated] Optimizing Your YouTube Stream with WireCast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-new-era-youtube-hits-past-vidcon/"><u>[Updated] Unveiling New Era YouTube Hits Past VidCon</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-your-m-audio-fast-track-drivers-here-for-windows-11-7-8-and-81-users/"><u>Download Your M-Audio Fast Track Drivers Here for Windows 11, 7, 8 & 8.1 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-address-and-resolve-issues-with-the-ralink-rt3290-driver-on-various-windows-versions-vista7810/"><u>How to Address and Resolve Issues with the Ralink RT3290 Driver on Various Windows Versions (Vista/7/8/10)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-7-plus-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 7 Plus iCloud Bypass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-21-essential-educational-tech-gadgets-and-apps-for-modern-instructors/"><u>Top 21 Essential Educational Tech Gadgets & Apps for Modern Instructors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-7-video-enhancement-cameras-to-skyrocket-your-blogging-for-2024/"><u>Top 7 Video Enhancement Cameras To Skyrocket Your Blogging for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/transfer-videos-to-dvd-discs-on-windows-and-mac-computers-for-2024/"><u>Transfer Videos to DVD Discs on Windows and Mac Computers for 2024</u></a></li>
+</ul></div>
 

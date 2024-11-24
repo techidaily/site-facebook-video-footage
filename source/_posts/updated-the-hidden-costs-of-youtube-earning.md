@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Hidden Costs of YouTube Earning"
-date: 2024-11-08T18:18:52.842Z
-updated: 2024-11-13T21:54:18.497Z
+date: 2024-11-20T04:54:35.845Z
+updated: 2024-11-23T22:12:21.400Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,10 @@ YouTube changed its monetization policy and, once again, there are new monetizat
 6. [Helpful Blog Posts](#posts)
 7. [Don't Give Up!](#dontquit)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The New Monetization Rules
 
 In order to qualify for YouTube monetization, you must meet these milestones.
@@ -47,28 +51,12 @@ In order to qualify for YouTube monetization, you must meet these milestones.
 
  _Trying to get monetization on YouTube can feel like this._
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why YouTube Changed the Monetization Rules
 
 YouTube’s reasoning for these changes is essentially the same as they gave for the 10,000 views milestone: having higher standards will help them prevent inappropriate or stolen content from being monetized. They also point out that the majority of channels affected will not have been making any significant money anyways (less than $2.50 per month, in most cases).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do the Changes Affect Small YouTube Channels
@@ -89,6 +77,10 @@ Cough. Logan Paul. Cough.
 
 ####  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips for Increasing YouTube Watch Time
 
 1. Sorting your videos into playlists encourages viewers to spend a lot more time on your channel.
@@ -96,10 +88,7 @@ Cough. Logan Paul. Cough.
 3. Basic video editing. Simple things like adding transition effects and cutting out long pauses will help keep viewers watching your videos for longer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Helpful Blog Posts
@@ -110,6 +99,10 @@ Cough. Logan Paul. Cough.
 
 [How to Edit a YouTube Video and Get More Subscribers](https://www.filmora.io/community-blog/how-to-edit-a-youtube-video-and-get-more-subscribers-281.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Give Up
 
 I risk sounding cheesy here, but I hope nobody gives up on their dreams as creators over something like this. Wanting to be paid for doing what you love is only natural, and you can still get there (YouTube monetization isn't even the only way). There may even be better opportunities to generate revenue when you do. In the long run, this could be a good thing for YouTube. Nobody can really know yet.
@@ -117,13 +110,6 @@ I risk sounding cheesy here, but I hope nobody gives up on their dreams as creat
 How do you get subscribers, or increase your watch time? If you have any tips, share them with everyone! Also, make sure to let us know if there are any blog topics that might help you out with YouTube's new monetization rules.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -140,18 +126,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>[New] Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[New] In 2024, Professional Insights Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-tiers-of-technology-youtube-gamers-showcase/"><u>[New] Top Tiers of Technology YouTube Gamer's Showcase</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-profitability-on-youtube-shorts-essentials-and-future-earning-prospects/"><u>[New] Unlocking Profitability on Youtube Shorts Essentials and Future Earning Prospects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-bits-of-bulb-tech-top-17-choices/"><u>[Updated] 2024 Approved Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[Updated] 2024 Approved Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-collaborative-video-workflows-for-content-growth-for-2024/"><u>[Updated] Collaborative Video Workflows for Content Growth for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-pc-safety-change-your-windows-11-password/"><u>Boost PC Safety: Change Your Windows 11 Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-speech-analysis-and-command-execution/"><u>In 2024, Free Speech Analysis & Command Execution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-favorite-spotlight-equipment-17/"><u>In 2024, YouTube's Favorite Spotlight Equipment #17</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-icloud-integration-hurdles-a-step-by-step-guide-to-restoring-sync-functionality/"><u>Overcoming iCloud Integration Hurdles: A Step-by-Step Guide to Restoring Sync Functionality</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-layers-of-a-great-humorous-poster/"><u>The Layers of a Great Humorous Poster</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-tutorial-blocking-youtube-ads-on-all-platforms/"><u>The Ultimate Tutorial Blocking YouTube Ads on All Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-examining-the-income-stream-for-t-series-youtube-channel/"><u>[New] 2024 Approved Examining the Income Stream for T-Series YouTube Channel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-a-vocal-identity-steps-for-impactful-video-overdubs-for-2024/"><u>[New] Crafting a Vocal Identity Steps for Impactful Video Overdubs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>[New] How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exclusive-resource-hub-downloadable-templates-for-youtubers/"><u>[New] In 2024, Exclusive Resource Hub - Downloadable Templates for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-upgrade-your-content-creation-process-via-youtube-studio/"><u>[New] Upgrade Your Content Creation Process via YouTube Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-identifying-the-best-10-free-online-art-schools-on-youtube/"><u>[Updated] 2024 Approved Cutting Edge Identifying the Best 10 Free Online Art Schools on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>[Updated] Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-break-through-boundaries-15plus-best-free-video-starters/"><u>[Updated] In 2024, Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-larger-video-posts-in-instagram-for-2024/"><u>[Updated] Mastering the Art of Larger Video Posts in Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>[Updated] Navigating the World of YouTubers and Gaming Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-network-nodes-sites-that-spotlight-youtube-paid-content/"><u>[Updated] Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-video-potential-with-effective-tagging-techniques-on-youtube/"><u>[Updated] Unleashing Video Potential with Effective Tagging Techniques on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-showcase-your-story-premium-ig-covers-for-iphone-users/"><u>2024 Approved Showcase Your Story Premium IG Covers for iPhone Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-mp4-audio-files-into-various-formats-with-movavi/"><u>Free Online Converter: Change MP4 Audio Files Into Various Formats with Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-tool-convert-wmv-files-to-aac-format-using-movavi/"><u>Free Online Tool: Convert WMV Files to AAC Format Using Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-missing-d3dx927dll-error-on-your-pc/"><u>How To Resolve The Missing D3DX9_27.DLL Error On Your PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-gamer-friendly-video-capture-apps/"><u>In 2024, Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/saving-parts-of-youtube-a-comprehensive-tutorial-for-2024/"><u>Saving Parts of YouTube A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-smartwatch-technology-usage-and-benefits-demystified/"><u>Understanding Smartwatch Technology: Usage & Benefits Demystified</u></a></li>
 </ul></div>
 

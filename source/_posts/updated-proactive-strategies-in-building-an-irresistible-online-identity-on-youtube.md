@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Proactive Strategies in Building an Irresistible Online Identity on YouTube"
-date: 2024-08-01T02:57:43.146Z
-updated: 2024-08-02T02:57:43.146Z
+date: 2024-11-20T23:34:39.036Z
+updated: 2024-11-24T01:10:08.427Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 Epic Meal Time. Michelle Phan. Peter McKinnon. When you think of each of these YouTube creators, what comes to mind? The feelings and thoughts you have are vastly different because each one of these channels has its own unique branding.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  ![Epic Meal Time](https://images.wondershare.com/filmora/article-images/epic-meal-time.png)
 
 _Epic Meal Time’s YouTube brand is in-your-face and intense. It pumps you full of adrenaline and increases your heart rate._
@@ -44,18 +41,15 @@ _Michelle Phan’s YouTube brand is calm, whimsical, and aspirational._
 They have different branding because they want to reflect different feelings for different audiences.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bad Branding Causes Mistrust
 
 When a branding element does not align with the message or the tone does not match with the material, then the audience is not going to trust what you offer. Without trust, you won’t be able to get the advocacy that is essential for a YouTube channel to grow.
 
 Imagine Michelle Phan using the aggressive colors of Epic Meal Time or vice versa. Pretty weird, huh?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What is YouTube Branding?
 
 You might think that branding simply comes together while making videos, but that’s not true. Branding takes a bit of preparation and foresight.
@@ -80,9 +74,6 @@ Here are notable elements of your channel’s branding:
 
 \- Style of video
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Start Branding Your YouTube Channel?
 
 Before you start designing thumbnails and coming up with a catchphrase, the first step in branding is understanding the purpose of your channel. Once you have a purpose, you will know how you want your viewers to feel.
@@ -142,8 +133,9 @@ Demand = Beauty School
 PURPOSE: Give people more confidence in beauty products.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Is Your Channel Different From the Others?
 
 Now that you have your purpose, it’s time to separate you from others with similar purposes. YouTube is a crowded space for content creators. If your channel is mimicking another more successful channel, you will be in the shadows.
@@ -194,16 +186,21 @@ Want more resources for creating your channel’s visual elements? Yes? Well, we
 
 \- [Free Youtube Banners](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make Your Visuals Consistent?
 
 When a viewer finds your video and considers it pretty interesting, they will then go into your channel page to learn more. Here is where they make their decision: subscribe or not subscribe?
 
 Consistent branding affirms the viewer that they are in the right place. Peter McKinnon’s brand is built upon his amazing photography, it only makes sense that his visual elements are awesome.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Peter McKinnon](https://images.wondershare.com/filmora/article-images/peter-mckinnon.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Peter McKinnon is best known for his photography and cinematography, and his branding amplifies that._
 
@@ -228,17 +225,15 @@ The humor in PewDiePie’s brand is consistent, even though his thumbnails don�
 _Philip DeFranco supplies commentary on current events with a satirical flair. Like a news broadcast, his branding and video format are consistent, while the daily news is different._
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Inserting A Watermark
 
 The main point of a watermark is to let the viewers know when they are watching your video that it is in fact your video.
 
 Let’s be honest, YouTube content can all look the same, especially if you are making content that is quite general (like beauty or tech), so a watermark helps differentiate, so when viewers are ready to subscribe, they have an extra branding element connecting them to your channel.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![Improvement Pill](https://images.wondershare.com/filmora/article-images/improvement-pill.jpg)
 
 _Improvement Pill is a YouTube channel focused on inspiring and motivating its viewer to live a better life._
@@ -253,9 +248,6 @@ Want to set up your subscription watermark? Here is a quick tutorial:
 
 ##  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Coming Up With A Catchphrase
 
 A catchphrase can be your greeting or sign off, but it doesn’t have to be an original line, it can simply be the way you say “hello.”
@@ -265,8 +257,9 @@ Check out some of the popular YouTuber’s catchphrases:
   When coming up with a catchphrase that is connected to your channel’s branding remember how you want the viewer to feel. Do you want to leave them with a smile? Or do you want them to take action?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Final Thoughts On YouTube Branding
 
 As you build and grow your YouTube channel, you can expand your purpose while still sticking within the overall theme. You might have started a channel that focused on the topic of nutrition, but as you grow, you will discover that your audience may also be interested in fitness tips or workout accessories as well. Take it slowly and grow with purpose.
@@ -283,12 +276,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[New] 2024 Approved Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-7-essential-free-audio-tracks-for-youtubers/"><u>[New] 2024 Approved Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eras-endwatchers-top-youtube-viewership/"><u>[New] 2024 Approved Era's Endwatchers Top YouTube Viewership</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-team-with-expert-talent-selections-for-2024/"><u>[New] Elevate Your Team with Expert Talent Selections for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need-for-2024/"><u>[New] Essential YouTube Equipment For Starting Your Channel - What Do You Really Need for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>[New] In 2024, Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-mobile-content-into-profitable-youtube-experiences/"><u>[New] Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-video-round-up-a-list-of-todays-favorites-on-fb-for-2024/"><u>[New] Viral Video Round-Up A List of Today's Favorites on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-constructing-compelling-channel-overviews-for-2024/"><u>[Updated] Constructing Compelling Channel Overviews for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-inshot-pc-editing-made-easy/"><u>[Updated] Mastering Inshot PC Editing Made Easy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-comprehenensive-guide-to-youtube-studios-editing-features/"><u>2024 Approved A Comprehenensive Guide to YouTube Studio's Editing Features</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-hp-laserjet-pro-m127fn-printer-drivers-step-by-step-guide/"><u>Download the HP LaserJet Pro M127FN Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ic-discussions-for-regular-streaming-for-2024/"><u>Dynamic Discussions for Regular Streaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-distort-pic-using-different-tools-for-2024/"><u>How to Distort Pic Using Different Tools for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-aware-that-you-can-create-your-own-lower-thirds-for-video-read-this-article-for-a-tutorial-on-how-to-customize-one/"><u>New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>Taking IGTV Viewership to New Peaks 5 Innovative Approaches</u></a></li>
+</ul></div>
 

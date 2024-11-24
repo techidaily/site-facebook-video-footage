@@ -1,7 +1,7 @@
 ---
 title: "\"The Video Guru's Playbook  Smooth Transition to Easy YouTube CC & Subtitles for 2024\""
-date: 2024-08-01T02:59:17.802Z
-updated: 2024-08-02T02:59:17.802Z
+date: 2024-11-17T04:04:08.154Z
+updated: 2024-11-23T23:14:54.032Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
 # How to Easily Add Subtitles and Closed Captions to YouTube Video
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -38,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why subtitle and closed captions are important for YouTube videos?
 
 * Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
@@ -50,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
  So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding subtitles and closed captions manually
 
  To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
@@ -63,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
  An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uploading Caption or Transcript Files automatically
 
  To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
@@ -84,12 +84,9 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
  This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 Best Tools for add/managing video Subtitles/CC
 
 #### 1\.  Amara
@@ -104,10 +101,11 @@ No advertising on the website.
 
  Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -115,12 +113,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] 2024 Approved Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evaluating-mr-beasts-fortune/"><u>[New] 2024 Approved Evaluating Mr. Beast’s Fortune</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-visual-preservation-tool-chromebook/"><u>[New] 2024 Approved Ultimate Visual Preservation Tool Chromebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-best-practices-navigating-through-top-9-free-logo-creators-for-2024/"><u>[New] Decoding Best Practices Navigating Through Top 9 Free Logo Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-emulating-old-hollywood-style-in-modern-videos/"><u>[New] In 2024, Emulating Old Hollywood Style in Modern Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-snappy-solution-seconds-for-ssgnature-bg-purge-for-2024/"><u>[New] Snappy Solution Seconds for Ssgnature BG Purge for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-magnification-in-roblox-worlds-for-2024/"><u>[New] The Art of Magnification in Roblox Worlds for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-success-strategy-standard-studio-or-beta-edge/"><u>[Updated] 2024 Approved Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-wayfinders-guide-your-path-to-youtube-video-mastery-hub/"><u>[Updated] 2024 Approved The Wayfinder’s Guide Your Path to YouTube Video Mastery Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-tactical-approach-to-youtube-video-enhancement-with-imovie-for-2024/"><u>[Updated] A Tactical Approach to YouTube Video Enhancement with iMovie for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-content-distribution-startup/"><u>[Updated] Mastering the Art of Content Distribution Startup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mp3-export-made-easy-select-free-apps-for-iphone-and-youtube/"><u>[Updated] MP3 Export Made Easy Select Free Apps for iPhone & YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>[Updated] Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-digitizing-internet-radio-programming-for-2024/"><u>Essential Tips for Digitizing Internet Radio Programming for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-14-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 14 without Apple ID?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightroom-workflow-creating-and-merging-professional-hdr-images/"><u>In 2024, Lightroom Workflow Creating & Merging Professional HDR Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-future-of-video-creation-with-animated-subscribe-buttons-in-filmora-for-2024/"><u>Step Into the Future of Video Creation with Animated Subscribe Buttons in Filmora for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unwind-the-clock-how-to-reverse-videos-online-for-2024/"><u>Unwind the Clock How to Reverse Videos Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>Updated 2024 Approved Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+</ul></div>
 

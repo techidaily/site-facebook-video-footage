@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Anker USB 3.0 SuperSpeed Hub Analysis - Your Ultimate Guide
-date: 2024-11-10T02:52:33.690Z
-updated: 2024-11-14T06:05:11.547Z
+date: 2024-11-20T21:51:53.981Z
+updated: 2024-11-23T16:18:39.362Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Anker USB 3.0 SuperSpeed Hub Analysis - Your Ultimate Guide
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/1xs_l59hAxRQTmVwL6qMngpyDO0=/400x300/fi
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/5SQBxSHXey906sYtaz8fIiCXm7k=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -41,10 +45,7 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -71,10 +72,7 @@ Lifewire / Erika Rawes
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Basic, but effective**
@@ -84,13 +82,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -108,6 +99,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -117,13 +112,6 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
@@ -158,10 +146,7 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -199,16 +184,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[New] 2024 Approved Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-business-from-blogs-and-video-reviews/"><u>[New] In 2024, Building a Business From Blogs and Video Reviews</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[Updated] 2024 Approved Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps/"><u>2024 Approved Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-on-lifeless-update-states-of-outdated-operating-systems-like-win7-the-ultimate-guide-to-resuming-progress-guide-solutions-and-troublesho20/"><u>Comprehensive Fixes on Lifeless Update States of Outdated Operating Systems Like Win7 – The Ultimate Guide to Resuming Progress (Guide, Solutions and Troubleshooting Steps for Windows Users Edition).</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>In 2024, Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-visual-storytelling-with-b-roll-integration-for-2024/"><u>Maximizing Visual Storytelling with B Roll Integration for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simplify-audio-extraction-find-the-most-affordable-solutions-for-2024/"><u>Simplify Audio Extraction Find the Most Affordable Solutions for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-implemented-for-no-pen-or-touchscreen-interaction-on-screen-display/"><u>Solution Implemented for No Pen or Touchscreen Interaction on Screen Display</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/sustaining-a-day-job-while-building-your-online-presence-for-2024/"><u>Sustaining a Day Job While Building Your Online Presence for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[New] 2024 Approved Effortless YouTube Video to Text Conversion at No Cost</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-video-editing-apps-for-youtube-creators/"><u>[New] 2024 Approved Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action/"><u>[New] Highest Priority List Best 10 Apps for Live Baseball & Basketball Action</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-auditory-perfection-top-tips-for-quality-audio/"><u>[New] In 2024, Achieving Auditory Perfection Top Tips for Quality Audio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-deciphering-finances-how-much-do-youtubers-earn-per-ad/"><u>[New] In 2024, Deciphering Finances How Much Do YouTubers Earn Per Ad?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>[New] Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-media-management-with-best-videographers-on-vimeo/"><u>[Updated] Elevate Your Media Management with Best Videographers on Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-gaming-content-with-key-freefire-hashtags-for-2024/"><u>[Updated] Elevate Your YouTube Gaming Content With Key FreeFire Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rhythm-revivers-10-androidios-audio-challengers/"><u>[Updated] Rhythm Revivers 10 Android/iOS Audio Challengers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spectaculous-visual-story-builder-suite/"><u>[Updated] Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-perfect-portraits-with-background-blur-for-2024/"><u>A Guide to Perfect Portraits with Background Blur for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-mandate-forward-facing-free-from-faithpolitics/"><u>Facebook's Mandate: Forward-Facing, Free From Faith/Politics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-issues-in-f1-2021-solutions-for-pc-gamers/"><u>Troubleshooting FPS Issues in F1 2021: Solutions for PC Gamers</u></a></li>
 </ul></div>
 

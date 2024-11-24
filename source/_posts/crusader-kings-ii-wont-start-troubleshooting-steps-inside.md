@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-11-10T00:20:49.751Z
-updated: 2024-11-13T20:37:16.011Z
+date: 2024-11-21T20:18:51.663Z
+updated: 2024-11-23T18:40:37.083Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -39,16 +43,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
@@ -56,13 +51,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
@@ -79,18 +67,15 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -128,13 +113,6 @@ To update your graphics driver, here are two safe ways for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 ### Fix 5 – Disable cloud storage
@@ -147,24 +125,23 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -175,20 +152,10 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
@@ -216,21 +183,22 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-hiring-game-with-the-best-vids-in-town/"><u>[New] 2024 Approved Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-viral-journey-top-tags-to-accelerate-views-in-short-form-videos/"><u>[New] Viral Journey Top Tags to Accelerate Views in Short Form Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-youtube-icons-quickly-web-os-specific-options-explained/"><u>[Updated] 2024 Approved Download YouTube Icons Quickly Web, OS-Specific Options Explained</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[Updated] 2024 Approved Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-maximize-video-reach-with-effective-tags-titles/"><u>[Updated] 2024 Approved How to Maximize Video Reach with Effective Tags, Titles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-digital-stills-and-snaps-recorder-for-2024/"><u>[Updated] Digital Stills & Snaps Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-hone-your-message-effective-use-of-templates-for-shorts/"><u>[Updated] Hone Your Message Effective Use of Templates for Shorts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>[Updated] How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-redefining-the-greatest-movies-2023-edition/"><u>[Updated] Redefining The Greatest Movies 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>[Updated] Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-metaverse-tech-the-ultimate-goggles-and-hmds-list-for-2024/"><u>Best Metaverse Tech The Ultimate Goggles and HMDs List for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminating-game-lags-for-an-optimal-experience-with-avatar-frontiers-of-pandora/"><u>Eliminating Game Lags for an Optimal Experience with 'Avatar: Frontiers of Pandora'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-pixel-8-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Pixel 8 Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-strategies-for-leveraging-chatgpt-in-data-analysis/"><u>Top 6 Strategies for Leveraging ChatGPT in Data Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/virtucam-pro-professional-virtual-webcams-and-live-video-tools/"><u>VirtuCam Pro: Professional Virtual Webcams and Live Video Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y27s-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y27s Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-secrets-to-optimize-gopro-camera-energy-consumption/"><u>[New] 2024 Approved Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-depth-with-3d-text-in-photoshop-workflows/"><u>[New] Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-essence-of-asmr-videos-for-2024/"><u>[New] Decoding the Essence of ASMR Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-online-privacy-youtubes-access-controls/"><u>[New] In 2024, Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-phone-applications-altering-your-natural-tone-for-2024/"><u>[New] Innovative Phone Applications Altering Your Natural Tone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-9-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft/"><u>[New] Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-code-of-conduct-on-youtube-for-2024/"><u>[New] Ultimate Code of Conduct on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-dance-of-diction-creating-bounce-with-text/"><u>[Updated] 2024 Approved The Dance of Diction Creating Bounce with Text</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-power-through-engagement-ajays-success-on-youtube-monetization-for-2024/"><u>[Updated] Earning Power Through Engagement Ajay’s Success on YouTube Monetization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquering-camera-fear-paving-the-path-to-youtube-success/"><u>[Updated] In 2024, Conquering Camera Fear Paving the Path to YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-cash-kings-leading-youtube-creators/"><u>[Updated] In 2024, Digital Cash Kings Leading YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-video-sound-best-free-wav-extractors-from-youtube/"><u>[Updated] Maximize Your Video Sound Best Free WAV Extractors From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneering-youtube-visibility-through-strategic-thumbnails/"><u>[Updated] Pioneering YouTube Visibility Through Strategic Thumbnails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improve-gaming-fluidity-top-6-fixes-for-eliminating-stutters-and-drops-in-elden-ring/"><u>Improve Gaming Fluidity: Top 6 Fixes for Eliminating Stutters and Drops in Elden Ring</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-innovative-ai-powered-counselor-bots-and-applications-for-overcoming-emotional-struggles/"><u>Top 5 Innovative AI-Powered Counselor Bots & Applications for Overcoming Emotional Struggles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/usb-c-to-desktop-connection-windows-11-driver-downloads-now-available/"><u>USB-C to Desktop Connection - Windows 11 Driver Downloads Now Available</u></a></li>
 </ul></div>
 

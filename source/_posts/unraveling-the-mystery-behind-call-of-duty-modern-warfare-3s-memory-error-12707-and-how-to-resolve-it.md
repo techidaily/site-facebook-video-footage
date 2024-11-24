@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind Call of Duty Modern Warfare 3'S Memory Error 12707 and How to Resolve It
-date: 2024-11-11T18:13:43.332Z
-updated: 2024-11-14T08:36:30.682Z
+date: 2024-11-21T16:59:35.181Z
+updated: 2024-11-23T19:36:10.171Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the system requirements
 
  Before any complex fixes, check if your PC meets the minimum requirements.
@@ -51,14 +55,11 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 ### Fix 2: Update your driver
 
@@ -81,6 +82,10 @@ There are mainly two ways you can update the driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -90,13 +95,6 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
@@ -108,22 +106,12 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -136,19 +124,14 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -162,21 +145,11 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -209,20 +182,21 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-craft-your-online-identity-with-customized-youtube-urls/"><u>[New] 2024 Approved Craft Your Online Identity with Customized YouTube URLs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>[New] Comprehensive Step-by-Step for YouTube Chapters The Complete Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bypass-youtube-and-shine-with-these-5-next-gen-editing-software/"><u>[New] In 2024, Bypass Youtube and Shine with These 5 Next-Gen Editing Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-the-income-mechanics-of-tseries-on-youtube/"><u>[New] In 2024, Examining the Income Mechanics of TSeries on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-is-youtubes-monetization-payment-frequent/"><u>[New] Is YouTube's Monetization Payment Frequent?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-perfect-the-art-of-teamsnap-photos-for-business-success/"><u>[New] Perfect the Art of TeamSnap Photos for Business Success</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-isolated-earbuds-fix-manual/"><u>[New] The Isolated Earbuds Fix Manual</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-decrypting-the-mystery-understanding-unlisted-content-on-youtube-for-2024/"><u>[Updated] Decrypting the Mystery Understanding 'Unlisted' Content on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-comprehensive-look-editing-and-polishing-yt-videos-via-movie-maker/"><u>[Updated] In 2024, A Comprehensive Look Editing and Polishing YT Videos via Movie Maker</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-enhancing-your-websites-personalization-and-marketing/"><u>Cookiebot-Enabled: Enhancing Your Website's Personalization and Marketing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fetele-de-film-gratuit-pentru-automi-windows-10-8-si/"><u>Fetele De Film Gratuit Pentru Automi Windows 10, 8, Și</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-performance-tips-for-reducing-cpu-usage-in-phasmophobia/"><u>Optimizing Performance: Tips for Reducing CPU Usage in Phasmophobia</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-every-shot-get-10plus-lut-packs-many-free-for-2024/"><u>Perfect Every Shot Get 10+ LUT Packs, Many Free for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-c12-plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia C12 Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-route-uploading-from-youtube-to-dailymotion/"><u>[New] 2024 Approved Direct Route Uploading From YouTube to Dailymotion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-youtube-intros-interesting-without-costing-a-dime/"><u>[New] Making YouTube Intros Interesting Without Costing a Dime</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>[New] The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-triple-your-traffic-techniques-against-bots/"><u>[New] Triple Your Traffic Techniques Against Bots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculator-projected-profits-from-youtube/"><u>[Updated] In 2024, Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-detailed-look-into-youtubes-featured-community-dialogue/"><u>[Updated] In 2024, Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tech-savvy-tips-for-recording-video-calls/"><u>2024 Approved Tech-Savvy Tips for Recording Video Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-best-10-cutting-edge-reaction-ideas/"><u>2024 Approved YouTube's Best 10 Cutting-Edge Reaction Ideas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-tech-news-apple-developing-cost-effective-ar-eyewear-and-accessible-headset-options-as-reported-by-zdnet/"><u>Emerging Tech News: Apple Developing Cost-Effective AR Eyewear and Accessible Headset Options as Reported by ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebot-next-level-conversion-tracking-solutions/"><u>Empowering Websites with Cookiebot: Next-Level Conversion Tracking Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-16-pro-vs-iphone-14-pro-evaluating-if-the-newest-tech-is-a-smart-investment-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Evaluating if the Newest Tech Is a Smart Investment | ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot-for-2024/"><u>Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/solving-the-mystery-of-converted-usb-directories-removing-malicious-executable-errors/"><u>Solving the Mystery of Converted USB Directories – Removing Malicious Executable Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-review-why-you-should-avoid-the-new-dell-xps-14-insights/"><u>The Ultimate Review: Why You Should Avoid the New Dell XPS 14 - Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-gratuitement-votre-fichier-mkv-en-format-mjpeg-sur-linternet-avec-moveave-conversion-video/"><u>Transformez Gratuitement Votre Fichier MKV en Format MJPEG Sur L'Internet Avec Moveave - Conversion Vidéo</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-apple-tvs-full-potential-by-streaming-with-vlc-how-to/"><u>Unlock Your Apple TV's Full Potential by Streaming With VLC - How To?</u></a></li>
 </ul></div>
 

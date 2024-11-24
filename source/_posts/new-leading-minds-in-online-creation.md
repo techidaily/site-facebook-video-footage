@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Minds in Online Creation"
-date: 2024-08-01T02:56:08.553Z
-updated: 2024-08-02T02:56:08.553Z
+date: 2024-11-23T02:40:13.250Z
+updated: 2024-11-23T20:48:25.419Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 # The YouTube Creator Summit - A Getaway for YouTube's Top Talent
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -62,43 +59,46 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Branded slippers
 
 To help them relax after long days at the summit, YouTube provided creators with YouTube-branded slippers. They look pretty comfy. Plus, now every time these YouTubers look down at their feet they’ll be reminded to go make some videos.
 
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _thinknoodles wearing his YouTube slippers._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Denim jacket
 
 A denim jacket with a play button on it was also in the box. The idea was that creators would collect pins and display them on their new jackets. At the end of the week, they would have a great souvenir reminding them of every event they attended at the summit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
 
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
@@ -109,10 +109,11 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -120,12 +121,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-gear-for-aspiring-youtube-stars/"><u>[New] 2024 Approved Cutting-Edge Gear for Aspiring YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-cutting-edge-techniques-for-captivating-online-advertising/"><u>[New] 2024 Approved Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-full-circle-camera-unboxing-and-tests/"><u>[New] 2024 Approved Full Circle Camera Unboxing & Tests</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-ios-platforms-mimicking-ps2/"><u>[New] 2024 Approved Top 5 iOS Platforms Mimicking PS2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-access-immediate-professional-results-free-plus-purchased-luts-for-canon-for-2024/"><u>[New] Access Immediate Professional Results - FREE + Purchased LUTs for Canon for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-rules-for-a-positive-youtube-experience-for-2024/"><u>[New] Essential Rules for a Positive YouTube Experience for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-record-yourself-on-webcam-via-vlc-media/"><u>[New] In 2024, Record Yourself on Webcam via VLC Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-youtube-income-computations/"><u>[Updated] 2024 Approved Effortless YouTube Income Computations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unblocking-the-pathway-for-an-obs-camera-feed/"><u>[Updated] 2024 Approved Unblocking the Pathway for an OBS Camera Feed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking-for-2024/"><u>[Updated] Best YouTube-to-WebM Tools A Compreenasive Review & Ranking for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-code-commanders-elite-females-on-yt-for-2024/"><u>[Updated] Code Commanders Elite Females on YT for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-creators-revenue-gain-from-each-click/"><u>[Updated] In 2024, Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-vs-tiktok-which-one-is-better/"><u>[Updated] YouTube Shorts Vs. TikTok Which One Is Better?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-android-lightroom-assessment/"><u>2024 Approved Comprehensive Android Lightroom Assessment</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-battle-comparing-the-features-of-nintendo-switch-lite-and-oled-models/"><u>Head-to-Head Battle: Comparing the Features of Nintendo Switch Lite and OLED Models</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>In 2024, Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-your-youtube-channels-revenue-new-updates-for-2024/"><u>Understanding Your YouTube Channel's Revenue - New Updates for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-masterclass-carving-out-your-digital-self/"><u>YouTube Masterclass Carving Out Your Digital Self</u></a></li>
+</ul></div>
 

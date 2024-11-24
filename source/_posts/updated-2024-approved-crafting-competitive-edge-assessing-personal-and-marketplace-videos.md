@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Crafting Competitive Edge  Assessing Personal and Marketplace Videos\""
-date: 2024-10-31T10:04:01.087Z
-updated: 2024-11-03T21:56:22.511Z
+date: 2024-11-16T17:26:40.160Z
+updated: 2024-11-24T00:12:52.706Z
 tags:
   - ai video
   - ai youtube
@@ -46,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\.  Demographics
 
  The demographics page helps you get YouTube insights, using them you can know the audience in a gender and location specific manner. For local businesses targeting a certain region, YouTube analytics would prove to be a boon. You can also know the geography and device used by the viewers with this feature. Understanding the gender and location of people will help you create dedicated product videos that would be helpful to them.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-demographic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\.  Traffic sources
 
@@ -70,11 +78,19 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-devices.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 7\.  Likes and dislikes
 
  YouTube insights gauge the audience acceptance for your video by the number of likes and dislikes. Videos with a huge number of like implies that it is loved by people, though, the quality of video can't exactly be defined by the number of likes or dislikes. Even the best quality video created for asking opinions about a certain situation/issue might be good enough but still get dislikes.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 8\.  Subscribers
 
@@ -116,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to analyze your competitors
 
  Although, you can't see the dashboard data of your competitor, there are still some ways to observe and study your competitors' successful videos and from their views, favorites, ratings, and comments find out the driving force behind it.
@@ -138,10 +147,7 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 ![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. [Rival IQ](https://www.rivaliq.com/)
@@ -157,10 +163,7 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -178,24 +181,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-blur-the-borders-enhancing-your-videos-appeal-on-yt/"><u>[New] 2024 Approved Blur the Borders Enhancing Your Video's Appeal on YT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cost-effective-recorder-selections-for-youtube-vloggers/"><u>[New] 2024 Approved Cost-Effective Recorder Selections for YouTube Vloggers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-elevate-engagement-10-effective-facebook-video-tips/"><u>[New] Elevate Engagement 10 Effective Facebook Video Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-advanced-editing-for-published-youtube-videos/"><u>[New] In 2024, Advanced Editing for Published YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-blitzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[Updated] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-making-compelling-media-previews-for-channels/"><u>[Updated] Making Compelling Media Previews for Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unraveling-the-selection-process-for-highlighted-youtube-comments/"><u>[Updated] Unraveling the Selection Process for Highlighted YouTube Comments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuit-de-videos-m4v-a-la-volee-le-guide-complet-dutilisation-du-convertisseur-video-de-movavi/"><u>Conversion Gratuit De Vidéos M4V À La Volée : Le Guide Complet D'utilisation Du Convertisseur Vidéo De Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/decoding-ios-digital-screen-snatcher-secrets-for-2024/"><u>Decoding IO's Digital Screen Snatcher Secrets for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-a18-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo A18 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-snippet-creator/"><u>In 2024, Video Snippet Creator</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-free-online-video-trimmers-2023-edition/"><u>New The Ultimate List of Free Online Video Trimmers 2023 Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photography-revolution-toolwizs-2023-app-insights/"><u>Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/power-meets-portability-in-the-lg-gram-1eby-in-depth-look-at-an-exceptional-lightweight-laptop-with-impressive-battery-life/"><u>Power Meets Portability in the LG Gram 1Eby: In-Depth Look at an Exceptional Lightweight Laptop with Impressive Battery Life</u></a></li>
-<li><a href="https://fox-access.techidaily.com/step-by-step-full-screen-preview-in-premiere-for-2024/"><u>Step-by-Step Full Screen Preview in Premiere for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-unveiled-average-adsense-payments-per-thousand-views-for-2024/"><u>Youtube Earnings Unveiled Average AdSense Payments Per Thousand Views for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[New] 2024 Approved Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-best-video-concepts-for-viewers-for-2024/"><u>[New] Cultivate Creativity Best Video Concepts for Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-asmr-knowledge-beyond-what-you-see/"><u>[New] In 2024, ASMR Knowledge Beyond What You See</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-cultures-a-step-by-step-guide-for-aspiring-travel-vloggers/"><u>[New] In 2024, Capturing Cultures A Step-by-Step Guide for Aspiring Travel Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-advice-on-leveraging-youtubes-video-editor/"><u>[New] In 2024, Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-videos-making-a-statement-on-instagram/"><u>[New] YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production/"><u>[Updated] In 2024, Ascending with Expertise Mastering The Art & Science of ASMR Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] In 2024, From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-peak-interactive-webcam-fun-fests-for-2024/"><u>[Updated] Peak Interactive Webcam Fun Fests for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-elite-free-srt-translation-websites-of-choice-for-2024/"><u>[Updated] Unveiling the Elite Free SRT Translation Websites of Choice for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/einfache-methode-zum-klonen-von-windows-10-auf-mehreren-pcs-drei-einfache-schritte/"><u>Einfache Methode Zum Klonen Von Windows 10 Auf Mehreren PCs - Drei Einfache Schritte</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhanced-user-experience-with-smart-cookiebot-technology/"><u>Enhanced User Experience with Smart Cookiebot Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-v-purse-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor V Purse.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads/"><u>In 2024, Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zoom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>In 2024, Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-and-testing-the-latest-apple-airpods-3rd-gen-a-comprehensive-zdnet-review-with-fresh-upgrades-explored/"><u>Unboxing and Testing the Latest Apple AirPods (3Rd Gen): A Comprehensive ZDNET Review with Fresh Upgrades Explored</u></a></li>
 </ul></div>
 

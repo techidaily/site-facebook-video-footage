@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Affordable Methods to Craft Your Own YouTube Intros\""
-date: 2024-10-27T21:45:12.662Z
-updated: 2024-11-04T06:00:22.138Z
+date: 2024-11-16T21:50:30.150Z
+updated: 2024-11-23T20:56:24.832Z
 tags:
   - ai video
   - ai youtube
@@ -69,16 +69,7 @@ An intro makes sure that you get the recognition that you desire. It will also m
 It will make sure that the revenue bases, as well as the sales, are increased. The potential customers will only subscribe to your services and channel if your intro is relevant. Also, you need to keep it short and highly targeted.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make Your Own Perfect YouTube Intro Using Filmora?
@@ -97,13 +88,6 @@ You need not be a tech-savvy person to operate the program as it is self-explana
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### The Process to create your own YouTube intro by Filmora?
 
 If you want to make intro using Filmora then it is advised to follow the steps as under to get the best outcome.
@@ -112,18 +96,15 @@ If you want to make intro using Filmora then it is advised to follow the steps a
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/filmora-import-media-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Head over to “Title” and you can add them to you YouTube intro with ease:
 
 **Step 3:** To add opener you need to head to “Opener” under Titles and right-click the one you want to select. Click apply and it will be added to the timeline.
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/how-to-make-intro-openers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** You can also change the duration of the title effects. Drag its edge on the timeline you can also click the clock icon and enter new duration.
 
@@ -132,21 +113,16 @@ If you want to make intro using Filmora then it is advised to follow the steps a
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/how-to-make-intro-text.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6:** To edit the intro, even more, click the “Advanced” button to access the advanced editing panel. Add text boxes, shapes and other effects from here.
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/how-to-make-intro-step.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7:** Under “Effects” you can access the filters and overlays to add to your project.
 
@@ -161,10 +137,7 @@ Step 8: The default length of the filter is 5 seconds that can be extended by dr
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/filmora-export-mp4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It's very easy right? Download Filmora and make a click-driven intro now!
@@ -266,18 +239,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-engagement-youtube-strategies-for-increased-viewership/"><u>[New] 2024 Approved Boosting Engagement YouTube Strategies for Increased Viewership</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-youtube-to-webm-video-transformers/"><u>[New] 2024 Approved Essential YouTube-to-WebM Video Transformers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-and-multimeva-a-comparative-study-of-features/"><u>[New] Metaverse and Multimeva A Comparative Study of Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-no-rush-realms-top-12-serene-titles-for-2024/"><u>[New] No-Rush Realms Top 12 Serene Titles for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-timing-of-youtube-earnings-a-closer-insight/"><u>[New] Timing of YouTube Earnings A Closer Insight</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-vlogger-subjects-each-day/"><u>[Updated] 2024 Approved Engaging Vlogger Subjects Each Day</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>[Updated] In 2024, Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>[Updated] Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-zooming-techniques-for-google-meet/"><u>2024 Approved Perfect Zooming Techniques for Google Meet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ps-and-tricks-to-take-your-youtube-shorts-templates-to-the-next-level-for-2024/"><u>30 Tips & Tricks to Take Your YouTube Shorts Templates to the Next Level for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-15-pro-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 15 Pro without Apple Account</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-youtube-editors-handbook-from-basics-to-pros/"><u>The YouTube Editor's Handbook From Basics to Pros</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-motorola-moto-g84-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Moto G84 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-becoming-a-filmora-fcc-the-pathway-explained/"><u>[New] In 2024, Becoming a Filmora FCC The Pathway Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-promotional-features/"><u>[New] In 2024, Navigating Twitter's Promotional Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-boundaries-channel-youtube-for-exciting-green-screens-for-2024/"><u>[Updated] Beyond Boundaries Channel Youtube for Exciting Green Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-compile-of-free-high-quality-sound-clips-for-videos-for-2024/"><u>[Updated] Compile of Free, High-Quality Sound Clips for Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-cost-benefit-analysis-should-you-sign-up-for-youtube-premium/"><u>[Updated] The Cost-Benefit Analysis Should You Sign Up for YouTube Premium?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-final-verdict-on-the-best-video-editors-online/"><u>[Updated] The Final Verdict on the Best Video Editors Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/bumper-bliss-kids-car-games-galore/"><u>Bumper Bliss Kids Car Games Galore</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-spark-go-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Spark Go (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-troubleshoot-and-fix-dll-absent-errors/"><u>Effective Techniques to Troubleshoot and Fix DLL Absent Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-high-performance-with-intelamd-fusion-explore-asus-latest-marvels-the-zenbook-s-and-the-tuf-a14/"><u>Experience High Performance with Intel/AMD Fusion - Explore Asus' Latest Marvels: The ZenBook S and the TUF A14</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/hddssdwindows-112/"><u>HDDをSSDにスムーズ変換！Windows 11用シンプルなデータ移動テクニック2種</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-guide-to-choosing-electronics-toms-hardware-solutions/"><u>The Ultimate Guide to Choosing Electronics: Tom's Hardware Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-ten-youtube-regulations-to-abide-by-for-2024/"><u>Top Ten YouTube Regulations to Abide By for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-playlists-reconfigured-step-by-step-instructions-for-2024/"><u>YouTube Playlists Reconfigured Step-by-Step Instructions for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sourav Joshi’s Financial Journey  Charting a Profitable Course on YouTube\""
-date: 2024-11-09T05:46:07.533Z
-updated: 2024-11-14T08:46:01.710Z
+date: 2024-11-22T04:19:32.553Z
+updated: 2024-11-24T01:15:52.871Z
 tags:
   - ai video
   - ai youtube
@@ -90,6 +90,10 @@ With two successful channels, net worth in million, luxury cars, and collaborati
 
 The reasons for his success and popularity are:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Exclusive Personality
 
 ![sourav joshi image](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-2.jpg)
@@ -111,13 +115,6 @@ More so, on his vlog channel, he created daily-life vlogs which most people can 
 As an artist, Sourav has created some stunning portraits of popular people. But one video where he drew hair got the most views.
 
 ![how to draw hair](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 His “How I Draw Hairs | Step by Step” got around 13,353, 361 views.
 
@@ -204,6 +201,10 @@ The software comes with a vast library packed with stunning effects, elements, t
 _Effects_
 
 ![effects](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Find “effects” on the top menu, click, and choose from the list.
 
@@ -305,6 +306,10 @@ With two successful channels, net worth in million, luxury cars, and collaborati
 
 The reasons for his success and popularity are:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Exclusive Personality
 
 ![sourav joshi image](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-2.jpg)
@@ -313,6 +318,10 @@ It’s no secret that with dedication and hard work Sourav has managed to create
 
 He also gives off humble vibes. Looking at his content, you’ll see and feel adoration he has for his brother and cousin brother. He seems like a genuine and fun guy, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Engaging and Interactive Content
 
 ![sourav joshi image](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-3.jpg)
@@ -320,13 +329,6 @@ He also gives off humble vibes. Looking at his content, you’ll see and feel ad
 Since he’s got two channels, both are great in terms of content. On his art channel, he’s drawn images of known people, such as Bollywood actor Tiger Shroff, Indian Cricketer MS Dhoni, and many more.
 
 More so, on his vlog channel, he created daily-life vlogs which most people can relate to. From travel videos to surprises for family, you can see enjoyable content on Sourav’s vlog channel.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Most Viewed Vlogs/Videos
 
@@ -349,6 +351,10 @@ During the lockdown, Sourav vlogs got massive popularity. One such vlog was “G
 This 13-minute vlog was fun, and viewers can see Sourav enjoying with his younger brother, too.
 
 ![highway vlog](https://images.wondershare.com/filmora/article-images/2022/11/sourav-joshi-income-on-youtube-2022-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 People love watching vlogs, especially when they’re relatable to their personal lives. Many viewers can relate to “Highway Pe Faas Gye” vlog while enjoying it.
 
@@ -522,6 +528,10 @@ What you need to get started as both beginner and professional is Wondershare Fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Steps for the vintage effect to videos on Wondershare Filmora Video Editor**
 
 **Step 1:** Upload video & make specific changes
@@ -565,19 +575,6 @@ Then, we have combined the black & white filter with an overlay of Film Reel Hor
 You can also access the Advanced color correction Tab of Filmora from the Color button. It also features Preset and Adjusts Tabs to desaturate footage. The Preset presents a variety of options, including Black & White and Old Film. You just need to right-click the particular preset and select the Apply option.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips to Make Your Vintage Videos Stand Out
 
@@ -643,6 +640,10 @@ Lots of black points in the video are not ideal for a vintage effect. The suitab
 #### Reduce Saturation levels
 
 Bringing down the saturation levels is another tip to create a vintage effect. The old videos are also absent in bright colors. Don't go too crazy about reduction as 20%-30% saturation level is more than enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create a Stunning Vintage Video?
 
@@ -809,6 +810,10 @@ You can also access the Advanced color correction Tab of Filmora from the Color 
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Make Your Vintage Videos Stand Out
 
 Following the helpful tips would assist you in creating awesome retro videos.
@@ -828,13 +833,6 @@ Surely give a read and thank us later!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -848,13 +846,6 @@ Follow @Richard Bennett
 _“Every accomplishment starts with a decision to try.”_ – A Vintage Thought
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Vintage videos** are ultimately the retro videos you have ever imagined. The look is highly inspirational in itself. The vintage effect in photography and videos results in a must-see look that everyone wants to capture all day long. The meaning of vintage is 'the time when something of quality was produced.' When something is called retro, it means old, recognized, and essential. Vintage also resembles love apart from videos and photos. All in all, it's a positive and result-oriented thing to carry on in your videos. And this is what we want to mention in this post relating to the creation of vintage videos.
 
@@ -888,13 +879,6 @@ Lots of black points in the video are not ideal for a vintage effect. The suitab
 
 Bringing down the saturation levels is another tip to create a vintage effect. The old videos are also absent in bright colors. Don't go too crazy about reduction as 20%-30% saturation level is more than enough.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a Stunning Vintage Video?
 
 What you need to get started as both beginner and professional is Wondershare Filmora Video Editor. It is a highly recommended software to create vintage videos. The intuitive user interface and lots of editing functions are helpful for a video editor. It has both primary as well as advanced editing programs to check. It has various advanced color tuning tools to promote the making of original videos. It features tint, temperature, Vignette, 3D Luts, Lights, and so on.
@@ -917,13 +901,6 @@ The Old Video filter will immediately appear in the list of filters. Tap the **"
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The second step is to apply the Black & White filters. Go to the **Effects** tab and explore five Black & White filters available. Each of these filters is quite different and must be applied accordingly. Check the aesthetic of your video clip before any filter application to retro videos.
 
 **Step 3:** Add the Sun Kissed or Sepia Tone Rise Filters to the video clip
@@ -940,13 +917,6 @@ On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filt
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, you need to desaturate the video clip with Ash & Willow filters. We have typed Ash in the Search bar, and you can see the filter below. These filters are essential to desaturate the video with preset contrast, brightness, or exposure values.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
@@ -959,6 +929,10 @@ You can also access the Advanced color correction Tab of Filmora from the Color 
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Make Your Vintage Videos Stand Out
 
 Following the helpful tips would assist you in creating awesome retro videos.
@@ -969,6 +943,10 @@ Following the helpful tips would assist you in creating awesome retro videos.
 * Add overlays and respective filters to recreate a required vintage look. You must add things that dust, scratch, and grain the heck out from the video that you have created.
 * Lower the frame rate or FPS to create an excellent vintage look. You can make it to 18 or 14 FPS depending upon the aesthetic requirements.
 * Keep an eye on black and white filters you have used. It's because more of a black and white can ruin the actual vintage experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -999,19 +977,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-aetherial-acts-the-vr-stage/"><u>[New] In 2024, Aetherial Acts The VR Stage</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-craft-immersive-experiences-sharing-your-view-in-facebook-lives/"><u>[New] In 2024, Craft Immersive Experiences Sharing Your View in Facebook Lives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-creating-alluring-youtube-video-intros/"><u>[New] In 2024, Dive Into Creating Alluring YouTube Video Intros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-power-of-multitasking-mastering-ffpm/"><u>[New] The Power of Multitasking Mastering FFPM</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-from-panoramas-to-pages-uploading-wide-angle-content-online/"><u>[Updated] From Panoramas to Pages Uploading Wide Angle Content Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[Updated] In 2024, The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>[Updated] Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-sports-highlight-video-creation/"><u>[Updated] The Essential Guide to Sports Highlight Video Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-typhoon-h-by-yuneec-an-in-depth-analysis/"><u>[Updated] Typhoon H by Yuneec An In-Depth Analysis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>2024 Approved 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-pixelpie-slicer/"><u>2024 Approved PixelPie Slicer</u></a></li>
-<li><a href="https://windows11.techidaily.com/get-a-free-self-hosted-gptclone-with-gpt4all/"><u>Get a Free, Self-Hosted GPTClone with GPT4All.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tinyflicker-log-capture-and-competing-tools-for-2024/"><u>TinyFlicker Log Capture & Competing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-assembling-channel-summaries-that-attract/"><u>[New] In 2024, Assembling Channel Summaries That Attract</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-step-by-step-chroma-mastery-for-green-screen-beginners/"><u>[New] In 2024, Step-by-Step Chroma Mastery for Green Screen Beginners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort-for-2024/"><u>[Updated] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-hash-strategies-for-optimizing-youtube-gameplay-videos-for-2024/"><u>[Updated] Essential Hash Strategies for Optimizing YouTube Gameplay Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>[Updated] The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-balancing-act-weaving-b-roll-into-main-scenes/"><u>In 2024, Balancing Act Weaving B Roll Into Main Scenes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-kid-approved-wet-weather-cams-for-beginning-filmmakers/"><u>In 2024, Top Kid-Approved Wet Weather Cams for Beginning Filmmakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-complimentary-access-to-50-premium-youtube-banners/"><u>In 2024, Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pathfinder-on-pc-no-freezing-discover-solved-issues-in-wrath-of-the-righteous-edition/"><u>Pathfinder on PC? No Freezing! Discover Solved Issues in Wrath of the Righteous Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-creators-guide-to-the-top-9-affordable-video-editing-apps-for-2024/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps for 2024</u></a></li>
 </ul></div>
 

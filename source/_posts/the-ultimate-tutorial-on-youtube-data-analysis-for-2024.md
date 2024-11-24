@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial on YouTube Data Analysis for 2024"
-date: 2024-10-29T06:49:25.980Z
-updated: 2024-11-04T05:15:32.911Z
+date: 2024-11-16T23:00:30.816Z
+updated: 2024-11-24T00:52:19.424Z
 tags:
   - ai video
   - ai youtube
@@ -35,25 +35,28 @@ The information available for each video includes how many new subscribers it at
 * **[Interpreting YouTube Interaction Reports](#interaction)**
 * **[How to View Other People's YouTube Statistics](#otherpeople)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Making Better YouTube Videos with Filmora to Get More Views
 
 As one of the best video editing software for YouTube, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. After editing, you can upload the video to YouTube directly when export. Download the free trial version below and start making YouTube videos with Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Get free YouTube Subscribers Guide Banner](https://images.wondershare.com/filmora/article-images/get-free-youtube-subs-banner.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View Your YouTube Statistics
@@ -63,19 +66,6 @@ In order to view your YouTube Analytics, sign in to your YouTube account and go 
 In order to check which of your videos are performing the best, click on **Watch time** under **Watch time reports**. At the top of the page there’ll be a graph of your watch time in general, and if you scroll down you’ll see a list of your videos ranked by watch time. The best performing ones will be at the top and, to see more stats related to these high-performing videos, simply click on their titles. Afterwards, you’ll be able to click around the different sections in your Analytics and see reports relating to the specific video you clicked on.
 
 The two main types of analytics reports are Watch Time Reports and Interaction Reports.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1. Interpreting YouTube Watch Time Reports
 
@@ -90,6 +80,10 @@ Alongside watch time you can see the average duration individual viewers are wat
 In the watch time reports for individual videos, you will be able to see data on where your views are coming from and which demographics are watching the most. Where your viewers are watching, in terms of desktop or mobile, is also interesting data that is available in this section.
 
 Click here for more tips on[increasing your views](https://www.filmora.io/community-blog/12-proven-ways-to-increase-youtube-views-315.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Interpreting YouTube Interaction Reports
 
@@ -115,13 +109,6 @@ Interaction reports can be broken down into several different reports that can h
 
 **7\. 360 heat map reports:** A heat map report works specifically with 360° videos if you are choosing to engage your audience with this type of content. Viewing YouTube video statistics for 360° heat maps will help to show the areas on your video that viewers are most interested in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View Other Peoples YouTube Statistics
 
 If you want to check out the statistics of rival YouTube channels ([including the most subscribed channels on YouTube](https://www.filmora.io/community-blog/youtube-subscriber-chart---the-5-most-subscribed-youtube-channels-320.html)), or channels you’re a fan of, try using [Social Blade](http://www.socialblade.com). Social Blade is one of the most trusted sources of YouTube data, and it may actually be easier to check your own basic stats there than in the Creator Studio sometimes due to their simple layout. To get started all you need to do is type the name of any YouTube channel into the search bar. You’ll be able to see reports on daily views, channel growth, and even estimated ad revenue ([learn more about how to view a channel's ad revenue here](https://www.filmora.io/community-blog/youtube-view-calculators---calculate-youtube-money%21-322.html)).
@@ -129,13 +116,6 @@ If you want to check out the statistics of rival YouTube channels ([including th
 Now that you know how to view YouTube statistics, what will you do with them?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -152,22 +132,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-craft-your-channel-studio-or-beta-innovation-comparison-for-2024/"><u>[New] Craft Your Channel Studio or Beta Innovation Comparison for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-creating-soft-music-endings-in-adobe-premiere-video-editing-for-2024/"><u>[New] Creating Soft Music Endings in Adobe Premiere Video Editing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tidied-missing-miniature-videos-on-youtube/"><u>[New] Tidied Missing Miniature Videos on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-customizing-your-watch-the-art-of-altering-youtube-video-pace-for-2024/"><u>[Updated] Customizing Your Watch The Art of Altering YouTube Video Pace for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-excellent-10-tech-choices-for-livestream-monitoring/"><u>[Updated] Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-the-year-2024-how-to-follow-sourav-joshi-on-youtube-income/"><u>[Updated] In the Year 2024, How to Follow Sourav Joshi on YouTube Income</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-video-visionaries-subscriber-top-5/"><u>[Updated] Unveiling Video Visionaries Subscriber Top 5</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audiovisual-pro-perfect-ppt-presentation-recording/"><u>2024 Approved Audiovisual Pro Perfect PPT Presentation Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/arctic-acrobatics-2022s-olympians-for-2024/"><u>Arctic Acrobatics 2022'S Olympians for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-wdf-utilization-to-minimize-cpu-resource-drain/"><u>Efficient WDF Utilization to Minimize CPU Resource Drain</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/introducing-eufy-x8-pro-the-smartest-ai-vacuum-companion-on-the-market/"><u>Introducing Eufy X8 Pro: The Smartest AI Vacuum Companion on the Market</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-your-youtube-stream-with-wirecast-for-2024/"><u>Optimizing Your YouTube Stream with WireCast for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/screen-guards-protect-your-device-capture-better/"><u>Screen Guards Protect Your Device, Capture Better</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-choices-elite-webcam-holders/"><u>Superior Choices Elite Webcam Holders</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-mac-movie-making-handbook-tips-tricks-and-tutorials-for-2024/"><u>Updated The Ultimate Mac Movie Making Handbook Tips, Tricks, and Tutorials for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-flip-it-like-a-pro-reversed-snaps-technique/"><u>[New] In 2024, Flip It Like a Pro Reversed Snaps Technique</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-champions-must-subscribe-food-bloggers/"><u>[Updated] 2024 Approved Culinary Champions Must-Subscribe Food Bloggers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-potential-in-beauty-blogging/"><u>[Updated] 2024 Approved Earning Potential in Beauty Blogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[Updated] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-your-earning-potential-maximizing-youtube-revenue-on-mobile/"><u>[Updated] Unlock Your Earning Potential Maximizing YouTube Revenue on Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-success-fb-live-on-television/"><u>Broadcasting Success FB Live on Television</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-for-unauthorized-access-in-gaming-apps/"><u>Fixes Implemented for ‘Unauthorized Access’ in Gaming Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-building-powerful-youtube-backlinks-for-2024/"><u>The Art of Building Powerful YouTube Backlinks for 2024</u></a></li>
 </ul></div>
 

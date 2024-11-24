@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2024-11-07T21:44:37.832Z
-updated: 2024-11-13T16:00:28.144Z
+date: 2024-11-21T18:11:00.015Z
+updated: 2024-11-24T01:00:24.148Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,17 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -43,13 +51,6 @@ Rather than setting up another light source on the opposite side of the camera, 
 The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
@@ -80,10 +81,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -93,16 +91,7 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -112,10 +101,7 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -133,20 +119,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-branding-101-brainstorm-techniques/"><u>[New] In 2024, Channel Branding 101 Brainstorm Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-creating-engaging-instagram-highlight-tags/"><u>[New] In 2024, Creating Engaging Instagram Highlight Tags</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-keep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube/"><u>[Updated] 2024 Approved Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-visuals-with-diy-filming-methods-for-2024/"><u>[Updated] Creating Captivating Visuals with DIY Filming Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] Freeze Non-Picked YouTube Video Suggestions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-accelerating-instagram-videos-mobile-and-desktop-tips/"><u>[Updated] In 2024, Accelerating Instagram Videos Mobile & Desktop Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-precision-techniques-for-high-quality-overwatch-saves/"><u>[Updated] Precision Techniques for High-Quality Overwatch Saves</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[Updated] Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-youtube-videos-for-igtv-showcase-3-techniques/"><u>[Updated] Tailoring YouTube Videos for IGTV Showcase 3 Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pushing-boundaries-top-2023s-professional-360-cameras/"><u>In 2024, Pushing Boundaries Top 2023'S Professional 360 Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-collab-videos-and-channel-growth-for-2024/"><u>Step-by-Step Guide to Collab Videos & Channel Growth for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964490584-stream-or-game-like-a-pro-score-an-unbelievable-audio-package-including-the-rodecaster-duo-and-free-rode-nth-100m-headset-at-a-steal-for-only-374/"><u>Stream or Game Like a Pro! Score an Unbelievable Audio Package, Including the Rodecaster Duo and Free Rode NTH-100M Headset, at a Steal for Only $374.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband/"><u>Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-your-footage-tips-for-youtube-studios-video-editing-for-2024/"><u>Transform Your Footage Tips for YouTube Studio's Video Editing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-celluloid-to-screen-adapting-your-vids-for-ig/"><u>[New] From Celluloid to Screen Adapting Your Vids for IG</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-mr-beasts-cash-flow/"><u>[New] Unveiling Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-quality-with-right-lighting/"><u>[Updated] 2024 Approved Enhancing Video Quality with Right Lighting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[Updated] In 2024, Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[Updated] Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-tech-what-is-virtual-reality-gear/"><u>2024 Approved Inside the Tech What Is Virtual Reality Gear?</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-the-perfect-kid-safe-gaming-sanctuary/"><u>Building the Perfect Kid-Safe Gaming Sanctuary</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-device-not-found-error-when-setting-up-your-windows-7-pc/"><u>How to Successfully Overcome the 'Device Not Found' Error When Setting Up Your Windows 7 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-iphone-voice-message-sending-techniques/"><u>Step-by-Step Tutorial on iPhone Voice Message Sending Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/turning-viewership-into-cash-with-carminati-ajay-for-2024/"><u>Turning Viewership Into Cash with Carminati (Ajay) for 2024</u></a></li>
 </ul></div>
 

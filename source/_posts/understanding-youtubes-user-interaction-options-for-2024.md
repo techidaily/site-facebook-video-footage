@@ -1,7 +1,7 @@
 ---
 title: "Understanding YouTube's User Interaction Options for 2024"
-date: 2024-11-03T02:33:24.550Z
-updated: 2024-11-03T17:41:43.505Z
+date: 2024-11-16T18:52:40.488Z
+updated: 2024-11-24T04:22:31.197Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ As a brand, it is imperative to thoroughly read all the comments that your YouTu
 
 Keeping all these points in mind, the following sections explain **how to enable comments on YouTube** and **how to turn off comments on YouTube**. Here you will also get to know what other types of security and privacy options are there that you can use to filter the comments posted by the disturbing elements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Turn on or Turn off Comments for YouTube Channel
 
 If you don’t want any comments on any of the videos that you publish, you must learn **how to disable comments on the YouTube** channel. The process of doing so is explained below:
@@ -46,6 +50,10 @@ From the bottom of the left pane, click the **Settings** icon, click **Channel**
 
 ![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Turn Off Comments
 
 From the **Audience** section in the right pane itself, click to select the **Yes, set this channel as made for kids. I always upload content that’s made for kids** radio button. Click **SAVE** from the bottom-right corner to save the changes in order to turn off comments on all the videos on your YouTube channel.
@@ -57,6 +65,10 @@ To turn on comments on **all the videos on your YouTube channel**, you can follo
 Use the method explained above to get to the channel’s **Advanced settings** box. Select the **No, set this channel as not made for kids. I never upload content that’s made for kids** radio button. Click **SAVE** to save the changes.
 
 ![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Define Acceptable Comment Types
 
@@ -111,20 +123,10 @@ From under the **Audience** section in the right window of the **Video details**
 ![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs About YouTube Comments
 
@@ -143,10 +145,7 @@ You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -163,13 +162,6 @@ It is easy to understand **how to turn on comments on YouTube**. The best thing 
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -185,16 +177,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-game-changer-creating-eye-catching-logo-templates/"><u>[New] The Game-Changer Creating Eye-Catching Logo Templates</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-auditory-journey-in-a-film-teaser/"><u>[Updated] Crafting the Auditory Journey in a Film Teaser</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[Updated] In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[Updated] In 2024, Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[Updated] In 2024, Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ngs-on-youtube-the-crucial-number-of-video-views-for-money/"><u>Earnings on YouTube The Crucial Number of Video Views for Money</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elden-ring-players-rejoice-multiplayer-feature-fixed/"><u>Elden Ring Players Rejoice: Multiplayer Feature Fixed!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-p60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei P60 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tackling-the-mystery-of-missing-shorts-video-images-for-2024/"><u>Tackling the Mystery of Missing Shorts Video Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transforming-cityscapes-into-sustainable-havens-of-life-for-2024/"><u>Transforming Cityscapes Into Sustainable Havens of Life for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>[New] 2024 Approved Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] In 2024, Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clipmaster-software/"><u>[Updated] 2024 Approved ClipMaster Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-deep-with-these-immersive-vr-clips/"><u>[Updated] In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secrets-of-youtube-stardom-3-paths-to-creating-huge-viral-reactions/"><u>[Updated] The Secrets of YouTube Stardom 3 Paths to Creating Huge Viral Reactions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargar-conversor-swf-free-online-movavi/"><u>Descargar Conversor SWF FREE Online - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-transitioning-to-a-windows-less-lifestyle-with-an-hp-chromebook-insights-from-tech-expert-zdnet/"><u>Effortlessly Transitioning to a Windows-Less Lifestyle with an HP Chromebook, Insights From Tech Expert | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/increase-efficiency-solving-windows-11-prolonged-shutdown-time-issue/"><u>Increase Efficiency: Solving Windows 11 Prolonged Shutdown Time Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-your-presentation-the-yt-guide-to-background-softening-for-2024/"><u>Perfect Your Presentation The YT Guide to Background Softening for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-asus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Asus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-smarts-engaging-viewers-on-multiple-networks-for-2024/"><u>Streaming Smarts Engaging Viewers on Multiple Networks for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-clone-hdd-software-pour-windows-compatible-avec-win11-win10-win8-et-win7/"><u>Top Clone HDD Software Pour Windows - Compatible Avec Win11, Win10, Win8 Et Win7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-freezing-and-crashes-of-genshin-impact-on-personal-computers/"><u>Troubleshooting Continuous Freezing and Crashes of Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-your-keyboard-back-to-default-settings/"><u>Troubleshooting Tips: Restoring Your Keyboard Back to Default Settings</u></a></li>
 </ul></div>
 

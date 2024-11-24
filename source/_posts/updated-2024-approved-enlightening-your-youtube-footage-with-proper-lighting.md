@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Enlightening Your YouTube Footage with Proper Lighting\""
-date: 2024-10-28T04:42:26.462Z
-updated: 2024-11-04T03:44:45.420Z
+date: 2024-11-18T23:46:36.831Z
+updated: 2024-11-23T16:08:50.772Z
 tags:
   - ai video
   - ai youtube
@@ -35,15 +35,16 @@ Below, I’ll go into detail on how you can set up your lighting equipment to ma
 | Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Using Light You Already Have
 
 Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.  Window Lighting
@@ -68,22 +69,12 @@ Most home lighting is warmer in its color temperature. If you want to use your h
 
 Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Home Studio Lighting
 
 If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1. Light Control
@@ -116,13 +107,14 @@ For more information on lighting equipment, check out my [Top 17 Video Lighting 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -140,22 +132,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-counterclockwise-content-youtube-replay-methods/"><u>[New] 2024 Approved Counterclockwise Content YouTube Replay Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-expansion-the-significance-of-500-subs-club/"><u>[New] 2024 Approved Earnings Expansion The Significance of 500 Subs Club</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-burn-video-to-dvd-on-mac-for-2024/"><u>[New] How to Burn Video to DVD on Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakdown-of-ad-revenue-average-income-for-youtube-vids/"><u>[New] In 2024, Breakdown of Ad Revenue Average Income for YouTube Vids?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transform-clips-into-content-from-premiere-to-youtube/"><u>[New] Transform Clips Into Content From Premiere to YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-memetic-magic-mastering-the-top-7-techniques-of-gif-craftsmanship/"><u>[Updated] 2024 Approved Memetic Magic Mastering the Top 7 Techniques of GIF Craftsmanship</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-even-on-youtube-key-view-figures-explored/"><u>[Updated] In 2024, Breaking Even on YouTube Key View Figures Explored</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-srt-a-thorough-exploration-of-its-essence/"><u>[Updated] In 2024, Mastering SRT A Thorough Exploration of Its Essence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mac-innovators-handbook-crafting-cool-youtube-videos/"><u>[Updated] Mac Innovators' Handbook Crafting Cool Youtube Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-mechanics-of-parody-video-making-101/"><u>[Updated] The Mechanics of Parody Video Making 101</u></a></li>
-<li><a href="https://win-news.techidaily.com/complete-restoration-tutorial-how-to-retrieve-lost-fonts-post-windows-11-creators-upgrade/"><u>Complete Restoration Tutorial: How to Retrieve Lost Fonts Post-Windows 11 Creators' Upgrade</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-g2-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo G2 Phone FRP Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/make-your-documents-into-pdf-on-windows-n-11-solutions-for-print-errors/"><u>Make Your Documents Into PDF on Windows N 11: Solutions for Print Errors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/prime-pick-best-microphone-for-youtube-gurus-for-2024/"><u>Prime Pick Best Microphone for YouTube Gurus for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-keyboards-in-2n24-a-comprehensive-guide/"><u>Top-Rated Wireless Keyboards in 2N24: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-verification-a-new-look-at-app-quality/"><u>[New] 2024 Approved Virtual Verification A New Look at App Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-snapshot-success-mastering-the-art-of-xbox-one-captures/"><u>[New] In 2024, Snapshot Success Mastering the Art of Xbox One Captures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laugh-out-loud-a-step-by-step-meme-building/"><u>[New] Laugh Out Loud A Step-by-Step Meme Building</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[New] Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-selfie-mastery-tips-from-top-youtubers/"><u>[New] Video Selfie Mastery Tips From Top YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhanced-audio-experience-top-5-game-headsets-for-streaming-for-2024/"><u>[Updated] Enhanced Audio Experience Top 5 Game Headsets for Streaming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-a-youtube-music-playlist-for-2024/"><u>[Updated] How to Create a YouTube Music Playlist for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-license-free-mcb-video-backgrounds/"><u>[Updated] License-Free MCB Video Backgrounds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-posting-youtube-videos-to-your-facebook-feed/"><u>[Updated] Posting YouTube Videos to Your Facebook Feed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-youtubers-blueprint-building-a-powerhouse-channel/"><u>[Updated] The YouTuber’s Blueprint Building a Powerhouse Channel</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-15-plus-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 15 Plus Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-vlc-revealed-in-detailed-review/"><u>In 2024, Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/ranking-safe-digital-connections/"><u>Ranking Safe Digital Connections</u></a></li>
+<li><a href="https://win-bits.techidaily.com/rapid-recovery-expanding-your-usbs-storage-space-in-a-flash-with-windows-11/"><u>Rapid Recovery: Expanding Your USB's Storage Space in a Flash with Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essentials-of-adding-emojis-to-youtube-discussions-for-2024/"><u>The Essentials of Adding Emojis to Youtube Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-framework-for-captivating-streams-on-youtube-for-2024/"><u>The Ultimate Framework for Captivating Streams on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-subscriber-awards-the-play-button-awards-for-creators-for-2024/"><u>YouTube Subscriber Awards The Play Button Awards for Creators for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/44k544ou44o844oh44kj44gq44ov44oz44kv44oq44od44kv44gn5asx44kp44km44gf5oof5acx44ks5yplusw44kk5oi744gb44kl5oml6lu954sh5paz6kej5p6q77yt44gk44gu44og44kv44ol44od4210/"><u>スピーディなワンクリックで失われた情報を取り戻せる手軽無料解析３つのテクニック</u></a></li>
 </ul></div>
 

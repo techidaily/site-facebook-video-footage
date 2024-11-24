@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2024-11-09T08:45:09.141Z
-updated: 2024-11-14T04:47:14.324Z
+date: 2024-11-21T02:44:26.773Z
+updated: 2024-11-24T02:26:45.763Z
 tags:
   - ai video
   - ai youtube
@@ -59,9 +59,17 @@ _Tess takes you to some of her favorite places in Dumbo._
 
 Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators who attended the summit probably had a lot of fun exploring it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Post Cards
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. S’well bottle
 
@@ -73,37 +81,14 @@ To help them relax after long days at the summit, YouTube provided creators with
 
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _thinknoodles wearing his YouTube slippers._
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Pins, pins, pins
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Denim jacket
@@ -111,6 +96,10 @@ There were numerous custom pins available at different events at the summit. Asi
 A denim jacket with a play button on it was also in the box. The idea was that creators would collect pins and display them on their new jackets. At the end of the week, they would have a great souvenir reminding them of every event they attended at the summit.
 
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
 
@@ -123,10 +112,7 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -144,18 +130,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-troubleshoot-and-eliminate-green-screen-issues-on-mac/"><u>[New] Troubleshoot and Eliminate Green Screen Issues on Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-editing-experience-workshop-for-2024/"><u>[Updated] Editing Experience Workshop for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-comments-with-emojis-on-youtube-for-2024/"><u>[Updated] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-shorts-key-facts/"><u>[Updated] Mastering YouTube Shorts Key Facts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube/"><u>[Updated] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-5-remote-viewing-recorders/"><u>2024 Approved Ultimate 5 Remote Viewing Recorders</u></a></li>
-<li><a href="https://win-dash.techidaily.com/access-your-updated-lenovo-drivers-specifically-designed-for-windows-11-systems/"><u>Access Your Updated Lenovo Drivers Specifically Designed for Windows 11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-movierulz-installation-guide-access-premium-bollywood-and-hollywood-films-at-no-cost/"><u>Easy MovieRulz Installation Guide: Access Premium Bollywood & Hollywood Films at No Cost!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210463570-9780960075744-engaging-my-magic-within/"><u>Engaging My Magic Within | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-fn-key-not-working/"><u>How To Fix Fn Key Not Working</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-hilarious-side-of-iphones/"><u>The Hilarious Side of iPhones</u></a></li>
-<li><a href="https://solve-info.techidaily.com/tutorial-lancar-menyimpan-data-dari-disk-yang-bukal-dengan-langkah-langkah-sederhana/"><u>Tutorial Lancar: Menyimpan Data Dari Disk Yang Bukal Dengan Langkah-Langkah Sederhana!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-background-replacement-on-instagrams-platform/"><u>[New] 2024 Approved Mastering Background Replacement on Instagram's Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exporting-your-creativity-imovie-videos-for-youtube-audiences-for-2024/"><u>[New] Exporting Your Creativity IMovie Videos for YouTube Audiences for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtubes-potential-essential-tactics-and-strategies/"><u>[New] Unlocking YouTube's Potential Essential Tactics and Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-list-top-desktops-for-enthusiasts/"><u>[Updated] A-List Top Desktops for Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ideal-techniques-for-noiseless-recording/"><u>[Updated] In 2024, Ideal Techniques for Noiseless Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-incorporating-slug-lines-into-headlines-and-titles/"><u>[Updated] Incorporating Slug Lines Into Headlines & Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dangers-of-buying-fake-youtube-subscribers/"><u>[Updated] The Dangers of Buying Fake YouTube Subscribers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-online-spaces-for-youtube-traffic-increase/"><u>2024 Approved Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12-proplus-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12 Pro+ 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hassle-free-photo-and-video-upload-ios-device-for-2024/"><u>Hassle-Free Photo & Video Upload IOS Device for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-crafting-winning-freefire-videos-for-2024/"><u>Secrets to Crafting Winning FreeFire Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolving-role-of-ai-in-shaping-developer-work-processes/"><u>The Evolving Role of AI in Shaping Developer Work Processes</u></a></li>
 </ul></div>
 

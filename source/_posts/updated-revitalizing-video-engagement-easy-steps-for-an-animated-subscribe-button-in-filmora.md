@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Revitalizing Video Engagement  Easy Steps for an Animated Subscribe Button in Filmora\""
-date: 2024-11-08T16:26:09.778Z
-updated: 2024-11-13T23:04:07.274Z
+date: 2024-11-20T18:17:12.048Z
+updated: 2024-11-23T16:08:25.097Z
 tags:
   - ai video
   - ai youtube
@@ -52,7 +52,15 @@ There are so many platforms on the internet from where you can get Youtube subsc
 
 **Step 10:** Now go back to the beginning in the timeline and adjust the scale to 0%. It will make the rectangle pop up when you play the clip.![subscribe-button10](https://images.wondershare.com/filmora/article-images/subs-button10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 11:** Text needs to be animated as well to match it with the rectangle. Double click on the text in the timeline and click 'ADVANCED.'![subscribe-button11](https://images.wondershare.com/filmora/article-images/subs-button11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 12:** In this Advance text editor, go to the 'Animation' tab and select any animation that you like. On the timeline under the preview screen, adjusts the dark areas according to the time you set on the rectangle, which was 1 second. We want the text to appear on the screen in 1 second, like the rectangle. Also, adjust the ending time when you want the text to disappear again. We have set it on 4 seconds. Which means it will start to fade after 4 seconds.![subscribe-button12](https://images.wondershare.com/filmora/article-images/subs-button12.png)
 
@@ -62,17 +70,37 @@ There are so many platforms on the internet from where you can get Youtube subsc
 
 **Step 15:** To animate the click of the cursor, move ahead a little bit into your timeline and scale down the cursor to around 70%. Move it a little further and scale it up to 100%.![subscribe-button15](https://images.wondershare.com/filmora/article-images/subs-button15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 16:** You can add the sound of mouse click to make it more realistic. You can find this sound anywhere on the internet. Download it and import it into Filmora. Now place it into the timeline where it can match the movement of the cursor.![subscribe-button16](https://images.wondershare.com/filmora/article-images/subs-button16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 17:** Now it's time to make this subscribe animation button disappear. Move forward into the time to the end, at around 4 seconds. Double click on the red button in the timeline and add a key frame at its actual scale.![subscribe-button17](https://images.wondershare.com/filmora/article-images/subs-button17.png)
 
 **Step 18:** After that, move further in the timeline to the end and make its scale 0\. It will make it disappear.![subscribe-button18](https://images.wondershare.com/filmora/article-images/subs-button18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 19:** Do the same with the cursor. Double click on the cursor in the time and add a key frame at its actual position.![subscribe-button19](https://images.wondershare.com/filmora/article-images/subs-button19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 20:** Move ahead when you want it to disappear. Move the cursor out of the screen and click 'OK'.![subscribe-button20](https://images.wondershare.com/filmora/article-images/subs-button20.png)
 
 **Step 21:** Your Subscribe png gif is ready to be exported and used in your videos. Click on export and choose from various formats and options to choose from while exporting it.![subscribe-button21](https://images.wondershare.com/filmora/article-images/subs-button21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may also like: [**How to Get People to Subscribe Channel**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -81,6 +109,10 @@ Conclusion：Your own Animated Subscribe Button is ready to be used in your futu
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -97,33 +129,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-motion-dynamics-synopsis/"><u>[New] Comprehensive Motion Dynamics Synopsis</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-a-distinctive-sphere-of-influence/"><u>[New] In 2024, Crafting a Distinctive Sphere of Influence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-video-editing-power-plus-professional-equivalents/"><u>[New] YouTube's Video Editing Power + Professional Equivalents</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-pathway-to-premium-webcam-footage/"><u>[Updated] 2024 Approved The Ultimate Pathway to Premium Webcam Footage</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-harness-the-hype-tactics-to-supercharge-your-social-media-status-for-2024/"><u>[Updated] Harness the Hype Tactics to Supercharge Your Social Media Status for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-comprehensible-walkthrough-finding-your-youtube-remarks/"><u>[Updated] In 2024, A Comprehensible Walkthrough Finding Your YouTube Remarks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-level-up-your-instagram-posts-with-expert-edits/"><u>[Updated] In 2024, Level Up Your Instagram Posts with Expert Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-organize-soundtracks-on-youtube-the-playlist-guide/"><u>[Updated] Organize Soundtracks on Youtube The Playlist Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[Updated] The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-watching-social-media-videos-on-appletv/"><u>2024 Approved Watching Social Media Videos on AppleTV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/all-you-need-to-know-about-pinnacle-studio-proscons-plus-top-software-substitutes-revealed/"><u>All You Need To Know About Pinnacle Studio Pros/Cons + Top Software Substitutes Revealed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-fixes-to-enhance-your-youtube-reach-for-2024/"><u>Quick-Fixes to Enhance Your YouTube Reach for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/sifting-through-new-ios-features-are-you-a-candidate/"><u>Sifting Through New iOS Features: Are You a Candidate?</u></a></li>
-<li><a href="https://facebook.techidaily.com/sneak-peek-at-facebooks-upcoming-identity-change/"><u>Sneak Peek at Facebook's Upcoming Identity Change</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-no-cost-video-watermark-solutions-top-5-downloads/"><u>Updated 2024 Approved No-Cost Video Watermark Solutions Top 5 Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[New] 2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-new-take-on-favorite-movies-7-alternatives-for-2024/"><u>[New] A New Take on Favorite Movies - #7 Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compile-of-free-high-quality-sound-clips-for-videos/"><u>[New] In 2024, Compile of Free, High-Quality Sound Clips for Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>[Updated] 2024 Approved Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[Updated] In 2024, The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simple-steps-for-looped-iphone-videos/"><u>[Updated] Simple Steps for Looped iPhone Videos</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/aomei-backupper-it/"><u>AOMEI Backupper: ITマスコミがつけた隠れた称号と課題</u></a></li>
+<li><a href="https://facebook.techidaily.com/get-ready-for-weekend-buzz-at-facebooks-live-shops/"><u>Get Ready for Weekend Buzz at Facebook’s Live Shops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimized-video-transformation-on-macios-the-8-list/"><u>In 2024, Optimized Video Transformation on Mac/iOS The #8 List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/is-it-time-to-upgrade-to-an-itop-equipped-system-for-2024/"><u>Is It Time to Upgrade to an ITop-Equipped System for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-freie-dvd-konverter-fur-windows-11-in-202-cu-ihre-perfekte-wahl-nach-einem-vergleichenden-review/"><u>Top 3 Freie DVD-Konverter Für Windows 11 in 202 Cu: Ihre Perfekte Wahl Nach Einem Vergleichenden Review</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-clock-watchdog-timed-out-issue-to-prevent-bsods-in-windows-11/"><u>Understanding and Repairing the Clock Watchdog Timed Out Issue to Prevent BSODs in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-mastery-seizing-the-seo-opportunity-for-2024/"><u>YouTube Video Mastery Seizing the SEO Opportunity for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

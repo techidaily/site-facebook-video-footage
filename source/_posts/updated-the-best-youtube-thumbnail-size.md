@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Best YouTube Thumbnail Size"
-date: 2024-11-12T20:26:22.088Z
-updated: 2024-11-14T00:51:15.595Z
+date: 2024-11-20T00:16:32.695Z
+updated: 2024-11-23T16:56:21.733Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,10 @@ Making better YouTube thumbnails will help you get more views, and knowing the b
 2. [**Tips for Perfect Thumbnails**](#perfect)
 3. [**Making Better Thumbnails for YouTube**](#better)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
 
 An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
@@ -43,10 +47,7 @@ Here is one interesting thing that you need to know; the thumbnail of videos app
 [ How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2\. Tips for Perfect Thumbnails**
@@ -72,10 +73,7 @@ Window users are advised to access Windows Key with Print Screen option to get t
 Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Making Better Thumbnails for YouTube
@@ -109,19 +107,13 @@ If you want to find a video editing solution that empowers your imagination and 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -139,24 +131,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-acclaimed-storytellers-with-photo-audio-symphony/"><u>[New] 2024 Approved Acclaimed Storytellers with Photo-Audio Symphony</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-behind-the-scenes-filmmaking-tips-from-youtube-experts/"><u>[New] 2024 Approved Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[New] 2024 Approved Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-best-12-pc-games-for-click-mastery/"><u>[New] Discover the Best 12 PC Games for Click Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-keep-your-shorts-viewer-friendly-fixing-image-absence/"><u>[New] Keep Your Shorts Viewer-Friendly Fixing Image Absence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-insider-guide-to-flourishing-on-youtube-games-included/"><u>[New] The Insider Guide to Flourishing on YouTube, Games Included</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-youtubes-clandestine-content-with-orderliness/"><u>[Updated] 2024 Approved Decoding YouTube's Clandestine Content with Orderliness</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-secrets-selective-story-watching/"><u>[Updated] 2024 Approved Instagram's Secrets - Selective Story Watching</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-watch-9-free-full-length-christmas-movies-on-youtube/"><u>2024 Approved Watch 9 Free Full Length Christmas Movies On Youtube</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-moto-g04-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Moto G04 Quickly | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-f5-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco F5 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-video-production-initial-setup/"><u>In 2024, Mastering the Art of Video Production Initial Setup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-40-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 40 Phones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-20-proplus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 20 Pro+ FRP Bypass</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inside-the-world-of-funimate-gamers/"><u>Inside the World of Funimate Gamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-driver-installation-packages-for-multiple-windows-versions-10-7-and-8/"><u>NVIDIA Driver Installation Packages for Multiple Windows Versions: 10, 7, and 8</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-using-youtube-on-iosandroid-devices-for-2024/"><u>The Ultimate Guide to Using YouTube on iOS/Android Devices for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-streaming-made-easy-setting-up-fire-stick-on-mobile-hotspot/"><u>Wireless Streaming Made Easy: Setting Up Fire Stick on Mobile Hotspot</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-integration-a-beginners-guide-to-google-meet-for-2024/"><u>YouTube Integration A Beginner's Guide to Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[New] 2024 Approved Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-procuring-gratis-picture-frame-media/"><u>[New] Secrets to Procuring Gratis Picture Frame Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-live-excellence-a-comprehensive-tutorial/"><u>[New] YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines-for-2024/"><u>[Updated] Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] In 2024, Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-creation-at-your-fingertips-selecting-androids-top-editors/"><u>[Updated] Seamless Creation at Your Fingertips Selecting Android's Top Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-time-traveling-through-retro-filmmaking-techniques/"><u>[Updated] Time Traveling Through Retro Filmmaking Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-winx-ultimate-dvdbd-backup-master-suite-premium-pack-purchase-guide/"><u>1. WinX Ultimate DVD/BD Backup Master Suite: Premium Pack Purchase Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-predictive-emoji-issues-in-under-7-steps-solutions-for-ios-devices/"><u>Fixing Predictive Emoji Issues in Under 7 Steps: Solutions for iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-12-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi 12 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-8t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 8T to Gmail | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-tailoring-your-systems-startups-in-windows-11/"><u>Understanding and Tailoring Your System's Startups in Windows 11</u></a></li>
 </ul></div>
 

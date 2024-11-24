@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Charting a Course for Growth  Precise YouTube Stats From Social Blade's Hub\""
-date: 2024-08-01T02:56:19.237Z
-updated: 2024-08-02T02:56:19.237Z
+date: 2024-11-22T23:51:21.338Z
+updated: 2024-11-24T04:09:33.688Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/B8k2v-qR8tcm_t0SyyeTNpnCEuI=/400x300/fi
 
 # Use Social Blade for YouTube Analytics - Stats & How to Use Them
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,13 +34,11 @@ While many of the stats you can find on Social Blade are also available right on
 2. [**Spying on Other Channels**](#spy)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your YouTube Analytics
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
 
 Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
@@ -65,8 +60,9 @@ If you scroll down to the second section you will be able to see your views, sub
 By looking at this chart you can see which videos benefited your channel most after they were posted (your videos are not listed, but you can see based on the day you posted them). This will give you a good idea of what your audience wants to see.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Spying on Other Channels
 
 When you check your stats, you type your channel name into the search bar. If you want to use Social Blade to monitor somebody else’s stats, type their channel name instead.
@@ -79,17 +75,23 @@ You can also use Social Blade to look up huge YouTube stars who you admire, just
 
  That's how you can use Social Blade for YouTube - have you ever used it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Your Videos Stand Out with Powerful Video Editor
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -97,12 +99,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-budget-friendly-recorder-choices-for-youtube-vloggers/"><u>[New] 2024 Approved Budget-Friendly Recorder Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>[New] 2024 Approved Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-buzz-and-views-masterful-strategies-for-youtube-success-for-2024/"><u>[New] Boosting Buzz & Views Masterful Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-youtube-community-terms-and-policies-for-2024/"><u>[New] Decoding YouTube Community Terms and Policies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-melodies-safe-free-extraction-methods/"><u>[New] Unlocking YouTube Melodies Safe, Free Extraction Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ppt-capture-excellence/"><u>[Updated] 2024 Approved The Ultimate Guide to PPT Capture Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-compre-written-in-code-deciphering-youtube-backlink-building-techniques-for-2024/"><u>[Updated] A Compre Written in Code Deciphering YouTube Backlink Building Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income-for-2024/"><u>[Updated] Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-htc-vive-a-gateway-to-extraordinary-virtual-realms-for-2024/"><u>[Updated] HTC Vive A Gateway to Extraordinary Virtual Realms for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-resizing-youtube-images-step-by-step-guide/"><u>[Updated] Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-now-talks-openais-latest-update-adds-voice-to-ai-assistant/"><u>ChatGPT Now Talks: OpenAI's Latest Update Adds Voice to AI Assistant</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-the-best-video-recording-tools-of-2024-expert-opinions/"><u>Discover the Best Video Recording Tools of 2024 – Expert Opinions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963327911-how-to-obtain-and-install-the-newest-asus-xonar-dgx-drivers-today/"><u>How to Obtain and Install the Newest ASUS Xonar DGx Drivers Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-c210-by-fonelab-android-recover-music/"><u>How to retrieve erased music from C210</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-immersive-experiences-with-green-screen-technology/"><u>In 2024, Crafting Immersive Experiences with Green Screen Technology</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-face-creator-no-registration-needed/"><u>New 2024 Approved Free Online Face Creator No Registration Needed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-must-know-about-youtube-shorts-explained-for-2024/"><u>The Must-Know About YouTube Shorts Explained for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Animating Elegance  Self-Designed Tricks & Effects\""
-date: 2024-11-12T06:29:05.040Z
-updated: 2024-11-12T16:02:11.241Z
+date: 2024-11-17T04:01:24.731Z
+updated: 2024-11-23T22:07:29.651Z
 tags:
   - ai video
   - ai youtube
@@ -46,15 +46,16 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Richard Harrington on Lynda
@@ -64,10 +65,7 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Bloop Animation
@@ -75,10 +73,7 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -88,16 +83,7 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,24 +101,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-establishing-a-powerful-gaming-channel/"><u>[New] 2024 Approved Charting the Course Establishing a Powerful Gaming Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-offline-access-best-youtube-playlist-downloaders/"><u>[New] 2024 Approved Effortless Offline Access Best YouTube Playlist Downloaders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[New] Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-creating-on-the-side-balancing-employment-with-youtube-for-2024/"><u>[New] Creating on the Side Balancing Employment with YouTube for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-virtual-playstation-revival-on-android-try-the-5-best-emulators-here-for-2024/"><u>[New] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-11-best-free-youtube-name-generators-you-should-know-for-2024/"><u>[Updated] 11 Best Free YouTube Name Generators You Should Know for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[Updated] 2024 Approved Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-illuminating-your-content-youtube-video-lighting-secrets/"><u>[Updated] Illuminating Your Content YouTube Video Lighting Secrets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-stellar-video-beginnings-with-free-tools/"><u>[Updated] In 2024, Crafting Stellar Video Beginnings with Free Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-discover-your-youtube-supporters/"><u>[Updated] The Pathway to Discover Your YouTube Supporters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-upload-mastery-understanding-and-using-correct-video-sizes-on-youtube/"><u>[Updated] Upload Mastery Understanding and Using Correct Video Sizes on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-high-res-embracing-consoles-gameplay/"><u>Beyond High Res: Embracing Consoles' Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-distorted-sound-on-airpods-with-quick-tip-disable-the-dynamic-head-tracking-option/"><u>Fix Distorted Sound on AirPods with Quick Tip: Disable the Dynamic Head-Tracking Option</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-infographic-guide-effective-video-promotion-tools/"><u>In 2024, Infographic Guide Effective Video Promotion Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/non-apple-top-rechargeable-airtags-protecting-your-wallet-like-never-before-discover-how/"><u>Non-Apple, Top Rechargeable AirTags: Protecting Your Wallet Like Never Before! Discover How</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-to-reset-your-skype-passcode/"><u>Simple Steps to Reset Your Skype Passcode</u></a></li>
-<li><a href="https://driver-install.techidaily.com/skyline-enhancement-three-windows-graphic-tricks/"><u>Skyline Enhancement: Three Windows Graphic Tricks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-the-ken-burns-effect-a-step-by-step-guide-for-2024/"><u>Updated Mastering the Ken Burns Effect A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-capture-screen-record-on-pcmac-plus-youtube-upload/"><u>[New] 2024 Approved Direct Capture Screen Record on PC/Mac + YouTube Upload</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-superrich-streamers-of-the-world/"><u>[New] Superrich Streamers of the World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-in-a-world-of-negative-video-reviews/"><u>[New] Thriving in a World of Negative Video Reviews</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-your-next-favorite-channel-for-global-adventures/"><u>[Updated] 2024 Approved Your Next Favorite Channel for Global Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-year-olds-financial-rise-via-youtube-stardom/"><u>[Updated] In 2024, 11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-android-moba-gems-discovering-the-classics/"><u>[Updated] In 2024, Android MOBA Gems Discovering the Classics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capturing-the-unseen-9-must-have-camgear-for-aspiring-vloggers/"><u>[Updated] In 2024, Capturing the Unseen 9 Must-Have CamGear for Aspiring Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[Updated] In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-story-hacks-your-path-to-prominence/"><u>[Updated] In 2024, Instagram Story Hacks Your Path to Prominence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cinematic-lighting-5-must-haves-for-streams/"><u>2024 Approved Cinematic Lighting 5 Must-Haves for Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-tales-woven-on-airwaves/"><u>Best Tales Woven on Airwaves</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-13-top-true-crime-stories-in-podcast-format/"><u>Explore 13 Top True Crime Stories in Podcast Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-to-smooth-youtube-video-documentation-for-2024/"><u>Guide to Smooth YouTube Video Documentation for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-clearing-the-microphone-effective-strategies-for-cutting-out-vocals-using-audacitys-spectrum-analyzer/"><u>Updated Clearing the Microphone Effective Strategies for Cutting Out Vocals Using Audacitys Spectrum Analyzer</u></a></li>
 </ul></div>
 
