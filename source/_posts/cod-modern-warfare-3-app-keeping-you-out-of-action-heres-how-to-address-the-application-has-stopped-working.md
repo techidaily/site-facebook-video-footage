@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 App Keeping You Out of Action? Here's How To Address The 'Application Has Stopped Working'"
-date: 2024-11-18T23:15:36.912Z
-updated: 2024-11-23T17:12:43.867Z
+date: 2024-11-26T07:24:56.789Z
+updated: 2024-12-01T23:40:39.388Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Run the game executable as administrator
 
  The first quick fix you can try is to run the game executable as administrator. Many players reported that providing the required administrator rights to Forza Horizon 5 has solved the crashing issue for them.
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
  You can either go to the game folder and directly run the game executable as administrator, or create a desktop shortcut then run it as admin. Both ways have solved the crashing problem for many players.
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -67,17 +67,13 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the graphics driver doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Check your antivirus software
@@ -93,7 +89,7 @@ If updating the graphics driver doesn’t help, try the next fix.
  If you’ve configured your antivirus software but Forza Horizon 5 still crashes on your PC, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Shut down background programs
@@ -110,6 +106,10 @@ If updating the graphics driver doesn’t help, try the next fix.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Refresh your network
 
  Some players have also been able to solve the crashing issue by resetting their network, so it’s definitely worth a try. The quickest way is to restart your network adapter, and this works for both wireless and wired connections. Here’s how:
@@ -119,15 +119,15 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
 
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
@@ -139,6 +139,10 @@ If updating the graphics driver doesn’t help, try the next fix.
 **If you’re using ethernet:** Unplug the ethernet cable from your PC, leave it disconnected for a minute, and then plug it back in.
 
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -153,15 +157,15 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
@@ -189,12 +193,12 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -202,7 +206,7 @@ If updating the graphics driver doesn’t help, try the next fix.
  If performing a clean boot doesn’t solve your problem, no worries, we have one more fix for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
@@ -215,10 +219,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -244,20 +244,14 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-budget-friendly-video-recorder-sets-top-11-picks/"><u>[New] 2024 Approved Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[New] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premier-moba-games-on-android-top-10-edition-for-2024/"><u>[New] Premier MOBA Games on Android - TOP 10 Edition for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ummary-of-short-videos-simplicity-included/"><u>[New] Summary of Short Videos, Simplicity Included</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-enriching-youtube-videos-with-harmonics/"><u>[New] The Ultimate Guide to Enriching YouTube Videos with Harmonics</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-streams-decoded-finding-your-special-hashtag/"><u>[New] TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-advanced-array-manipulations-and-sorting-algorithms/"><u>[Updated] In 2024, Advanced Array Manipulations and Sorting Algorithms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>[Updated] In 2024, Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-examining-social-media-comment-standouts/"><u>[Updated] In 2024, Examining Social Media Comment Standouts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>[Updated] In 2024, Perfect Your Focus A Guide to Roblox Tight Scopes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>[Updated] In 2024, Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/future-ready-coding-education-premier-online-learning-paths-for-developers/"><u>Future-Ready Coding Education - Premier Online Learning Paths for Developers</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-5-indicators-why-old-school-portables-shine/"><u>Ideal 5 Indicators: Why Old-School Portables Shine</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-macs-gaming-capability-with-baldurs-gate-3/"><u>Maximize Your Mac's Gaming Capability with Baldur’s Gate 3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-svchost-high-cpu-consumption-issues-on-windows-11/"><u>Understanding and Resolving Svchost High CPU Consumption Issues on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[New] Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>[Updated] In 2024, Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smooth-streaming-selective-stabilizer-guidebook/"><u>[Updated] Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-best-online-companion-for-customizing-your-video-branding/"><u>[Updated] The Best Online Companion for Customizing Your Video Branding</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-recording-gear-the-ultimate-voice-recorders-2023-for-2024/"><u>Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-dvd-playback-options-for-windows-10-updated-2023/"><u>New In 2024, Best Free DVD Playback Options for Windows 10 (Updated 2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-wmvcoredll-file-not-found-a-step-by-step-guide/"><u>Resolving 'Wmvcore.dll' File Not Found – A Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/singapores-push-investing-in-ai-and-green-tech-transformation-insights-from-zdnet/"><u>Singapore's Push: Investing in AI & Green Tech Transformation - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1727788173987-top-rated-mac-software-a-comprehensive-guide/"><u>Top-Rated Mac Software : A Comprehensive Guide</u></a></li>
 </ul></div>
 

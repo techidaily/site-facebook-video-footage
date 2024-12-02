@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Avoid Shaky Footage  Proper Tripod Usage Techniques in Vlog Creation for 2024\""
-date: 2024-11-22T02:17:45.591Z
-updated: 2024-11-23T18:48:54.917Z
+date: 2024-12-01T04:27:17.834Z
+updated: 2024-12-01T21:47:35.145Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
  This article will explain how to use a tripod and then introduce you to four different types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How To Set a Tripod for Vlogging
 
 #### 1\. Setting Up Your Tripod
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
  Ball Heads and Pan/Tilt Heads are the two most common types of tripod heads. Ball Heads allow you to adjust your camera’s position quite a bit before you start shooting. They are not good for adding in camera movements while you are filming, however, because you need to lock them in place. Pan/Tilt heads are great for creating camera movement. Most Pan/Tilt heads have a handle which you can use to make a smooth panning motion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Why Do You Need a Tripod: Benefits of Using Tripod
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
  On the go videos, are recorded at exterior locations, and a lot of YouTubers choose to shoot these types of videos handheld, but this approach makes it difficult to maintain the same shot composition for long. A Monopod, Gorillapod or just a simple selfie stick can make your job much easier because they stabilize the camera. In addition, shooting smooth panning shots without a tripod is as difficult as it sounds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: A Few Things You'll Need to Consider Before You Buy a Tripod
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 **Photo or Video Tripods:** Do you want to take beautiful panning shots? If the answer is yes then you should get a video tripod that enables you to move the camera smoothly in any direction. Photo tripods are a great option for static shots that don't involve a lot of camera movement.
 
  **Mobility:** The heavier a tripod is, the more stability it can provide, but carrying a tripod that weighs over 10 pounds to shoot sports or adventure vlogs can be a tiring endeavor. Although portability is a factor, it shouldn't prevent you from buying a high-quality tripod that will ensure your footage is perfectly smooth and stable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: 4 Types of Tripods
 
@@ -100,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 ![ YouTube Vlogger Tripod ](https://images.wondershare.com/filmora/article-images/camrah-smartphone-tripod.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An increasing number of Smartphones features powerful cameras that can record videos at high resolutions. Unfortunately, most iPhones and Android devices are lightweight, which makes it difficult to hold them perfectly still while shooting a video. CamRah Smartphone Tripod offers a perfect solution to this problem because it is easy to pack and you can carry it wherever you go, without needing the extra space.
 
  It weighs just 0.6lbs and it is 10.8 inches tall. The tripod has a maximum load of 11lbs which means that besides Smartphones, you can also mount action cameras, webcams, or even smaller DSLR cameras onto it. The flexible legs made from high-density foam offer stability even when the CamRah Tripod is placed on an uneven surface.
@@ -120,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 **Price:** $34.99
 
 ![ YouTube Vlogger Tripod ](https://images.wondershare.com/filmora/article-images/manfrotto-mini-tripod.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Yet another great option for shooting vlogs with a Smartphone. The Manfrotto Mini Travel Tripod kit is also an excellent choice for all vloggers who shoot their videos with compact cameras. The tripod weighs just 0.51lbs and it is 5.31 inches tall, which makes it a perfect travel companion. However, it can't support cameras heavier than 2.2lbs, so you have to carefully choose the camera you want to put on this tripod.
 
@@ -147,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 ![ YouTube Vlogger Tripod ](https://images.wondershare.com/filmora/article-images/joby-gorilla-pod.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This tripod is a superstar in the vlogging community because it is flexible, easy to set up and it fits into a pocket. Joby Gorilla Pod's legs are segmented, so you can freely choose an angle from which you want to shoot, without having to worry about the camera's stability. You can use this tripod on flat and uneven surfaces equally effectively.
@@ -220,16 +220,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakthrough-tools-an-analysis-of-the-top-10-cost-effective-video-design-schools-on-youtube/"><u>[New] 2024 Approved Breakthrough Tools An Analysis of the Top 10 Cost-Effective Video Design Schools on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[New] 2024 Approved Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>[New] In 2024, Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-description-engineer/"><u>[New] Video Description Engineer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dissecting-video-ranking-algorithms-on-youtube/"><u>[Updated] 2024 Approved Dissecting Video Ranking Algorithms on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] 2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-dynamic-storytelling-in-advertising-the-snapchat-way-for-2024/"><u>[Updated] Dynamic Storytelling in Advertising The Snapchat Way for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-improve-conference-efficiency-webcam-assisted-powerpoint/"><u>2024 Approved Improve Conference Efficiency Webcam-Assisted PowerPoint</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-black-boxes-an-insight-into-their-functioning-in-machine-learning-models/"><u>Demystifying 'AI Black Boxes': An Insight Into Their Functioning in Machine Learning Models</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-90-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor 90 Unlock Without Password</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidias-enhanced-geforce-210-drivers-for-optimal-windows-11-experience-latest-release-guide/"><u>NVIDIA's Enhanced GeForce 210 Drivers for Optimal Windows 11 Experience: Latest Release Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-shutter-wisdom-tips-for-astounding-image-finishes/"><u>[New] 2024 Approved Shutter Wisdom Tips for Astounding Image Finishes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[Updated] 2024 Approved A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-concealed-chronicles-your-ultimate-guide-to-secret-stories/"><u>[Updated] In 2024, Concealed Chronicles Your Ultimate Guide to Secret Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneering-video-content-success-expert-rank-tracking-solutions/"><u>[Updated] Pioneering Video Content Success - Expert Rank Tracking Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reigning-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>[Updated] Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-roadmap-to-your-own-instagram-corporate-identity/"><u>[Updated] The Roadmap to Your Own Instagram Corporate Identity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[Updated] Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-methods-unlocking-your-iphones-sim-card-sans-the-ejector-tool/"><u>Alternative Methods: Unlocking Your iPhone's SIM Card Sans the Ejector Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-win32-rpc-server-unavailable-error-code-0xc0000098-fixes-that-work-for-windows-users/"><u>Decoding Win32 RPC Server Unavailable (Error Code 0Xc0000098): Fixes That Work for Windows Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-zte-blade-a73-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix ZTE Blade A73 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 6s | Stellar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-guide-youtube-soundtracks-to-mp3-for-macos-2shift-for-2024/"><u>Quick Guide YouTube Soundtracks to MP3 for MacOS 2Shift for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unseen-horizons-the-top-3-non-youtube-video-havens-for-2024/"><u>Unseen Horizons The Top 3 Non-Youtube Video Havens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-for-fixed-energy-mode-switches-in-win11/"><u>Workarounds for Fixed Energy Mode Switches in Win11</u></a></li>
 </ul></div>
 

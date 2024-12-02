@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] YouTube 101  Tips for a Distraction-Free Video Backdrop\""
-date: 2024-08-01T02:51:28.506Z
-updated: 2024-08-02T02:51:28.506Z
+date: 2024-12-01T04:40:33.982Z
+updated: 2024-12-01T21:42:56.827Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
 # How to Blur Background of Your YouTube Video
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
 A lot of YouTubers like to vlog in front of blurred backgrounds. [Blurring the background of your YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) is a fast way to make it look more professional – you stand out when you are entirely in focus, and everything behind you is blurry. Plus, it is an easy way to disguise the room you are vlogging from.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to blur01](https://images.wondershare.com/filmora/article-images/how-to-blur01.JPG)
 
 Even if your set is clean, there could be things like books behind you, which will distract viewers; they will be trying to read the spines. Blurring out the background of your shot makes your video look polished and keeps people's focus entirely on you.
@@ -41,9 +35,6 @@ Even if your set is clean, there could be things like books behind you, which wi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
 
 Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
@@ -69,6 +60,10 @@ To get a shallow depth of field, make sure your aperture is wide. Do this by set
 
 Creating a bokeh effect is mostly the same, except that it works best when your subject/depth of field is very close to the camera, and you have a light source off in the background. Zoom Lenses do not usually have wide enough apertures to create bokeh backgrounds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Blur Video Background in Post-Production with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you need to blur the video background after shooting, you can use some video editing software to add the bokeh effect or the tilt-off effect in post-production. Here, I will show you how to do that in Filmora.
@@ -81,10 +76,11 @@ There are about 20 bokeh effects available in filters and overlays. You can find
 
 Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
 
@@ -96,21 +92,27 @@ Go to the **Effects** tab and then switch to the **Utility** menu under **Includ
 
 ![ Filmora Tilt-Shift effects ](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
 
 ![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
 
 You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -118,12 +120,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-converting-your-favourite-tracks-bridging-spotify-with-youtube-music-for-2024/"><u>[New] Converting Your Favourite Tracks Bridging Spotify with YouTube Music for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>[New] In 2024, Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-fb-discovering-shared-video-content/"><u>[New] Navigating FB Discovering Shared Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-novices-guide-to-building-a-youtube-studio-setup/"><u>[New] The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-the-10-most-influential-makeup-personalities-online/"><u>[Updated] 2024 Approved Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-behind-the-numbers-carryminatis-youtube-wealth-for-2024/"><u>[Updated] Behind the Numbers CarryMinati’s YouTube Wealth for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-content-with-google-trends-analytics-for-2024/"><u>[Updated] Crafting Engaging Content with Google Trends Analytics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-hurry-up-get-professional-valorant-thumbnail-skills-now/"><u>[Updated] Hurry Up, Get Professional Valorant Thumbnail Skills Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tapping-into-trending-topics-for-videography-ideas-via-google/"><u>[Updated] Tapping Into Trending Topics for Videography Ideas via Google</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-regular-payment-structures-in-youtuber-economics/"><u>2024 Approved Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-content-using-the-power-of-imovie/"><u>2024 Approved Transforming YouTube Content Using the Power of iMovie</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>2024 Approved Unlocking Real-Time Sharing Streaming Old Video to Facebook Audiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-moto-z2s-smarter-side-for-2024/"><u>A Deep Dive Into Moto Z2's Smarter Side for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-the-oculus-quest-2-headsets-microphone/"><u>Fixing Issues with the Oculus Quest 2 Headset's Microphone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-gif-a-simple-no-download-guide-for-video-creators/"><u>In 2024, YouTube-to-GIF A Simple, No-Download Guide for Video Creators</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-list-of-microsoft-office-replacements/"><u>The Ultimate List of Microsoft Office Replacements</u></a></li>
+</ul></div>
 

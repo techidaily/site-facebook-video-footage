@@ -1,7 +1,7 @@
 ---
 title: "[New] Cultivating Patience with YouTube Disapproval for 2024"
-date: 2024-08-01T02:50:40.974Z
-updated: 2024-08-02T02:50:40.974Z
+date: 2024-11-29T22:26:21.021Z
+updated: 2024-12-01T19:24:54.038Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -59,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -70,12 +68,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensive-guide-to-embedding-youtube-playlists-online/"><u>[Updated] 2024 Approved Comprehensive Guide to Embedding YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>[Updated] Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pinnacle-of-participation-events-post-vidcon/"><u>[Updated] Pinnacle of Participation Events Post-VidCon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>[Updated] Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-your-youtube-earnings-post-monetization-processes/"><u>[Updated] Streamlining Your YouTube Earnings Post-Monetization Processes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-virtual-reality-streaming-who-to-watch/"><u>2024 Approved Virtual Reality Streaming Who to Watch</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expanding-security-juniper-networks-integrates-cloud-firewall-into-sase-solutions-zdnet-insight/"><u>Expanding Security: Juniper Networks Integrates Cloud Firewall Into SASE Solutions - ZDNet Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-mpeg-2-file-converter-naar-wmv-offline-movavi-tool/"><u>Gratis Mpeg-2 File Converter Naar WMV Offline - Movavi Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-stuns-with-new-lightweight-aio-laptop-surprising-revelation-shakes-tech-world-on-zdnet/"><u>HP Stuns with New Lightweight AIO Laptop - Surprising Revelation Shakes Tech World on ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-harnessing-the-power-of-targeted-video-appeal/"><u>In 2024, Harnessing the Power of Targeted Video Appeal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimizing-flight-a-list-of-essential-drone-accessories/"><u>Optimizing Flight A List of Essential Drone Accessories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-beauteous-journey-mastering-beauty-on-youtube-for-2024/"><u>The Beauteous Journey Mastering Beauty on YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-k70e-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi K70E Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

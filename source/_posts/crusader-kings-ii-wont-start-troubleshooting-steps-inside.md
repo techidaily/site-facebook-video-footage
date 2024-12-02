@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-11-21T20:18:51.663Z
-updated: 2024-11-23T18:40:37.083Z
+date: 2024-11-25T06:04:40.729Z
+updated: 2024-12-02T08:00:27.284Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -43,7 +39,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
@@ -53,6 +49,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -66,10 +66,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
@@ -97,10 +93,18 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -110,6 +114,10 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
@@ -125,22 +133,18 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
@@ -153,10 +157,6 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -183,22 +183,19 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-secrets-to-optimize-gopro-camera-energy-consumption/"><u>[New] 2024 Approved Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-adding-depth-with-3d-text-in-photoshop-workflows/"><u>[New] Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-essence-of-asmr-videos-for-2024/"><u>[New] Decoding the Essence of ASMR Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-online-privacy-youtubes-access-controls/"><u>[New] In 2024, Enhancing Online Privacy YouTube's Access Controls</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-innovative-phone-applications-altering-your-natural-tone-for-2024/"><u>[New] Innovative Phone Applications Altering Your Natural Tone for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-9-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft/"><u>[New] Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-code-of-conduct-on-youtube-for-2024/"><u>[New] Ultimate Code of Conduct on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-dance-of-diction-creating-bounce-with-text/"><u>[Updated] 2024 Approved The Dance of Diction Creating Bounce with Text</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-power-through-engagement-ajays-success-on-youtube-monetization-for-2024/"><u>[Updated] Earning Power Through Engagement Ajay’s Success on YouTube Monetization for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquering-camera-fear-paving-the-path-to-youtube-success/"><u>[Updated] In 2024, Conquering Camera Fear Paving the Path to YouTube Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-cash-kings-leading-youtube-creators/"><u>[Updated] In 2024, Digital Cash Kings Leading YouTube Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-video-sound-best-free-wav-extractors-from-youtube/"><u>[Updated] Maximize Your Video Sound Best Free WAV Extractors From YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneering-youtube-visibility-through-strategic-thumbnails/"><u>[Updated] Pioneering YouTube Visibility Through Strategic Thumbnails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improve-gaming-fluidity-top-6-fixes-for-eliminating-stutters-and-drops-in-elden-ring/"><u>Improve Gaming Fluidity: Top 6 Fixes for Eliminating Stutters and Drops in Elden Ring</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-innovative-ai-powered-counselor-bots-and-applications-for-overcoming-emotional-struggles/"><u>Top 5 Innovative AI-Powered Counselor Bots & Applications for Overcoming Emotional Struggles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/usb-c-to-desktop-connection-windows-11-driver-downloads-now-available/"><u>USB-C to Desktop Connection - Windows 11 Driver Downloads Now Available</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-reimagine-video-narratives-with-windows-10s-story-remix-tool/"><u>[New] 2024 Approved Reimagine Video Narratives with Windows 10'S Story Remix Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>[New] 2024 Approved The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevating-your-online-presence-with-advanced-zoom-filters/"><u>[Updated] 2024 Approved Elevating Your Online Presence with Advanced Zoom Filters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comedy-chorus-satirical-song-selections/"><u>[Updated] In 2024, Comedy Chorus Satirical Song Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>[Updated] In 2024, Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dive-into-9-premium-uncut-full-length-winter-wonderland-flicks/"><u>[Updated] In 2024, Dive Into 9 Premium, Uncut Full-Length Winter Wonderland Flicks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-views-premium-hashtags-to-spark-virality-in-video-snippets/"><u>[Updated] In 2024, Elevate Views Premium Hashtags to Spark Virality in Video Snippets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-visuals-using-chroma-key-effectively/"><u>[Updated] In 2024, Enhancing Visuals Using Chroma Key Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ving-a-noiseless-presence-on-social-video-platforms-for-2024/"><u>Achieving a Noiseless Presence on Social Video Platforms for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-your-path-to-optimal-hdr-camera-selection-for-2024/"><u>Crafting Your Path to Optimal HDR Camera Selection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-outdoor-home-theater-projectors-professional-ratings-and-detailed-evaluations-by-zdnet/"><u>Elite Selection of Outdoor Home Theater Projectors: Professional Ratings & Detailed Evaluations by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-updating-your-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Guide to Downloading and Updating Your Intel HD Graphics 5500 Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Phone Hassle-Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-tips-overcoming-the-ominous-black-screen-of-death-on-iphones/"><u>Troubleshooting Tips: Overcoming the Ominous 'Black Screen of Death' On iPhones</u></a></li>
 </ul></div>
 

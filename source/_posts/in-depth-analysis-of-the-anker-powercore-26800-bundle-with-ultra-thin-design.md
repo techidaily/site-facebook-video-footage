@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2024-11-16T22:15:01.950Z
-updated: 2024-11-24T04:50:41.382Z
+date: 2024-11-29T21:13:00.440Z
+updated: 2024-12-01T20:13:59.460Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -44,10 +44,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 [View On Walmart $68](https://www.walmart.com/ip/124219534) [View On Target $100](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Ftp-link-ac1900-mu-mimo-mesh-compatible-dual-band-router%2F-%2FA-79847605%3Fslfpid%3D3) [View On Staples $91](https://www.staples.com/tp-link-archer-c80-ac1900-dual-band-wireless-and-ethernet-router-black/product%5F24467939?cid=AFF%3A24467939&slfpid=3)
@@ -67,6 +63,10 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -76,7 +76,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -94,7 +94,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -107,11 +107,11 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
@@ -135,6 +135,10 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
  The Archer A9 is another affordable offering from TP-Link, with a price tag of under $100\. However, the A9 has a USB port and is compatible with Alexa and[IFTTT](https://www.lifewire.com/what-is-ifttt-4172417) —features the C80 lacks. I recently tested the A9 as well. The A9 offers more in the way of features, but I was able to get faster speeds and better coverage out of the C80\. If you want a router that offers a more comprehensive experience, go with the A9\. If you just want an affordable, speedy router that will maintain a signal at long range, you’ll probably be happy with the C80.
@@ -144,10 +148,6 @@ Lifewire / Erika Rawes
 **Fast speeds and an exceptionally long range.**
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -184,20 +184,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11-for-2024/"><u>[New] Achieve High Rankings on YouTube with Top SEO Tips (1-11) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-free-youtube-ending-creators-top-6-picks-for-2024/"><u>[New] Best Free YouTube Ending Creators - Top 6 Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dynamic-duo-shots-perfecting-youtube-video-splitting/"><u>[New] In 2024, Dynamic Duo Shots Perfecting YouTube Video Splitting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elite-10-hash-trackers-for-major-social-networks-fb-twt-and-ig/"><u>[New] In 2024, Elite 10 Hash Trackers for Major Social Networks FB, Twt & IG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-youtube-equipment-for-starting-your-channel-what-do-you-really-need/"><u>[New] In 2024, Essential YouTube Equipment For Starting Your Channel - What Do You Really Need?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[New] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-online-havens-for-sponsorship-initiatives-on-youtube/"><u>[Updated] Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-finest-9-free-youtube-brand-tools-online/"><u>[Updated] Unveiling the Finest 9 Free YouTube Brand Tools Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convertir-archivos-m4a-a-formato-aiff-gratuito-en-linea-con-movavi/"><u>Convertir Archivos M4A a Formato AIFF Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discount-alert-4-ways-to-save-big-on-filmora-software-for-2024/"><u>Discount Alert! 4 Ways to Save Big on Filmora Software for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-enhanced-viewing-pleasure-with-tcls-new-additions-19-cutting-edge-models-in-their-q-and-s-class-lineup/"><u>Experience Enhanced Viewing Pleasure with TCL's New Additions - 19 Cutting-Edge Models in Their Q and S Class Lineup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-lenovo-ideapad-ebook-100-driver-updates-optimized-for-windows-10-operating-system/"><u>Get the Latest Lenovo IdeaPad eBook 100 Driver Updates Optimized for Windows 10 Operating System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-s18-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo S18 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[New] Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-a-complete-guide-to-twitter-archive-mastery/"><u>[New] In 2024, A Complete Guide to Twitter Archive Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channeling-success-emulating-top-video-bloggers-techniques/"><u>[Updated] In 2024, Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-confirmation-techniques-for-youtube-accounts/"><u>[Updated] In 2024, Confirmation Techniques for Youtube Accounts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] In 2024, Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curating-the-perfect-mix-a-youtube-playlist-manual/"><u>[Updated] In 2024, Curating the Perfect Mix A Youtube Playlist Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] In 2024, Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-youtubes-latest-revenue-guidelines/"><u>[Updated] In 2024, Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-depth-football-footage-top-youtube-infographics/"><u>[Updated] In-Depth Football Footage Top YouTube Infographics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-multiple-channels-to-boost-online-visibility/"><u>[Updated] Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2543815-9781786780027-deep-awake/"><u>Deep Awake | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-8-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 8 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audiophiles-guide-to-the-premier-8-4k-blu-rays/"><u>In 2024, Audiophile's Guide to the Premier 8 4K Blu-Rays</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>In 2024, From Sky to Framing A Compreenasive Review of the Drone DJI Spark</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-streaming-high-resolution-content-from-windows-11-to-your-apple-tv-series/"><u>Step-by-Step Guide: Streaming High-Resolution Content From Windows 11 to Your Apple TV Series</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-best-iphone-selfie-devices-ranked-8-for-2024/"><u>The Best Iphone Selfie Devices Ranked (#8) for 2024</u></a></li>
 </ul></div>
 

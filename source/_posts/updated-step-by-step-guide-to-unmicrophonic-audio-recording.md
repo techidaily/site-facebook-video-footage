@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Unmicrophonic Audio Recording\""
-date: 2024-08-01T02:47:23.879Z
-updated: 2024-08-02T02:47:23.879Z
+date: 2024-11-25T23:35:44.842Z
+updated: 2024-12-01T20:08:30.170Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 # How to Record Good Audio Without a Microphone?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -43,8 +40,9 @@ Luckily, there are a lot of easy, free, things you can do to protect the quality
 * [6\. Do a Sound Check](#check)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Keep Your Camera Close (like, really close)
 
 The biggest problem with the mic built into any camera or phone is just that, since it’s with the camera, it’s usually too far away from you. Built-in mics can record decent audio up close, but usually, your camera will be set up farther away from you than an external mic would be.
@@ -54,13 +52,18 @@ For example, your camera’s mic might be just as good as a clip-on LAV, but tha
 Moving your camera/smartphone physically closer to you will make it hard to include anything besides your head and shoulders in your shot, but it will get you significantly better audio.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2.Shoot Somewhere Quiet
 
 The best way to limit the amount of background noise you pick up in your sound recording is to shoot somewhere where there’s no background noise. That probably seems really basic, but it’s something a lot of people just don’t do. It’s easy to default to recording in your home office, even though it’s right next to the kitchen where your family is bustling around, or in your bedroom even though there’s a busy street right outside your window.
 
 Sometimes the best thing you can do for your audio is simply to scout out a quiet room in your house where the sound recording conditions are better. Speaking of recording conditions…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Pick a Good Room
 
@@ -88,9 +91,6 @@ _You use the adhesive backing to attach the base velcro to your camera. The othe
 
 The only thing about a micromuff is that it costs about $30, and if you’re going to spend $30 on audio equipment then you could just buy yourself an inexpensive LAV mic. I only bring up the micromuff because it’s a very simple design you can probably DIY – you just need velcro with adhesive backing and any of the fluff-sources we just discussed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use a Free Audio App
 
 If you’re recording on a smartphone, you can download a free app that will let you make adjustments to your audio as you record it. With the right app, you can adjust your gain (volume is how you control ‘output’ audio, and gain is for ‘input’ audio. By turning up your gain, you can make your mic more sensitive), tempo, and more. A lot of the time, your audio recording app will also let you edit your audio afterward.
@@ -100,8 +100,9 @@ Even if you’re not recording video from your smartphone, it might be a good id
 Free audio apps: Hi-Q MP3 Voice Recorder (Android), RecForge II (Android), Smart Voice Recorder (Android), Audio Memos (iOS), and Recorder Plus (iOS).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Do a Sound Check
 
 Once you think you’ve got good audio set up – test it! You don’t want to do a whole video and find out when you play it back that your audio doesn’t sound good.
@@ -114,19 +115,11 @@ _This topic was suggested by RS Beauty over in the forums. Thanks for the idea!_
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) allows you to [record voiceover](https://tools.techidaily.com/wondershare/filmora/download/) and edit the recorded audio with mixer, equalizer and provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -136,12 +129,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audio-artisans-crafting-a-personal-library-with-6-best-free-youtube-apps/"><u>[New] 2024 Approved Audio Artisans Crafting a Personal Library with 6 Best Free YouTube Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eco-friendly-cities-redefining-urban-spaces-for-nature/"><u>[New] 2024 Approved Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-no1-quick-capture-time-lapsing-system/"><u>[New] 2024 Approved No.1 Quick Capture Time-Lapsing System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-converting-youtube-videos-into-engaging-gifs-on-devices-for-2024/"><u>[New] Converting YouTube Videos Into Engaging GIFs on Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-embrace-serenity-the-10-best-online-yoga-masters-today-for-2024/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-envisioned-masterpieces-iphones-top-10-photographic-rules-for-2024/"><u>[New] Envisioned Masterpieces IPhone's Top 10 Photographic Rules for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-insight-into-youtubes-latest-income-and-rewards/"><u>[New] Insight Into YouTube's Latest Income and Rewards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-video-thumbnail-making-for-popular-content/"><u>[New] The Art of Video Thumbnail Making for Popular Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-guide-to-youtube-shorts/"><u>[New] Your Ultimate Guide to YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diving-deep-into-youtube-launching-and-earning-your-way-for-2024/"><u>[Updated] Diving Deep Into Youtube Launching and Earning Your Way for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-guide-to-aspect-ratios-for-effective-youtube-engagement-for-2024/"><u>[Updated] Essential Guide to Aspect Ratios for Effective YouTube Engagement for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-become-an-expert-at-youtube-live-streams-with-google-meet/"><u>2024 Approved Become an Expert at YouTube Live Streams with Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>2024 Approved Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-learning-gadgets-navigating-the-process-of-securing-a-dell-academic-discount/"><u>Affordable Learning Gadgets: Navigating the Process of Securing a Dell Academic Discount</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-asus-rog-phone-8-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Asus ROG Phone 8 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/brushstrokes-breakthrough-top-10-mac-drawers-at-no-cost-for-2024/"><u>Brushstrokes Breakthrough Top 10 Mac Drawers at No Cost for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-chivalry-2-a-guide-to-resolving-game-crashes/"><u>Fixing Chivalry 2: A Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solving-srt-export-issues-in-adobe-premiere-pro/"><u>Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-resolving-issues-with-your-logitech-wireless-joystick-f710-for-windows-users/"><u>Ultimate Guide: Resolving Issues with Your Logitech Wireless Joystick (F710) for Windows Users</u></a></li>
+</ul></div>
 

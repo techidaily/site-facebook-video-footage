@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes"
-date: 2024-11-19T16:08:16.070Z
-updated: 2024-11-23T17:09:14.309Z
+date: 2024-11-26T00:42:46.057Z
+updated: 2024-12-01T23:31:47.174Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  Many users have been reporting**Vegas Pro keeps crashing while in use** . Sometimes people may lose hours of work. The good news is, there are some known fixes available. Read on and find out what they are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix it?
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Delete temporary files in Windows
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%temp%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
@@ -66,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
 
@@ -93,10 +89,6 @@ Once done, restart your PC and check if Vegas crashes again.
 
 If the issue is still there, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your graphics card driver
 
  An outdated or faulty driver can cause a lot of problems including program crashing. In our case, you may want to update your graphics card driver, to make sure it’s functioning properly.
@@ -115,19 +107,19 @@ If the issue is still there, you can move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Import your footage via the Explorer window
@@ -138,13 +130,13 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Customize Vegas Pro Settings
 
@@ -165,8 +157,16 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
 
@@ -186,7 +186,7 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
@@ -228,16 +228,24 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-practices-saving-whatsapp-conversations-audio-wise-for-2024/"><u>[New] Best Practices Saving WhatsApp Conversations Audio-Wise for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-youtube-submission-with-imovie-files/"><u>[New] Navigating YouTube Submission with iMovie Files</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transformative-thumbnails-with-immersive-scenes/"><u>[New] Transformative Thumbnails with Immersive Scenes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-5-effective-tricks-for-youtube-subscriber-surges-for-2024/"><u>[Updated] 5 Effective Tricks for YouTube Subscriber Surges for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] In 2024, Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>[Updated] Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>2024 Approved Tailor Your Tweets Exceptional Video to Twitch Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funimate-the-game-changers-manual-for-2024/"><u>Funimate The Game Changer's Manual for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a24-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A24 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/learn-photo-edits-like-a-pro-lunapic-for-starters/"><u>Learn Photo Edits Like a Pro LunaPic for Starters</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-8-facebook-movie-downloaders/"><u>Top 8 Facebook Movie Downloaders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-start-setting-up-and-using-obs-on-a-mac-computer/"><u>[New] 2024 Approved Quick Start Setting Up and Using OBS on a Mac Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-engagement-with-custom-images-for-your-videos-for-2024/"><u>[New] Boost Engagement with Custom Images for Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-videography-7-free-sound-effects-collection-for-2024/"><u>[New] Elevate Your Videography - 7 Free Sound Effects Collection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-treasury-of-thought-provoking-youtube-content/"><u>[New] In 2024, A Treasury of Thought-Provoking YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-the-best-8-mirrorless-cameras-that-transform-vlogging/"><u>[New] In 2024, Discover the Best 8 Mirrorless Cameras That Transform Vlogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-deep-dive-into-youtube-app-features-on-smartphones/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube App Features on Smartphones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>[Updated] 2024 Approved The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-antique-cinematography-in-the-digital-realm-for-2024/"><u>[Updated] Antique Cinematography in the Digital Realm for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-narrative-pace-in-vlogging-through-jump-cuts/"><u>[Updated] In 2024, Boosting Narrative Pace in Vlogging Through Jump Cuts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-installation-how-to-for-moviemaker-6-on-pcs/"><u>[Updated] Installation How-To for Moviemaker 6 on PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-into-an-ultimate-hit-essential-seo-tips-for-youtube-videos/"><u>[Updated] Transform Into an Ultimate Hit Essential SEO Tips for YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978005664-achieve-perfect-compatibility-easy-download-and-setup-of-hp-driver-software/"><u>Achieve Perfect Compatibility: Easy Download and Setup of HP Driver Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-itel-s23-phone-by-drfone-android/"><u>How to Reset a Locked Itel S23 Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y100-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y100 Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-beats-pill-how-apple-is-revolutionizing-the-bluetooth-speaker-arena-again/"><u>Introducing The New Beats Pill: How Apple Is Revolutionizing the Bluetooth Speaker Arena Again</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-reactivate-nonfunctional-nvidia-cp/"><u>Methods to Reactivate Nonfunctional Nvidia CP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/prosperous-social-media-gurus-for-2024/"><u>Prosperous Social Media Gurus for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-savvy-constructing-innovative-and-memorable-boomers-for-2024/"><u>SnapChat Savvy Constructing Innovative and Memorable Boomers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-vga-drivers-today-free-downloads-available-here/"><u>Update Your VGA Drivers Today – Free Downloads Available Here</u></a></li>
 </ul></div>
 

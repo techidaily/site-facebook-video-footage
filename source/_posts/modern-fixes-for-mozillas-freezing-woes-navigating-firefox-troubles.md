@@ -1,7 +1,7 @@
 ---
 title: "Modern Fixes for Mozilla's Freezing Woes: Navigating Firefox Troubles"
-date: 2024-11-18T22:08:35.569Z
-updated: 2024-11-24T01:28:22.145Z
+date: 2024-11-29T22:34:47.149Z
+updated: 2024-12-02T07:36:21.718Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-37-33-1.jpg)
 
  Nox Player is one of the most popular Android emulators on the market, known for its powerful features and fast speed. However, some gamers have reported**Nox Player constantly crashes on PCs** . If you happen to be one of them, no worries! We have a few working fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 2. Under the**Processes** tab, select the process(es) that you want to shut down, and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_10-37-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Enable virtualization
@@ -58,10 +58,6 @@ If this doesn’t solve your problem, try the next fix.
  Virtualization technology allows multiple operating systems to run on one physical PC. Since we’re trying to run an Android emulator on a Windows PC, it’s essential to enable virtualization which could improve the performance of Nox Player.
 
  First you can check if virtualization is already enabled on your PC. If not, you’ll need to enable it in BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check if virtualization is turned on
 
@@ -76,10 +72,6 @@ If this doesn’t solve your problem, try the next fix.
 1. Click**Start** \>>**Power** . Hold down the**shift key** and click**Restart** at the same time. This will completely shut down your PC before it reboots.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/shut-down-pc.jpg)
 2. When your PC restarts and shows the manufacturer logo,**hold down the BIOS hotkey** until you enter BIOS setup.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The hotkey is usually**F1, F2, F12, Del or Esc** depending on different models. If you’re not sure which one works on your PC, consult the manufacturer manual or search online.
 3. Find the virtualization setting in BIOS. The layout can also differ on motherboards, so you may see different terms. Look for**Virtual, Virtualization, VT-X, or SVM** .
@@ -96,6 +88,10 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-09-45.jpg)
 4. **Untick the boxes of Hyper-V related settings** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-10-11.jpg)
 
@@ -120,22 +116,30 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Nox Player is already on the exception list. If so, jump to[antivirus configuration](https://tools.techidaily.com/drivereasy/download/) . If not, follow the steps below to unblock Nox Player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Add Nox Player to the exception list**
 
 1. Click**Change settings** , then click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05.jpg)
 2. Click**Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-12-02.jpg)
 5. **Tick the checkbox of Private network** . This will ensure Nox Player is only unblocked when you’re using a private network, such as home Wi-Fi, out of safety concerns. Or you can allow Nox Player through all types of networks if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05-1.jpg)
 6. Click**OK** to save the changes.
@@ -161,10 +165,6 @@ If this doesn’t solve your problem, try the next fix.
 
  If your antivirus program does seem to cause the problem, contact the supplier for further assistance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable overlays
 
  Many programs such as Twitch and Zoom have an overlay feature, which is quite handy. However, overlays could cause performance issues for other programs, including emulators and games. If your Nox Player keeps crashing while you have overlays turned on, make sure to disable them and test the issue.
@@ -172,7 +172,7 @@ If this doesn’t solve your problem, try the next fix.
 If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Update your graphics driver
@@ -200,6 +200,10 @@ If this doesn’t solve your problem, move on to the next fix.
 
  Restart your PC for the new driver to take effect. If your graphics card driver is up-to-date but Nox still crashes, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Increase virtual memory size on your PC
 
  Insufficient virtual memory (paging file) size can be a reason that Nox Player keeps crashing. Increasing virtual memory on your PC may help with the problem, so you can configure as needed. Here’s how:
@@ -211,12 +215,12 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab. Under the Performance option, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-18-37.jpg)
 4. Switch to the**Advance** d tab and click**Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-19-32.jpg)
 5. You’ll see your virtual memory (paging file) size.  
@@ -233,10 +237,6 @@ If this doesn’t solve your problem, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-msinfo32.jpg)
 3. In the pop-up window, look for**Installed Physical Memory (RAM)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Once you know how much RAM you have, use the following formula to calculate the values you should fill in:  
 
@@ -255,15 +255,20 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 1. Launch Nox Player. Click the**gear icon** on the top-right corner to open system settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-55-49.jpg)
 2. In the**Performance settings** , you can try switching between the**graphics rendering modes** to see which brings better performance. Also**lower the resolution** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this doesn’t fix your problem, we have one more fix you can try.
 
@@ -272,10 +277,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
  One last thing you can try is to update the Nox Player or reinstall the whole program. Using the new versions can fix known bugs and will likely reduce crashes. By clicking the**three-line icon** on the top-right corner, you’ll be able to**check for update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-20-28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To do a clean reinstall, make sure you delete the Nox Player as well as all the local files and cache before you reinstall the app.
 
@@ -302,18 +303,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brief-but-impactful-music-shorts-on-youtube-unveiled/"><u>[New] 2024 Approved Brief but Impactful Music Shorts on YouTube Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-clearing-up-your-video-quality-issues-for-2024/"><u>[New] Clearing Up Your Video Quality Issues for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-secrets-of-youtube-music-curation/"><u>[New] Unveiling the Secrets of YouTube Music Curation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-precision-guided-tour-unearthing-hidden-youtube-gems/"><u>[Updated] Precision-Guided Tour Unearthing Hidden YouTube Gems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-writers-guide-embedding-images-in-articles-without-spending/"><u>[Updated] Writers' Guide Embedding Images in Articles Without Spending</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>2024 Approved Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-digital-time-machine-tracking-back-through-facebooks-history-device-based/"><u>In 2024, Digital Time Machine Tracking Back Through Facebook's History (Device-Based)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-master-youtube-ad-creation-with-no-cost-guide-inside/"><u>In 2024, Master YouTube Ad Creation with No Cost – Guide Inside!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-windows-11-with-top-tips-for-2024/"><u>Mastering Windows 11 with Top Tips for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated In 2024, A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-dark-screen-fix-update/"><u>Windows 10 Dark Screen Fix Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-approach-for-managing-cc-rights-and-usage-for-2024/"><u>[New] Best Approach for Managing CC Rights & Usage for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-free-banner-templates-for-youtube-downloads-and-makers/"><u>[New] In 2024, Free Banner Templates for YouTube Downloads & Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>[New] IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-closer-video-in-google-meet-sessions/"><u>[New] Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-youtube-video-splitting/"><u>[New] The Ultimate Guide to YouTube Video Splitting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakdown-of-youtubes-money-making-mechanisms-cpm-for-2024/"><u>[Updated] Breakdown of YouTube’s Money-Making Mechanisms (CPM) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-startup-to-stardom-with-youtube-seo-basics/"><u>[Updated] From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-sound-selection-top-5-noise-canceling-earbuds-for-2024/"><u>[Updated] Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-proven-ways-to-enhance-your-home-nba-streams/"><u>2024 Approved Proven Ways to Enhance Your Home NBA Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-practical-approach-to-zoom-meetings/"><u>A Practical Approach to Zoom Meetings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-deleting-personal-accounts-from-your-pc-running-windows-11/"><u>Expert Advice on Deleting Personal Accounts From Your PC Running Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/glion-dollys-electric-scooter-reviewed-fast-chic-but-expensive-choice-for-urban-commuting/"><u>Glion Dolly's Electric Scooter Reviewed: Fast, Chic, But Expensive Choice for Urban Commuting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a78withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A78with/without a PC</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/hddssd-sata-usb/"><u>HDDからSSDへ直接クローニング - SATA-USBコネクタ不要</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/partner-vids-for-rapid-channelnode-growth-for-2024/"><u>Partner Vids for Rapid Channelnode Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/puns-and-plots-developing-7-funny-video-storylines-for-2024/"><u>Puns & Plots Developing 7 Funny Video Storylines for 2024</u></a></li>
 </ul></div>
 

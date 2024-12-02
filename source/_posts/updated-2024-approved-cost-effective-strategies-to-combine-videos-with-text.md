@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Cost-Effective Strategies to Combine Videos with Text\""
-date: 2024-11-19T18:11:21.430Z
-updated: 2024-11-24T03:37:10.471Z
+date: 2024-11-27T02:44:38.420Z
+updated: 2024-12-01T21:25:04.892Z
 tags:
   - ai video
   - ai youtube
@@ -41,7 +41,7 @@ Head over to the Insert tab, select Rectangle from the Shapes menu, and create a
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
@@ -50,9 +50,17 @@ Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down
 
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Adding Video to Text in Filmora
 
@@ -61,23 +69,19 @@ Besides presentation software, you can also use video editing software products 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
@@ -85,10 +89,6 @@ Proceed to select a font and adjust the text size before deciding if you want to
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -117,18 +117,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-storytelling-free-soundtrack-options-available/"><u>[New] 2024 Approved Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-picks-top-9-video-chat-and-conference-apps-iosandroid/"><u>[New] 2024 Approved Expert Picks Top 9 Video Chat & Conference Apps iOS/Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-affordable-gaming-wonders-keyboards-under-100-reviewed/"><u>[Updated] 2024 Approved Affordable Gaming Wonders Keyboards Under $100 Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-prime-asmr-software-options-for-2024/"><u>[Updated] Android & iOS Prime ASMR Software Options for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-diving-into-drones-syma-x5c-review-beginners-dream-uav/"><u>[Updated] Diving Into Drones? Syma X5C Review Beginner's Dream UAV</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-unlock-your-potential-50-free-high-impact-banners-at-your-disposal/"><u>2024 Approved Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-13c-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus Nord N30 SE</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-spotting-unique-audience-groups/"><u>In 2024, Youtube Mastery Spotting Unique Audience Groups</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/manual-paso-a-paso-para-instalar-y-usar-el-programa-winxdvd/"><u>Manual Paso a Paso Para Instalar Y Usar El Programa WinXDVD</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies-for-2024/"><u>The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-pristine-video-quality-on-youtube/"><u>[New] In 2024, Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-budding-buyers-guide-monetization-platforms-for-novice-channels/"><u>[New] In 2024, Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>[New] Top 10 YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-free-android-video-call-apps-compared-for-2024/"><u>[New] Top Free Android Video Call Apps Compared for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-brightening-filmmaking-ranking-the-17-best-lights/"><u>[Updated] 2024 Approved Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beat-bringers-sourcing-premium-dj-visuals/"><u>[Updated] In 2024, Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insightful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund/"><u>[Updated] Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-see-who-saved-your-instagram-posts/"><u>How to See Who Saved Your Instagram Posts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a2-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-redmi-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Redmi 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-play-pokemon-unite-successfully/"><u>Step-by-Step Tutorial on How to Play Pokémon Unite Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stitch-together-photographs-the-montage-masterclass/"><u>Stitch Together Photographs The Montage Masterclass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-youtubes-full-rotation-streaming-potential-for-2024/"><u>Unveiling YouTube’s Full-Rotation Streaming Potential for 2024</u></a></li>
 </ul></div>
 

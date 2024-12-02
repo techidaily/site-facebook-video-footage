@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Video Selfie Mastery  Tips From Top YouTubers\""
-date: 2024-08-01T02:48:55.197Z
-updated: 2024-08-02T02:48:55.197Z
+date: 2024-11-30T16:17:59.409Z
+updated: 2024-12-02T07:29:57.826Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
 # 4 Ways To Set Up Your Talking-Head Shots For YouTube
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -34,21 +31,16 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
 ### 1.  Close Quarters Wide-Angle Vlog Set-Up
@@ -66,8 +58,9 @@ Objects and people that just make it into the sides of the frame will appear mor
 If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.  Medium Vlog Set-Up
 
 If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
@@ -91,8 +84,9 @@ If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you 
 With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4.  Long Teleprompter Vlog Set-Up
 
 If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
@@ -115,7 +109,15 @@ To make a talking-head video more interesting, you can add some background music
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -123,12 +125,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chortle-chronicles-recording-7-amusing-video-adventures/"><u>[New] 2024 Approved Chortle Chronicles Recording 7 Amusing Video Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-deep-dive-into-the-top-9-youtube-downloader-apps-for-android-for-2024/"><u>[New] A Deep Dive Into the Top 9 YouTube Downloader Apps for Android for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-links-for-acquiring-youtube-preview-templates-online/"><u>[New] In 2024, Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes/"><u>[New] The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-recording-tips-for-recording-audio-with-high-quality/"><u>[Updated] 2024 Approved 10 Recording Tips for Recording Audio with High Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring/"><u>[Updated] 2024 Approved Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-constructing-youtube-video-content-that-resonates-with-viewers-for-2024/"><u>[Updated] Constructing YouTube Video Content That Resonates with Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unbox-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>[Updated] Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-echo-chamber-recorders/"><u>In 2024, Ideal Echo Chamber Recorders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-camon-20-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Camon 20 Phones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-high-cost-justified-in-depth-look-at-the-quality-and-features-of-ws-1002-ambient-weather-station-with-wifi/"><u>Is the High Cost Justified? In-Depth Look at the Quality and Features of WS-1002 Ambient Weather Station With WiFi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/los-mejores-5-softwares-free-backup-and-proteccion-de-datos-para-windows-11/"><u>Los Mejores 5 Softwares Free Backup & Protección De Datos Para Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-data-corruption-in-win11-os/"><u>Remedying Data Corruption in Win11 OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Services for macOS: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-guide-igniting-video-visionaries-in-your-channel-for-2024/"><u>Ultimate Guide Igniting Video Visionaries in Your Channel for 2024</u></a></li>
+</ul></div>
 

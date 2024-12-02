@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Enlightening Your YouTube Footage with Proper Lighting\""
-date: 2024-11-18T23:46:36.831Z
-updated: 2024-11-23T16:08:50.772Z
+date: 2024-11-27T03:38:12.305Z
+updated: 2024-12-02T04:45:27.440Z
 tags:
   - ai video
   - ai youtube
@@ -35,16 +35,12 @@ Below, I’ll go into detail on how you can set up your lighting equipment to ma
 | Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Using Light You Already Have
 
 Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.  Window Lighting
@@ -74,12 +70,16 @@ Ceiling lights are also typically situated in the center of a room in order to l
 If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1. Light Control
 
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. 3-Point Lighting
 
@@ -101,6 +101,10 @@ What you’ll need to ensure that your background is sufficiently lit is 4-point
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Touch Up YouTube Videos with Filmora
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
@@ -108,14 +112,10 @@ For more information on lighting equipment, check out my [Top 17 Video Lighting 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -132,24 +132,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-verification-a-new-look-at-app-quality/"><u>[New] 2024 Approved Virtual Verification A New Look at App Quality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-snapshot-success-mastering-the-art-of-xbox-one-captures/"><u>[New] In 2024, Snapshot Success Mastering the Art of Xbox One Captures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-laugh-out-loud-a-step-by-step-meme-building/"><u>[New] Laugh Out Loud A Step-by-Step Meme Building</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[New] Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-selfie-mastery-tips-from-top-youtubers/"><u>[New] Video Selfie Mastery Tips From Top YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhanced-audio-experience-top-5-game-headsets-for-streaming-for-2024/"><u>[Updated] Enhanced Audio Experience Top 5 Game Headsets for Streaming for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-a-youtube-music-playlist-for-2024/"><u>[Updated] How to Create a YouTube Music Playlist for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-license-free-mcb-video-backgrounds/"><u>[Updated] License-Free MCB Video Backgrounds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-posting-youtube-videos-to-your-facebook-feed/"><u>[Updated] Posting YouTube Videos to Your Facebook Feed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-youtubers-blueprint-building-a-powerhouse-channel/"><u>[Updated] The YouTuber’s Blueprint Building a Powerhouse Channel</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-15-plus-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 15 Plus Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-vlc-revealed-in-detailed-review/"><u>In 2024, Alternatives to VLC Revealed in Detailed Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/ranking-safe-digital-connections/"><u>Ranking Safe Digital Connections</u></a></li>
-<li><a href="https://win-bits.techidaily.com/rapid-recovery-expanding-your-usbs-storage-space-in-a-flash-with-windows-11/"><u>Rapid Recovery: Expanding Your USB's Storage Space in a Flash with Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-essentials-of-adding-emojis-to-youtube-discussions-for-2024/"><u>The Essentials of Adding Emojis to Youtube Discussions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-framework-for-captivating-streams-on-youtube-for-2024/"><u>The Ultimate Framework for Captivating Streams on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-subscriber-awards-the-play-button-awards-for-creators-for-2024/"><u>YouTube Subscriber Awards The Play Button Awards for Creators for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/44k544ou44o844oh44kj44gq44ov44oz44kv44oq44od44kv44gn5asx44kp44km44gf5oof5acx44ks5yplusw44kk5oi744gb44kl5oml6lu954sh5paz6kej5p6q77yt44gk44gu44og44kv44ol44od4210/"><u>スピーディなワンクリックで失われた情報を取り戻せる手軽無料解析３つのテクニック</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[New] 2024 Approved Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-practices-selecting-among-top-9-free-logo-designers/"><u>[New] 2024 Approved Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-streaming-giants-vimeo-youtube-or-dailymotion-in-2024/"><u>[New] Choosing Streaming Giants Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-potential-optimizing-short-films-in-marketing/"><u>[New] Unleash Potential Optimizing Short Films in Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>[Updated] Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-screens-final-touches/"><u>[Updated] Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-saving-every-word-a-guide-to-fb-messenger-call-logs-for-2024/"><u>[Updated] Saving Every Word A Guide to FB Messenger Call Logs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-new-recording-solutions-that-excel-beyond-fbx-limits-for-2024/"><u>[Updated] Top 10 New Recording Solutions That Excel Beyond FBX Limits for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/powerdirectors-complete-overhaul-a-2024-review-and-guidebook/"><u>PowerDirector's Complete Overhaul A 2024 Review & Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premier-cutting-suites-on-linux-systems-for-2024/"><u>Premier Cutting Suites on Linux Systems for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y78t on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211189274-9781800653535-walking-with-the-seasons/"><u>Walking with the Seasons | Free Book</u></a></li>
 </ul></div>
 

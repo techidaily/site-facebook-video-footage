@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Halt Autoplay YouTube Recommendations"
-date: 2024-11-22T19:14:44.623Z
-updated: 2024-11-24T02:17:05.810Z
+date: 2024-11-30T23:03:49.357Z
+updated: 2024-12-02T00:29:09.600Z
 tags:
   - ai video
   - ai youtube
@@ -38,16 +38,12 @@ Here’s what you can do about it:
 2. [**Tell YouTube You Aren’t Interested**](#notinterested)
 3. [**But Why Does It Recommend Stuff I Don’t Like?**](#butwhy)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Manage Your Watch History
 
 ![Manage Watch History](https://images.wondershare.com/filmora/article-images/manage-watch-history.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Scroll to the bottom of any page on YouTube and you will see a button marked **History** with an hourglass icon. To access this feature using a mobile device, go to the **Account** tab and tap **History**.
@@ -56,9 +52,17 @@ You will be able to completely clear your watch history, remove specific videos 
 
 If you are being recommended more things you aren’t interested in than things you are, you might want to clear your history completely and start fresh. Maybe your tastes have changed since YouTube started keeping track of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tell YouTube You Aren’t Interested
 
 ![Tell YouTube Not Interested](https://images.wondershare.com/filmora/article-images/tell-youtube-not-interested.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Based on your watch history, YouTube knows what you like. However, they have no way of automatically collecting data on what kinds of videos you’d rather not see.
 
@@ -67,10 +71,6 @@ What they do have is a system for you to flag recommendations you don’t like.
 Hover over the thumbnail of a video you don’t want to be recommended to you and a small icon that looks like three stacked dots will appear next to the title. Click on that, and then click **Not Interested**.
 
 When you tell YouTube you aren’t interested in certain videos they use that data to adjust what they recommend for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## But Why Does It Recommend Stuff I Don’t Like?
 
@@ -85,7 +85,7 @@ The only way to stop certain types of videos from being recommended for you is t
  Are you usually happy with YouTube's recommended videos?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What video editing software did YouTube suggested videos are used?
@@ -95,7 +95,7 @@ The only way to stop certain types of videos from being recommended for you is t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -113,19 +113,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-8-essential-tools-for-your-youtube-to-avi-needs-for-2024/"><u>[New] 8 Essential Tools for Your YouTube-to-AVI Needs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[New] In 2024, Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-angled-artistry-elevating-youtube-video-editing-skills-for-2024/"><u>[Updated] Angled Artistry Elevating YouTube Video Editing Skills for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[Updated] In 2024, Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-qui-ont-been-deleted-using-ccleaner/"><u>Comment Pouvez-Vous Récupérer Des Fichiers Qui Ont Been Deleted Using CCleaner?</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-code-6-issue-in-dive-into-call-of-duty-modern-warfare-and-battlefield/"><u>Fixing Code 6 Issue in Dive Into Call of Duty: Modern Warfare & Battlefield</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optional-12-cup-grated-parmesan-cheese/"><u>Optional: 1/2 Cup Grated Parmesan Cheese</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionary-top-8-methods-convert-subtitles-to-srt-format-seamlessly-for-2024/"><u>Revolutionary Top 8 Methods Convert Subtitles to SRT Format Seamlessly for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-leverage-youtubes-cc-licensing-for-2024/"><u>Strategies to Leverage YouTube's CC Licensing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>[New] 2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-behind-the-scenes-how-ajey-monetizes-content/"><u>[New] 2024 Approved Behind the Scenes How Ajey Monetizes Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-digital-image-grabbers/"><u>[New] 2024 Approved Elite Digital Image Grabbers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-impactful-waterway-teaser-for-2024/"><u>[New] Crafting an Impactful Waterway Teaser for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-access-to-no-cost-music-for-video-makers/"><u>[New] In 2024, Easy Access to No-Cost Music for Video Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-engage-viewers-with-an-effortless-youtube-animated-subscribe-button-using-filmora/"><u>[New] In 2024, Engage Viewers with an Effortless YouTube Animated Subscribe Button Using Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] In 2024, Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[Updated] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-complete-checklist-for-youtube-video-resolution-and-size/"><u>[Updated] The Complete Checklist for YouTube Video Resolution and Size</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-what-does-instantaneous-video-removal-mean-for-user-privacy-for-2024/"><u>[Updated] What Does Instantaneous Video Removal Mean for User Privacy for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v29-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo V29 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/platform-predicament-choosing-the-right-space-for-2024/"><u>Platform Predicament Choosing the Right Space for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/recuperation-reussie-de-donnees-manquantes-sur-le-disque-seagate-external-guide-complet-pour-les-utilisateurs/"><u>Récupération Réussie De Données Manquantes Sur Le Disque Seagate External : Guide Complet Pour Les Utilisateurs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ripple-effects-top-mobile-music-disruptors-for-2024/"><u>Ripple Effects Top Mobile Music Disruptors for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-15-gaming-streaming-services-ultimate-guide/"><u>Top 15 Gaming Streaming Services: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-portable-hard-drives-of-2024-the-ultimate-buying-guide/"><u>Top-Rated Portable Hard Drives of 2024: The Ultimate Buying Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-your-personal-touch-is-missing-on-your-windows-pc-reclaiming-ownership/"><u>Why Your Personal Touch Is Missing on Your Windows PC: Reclaiming Ownership</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-gaming-returns-made-easy-a-consumers-handbook/"><u>Xbox Gaming Returns Made Easy: A Consumer’s Handbook</u></a></li>
 </ul></div>
 

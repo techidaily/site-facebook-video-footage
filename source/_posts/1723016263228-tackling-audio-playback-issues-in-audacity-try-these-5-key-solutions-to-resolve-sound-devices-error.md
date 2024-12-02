@@ -1,7 +1,7 @@
 ---
 title: Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error
-date: 2024-11-20T17:24:47.610Z
-updated: 2024-11-24T02:58:19.488Z
+date: 2024-12-01T01:18:02.816Z
+updated: 2024-12-01T21:52:50.676Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -52,10 +56,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
@@ -67,6 +67,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
@@ -94,10 +98,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
  5) Click the**OK** button.
@@ -118,12 +118,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
@@ -148,10 +152,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -159,7 +159,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
@@ -204,16 +204,24 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[New] In 2024, Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads/"><u>[New] Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-picks-downloading-templates-from-youtube-vids/"><u>[New] Top Picks Downloading Templates From YouTube Vids</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-cutting-edge-techniques-in-gif-animation/"><u>[Updated] 2024 Approved Cutting Edge Techniques in GIF Animation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[Updated] In 2024, Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>[Updated] Love in Full Bloom Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y27s-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y27s FRP Bypass Instantly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/copper-content-discrepancy-in-pc-watercoolers-investigation-finds-false-advertising-prevails-on-two-thirds/"><u>Copper Content Discrepancy in PC Watercoolers: Investigation Finds False Advertising Prevails on Two-Thirds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-facts-about-navigating-lg-product-distribution/"><u>Key Facts About Navigating LG Product Distribution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-complete-guide-to-producing-high-impact-youtube-intros-for-2024/"><u>The Complete Guide to Producing High-Impact YouTube Intros for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics-for-2024/"><u>[New] Become the Brand You Want With Our Exclusive Set of FREE Graphics for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-youtube-live-streaming-software-and-hardware-you-should-know/"><u>[New] In 2024, Best YouTube Live Streaming Software and Hardware You Should Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[New] In 2024, Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] 2024 Approved From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[Updated] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creators-vs-youtubes-profit-policies/"><u>[Updated] In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-complete-playbook-for-youtube-shorts-template-success/"><u>[Updated] The Complete Playbook for YouTube Shorts Template Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-vocal-vortex-validity-of-the-transmutation-app-questioned-explore-more-alternatives-for-2024/"><u>[Updated] Vocal Vortex Validity of the Transmutation App Questioned - Explore More Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/3d-software-for-dynamic-youtube-intros/"><u>Best 3D Software for Dynamic YouTube Intros</u></a></li>
+<li><a href="https://techidaily.com/1723808021228-common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-toms-tech-insights-and-gadget-reviews/"><u>Explore Tom's Tech Insights & Gadget Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-create-animated-facebook-ads-with-high-roi-for-2024/"><u>How to Create Animated Facebook Ads With High ROI for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a54-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A54 5G Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-start-making-your-own-sports-highlight-film-for-2024/"><u>Quick Start Making Your Own Sports Highlight Film for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-10-solved/"><u>Start Menu Not Working in Windows 10 [Solved]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-production-workflow-elevate-video-quality-for-2024/"><u>Streamline Production Workflow Elevate Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-facts-in-the-asmr-world-for-2024/"><u>Top Facts in the ASMR World for 2024</u></a></li>
 </ul></div>
 

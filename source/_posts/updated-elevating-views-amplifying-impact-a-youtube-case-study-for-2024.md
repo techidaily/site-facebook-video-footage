@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevating Views, Amplifying Impact  A Youtube Case Study for 2024\""
-date: 2024-11-22T22:50:18.161Z
-updated: 2024-11-23T20:22:12.315Z
+date: 2024-11-27T08:40:53.466Z
+updated: 2024-12-01T23:15:06.179Z
 tags:
   - ai video
   - ai youtube
@@ -31,7 +31,7 @@ You’ve probably heard of stories about individuals who managed to find financi
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Case Study of McJuggerNuggets
@@ -39,7 +39,7 @@ Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
@@ -91,7 +91,7 @@ Regular research into your target market will help you to create the trendiest n
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit Your Videos with High-Quality Video Editor
@@ -99,13 +99,13 @@ Timing and luck are definitely two of the biggest factors in becoming a success 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -123,20 +123,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-amazing-free-youtube-intro-makers-ranked/"><u>[New] 2024 Approved 5 Amazing Free YouTube Intro Makers Ranked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips-for-2024/"><u>[New] Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-earning-game-with-youtubes-member-status-for-2024/"><u>[New] Elevate Your Earning Game with YouTube's Member Status for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cracking-the-code-calculating-your-income-from-youtubes-cpm/"><u>[New] In 2024, Cracking the Code Calculating Your Income From YouTube's CPM</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>[New] In 2024, The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-accelerate-follower-count-key-strategies-unlocked/"><u>[Updated] In 2024, Accelerate Follower Count Key Strategies Unlocked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-name-magic-ideas-for-impactful-titles/"><u>[Updated] In 2024, Channel Name Magic Ideas for Impactful Titles</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-vip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 VIP in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>In 2024, 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>In 2024, Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/monochrome-disruption-visual-anomaly/"><u>Monochrome Disruption: Visual Anomaly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-kids-guide-to-video-editing-10-essential-apps-to-learn-and-play/"><u>New 2024 Approved Kids Guide to Video Editing 10 Essential Apps to Learn and Play</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tutorial-steps-for-transferring-retrieved-edb-mailboxes-from-pstedb-to-active-exchange-servers/"><u>Tutorial: Steps for Transferring Retrieved EDB Mailboxes From PST/EDB to Active Exchange Servers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-conversion-made-simple-learn-how-without-spending-a-dime-for-2024/"><u>YouTube Conversion Made Simple – Learn How Without Spending a Dime for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-collaboration-techniques-in-video-making-viewership-up/"><u>[New] 2024 Approved Collaboration Techniques in Video Making, Viewership Up</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[New] 2024 Approved Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-4-sites-for-free-skype-tones/"><u>[New] 2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-compreehed-guide-to-online-identity-youtube-account-setup-for-2024/"><u>[New] A Compreehed Guide to Online Identity YouTube Account Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-deciphering-youtube-monetization-success-codes/"><u>[New] In 2024, Deciphering YouTube Monetization Success Codes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-8-linux-software-for-editors/"><u>[Updated] 2024 Approved Essential 8 Linux Software for Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-promote-youtube-videos-without-paying/"><u>[Updated] How to Promote YouTube Videos (Without Paying)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70E without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-live-streaming-tools-exploring-manycam-features-and-virtual-webcams/"><u>Best Live Streaming Tools: Exploring ManyCam Features and Virtual Webcams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>In 2024, The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-audio-quality-a-no-mic-approach-for-2024/"><u>Perfecting Audio Quality A No-Mic Approach for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/"><u>Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens-for-2024/"><u>Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-directors-weaving-visual-auditory-tapestries/"><u>Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-movie-watchlists-for-efficient-screen-time-for-2024/"><u>Ultimate Movie Watchlists for Efficient Screen Time for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updated-ultimate-guide-to-choosing-the-13-finest-mkv-file-conversion-tools-online/"><u>Updated Ultimate Guide to Choosing the 13 Finest MKV File Conversion Tools Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-videography-101-editing-essentials-taught-for-2024/"><u>YouTube Videography 101 Editing Essentials Taught for 2024</u></a></li>
 </ul></div>
 

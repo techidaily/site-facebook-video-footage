@@ -1,7 +1,7 @@
 ---
 title: How to Fix Dota 2 Lagging – 2024 Tips
-date: 2024-11-23T02:17:31.516Z
-updated: 2024-11-24T00:37:20.886Z
+date: 2024-11-25T19:52:15.016Z
+updated: 2024-12-01T22:58:14.837Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 _Dota 2_ constantly crashes your computer during the gameplay? You’re not alone! Many players are reporting it. This issue might occur for several reasons, such as incompatible drivers, software conflicts, corrupt game files, improper game installation/update and PC overheating.
 
 But the good news is that you can fix it. Here’re 9 fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Dota 2 crashing issues?
 
@@ -42,10 +38,6 @@ But the good news is that you can fix it. Here’re 9 fixes to try.
  Sometimes, Dota 2 might crash or stop responding because of a temporary issue that can be fixed with a simple reboot. A restart clears off the current state of your operating system/software and helps you get rid of troublesome codes.
 
 If Dota 2 still crashes randomly, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the graphics driver
 
@@ -68,10 +60,6 @@ If Dota 2 still crashes randomly, try the fix below.
  Or click**Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -125,7 +113,7 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-322.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -133,12 +121,16 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-323.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Relaunch your game to test your issue.
 
  If_Dota 2_ crashing issues happen again, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Adjust virtual memory
 
@@ -154,6 +146,10 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
@@ -162,13 +158,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -179,10 +175,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4096M is enough.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-909.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -221,7 +213,7 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Type**\-safe** and click**OK** .
@@ -254,6 +246,10 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-autoconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
@@ -270,9 +266,17 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-612.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply > OK** .
 
@@ -283,7 +287,7 @@ If Dota 2 still crashes, check the fix below.
  If_Dota 2_ runs smoothly now, that’s great! If not, check the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall_Dota 2_
@@ -299,10 +303,6 @@ If Dota 2 still crashes, check the fix below.
 **3)**  Right-click **Dota 2**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**DELETE** .
 
@@ -344,18 +344,18 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[New] 2024 Approved Best of Breed Top-Rated Youtuber's Streaming Arsenal</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expert-video-making-opt-for-studio-versus-beta-version-for-2024/"><u>[New] Expert Video Making Opt for Studio Versus Beta Version for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-incremental-diminution-strategies-for-fl-studio-enthusiasts-for-2024/"><u>[New] Incremental Diminution Strategies for FL Studio Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-of-online-content-monetization-for-2024/"><u>[Updated] Behind the Scenes of Online Content Monetization for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-youtube-video/"><u>[Updated] How to Make YouTube Video</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide-for-2024/"><u>Closing an Outdated LinkedIn Profile A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/download-royalty-free-videos-from-these-top-websites/"><u>Download Royalty-Free Videos From These Top Websites</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/finding-fixes-your-missing-video-suggestions-on-fb-for-2024/"><u>Finding Fixes Your Missing Video Suggestions on FB for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-acoustic-enhancement-techniques-for-premiere-pro-videographers/"><u>In 2024, Acoustic Enhancement Techniques for Premiere Pro Videographers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-8-upgrades-for-webcam-video-quality/"><u>In 2024, Innovative 8 Upgrades for Webcam Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-file-m4a-in-mp4-gratuitamente-online-con-convertimp3/"><u>Trasforma I File M4A in MP4 Gratuitamente Online Con ConvertiMp3</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-dreams-unite-conference/"><u>[New] In 2024, Digital Dreams Unite Conference</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>[New] In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-inspiration-ideas-for-engaging-channels/"><u>[New] Unleashing Inspiration Ideas for Engaging Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-brand-voice-via-micro-business-videos-for-2024/"><u>[Updated] Building Brand Voice via Micro-Business Videos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-comparing-av1-and-vp9-which-is-more-advanced/"><u>[Updated] In 2024, Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-techniques-for-counteracting-virtual-insults/"><u>[Updated] Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-to-perfectly-integrate-jump-cuts-into-videos/"><u>[Updated] Tips to Perfectly Integrate Jump Cuts Into Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-pc-stability-issues-resolved-permanent-fix-guides/"><u>Football Manager 2021 PC Stability Issues Resolved – Permanent Fix Guides</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-audience-retention-through-engaging-shorts-for-2024/"><u>Optimizing Audience Retention Through Engaging Shorts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/peak-palette-manager-suite/"><u>Peak Palette Manager Suite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-household-planning-with-our-top-picks-of-7-family-friendly-calendar-applications/"><u>Simplify Household Planning with Our Top Picks of 7 Family-Friendly Calendar Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-low-volume-trouble-with-windows-11-pc-speakers-step-by-step-instructions/"><u>Solving Low Volume Trouble with Windows 11 PC Speakers - Step-by-Step Instructions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/voice-from-images-turning-instagram-into-mp3s-for-2024/"><u>Voice From Images Turning Instagram Into MP3s for 2024</u></a></li>
 </ul></div>
 

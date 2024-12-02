@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Crafting Effective YouTube Thumbnails & Banners"
-date: 2024-08-01T02:50:13.965Z
-updated: 2024-08-02T02:50:13.965Z
+date: 2024-12-01T01:18:55.627Z
+updated: 2024-12-01T21:55:50.797Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 # How to Make YouTube Banners and Thumbnails
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make YouTube Banners and Thumbnails
 
 YouTube Banners and Thumbnails are two of the most important pieces of channel art you will need. This article will explain the best practices for both, and suggest sites where you will be able to build your own banners and thumbnails for free.
@@ -69,24 +67,27 @@ One thumbnail taboo that you should never break is using an image that has nothi
 
 There are sites online that will allow you to edit images and use them in templates for YouTube banners. You can also use these services to edit your thumbnails. Two of the most popular, free, online photo editors are PicMonkey.com and Canva.com.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -94,12 +95,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-defeat-bot-intruders-elevate-video-engagement/"><u>[New] 2024 Approved Defeat Bot Intruders, Elevate Video Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-definitive-guide-to-android-mobas-10-winners/"><u>[New] 2024 Approved The Definitive Guide to Android MOBAs #10 Winners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-enhancement-for-online-video-creators-for-2024/"><u>[New] Audio Enhancement for Online Video Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-addressed-hidden-shorters-now-visible/"><u>[New] In 2024, Addressed Hidden Shorters, Now Visible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>[New] In 2024, Efficient Tools Simplifying the Task of Feedback Erasure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[New] In 2024, Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-lenovo-simple-recording-techniques-for-2024/"><u>[New] Lenovo Simple Recording Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-personalize-speakability-changing-your-tone-on-instagram-posts-for-2024/"><u>[New] Personalize Speakability Changing Your Tone on Instagram Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-creative-summit-top-talent-junction/"><u>[New] The Creative Summit Top Talent Junction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-free-youtube-ending-creators-top-6-picks-for-2024/"><u>[Updated] Best Free YouTube Ending Creators - Top 6 Picks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-rewind-designers-toolkit-for-2024/"><u>[Updated] Rewind Designer's Toolkit for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-automation-for-ubuntu-auto-gpt-setup/"><u>Intelligent Automation for Ubuntu: Auto-GPT Setup</u></a></li>
+<li><a href="https://win-news.techidaily.com/les-meilleurs-programmes-sans-frais-pour-la-sauvegarde-automatique-du-dernier-samsung-sur-les-systemes-dexploitation-windows-1187/"><u>Les Meilleurs Programmes Sans Frais Pour La Sauvegarde Automatique Du Dernier Samsung Sur Les Systèmes D'Exploitation Windows 11/8/7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/level-up-your-play-exclusive-ibuypower-deals-on-high-performance-gaming-pcs-for-memorial-day/"><u>Level Up Your Play: Exclusive iBUYPOWER Deals on High-Performance Gaming PCs for Memorial Day</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/phones-as-cameras-a-comprehensive-guide-to-mobile-video-production-for-2024/"><u>Phones as Cameras A Comprehensive Guide to Mobile Video Production for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-keyboards-comprehensive-testing-and-reviews-by-tech-experts-selection/"><u>Top-Rated Keyboards : Comprehensive Testing & Reviews by Tech Experts Selection</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 20 Essential YouTube Tips for Optimal Engagement for 2024"
-date: 2024-11-18T22:52:46.039Z
-updated: 2024-11-24T01:03:20.761Z
+date: 2024-11-25T06:50:42.631Z
+updated: 2024-12-02T04:59:38.734Z
 tags:
   - ai video
   - ai youtube
@@ -29,12 +29,16 @@ YouTube, as one of the most popular free streaming video portals, the majority o
 With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazing YouTube Keyboard Shortcuts You May Not Know
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Category 1: YouTube Playback Hotkeys
 
@@ -44,6 +48,10 @@ While watching a YouTube video, there might be instances when you want to pause 
 | ----------------- | -------------------------------------- |
 | 'K'               | Play and Pause (Works as a toggle key) |
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
@@ -73,6 +81,10 @@ This category contains information on increasing or decreasing the playback spee
 | 'SHIFT' + '.' (Period) | Increase playback speed |
 | 'SHIFT' + ',' (Comma)  | Decrease playback speed |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Category 4: Managing the Captions
 
 This category talks about managing the video captions using the shortcut keys:
@@ -86,7 +98,7 @@ This category talks about managing the video captions using the shortcut keys:
 | '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Category 5: Managing the Audio Video
@@ -112,10 +124,6 @@ The shortcut keys given in this table enable you to switch between different scr
 Double press F/T/I on the keyboard will exit the full-screen/theater model/independent mode accordingly.
 
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Category 7: Viewing 360o/VR Videos
 
@@ -149,15 +157,7 @@ As one of the most popular video editing software among YouTubers, Filmora provi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -174,24 +174,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-efficient-editing-for-quick-youtube-content/"><u>[New] 2024 Approved Efficient Editing for Quick YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enduring-removal-protocol-say-no-to-youtube-shorts-for-2024/"><u>[New] Enduring Removal Protocol Say No to YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-choosing-prime-audio-editors-for-youtube-creators/"><u>[New] In 2024, Choosing Prime Audio Editors for YouTube Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-monetize-your-youtube-shorts-essentials-possible-income/"><u>[New] Monetize Your Youtube Shorts Essentials, Possible Income</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-views-top-10-free-tools-for-custom-youtube-thumbnails/"><u>[Updated] 2024 Approved Boost Views Top 10 Free Tools for Custom YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-clear-distraction-free-viewing-of-old-youtube-content-for-2024/"><u>[Updated] Clear, Distraction-Free Viewing of Old YouTube Content for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>[Updated] Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-for-2024/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-15-youtube-starter-templates-a-guide-to-popularity/"><u>[Updated] In 2024, 15 YouTube Starter Templates A Guide to Popularity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[Updated] Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-best-video-editors-for-webcam-videos/"><u>2024 Approved 10 Best Video Editors for Webcam Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-marketing-making-a-trailer-that-sells-more/"><u>2024 Approved Channel Marketing Making a Trailer that Sells More</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortlessly-trim-your-videos-with-these-5-free-windows-11-applications/"><u>Effortlessly Trim Your Videos with These 5 Free Windows 11 Applications!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ience-the-new-unleash-a-set-of-50-designs-for-free-for-2024/"><u>Experience the New Unleash a Set of 50 Designs for Free for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/festplatten-formatieren-auf-windows-ebenso-einfach-wie-mit-einer-cd-zwei-wege-zum-loschen-des-inhalts/"><u>Festplatten Formatieren Auf Windows Ebenso Einfach Wie Mit Einer CD: Zwei Wege Zum Löschen Des Inhalts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ice-capped-inspiration-chinas-sports-spectacle-for-2024/"><u>Ice-Capped Inspiration China's Sports Spectacle for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lower-cost-repairs-await-apples-newest-iphone-the-15-pro/"><u>Lower Cost Repairs Await Apple's Newest iPhone: The 15 Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-youtube-playlist-in-html-for-2024/"><u>Step-by-Step Guide to YouTube Playlist in HTML for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-androids-audio-potential-mastering-the-art-of-ringtones-and-sounds-for-2024/"><u>Unleashing Android's Audio Potential Mastering the Art of Ringtones & Sounds for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube/"><u>[New] 2024 Approved Elevate Video Quality Mastering Aspect Ratio and Size Settings on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>[New] 2024 Approved Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-engagement-with-these-10-premier-youtube-seo-instruments-for-2024/"><u>[New] Elevate Engagement with These 10 Premier YouTube SEO Instruments for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-highlighted-20-anime-melodies-at-start-for-2024/"><u>[New] Highlighted 20 Anime Melodies at Start for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-visibility-on-youtube-the-ultimate-guide-to-featured-channel-placement/"><u>[New] In 2024, Crafting Visibility on YouTube The Ultimate Guide to Featured Channel Placement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earn-big-on-youtube-strategies-for-successful-creators/"><u>[New] In 2024, Earn Big on YouTube Strategies for Successful Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-honor-roll-play-button-and-follower-awards/"><u>[Updated] 2024 Approved Channel Honor Roll - Play Button & Follower Awards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>[Updated] 2024 Approved Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-elevation-reach-youtube-affiliate-level-with-10k-views-for-2024/"><u>[Updated] Channel Elevation Reach YouTube Affiliate Level with 10K Views for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-download-of-youtube-videos/"><u>[Updated] In 2024, Direct Download of YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tackling-inaudible-speech-in-obs-captures/"><u>2024 Approved Tackling Inaudible Speech in OBS Captures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-suv-of-bikes-make-cars-obsolete-discover-its-potential-impact-on-daily-commutes-zdnet/"><u>Could the Revolutionary 'SUV of Bikes' Make Cars Obsolete? Discover Its Potential Impact on Daily Commutes | ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-weave-soundscapes-into-premiere-pro-editing-workflows/"><u>In 2024, Weave Soundscapes Into Premiere Pro Editing Workflows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-unmatched-clarity-the-definitive-2021-review-of-apples-4k-streaming-box-controlled-by-siri/"><u>Navigating Through Unmatched Clarity: The Definitive 2021 Review of Apple's 4K Streaming Box Controlled by Siri</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/organizing-your-youtube-content-with-ease-for-2024/"><u>Organizing Your YouTube Content with Ease for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/solving-the-unidentified-gadget-alert-a-comprehensive-guide-by-yl-software/"><u>Solving the Unidentified Gadget Alert: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-must-have-items-for-the-perfect-summer-everyday-carry-kit/"><u>Top 7 Must-Have Items for the Perfect Summer Everyday Carry Kit</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/virtual-vanguard-over-a-hundred-games-galore/"><u>Virtual Vanguard Over a Hundred Games Galore</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-gpu-model-is-best-for-you-aib-vs-nvidia-fe-edition/"><u>Which GPU Model Is Best for You? AIB Vs Nvidia FE Edition</u></a></li>
 </ul></div>
 

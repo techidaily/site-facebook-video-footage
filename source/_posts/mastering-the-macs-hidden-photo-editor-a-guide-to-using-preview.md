@@ -1,7 +1,7 @@
 ---
 title: Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview
-date: 2024-11-18T17:37:48.450Z
-updated: 2024-11-23T16:11:32.874Z
+date: 2024-11-26T02:23:47.874Z
+updated: 2024-12-01T22:06:40.717Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/g0i1dAj__AZyD9pbEnGjtg3Qg0w=/400x300/fi
 ![Oculus Quest 2](https://www.lifewire.com/thmb/G1C0A6m5hPeWOPp97vWLX5BvA4o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
@@ -43,9 +43,17 @@ Andrew Hayward / Lifewire
 
 4.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Meta Quest 2
 
 ![Oculus Quest 2](https://www.lifewire.com/thmb/KO4q8p9NOXatDIXmzsBBpQgN5eA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Oculus-Quest-2-VR-Headset-1-bf9c326da16b47f6b2bdcc6ba1e7068e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andrew Hayward / Lifewire
 
@@ -72,6 +80,10 @@ Andrew Hayward / Lifewire
 
  It was one of last year’s greatest new gadgets, and now Oculus has returned with a sequel. The Oculus Quest 2 is smaller and lighter, yet more powerful and with a much better screen—yet it costs $100 less than the original. How did that happen? Well, it’s not all great news, thanks to a couple of cost-cutting measures that you’ll feel and potentially see, but the end result is ultimately a better and more affordable device that serves as an ideal gateway into VR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design and Comfort: Compromises were made
 
  The Oculus Quest 2 sticks to the familiar modern VR playbook as a module that you strap onto your face to immerse yourself within its digital worlds but features some different material and construction choices than the original. Unfortunately, the design choices largely are not upgrades compared to the original headset
@@ -88,11 +100,11 @@ Andrew Hayward / Lifewire
 
 ![Oculus Rift 2](https://www.lifewire.com/thmb/JkgQv_Sk0ofSL0Sp-jKmqe84xak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-2-a7792535288542dba45c8bc32f882be2.jpg)
 
- Andrew Hayward / Lifewire
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Andrew Hayward / Lifewire
 
 ## Tracking and Controllers: Some improvements, some drawbacks
 
@@ -101,10 +113,6 @@ Andrew Hayward / Lifewire
  The Quest 2’s wireless, motion-sensing Oculus Touch controllers are identical in function to the original, but are a little heavier and have a larger surface with space to rest your thumb when not in use. That’s handy. Each has an analog stick and two face buttons, along with a trigger button and a grip button. Oculus also swapped out the magnetically-attached battery doors from the first Quest controllers—which would sometimes slide open when I used the original—for ones that simply click into place. That’s a win for function over form.
 
 ![Oculus Quest 2 ](https://www.lifewire.com/thmb/1aG6kdNHMuvnim8p8_i1RwH9QG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-3-eec6cabc11db4ed9be5254aa2bc46ec1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
 
@@ -118,10 +126,6 @@ Andrew Hayward / Lifewire
 
  Andrew Hayward / Lifewire
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setup Process: You’ll need a phone… and Facebook
 
  You should charge the Oculus Quest 2 out of the box, as the modest total battery life means a partially-charged headset isn’t going to last very long. You will need a[smartphone](https://www.lifewire.com/best-smartphones-4043781) , either Android or iPhone, and the free Oculus app to complete setup, as well. Once the headset has a good charge, begin setup from the mobile app and then follow the guided directions, which will involve putting on, adjusting, and getting familiar with the headset itself.
@@ -129,10 +133,6 @@ Andrew Hayward / Lifewire
  Part of the setup process, and the process each time you use the headset, is to designate your play space by “drawing” a barrier within the augmented view of your surroundings seen through the headset’s cameras. From there, the headset determines whether you have enough space for active, room-scale experiences, or you can choose a stationary setup for seated play modes. During active play, a virtual barrier called the Oculus Guardian appears when you get close to the edges of your designated play space to help you avoid crashing into your surroundings. It’s all rather clever and effective.
 
  There’s one other potential hitch with the Oculus Quest 2 that wasn’t present with the original: the new headset_requires_ a[Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) and there’s no way around it. Facebook owns Oculus, and while the first Quest could be used simply with an Oculus account, the new one requires the social media account. For some, that may be a deal-breaker, given frustrations over privacy and the increasing role that Facebook plays in our society, so just know that going in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance: It’s a big upgrade
 
@@ -183,7 +183,7 @@ Andrew Hayward / Lifewire
  The $299 edition of the headset comes with 64GB of internal storage and the $399 version nets you 256GB, with some of each tally taken up by system software and resources. Luckily, the games and apps themselves aren’t huge, typically weighing in between 1-4GB apiece, sometimes less, and they’re pretty quick to download again if you want to revisit something. The 64GB edition should provide enough space for most players, as you could probably comfortably have a dozen or more games installed, along with streaming media apps, but anyone who wants to have a robust VR library on hand at all times without waiting might consider spending the extra cash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Games: A good, growing selection
@@ -207,14 +207,10 @@ Andrew Hayward / Lifewire
 ![Oculus Quest 2](https://www.lifewire.com/thmb/TDsFPvRGkhZaFzIaNnKRk1_xO4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Oculus-Quest-2-VR-Headset-8-Comparison-1b0c51b029da41389167e103a4c4843a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Andrew Hayward / Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Oculus Quest 2 vs. PlayStation VR
 
@@ -235,6 +231,10 @@ Andrew Hayward / Lifewire
 * [Oculus Rift S](https://www.lifewire.com/oculus-rift-s-review-4764112)
 * [Oculus Go Standalone VR Headset](https://www.lifewire.com/oculus-go-vr-headset-review-4690298)
 * [Valve Index](https://www.lifewire.com/valve-index-review-4775604)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -267,24 +267,22 @@ Andrew Hayward / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-elite-10-survival-skirmishes/"><u>[New] 2024 Approved Elite 10 Survival Skirmishes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-adding-videos-to-written-work-a-budget-friendly-way-for-2024/"><u>[New] Adding Videos to Written Work A Budget-Friendly Way for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-balancing-act-tripod-use-for-stable-vlogging-for-2024/"><u>[New] Balancing Act Tripod Use for Stable Vlogging for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-film-substitutes-to-stream-top-7-picks/"><u>[New] Film Substitutes to Stream - Top 7 Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-locate-lively-youtube-conversations/"><u>[New] Locate Lively YouTube Conversations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-editing-techniques-for-yt-channel-summaries/"><u>[Updated] 2024 Approved Essential Editing Techniques for YT Channel Summaries</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earnings-expertise-on-streaming-services-the-ultimate-guide/"><u>[Updated] In 2024, Earnings Expertise on Streaming Services The Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-leading-free-stock-video-and-image-archives/"><u>[Updated] Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-premier-gatherings-top-events-beyond-vidcon/"><u>[Updated] Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-audio-recording-101-from-youtube-playback-to-files/"><u>2024 Approved Audio Recording 101 From YouTube Playback To Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-microsofts-code-companion-for-enhanced-programming/"><u>Demystifying Microsoft's Code Companion for Enhanced Programming</u></a></li>
-<li><a href="https://win-updates.techidaily.com/efficiently-downloading-an-array-of-pictures-from-dropbox-to-ios-devices-essential-techniques/"><u>Efficiently Downloading an Array of Pictures From Dropbox to iOS Devices - Essential Techniques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-landscape-of-firefox-picture-in-picture/"><u>In 2024, Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-places-for-free-text-visual-enhancements/"><u>In 2024, Top Places for Free Text Visual Enhancements</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>In 2024, Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/overcoming-keyboard-issues-on-your-ios-device-a-guide-for-iphone-and-ipad-users/"><u>Overcoming Keyboard Issues on Your iOS Device: A Guide for iPhone & iPad Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tips-for-safeguarding-your-youtube-presence-for-2024/"><u>Tips for Safeguarding Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/wealthy-web-showrunners-for-2024/"><u>Wealthy Web Showrunners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[New] 2024 Approved 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-disengage-from-discord-services/"><u>[New] 2024 Approved Disengage From Discord Services</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-engaging-instagram-highlight-tags/"><u>[New] Creating Engaging Instagram Highlight Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-creating-compelling-free-ads-on-youtube-for-2024/"><u>[New] Essential Tips for Creating Compelling Free Ads on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-sports-video-editing/"><u>[New] The Fundamentals of Sports Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-strategies-for-swiftly-clearing-feedback-for-2024/"><u>[Updated] Comprehensive Strategies for Swiftly Clearing Feedback for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-vsco-image-enhancement/"><u>[Updated] Step-by-Step VSCO Image Enhancement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-synergy-of-data-and-imagination-ideas-from-google-trends/"><u>[Updated] Synergy of Data and Imagination Ideas From Google Trends</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-list-of-preferred-youtube-video-formats/"><u>[Updated] The Ultimate List of Preferred YouTube Video Formats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-rapid-rise-top-10-in-a-flash/"><u>[Updated] Youtube's Rapid Rise Top 10 in a Flash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-song-guide-for-newbies/"><u>2024 Approved The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-problems-master-the-fix-with-these-proven-techniques/"><u>Code Vein Freezing Problems? Master the Fix with These Proven Techniques!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-mp4-to-oggv-free-simple-steps-and-tools-guide/"><u>Convert MP4 to OGGV FREE: Simple Steps & Tools Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a23-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A23 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/les-plus-performants-programmes-dediting-video-pour-systemes-pc-top-10-listes/"><u>Les Plus Performants Programmes D'Editing Vidéo Pour Systèmes PC - Top 10 Listes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-by-step-from-windows-11-home-get-the-pro-version/"><u>Step-by-Step: From Windows 11 Home, Get the Pro Version</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-production-evolution-prime-lenses-for-youtube-enthusiasts-for-2024/"><u>Video Production Evolution Prime Lenses for YouTube Enthusiasts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting YouTube Shorts  Step-by-Step Video Production Tips\""
-date: 2024-11-18T21:06:49.610Z
-updated: 2024-11-24T00:22:21.652Z
+date: 2024-11-30T21:51:41.682Z
+updated: 2024-12-01T23:27:43.860Z
 tags:
   - ai video
   - ai youtube
@@ -37,10 +37,6 @@ That said, in the following sections you will learn everything about the **YouTu
 ## **Part 1: What Is YouTube Shorts?**
 
 A short and quick answer to the question is, **YouTube Shorts** is a Tik Tok competitor developed by Google and can be accessed via the YouTube app on an Android or iOS device. In order to use the **YouTube Shorts app**, all you need to do is, sign in to your YouTube account on the YouTube app, and you are good to go.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. YouTube Shorts Release History
 
@@ -80,7 +76,7 @@ Certain things that you must keep in mind while creating **YouTube Shorts** incl
 As mentioned earlier, **YouTube Shorts** can be accessed by launching the YouTube app on your Android or iOS device. You can use **YouTube Shorts** by clicking the **+** (**Add**) icon present at the bottom. Once the **YouTube Shorts app** is initialized, you can easily create and publish short videos by following the simple on-screen instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2: How to Make and Upload a YouTube Shorts Video with Shorts App?**
@@ -92,7 +88,7 @@ You can follow the instructions given below to make and [upload a YouTube Shorts
 ![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch the YouTube app on your Android or iOS smart device (Samsung Galaxy Note 10+ is used here for demonstration), make sure that you are signed in to your Google account, tap the **+** (**Add**) button present at the bottom of the screen, tap **Create a Short** on the popup box that appears next, tap the **Record** button on the next window to start the recording. Once you are done, tap the **Stop** button to stop the recording.
@@ -104,7 +100,7 @@ Tap **Music** from the bottom of the screen to add background music to the video
 ![ Edit YouTube Shorts video - Add text and music](https://images.wondershare.com/filmora/article-images/edit-youtube-short-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Likewise, you can tap **Text** to add captions as well. As for the text type, the app offers various formatting options such as alignment (left, center, and right), text highlighter, font changer, and even color selector. Further, the Speed and Timer icons at the top-right area allow you to manage the playback speed anywhere between 0.3x to 3x, and automatically stop the recording after the set time limit respectively. Once everything is set up, tap **NEXT** from the top-right corner to proceed to the next step.
@@ -122,7 +118,11 @@ Enter a title for the video in the **Title** field. Make sure to include **#shor
 ![ Upload YouTube Shorts video ](https://images.wondershare.com/filmora/article-images/upload-youtube-shorts-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Create a Vertical YouTube Shorts Video in Filmora?**
@@ -167,6 +167,10 @@ You can even click the **Edit** button, and use the available editing features l
 
 ![ Edit YouTube Shorts video in Filmora](https://images.wondershare.com/filmora/article-images/youtube-shorts-video-filmora-advanced-editing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** To be able to remain compliant with the **YouTube Shorts** policies, make sure that the video length is no longer than 60 seconds.
 
 **Step 3: Beautify the Video**
@@ -179,10 +183,6 @@ Similarly, you can select the **Effects** and **Elements** tools to add effects 
 
 ![Add effects to YouTube Shorts video with Filmora](https://images.wondershare.com/filmora/article-images/youtube-shorts-video-add-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After this, optionally, you can go to **Split Screen** from the standard toolbar at the top, and use your preferred Split Screen preset to club multiple video clips into one screen. In Filmora, you can add as many as 6 screens in a video.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -190,6 +190,10 @@ After this, optionally, you can go to **Split Screen** from the standard toolbar
 For Win 7 or later (64-bit)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -204,11 +208,7 @@ Once everything is set up, click **EXPORT** from the top of the window, go to th
 ![ Edit YouTube Shorts video in Filmora- export ](https://images.wondershare.com/filmora/article-images/export-youtube-shorts-video-in-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs About YouTube Shorts
@@ -254,20 +254,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>[New] 2024 Approved Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-7-high-resolution-dslrs-for-engaging-video-blogs/"><u>[New] In 2024, Best 7 High-Resolution DSLRs for Engaging Video Blogs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-youtube-premium-complete-information-inside/"><u>[New] In 2024, Decoding YouTube Premium Complete Information Inside</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-design-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>[New] In 2024, Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>[New] In 2024, Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-revamping-your-snapchat-speech-two-straightforward-steps-for-2024/"><u>[New] Revamping Your Snapchat Speech Two Straightforward Steps for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-practices-the-8-truly-effective-promotion-techniques-for-2024/"><u>[Updated] Best Practices The 8 Truly Effective Promotion Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>[Updated] Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-creativity-choosing-high-quality-camera-lenses-for-2024/"><u>[Updated] Cutting Edge Creativity Choosing High-Quality Camera Lenses for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-escaping-a-stroke-on-your-youtube-channel/"><u>[Updated] In 2024, Escaping a Stroke on Your YouTube Channel</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-tech-in-daily-life/"><u>Cutting-Edge Tech in Daily Life</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/cing-user-experience-strategic-placement-of-alerts-on-youtube-content-for-2024/"><u>Enhancing User Experience Strategic Placement of Alerts on YouTube Content for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-note-30i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Note 30i Phone Screen?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-z50s-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Z50S Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-magix-mixcrafts-features/"><u>The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>[New] In 2024, Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-metaverses-funny-bone-generating-hitsome-online-jokes-for-2024/"><u>[New] The Metaverse's Funny Bone Generating Hitsome Online Jokes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-9-best-free-and-easy-editing-apps-you-should-know/"><u>[Updated] 9 Best Free and Easy Editing Apps You Should Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-silencing-distractions-enhancing-youtube-videos/"><u>[Updated] Silencing Distractions Enhancing YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>[Updated] Step Into the World of YouTube Transcription A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/definitive-fix-for-bsod-caused-by-unsuccessful-writes-to-read-only-areas/"><u>Definitive Fix for BSOD Caused by Unsuccessful Writes to Read-Only Areas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-spark-conversation-crafting-questions-for-ig-story-boost/"><u>In 2024, Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamlessly-transferring-youtube-videos-to-your-instagram-account-for-2024/"><u>Seamlessly Transferring YouTube Videos to Your Instagram Account for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartpet-solutions-reviewed-top-value-findings/"><u>SmartPet Solutions Reviewed: Top Value Findings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ephemeral-era-of-fb-video-for-2024/"><u>The Ephemeral Era of FB Video for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-robust-audio-experience-in-bose-wires/"><u>Unveiling the Robust Audio Experience in Bose Wires</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bers-advanced-toolkit-studio-selection-over-beta/"><u>YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
 </ul></div>
 

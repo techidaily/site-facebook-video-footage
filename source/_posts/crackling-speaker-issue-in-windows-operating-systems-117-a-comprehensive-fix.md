@@ -1,7 +1,7 @@
 ---
 title: "Crackling Speaker Issue in Windows Operating Systems 11/7: A Comprehensive Fix"
-date: 2024-11-17T00:13:34.587Z
-updated: 2024-11-24T02:26:11.556Z
+date: 2024-11-27T05:04:01.347Z
+updated: 2024-12-01T23:18:46.989Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -42,19 +46,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -72,19 +76,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -97,10 +101,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
@@ -132,17 +132,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] 2024 Approved Bridging Content Gap YouTube Videos to Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-digital-riches-transitioning-youtube-earnings-to-currency-for-2024/"><u>[New] Digital Riches Transitioning YouTube Earnings to Currency for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ini-mic-marvels-affordable-sound-for-youtube-creators-for-2024/"><u>[New] Mini-Mic Marvels Affordable Sound for YouTube Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-turbo-charge-your-playlist-exposure-youtube-style/"><u>[New] Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cost-effective-subscriber-growth-hundreds-at-a-bargain-price-for-2024/"><u>[Updated] Cost-Effective Subscriber Growth - Hundreds at a Bargain Price for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channel-with-these-top-11-budget-friendly-tools-for-2024/"><u>[Updated] Elevate Your Channel with These Top 11 Budget-Friendly Tools for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-unfollow-a-compilation-of-essential-tools-for-2024/"><u>[Updated] Mastering the Art of Unfollow A Compilation of Essential Tools for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-quintessential-quiet-gaming-on-the-go/"><u>2024 Approved Quintessential Quiet Gaming on the Go</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-simplified-approach-to-crafting-xml-for-podcasts/"><u>In 2024, Simplified Approach to Crafting XML for Podcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maintaining-optimal-performance-determining-cpu-thermal-readings-with-windows-nx/"><u>Maintaining Optimal Performance: Determining CPU Thermal Readings with Windows nX</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/procedure-of-ending-linkedin-services-and-deletion-process-for-2024/"><u>Procedure of Ending LinkedIn Services and Deletion Process for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-inhibit-surprise-youtube-recommendations/"><u>[New] Inhibit Surprise YouTube Recommendations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[New] Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-youtubes-profit-maze/"><u>[New] Navigating YouTube's Profit Maze</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photographers-list-of-top-10-lenses/"><u>[New] The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earn-on-youtube-decoding-recent-policy-changes/"><u>[Updated] In 2024, Earn on YouTube Decoding Recent Policy Changes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[Updated] In 2024, Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-invisible-stories-unveiled-a-complete-snapguide-for-2024/"><u>[Updated] Invisible Stories Unveiled A Complete Snapguide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-monetization-value-per-million-views/"><u>[Updated] Youtube's Monetization Value per Million Views</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-craft-superior-canon-chrono-series/"><u>In 2024, Craft Superior Canon Chrono Series</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-to-mp4-perfection-uncover-2-most-effective-techniques-for-2024/"><u>Instagram to MP4 Perfection Uncover 2 Most Effective Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/master-classic-ps2-games-on-android-with-our-top-picks-for-2024/"><u>Master Classic PS2 Games on Android with Our Top Picks for 2024</u></a></li>
 </ul></div>
 

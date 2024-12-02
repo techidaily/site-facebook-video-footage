@@ -1,7 +1,7 @@
 ---
 title: "Understanding YouTube's User Interaction Options for 2024"
-date: 2024-11-16T18:52:40.488Z
-updated: 2024-11-24T04:22:31.197Z
+date: 2024-11-24T17:41:18.127Z
+updated: 2024-12-01T16:08:24.925Z
 tags:
   - ai video
   - ai youtube
@@ -31,7 +31,7 @@ As a brand, it is imperative to thoroughly read all the comments that your YouTu
 Keeping all these points in mind, the following sections explain **how to enable comments on YouTube** and **how to turn off comments on YouTube**. Here you will also get to know what other types of security and privacy options are there that you can use to filter the comments posted by the disturbing elements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Turn on or Turn off Comments for YouTube Channel
@@ -44,15 +44,15 @@ Use your favorite web browser to go to YouTube and sign in to your Google accoun
 
 ![ Find YouTube Studio options](https://images.wondershare.com/filmora/article-images/find-youtube-studio-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Go to Channel’s Advanced Settings
 
 From the bottom of the left pane, click the **Settings** icon, click **Channel** from the **Settings** box that comes up next, and go to **Advanced settings** from the right window.
 
 ![  YouTube Channel Advanced Settings](https://images.wondershare.com/filmora/article-images/youtube-channel-advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Turn Off Comments
 
@@ -67,7 +67,7 @@ Use the method explained above to get to the channel’s **Advanced settings** b
 ![  Turn on YouTube Channel Comments](https://images.wondershare.com/filmora/article-images/turn-on-channel-comments-advanced-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Define Acceptable Comment Types
@@ -123,7 +123,7 @@ From under the **Audience** section in the right window of the **Video details**
 ![ Turn on or turn off comments for specific youtube video](https://images.wondershare.com/filmora/article-images/turn-on-off-comments-for-specific-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** To learn **how to disable comments on YouTube** for specific video, you can repeat the above steps, and choose the **Yes, it’s made for kids** radio button from the **Audience** section when you are on the **Video details** page.
@@ -145,7 +145,7 @@ You can go to **YouTube Studio** \> **Settings** \> **Community**, and on the **
 ![ Block YouTube   commnets ](https://images.wondershare.com/filmora/article-images/block-users-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. If I turn comments off and back on again, will the old comments come back?
@@ -177,19 +177,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>[New] 2024 Approved Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] In 2024, Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clipmaster-software/"><u>[Updated] 2024 Approved ClipMaster Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-deep-with-these-immersive-vr-clips/"><u>[Updated] In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secrets-of-youtube-stardom-3-paths-to-creating-huge-viral-reactions/"><u>[Updated] The Secrets of YouTube Stardom 3 Paths to Creating Huge Viral Reactions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descargar-conversor-swf-free-online-movavi/"><u>Descargar Conversor SWF FREE Online - Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-transitioning-to-a-windows-less-lifestyle-with-an-hp-chromebook-insights-from-tech-expert-zdnet/"><u>Effortlessly Transitioning to a Windows-Less Lifestyle with an HP Chromebook, Insights From Tech Expert | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/increase-efficiency-solving-windows-11-prolonged-shutdown-time-issue/"><u>Increase Efficiency: Solving Windows 11 Prolonged Shutdown Time Issue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfect-your-presentation-the-yt-guide-to-background-softening-for-2024/"><u>Perfect Your Presentation The YT Guide to Background Softening for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-asus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Asus</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streaming-smarts-engaging-viewers-on-multiple-networks-for-2024/"><u>Streaming Smarts Engaging Viewers on Multiple Networks for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-clone-hdd-software-pour-windows-compatible-avec-win11-win10-win8-et-win7/"><u>Top Clone HDD Software Pour Windows - Compatible Avec Win11, Win10, Win8 Et Win7</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-continuous-freezing-and-crashes-of-genshin-impact-on-personal-computers/"><u>Troubleshooting Continuous Freezing and Crashes of Genshin Impact on Personal Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-your-keyboard-back-to-default-settings/"><u>Troubleshooting Tips: Restoring Your Keyboard Back to Default Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[New] 2024 Approved 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-engagement-with-quick-unique-coverage-options-on-shorts/"><u>[New] 2024 Approved Boost Engagement with Quick, Unique Coverage Options on Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elite-6-most-watched-shorter-video-repositories-for-2024/"><u>[New] Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instantaneous-fortnite-tile-design-guide/"><u>[New] Instantaneous Fortnite Tile Design Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-growth-secrets-8-honestly-endorsed-methods/"><u>[New] Top Youtube Growth Secrets – 8 Honestly-Endorsed Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>[New] Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-editors-eye-reignite-the-vibrance-of-iphone-hdr-with-4-editing-masterstrokes-for-2024/"><u>[Updated] [Editor's Eye] Reignite the Vibrance of iPhone HDR with 4 Editing Masterstrokes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-social-media-perspective-dissecting-igtv-versus-youtubes-features-for-2024/"><u>[Updated] A Social Media Perspective Dissecting IGTV versus YouTube's Features for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[Updated] Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affordable-acoustic-amps-and-mics-for-video-voyagers/"><u>[Updated] In 2024, Affordable Acoustic Amps and Mics for Video Voyagers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-no-cost-countdown-trackers/"><u>[Updated] In 2024, Ultimate No-Cost Countdown Trackers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>[Updated] In 2024, Unveiling Clearer Photos A Guide to Picsart's Bg Eraser</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-visionary-video-conclave/"><u>[Updated] The Visionary Video Conclave</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pause-unrequested-youtube-video-selections/"><u>2024 Approved Pause Unrequested YouTube Video Selections</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-ai-chatbots-chatgpt-plus-vs-perplexity-which-wins/"><u>Comparing Top AI Chatbots: ChatGPT Plus Vs. Perplexity – Which Wins?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-secure-your-spot-setting-up-an-appointment-with-apple-store-experts/"><u>How To Secure Your Spot: Setting Up an Appointment with Apple Store Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-the-future-of-personalized-medicine-exploring-chatgpts-role-in-healthcare-evolution/"><u>Is AI the Future of Personalized Medicine? Exploring ChatGPT's Role in Healthcare Evolution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-common-challenges-with-updating-amd-radeon-drivers/"><u>Overcoming Common Challenges with Updating AMD Radeon Drivers</u></a></li>
 </ul></div>
 
