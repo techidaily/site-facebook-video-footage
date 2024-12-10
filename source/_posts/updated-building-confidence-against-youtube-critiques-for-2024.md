@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building Confidence Against YouTube Critiques for 2024"
-date: 2024-08-01T02:40:39.050Z
-updated: 2024-08-02T02:40:39.050Z
+date: 2024-12-04T23:21:30.133Z
+updated: 2024-12-09T17:30:10.486Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -59,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -70,12 +68,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-youtube-file-extraction/"><u>[New] 2024 Approved Effortless YouTube File Extraction</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elite-architects-pioneering-instagram-hlv-makers/"><u>[New] 2024 Approved Elite Architects Pioneering Instagram HLV Makers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-textual-transformations-the-photographers-guide-to-image-edits/"><u>[New] In 2024, Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-7-high-motion-dslrs-for-dynamic-live-content-creation/"><u>[Updated] 2024 Approved Best 7 High-Motion DSLRs for Dynamic Live Content Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>[Updated] Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-playlist-streaming-your-mp3-music-library-online/"><u>[Updated] Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-synthesize-presentation-to-video-output-for-2024/"><u>[Updated] Synthesize Presentation to Video Output for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-fast-and-reliable-the-best-pinterest-video-downloads-ranked/"><u>2024 Approved Free, Fast & Reliable The Best Pinterest Video Downloads Ranked</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/brief-scene-structure-summary-for-2024/"><u>Brief Scene Structure Summary for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone X to iPad | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-remote-access-stability-a-step-by-step-approach/"><u>Enhancing Remote Access Stability: A Step-by-Step Approach</u></a></li>
+<li><a href="https://review-topics.techidaily.com/get-your-high-end-machine-with-less-clutter-maingears-innovative-zero-series-starts-at-a-competitive-price-of-1399/"><u>Get Your High-End Machine with Less Clutter: Maingear's Innovative Zero Series Starts at a Competitive Price of $1,399</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 Pro/iPad | Dr.fone</u></a></li>
+</ul></div>
 

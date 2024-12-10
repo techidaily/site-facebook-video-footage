@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Merge/Combine/Join YouTube (FLV) Videos"
-date: 2024-08-01T02:41:45.664Z
-updated: 2024-08-02T02:41:45.664Z
+date: 2024-12-02T17:09:31.160Z
+updated: 2024-12-10T00:09:09.272Z
 tags:
   - ai video
   - ai youtube
@@ -29,12 +29,13 @@ YouTube is the most popular video sites in the world. You may have downloaded lo
 [Part 1: How to Merge Downloaded YouTube Videos](#part1)  
 [Part 2: How to Merge YouTube Videos Online](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Merge Downloaded YouTube Videos
 
 ![Filmora9 editing interface ](https://images.wondershare.com/filmora/guide/editing-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tool you need: [Wondershare Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -52,18 +53,20 @@ Download and install Wondershare Filmora. It gives good support to the downloade
 
 ![import source media in Filmora9 ](https://images.wondershare.com/filmora/article-images/filmora9-import-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Drag and drop YouTube videos to merge
 
 To merge YouTube videos, select multiple YouTube videos in the User's Album by holding down Ctrl or Shift key, and then drag and drop them to the video track on the Timeline. All YouTube files will join one after another without interrupts and there is none transition by default, but you can add transitions between video clips as you want. This will be introduced in Step 3.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![drag and drop media to timeline in Filmora9 ](https://images.wondershare.com/filmora/article-images/add-media-to-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3. Merge YouTube videos with transition
 
 By adding transitions, YouTube videos will flow nicely from one to the next. To do so, switch to Transition tab, and drag the desired transition to the Timeline. Alternatively, right click any transition and choose "Apply to All" and "Random to All" from the popup menu to add transitions between YouTube videos in seconds.
@@ -74,27 +77,23 @@ By adding transitions, YouTube videos will flow nicely from one to the next. To 
 
 Make sure you are satisfied with everything. You can click Play button to preview how YouTube videos will be merged. If the result is good, click "Export" button to save the YouTube video as one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![export in Filmora9 ](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 Therefore, go to the "Format" tab and select one desired format and click Create to start merging YouTube videos. By the way, if you want to play the merged YouTube files on iPod, iPhone, iPad, choose "Device" and select your device from the list. You can also directly upload back to YouTube for sharing or burn to DVD for playing on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Merge YouTube Videos Online
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![YouTube Video Editor](https://images.wondershare.com/images/multimedia/video-editor/import-video-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Tool you need: YouTube Video Editor](https://www.youtube.com/editor)
 
@@ -106,18 +105,12 @@ YouTube Video Editor is a browser-based video editor released by YouTube itself.
 
 Sign in to your YouTube (or Google) account. Click "Upload">> "Edit" to the Video Editor tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![ Add video](https://images.wondershare.com/images/multimedia/video-editor/step-1.jpg)  
 
 ##### Place videos on the timeline
 
 Simply drag the videos that need merge onto the timeline or hit the plus icon in the top right hand corner of each clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![save video](https://images.wondershare.com/images/multimedia/video-editor/step-3.png "save video")
 
 ##### Save the settings
@@ -126,13 +119,15 @@ Review the result. If satisfied, hit the "Publish" button to save the settings.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,4 +135,22 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>[New] 2024 Approved Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-winning-strategies-and-hashtags-for-youtubes-best-freefirers/"><u>[New] 2024 Approved Winning Strategies & Hashtags for YouTube's Best FreeFirers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decoding-the-impact-of-instagrams-algorithm-shifts/"><u>[New] In 2024, Decoding the Impact of Instagram's Algorithm Shifts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-prime-quickplay-best-fluid-games-for-tablets-and-laptops/"><u>[New] Prime Quickplay Best Fluid Games For Tablets & Laptops</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta-for-2024/"><u>[New] Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-channels-aesthetics-free-banners-available/"><u>[Updated] 2024 Approved Elevate Your Channel's Aesthetics - Free Banners Available</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-converting-spotify-playlist-selections-for-youtube-music-service-for-2024/"><u>[Updated] Converting Spotify Playlist Selections for YouTube Music Service for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discover-the-best-offline-ios-games-your-ultimate-guide-for-2024/"><u>[Updated] Discover the Best Offline iOS Games – Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-path-to-digital-fame-starting-and-building-a-youtube-chanel/"><u>[Updated] Path to Digital Fame Starting and Building a YouTube Chanel</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/easy-solution-restoring-image-viewing-functionality-on-iphones/"><u>Easy Solution: Restoring Image Viewing Functionality on iPhones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-concept-to-reality-the-artisans-guide-to-lut-crafting/"><u>From Concept to Reality The Artisan's Guide to LUT Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-in-2024/"><u>Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-list-of-ps2-games-for-ios-emulation-for-2024/"><u>The Ultimate List of PS2 Games for iOS Emulation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity-for-2024/"><u>Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity for 2024</u></a></li>
+</ul></div>
 

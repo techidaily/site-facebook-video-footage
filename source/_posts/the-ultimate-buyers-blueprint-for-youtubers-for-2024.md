@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Buyer's Blueprint for Youtubers for 2024"
-date: 2024-11-29T02:31:25.142Z
-updated: 2024-12-01T20:49:58.168Z
+date: 2024-12-02T18:05:06.775Z
+updated: 2024-12-09T18:11:53.532Z
 tags:
   - ai video
   - ai youtube
@@ -24,10 +24,6 @@ Building a following on a YouTube channel to monetize it can be difficult. It is
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1\. Top 10 Sites to Buy Monetized YouTube Channels**
 
 Investing in a pre-existing, monetized YouTube channel is a great idea. It saves you time, allowing you to focus on creating quality content. However, make sure you buy a monetized YouTube channel from a reliable seller. Let’s have a look at the top sites to buy monetized YouTube channels:
@@ -49,15 +45,15 @@ This is one of the best options available to buy monetize YouTube channel. They 
 
 ![useviral](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To get your monetized channel, you will be required to fill out a brief questionnaire. Explain your ideal market and video production needs to allow the UseViral team to understand what you are looking for. They let you know what you are paying for any extras.
 
 **Price:** $599
 
 **Customer Rating**: 9.5/10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\.** [**SlidesMedia**](https://sidesmedia.com/youtube/)
 
@@ -77,6 +73,10 @@ AudienceGain is a popular social media marketing platform. They offer a wide ran
 
 ![audiencegain](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-3.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With a proven track record, AudienceGain stands out for offering quality customer service. They support you before, during, and after the purchase. They also provide organically grown channels to make sure you are not demonetized.
 
 **Price:** $ 129 - $390
@@ -88,10 +88,6 @@ With a proven track record, AudienceGain stands out for offering quality custome
 This is a flexible marketplace for selling and buying monetized YouTube channels. The site stands out for being selective in the kind of channels it features.
 
 ![fameswap](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-4.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Fameswap offers a safe method of communication between vendors and buyers through an internal messaging system. You can invest in a channel that you are interested in, ranging from topics like fashion and beauty to entertainment and sports.
 
@@ -117,10 +113,6 @@ With EazySMM, you get a unique starting point on your YouTube journey. Choose a 
 
 ![eazysmm](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-6.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 EazySMM watches over its clients to make sure they are growing organically. They promise genuine channel views and subscriptions. Their services are also quick, delivering monetized channels within 12 to 48 hours of the purchase.
 
 **Price:** Custom Pricing
@@ -128,7 +120,7 @@ EazySMM watches over its clients to make sure they are growing organically. They
 **Customer Rating**: 8/10
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\.** [**123accs**](https://123accs.com/shop/)
@@ -137,15 +129,15 @@ This platform allows you to buy YouTube channels that have not yet made money. Y
 
 ![123accs](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-7.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 123accs offers new and affordable PVA accounts. Therefore, you can use the service to buy a monetized YouTube channel. Available options include 5 PVA accounts, 25 UK followers, 10 US follower accounts, and more.
 
 **Price:** Custom Pricing
 
 **Customer Rating**: 8/10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **8\.** [**PlayerUp**](https://www.playerup.com/accounts/youtubeaccounts/)
 
@@ -159,10 +151,6 @@ The high quality of the videos posted in the channels under sale will make them 
 
 **Customer Rating**: 7.5/10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **9\.** [**Trustiu**](https://www.trustiu.com/en/buy-youtube-channel)
 
 This is a great choice for for satisfying shopping experience. The platform makes it easy to purchase YouTube channels almost instantly.
@@ -170,7 +158,7 @@ This is a great choice for for satisfying shopping experience. The platform make
 ![trustiu](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-9.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Trustiu stands out for its affordable prices and a wide selection of choices. Users also have the freedom to choose the language they want for their channels.
@@ -179,6 +167,10 @@ Trustiu stands out for its affordable prices and a wide selection of choices. Us
 
 **Customer Rating**: 7.5/10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **10\.** [**Accs Market**](https://accs-market.com/youtube?q=%2Fyoutube&page=2&subscribe%5Ffrom=10000&filter=1&order%5Fprice=0)
 
 This social media marketplace allows you to buy monetized YouTube channels in a matter of few steps. Choose channels in entertainment of lifestyle niches.
@@ -186,10 +178,6 @@ This social media marketplace allows you to buy monetized YouTube channels in a 
 ![accs market](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-10.JPG)
 
 Accs market offers an affordable option for any type of video genre for sellers. From TV shows to movies, Accs Market has something for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 2\. Editing YouTube Videos for Monetization with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
 
@@ -201,21 +189,25 @@ In addition to buying a monetized YouTube channel, you will need to create quali
 
 Wondershare offers a wide range of features that make video editing fun and easy. From automation tools to video enhancement, you can do a lot to your video on the same platform. The most useful features for YouTube monetization include:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 This feature integrates the ChatGPT API, allowing you to get inspiration through AI-generating scripts. You can also generate text during video editing, as well as YouTube Titles and Descriptions.
 
 ![ai copywriting](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-11.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [**Auto Synchronization**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The auto-synchronization feature allows you to effortlessly match your audio with the video. This makes it sound more clear and gives your audience a better watching experience.
 
 ![ai auto synchronization](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-12.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -226,6 +218,10 @@ With the rise of YouTube Shorts, reframing your videos is now more of a necessit
 One of the ways is by clicking on the Auto Reframe option when you launch Filmora. The other option is to import the media and right-click on it to find the Auto Reframe feature.
 
 ![auto reframe 1](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-13.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Adjust the Aspect Ratio and Motion Speed
 
@@ -245,6 +241,10 @@ You can now preview the final video to make sure it runs as desired. Make any ch
 
 ![auto reframe 4](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-16.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 The first step to running a successful channel is to be accepted into the YouTube Partner Program. However, building a YouTube Channel from 0 views to meet the eligibility status can be difficult. That’s why buying a monetized YouTube channel is a great place to start. You will only need to focus on creating highly engaging content to continue earning and growing your channel. To ensure that the content you create is of high quality, we recommend using Wondershare Filmora. The video editing software comes with fantastic features that help you create great videos for your channel.
@@ -262,24 +262,18 @@ The first step to running a successful channel is to be accepted into the YouTub
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-behind-the-scenes-youtube-live-thumbnail-secrets-for-2024/"><u>[New] Behind the Scenes YouTube Live Thumbnail Secrets for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-strategies-for-saving-youtube-thumbnails-on-any-os-for-2024/"><u>[New] Efficient Strategies for Saving Youtube Thumbnails on Any OS for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-face-of-2024-top-online-makeup-gurus-unveiled/"><u>[New] The Face of 2024 Top Online Makeup Gurus Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-footage-the-ultimate-guide-to-youtube-video-editing/"><u>[New] Transforming Footage The Ultimate Guide to YouTube Video Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>[New] Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-10plus-top-free-youtube-image-extractors-for-2024/"><u>[Updated] 10+ Top FREE YouTube Image Extractors for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-cashflow-crusade-unleashing-earnings-with-youtube-studio-for-2024/"><u>[Updated] Channel Cashflow Crusade Unleashing Earnings with Youtube Studio for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-disparities-between-youtube-and-dailymention-for-2024/"><u>[Updated] Exploring the Disparities Between YouTube and DailyMention for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[Updated] How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-world-of-speech-to-text-with-google-expertly/"><u>[Updated] Navigating the World of Speech-to-Text with Google Expertly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-optimizing-color-depth-and-gradients-for-obs/"><u>[Updated] Optimizing Color Depth and Gradients for OBS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streamlined-video-tools-for-twitter-sharing-for-2024/"><u>[Updated] Streamlined Video Tools for Twitter Sharing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ffmpeg-and-its-role-in-preserving-natural-auditory-formats/"><u>2024 Approved FFmpeg and Its Role in Preserving Natural Auditory Formats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-enablingdisabling-picture-in-picture-a-step-by-step-guide-for-iphones/"><u>In 2024, Enabling/Disabling Picture-in-Picture A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-english-a-collection-of-9-key-grammar-techniques/"><u>Mastering English: A Collection of 9 Key Grammar Techniques</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/microsofts-copilot-enhances-cybersecurity-widespread-access-coming-april-1st-insights-from-zdnet/"><u>Microsoft's Copilot Enhances Cybersecurity: Widespread Access Coming April 1St – Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/running-bg3-on-macos-with-crossover/"><u>Running BG3 on macOS with CrossOver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-guide-converting-vob-files-to-high-quality-flac-format/"><u>Simple Guide: Converting VOB Files to High-Quality FLAC Format</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/thumbnails-as-a-key-player-in-video-marketing-strategies-for-2024/"><u>Thumbnails as a Key Player in Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-engagement-editing-for-perfect-video-titles-and-descriptions/"><u>[New] 2024 Approved Boosting Engagement Editing for Perfect Video Titles & Descriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] In 2024, Best 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-science-of-color-representation-srgb-and-rgb/"><u>[New] The Science of Color Representation Srgb & Rgb</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-growing-presence-in-video-platforms-via-short-films/"><u>[Updated] Growing Presence in Video Platforms via Short Films</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-explore-ingenious-ways-to-modify-voices-for-free/"><u>[Updated] In 2024, Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-guide-to-choosing-the-ideal-youtube-downloader-android/"><u>[Updated] Your Guide to Choosing the Ideal YouTube Downloader (Android)</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-mastering-button-font-customization-in-flipbook-professional-a-comprehensive-guide/"><u>1) Mastering Button Font Customization in FlipBook Professional: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhancing-your-facebook-experience-mastering-story-uploads-for-2024/"><u>Enhancing Your Facebook Experience Mastering Story Uploads for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>In 2024, The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-the-art-of-turning-off-win11-bluetooth/"><u>Mastering the Art of Turning Off Win11 Bluetooth</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unleash-hidden-potential-discover-top-10-essential-imessage-functions-to-enhance-your-messaging-today/"><u>Unleash Hidden Potential: Discover Top 10 Essential iMessage Functions To Enhance Your Messaging Today</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wie-sie-onedrive-auf-ihrem-pc-unter-windows-11-nicht-entfernen-konnen-entdeckt-die-vier-effizientesten-methoden/"><u>Wie Sie OneDrive Auf Ihrem PC Unter Windows 11 Nicht Entfernen Können - Entdeckt Die Vier Effizientesten Methoden</u></a></li>
 </ul></div>
 

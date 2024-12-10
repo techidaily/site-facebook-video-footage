@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Perfect Thumbnail Formula for YouTube Success for 2024"
-date: 2024-11-28T20:46:12.548Z
-updated: 2024-12-02T08:35:44.723Z
+date: 2024-12-02T21:26:07.953Z
+updated: 2024-12-09T17:19:54.663Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,10 @@ So you may be wondering what the best **youtube thumbnail size** is, and how to 
 * [**Part 2:** **Upload and Change a Custom YouTube Thumbnail to Your Video**](#part2)
 * [**Part 3:** **Q&A-- About Creating YouTube Thumbnails**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: The Ultimate Guide of Youtube Thumbnail Size**
 
 Every content creator needs to select the right youtube thumbnail size for any given video.
@@ -52,10 +56,6 @@ The maximum YouTube thumbnail size must be below 2MB. Keeping the limit in mind 
 
 Usually, the 16:9 ratio is deemed an ideal choice for any YouTube video aiming high view volume. As it is most widely used in YouTube players and previews.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Upload and Change a Custom YouTube Thumbnail
 
 With a verified account, you can upload custom thumbnail on new videos as well as change the thumbnail of uploaded videos.
@@ -72,14 +72,14 @@ YouTube makes it very simple and easy for any content creator to publish custom 
 
 ![set video thumbnail](https://images.wondershare.com/filmora/article-images/video-thumbnail2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You will be able to see a button right next to the image – **Custom thumbnail**. Click on the button and you can upload a set of images of your choice as the thumbnail of your video.
 * Once done you can see the custom image just uploaded as the thumbnail of your video.
 
 ![custom thumbnail size](https://images.wondershare.com/filmora/article-images/custom-thumbnail3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * If you want to update the image or change it with another one you can just click on the same image in the video thumbnail section and swap it with any other image.
 
@@ -94,17 +94,17 @@ To change the thumbnail on an already uploaded video you need to follow these st
 
 ![upload thumbnail image](https://images.wondershare.com/filmora/article-images/change-thumbnail5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now in the thumbnail section if you already haven’t uploaded a custom thumbnail, click **Custom thumbnail**.
 * Select your intended thumbnail file and click **Save**.
 
 ![best thumbnail size](https://images.wondershare.com/filmora/article-images/change-thumbnail6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Q&A-- About YouTube Thumbnail Images
@@ -154,7 +154,7 @@ YouTube thumbnail plays an important part for the audience's first impression on
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -172,22 +172,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube/"><u>[New] 2024 Approved Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-10-sound-enhancers-across-os-platforms/"><u>[New] 2024 Approved Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-go-digital-capturing-lifes-motion-with-ios-device/"><u>[New] 2024 Approved Go Digital Capturing Life's Motion with iOS Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[New] In 2024, Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-subforsub-usage-does-it-enhance-youtube-fan-count-safely/"><u>[New] Subforsub Usage Does It Enhance YouTube Fan Count Safely?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>[New] Unveiling Our Exclusive Package of Free YouTube Adornments</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-asmr-mics-for-optimal-audio-experience/"><u>[Updated] In 2024, Essential ASMR Mics for Optimal Audio Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-price-variations-in-cloud-services/"><u>[Updated] Navigating Price Variations in Cloud Services</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-recruitment-powerhouses-top-ten-shorts/"><u>[Updated] Recruitment Powerhouses - Top Ten Shorts</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-fix-a-bugs-related-to-code-formatting-on-the-emeditor-text-program/"><u>How to Fix a Bugs Related to Code Formatting on the EmEditor Text Program</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comprehensive-insights-into-imovie-techniques-for-youtube-creators/"><u>In 2024, Comprehensive Insights Into iMovie Techniques for YouTube Creators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-android-photography-alterations/"><u>Premium Android Photography Alterations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-picks-the-best-8-free-video-editors-online-for-2024/"><u>Top Picks The Best 8 Free Video Editors Online for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-top-6-ai-enhancements-in-ios-18-for-iphone-plus-upcoming-innovations-from-apple/"><u>Unveiling the Future: Top 6 AI Enhancements in iOS 18 for iPhone, Plus Upcoming Innovations From Apple</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-essentials-how-to-resize-and-crop-videos-for-2024/"><u>Updated Video Editing Essentials How to Resize and Crop Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/visionary-vistas-accessible-designs-for-youtube-artists-for-2024/"><u>Visionary Vistas Accessible Designs for YouTube Artists for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>[New] Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-text-to-youtube-video-for-2024/"><u>[New] How to Add Text to YouTube Video for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-vr-today-innovations-and-insights/"><u>[Updated] Inside VR Today Innovations and Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-art-of-youtube-channels-crafting-brands-that-attract-viewers/"><u>2024 Approved The Art of YouTube Channels Crafting Brands That Attract Viewers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-xr-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 15?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-insightful-guide-to-sharex-critiques-and-counterparts/"><u>In 2024, Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-capturing-sound-via-mac/"><u>In 2024, The Art of Capturing Sound via Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-and-simple-access-high-res-youtube-images-for-free-here-for-2024/"><u>Quick & Simple Access High-Res YouTube Images for Free Here for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-15-online-and-desktop-platforms-to-create-gifs-for-2024/"><u>Top 15 Online & Desktop Platforms to Create GIFs for 2024</u></a></li>
 </ul></div>
 

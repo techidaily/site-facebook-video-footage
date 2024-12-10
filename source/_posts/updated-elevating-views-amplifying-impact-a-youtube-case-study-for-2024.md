@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevating Views, Amplifying Impact  A Youtube Case Study for 2024\""
-date: 2024-11-27T08:40:53.466Z
-updated: 2024-12-01T23:15:06.179Z
+date: 2024-12-06T17:13:31.425Z
+updated: 2024-12-09T21:28:17.703Z
 tags:
   - ai video
   - ai youtube
@@ -31,7 +31,7 @@ You’ve probably heard of stories about individuals who managed to find financi
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Case Study of McJuggerNuggets
@@ -39,7 +39,7 @@ Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
@@ -91,7 +91,7 @@ Regular research into your target market will help you to create the trendiest n
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit Your Videos with High-Quality Video Editor
@@ -99,13 +99,13 @@ Timing and luck are definitely two of the biggest factors in becoming a success 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -123,24 +123,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-collaboration-techniques-in-video-making-viewership-up/"><u>[New] 2024 Approved Collaboration Techniques in Video Making, Viewership Up</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[New] 2024 Approved Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-4-sites-for-free-skype-tones/"><u>[New] 2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-compreehed-guide-to-online-identity-youtube-account-setup-for-2024/"><u>[New] A Compreehed Guide to Online Identity YouTube Account Setup for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-deciphering-youtube-monetization-success-codes/"><u>[New] In 2024, Deciphering YouTube Monetization Success Codes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-8-linux-software-for-editors/"><u>[Updated] 2024 Approved Essential 8 Linux Software for Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-promote-youtube-videos-without-paying/"><u>[Updated] How to Promote YouTube Videos (Without Paying)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70E without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-live-streaming-tools-exploring-manycam-features-and-virtual-webcams/"><u>Best Live Streaming Tools: Exploring ManyCam Features and Virtual Webcams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>In 2024, The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-audio-quality-a-no-mic-approach-for-2024/"><u>Perfecting Audio Quality A No-Mic Approach for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/"><u>Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens-for-2024/"><u>Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-directors-weaving-visual-auditory-tapestries/"><u>Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-movie-watchlists-for-efficient-screen-time-for-2024/"><u>Ultimate Movie Watchlists for Efficient Screen Time for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/updated-ultimate-guide-to-choosing-the-13-finest-mkv-file-conversion-tools-online/"><u>Updated Ultimate Guide to Choosing the 13 Finest MKV File Conversion Tools Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-videography-101-editing-essentials-taught-for-2024/"><u>YouTube Videography 101 Editing Essentials Taught for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-video-visibility-with-effective-thumbnail-scaling/"><u>[New] 2024 Approved Enhance Video Visibility with Effective Thumbnail Scaling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-for-post-upload-video-improvement/"><u>[New] 2024 Approved Expert Tips for Post-Upload Video Improvement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-generating-wealth-with-makeup-channels/"><u>[New] 2024 Approved Generating Wealth with Makeup Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] In 2024, Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>[New] Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>[New] Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-callings-30-unique-show-title-suggestions/"><u>[Updated] 2024 Approved Culinary Callings 30 Unique Show Title Suggestions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-byte-sized-hits-the-heart-of-viral-content/"><u>[Updated] Byte-Sized Hits The Heart of Viral Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-start-recording-youtube-content-on-your-own-terms/"><u>[Updated] Start Recording YouTube Content on Your Own Terms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>2024 Approved Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-quick-fix-support-windows-11-procedure/"><u>Activate Quick Fix Support: Windows 11 Procedure</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/peekintobettercams-beyond-mycam-for-2024/"><u>PeekIntoBetterCams Beyond MyCam for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-direct-link-to-your-favorite-twitch-stars/"><u>Prime's Direct Link to Your Favorite Twitch Stars</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-future-of-comfort-exploring-top-ergonomic-keyboards/"><u>The Future of Comfort: Exploring Top Ergonomic Keyboards</u></a></li>
 </ul></div>
 

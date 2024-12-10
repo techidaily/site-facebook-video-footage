@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] DIY GIF Creation  Extracting Motion From YouTube Videos for 2024\""
-date: 2024-08-01T02:40:40.420Z
-updated: 2024-08-02T02:40:40.420Z
+date: 2024-12-02T21:46:08.985Z
+updated: 2024-12-09T22:18:48.214Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ Who doesn’t love Gifs? They are one of the most entertaining means to communic
 
 The article below will show you how to create GIFs from YouTube videos on the desktop computers and mobile devices with some free online GIF makers and apps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Create GIFs from a YouTube Video on the Computer?
 
 ### 1\.  FreeGifMAKER.me
@@ -54,9 +51,6 @@ How to use VEED only in 3 steps, know about it below:
 2. For the editing part, you need to trim the part of the video in which you want to make the GIF and crop the GIF. You can easily do that by choosing the canvas size menu available. After that, you can add text, font style, color, and size to your GIF.
 3. In the last step, you just have to download the GIF which you have made in VEED.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### 3\.  Kapwing
 
 Kapwing is a great stage for creating GIFs as well as videos and images. Kapwing is one of the most used and liked online video editors available. It provides one single step for all the things to do while creating a GIF – upload, editing, and sharing the file.
@@ -70,9 +64,6 @@ To create unique GIFs with Kapwing, follow these easy steps.
 
 After processing the GIF, you need to save it by downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\.  File-converter-online.com
 
 This online free video editor can convert videos into GIF without any watermark and the maximum length of the GIF from the video clip can be 20 seconds, which can be set by you as needed. It provides a simple and free GIF maker that again offers special effects as well such as setting up the speed of the video.
@@ -85,8 +76,9 @@ You can create your desirable GIF from YouTube video in 3 easy steps.
 4. The final step involves creating the GIF which you can do by clicking on the red button “Create GIF from the video” available below the resolution option and finally the downloading will start after a short waiting on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\.  Clideo
 
 Clideo is one of the most reliable video converters available online. It can create an animated GIF from YouTube videos without much complication.
@@ -97,16 +89,25 @@ You can make GIF on your own by following the 3 easy steps mentioned below.
 2. After pasting the URL, you have to choose the ‘infinity sign’ given on the right side which will create an endless GIF without sound. Click on the ‘loop’ button available just below the panel on the right side.
 3. After completing the steps, you can watch the preview of the GIF and go back to editing if you need to change anything. Else save the output on your PC or Mobile phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make a GIF from a YouTube Video on the Android and iPhone?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\.  GIF Toaster – GIF Maker
 
 Gif Toaster is one of the video editing apps which makes the work of creating Gif from YouTube video super-easy. It can convert photos, panoramas and, videos into GIFs easily. You just need to download the app to make GIFs of your own choice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![GIF Toaster - GIF Maker](https://images.wondershare.com/filmora/article-images/gif-toaster-gif-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You need to follow a few simple steps to create GIFs on your own.
 
@@ -122,8 +123,9 @@ It is now possible to convert YouTube videos into GIFs by using the 5SecondsApp 
 First, you need to find a video that is not more than 10 seconds then begin the screen recording on the iOS recording feature and go back to YouTube to play the video and record the portion you need. To make the GIF you have to launch the app and tap the plus option there. Later, trim the video as you see fit. After you’re done, crop the video with the help of the crop tool and finally save it.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Why Should You Use GIFs?
 
 **1\. GIFs don’t prevent web pages from loading quickly**
@@ -146,12 +148,26 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[New] 2024 Approved Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-positivity-in-a-constructive-space-for-2024/"><u>[New] Elevating Positivity in a Constructive Space for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crack-the-code-of-content-top-6-youtuber-personality-tests-revealed/"><u>[New] In 2024, Crack the Code of Content Top 6 YouTuber Personality Tests Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[Updated] 2024 Approved Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[Updated] How to Download Part of a YouTube Videos, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leveraging-youtube-content-for-igtv-prominence-for-2024/"><u>[Updated] Leveraging YouTube Content for IGTV Prominence for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-guide-for-swift-ipad-screen-captures/"><u>2024 Approved The Essential Guide for Swift iPad Screen Captures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/building-a-powerful-brand-presence-with-instagrams-biz-tools-for-2024/"><u>Building a Powerful Brand Presence with Instagram's Biz Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m-macbook-pro-multitasking-mastery-setting-up-dual-monitors-for-seamless-workflow-exclusive/"><u>M-Macbook Pro Multitasking Mastery: Setting Up Dual Monitors for Seamless Workflow Exclusive</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 100 Pro? | Dr.fone</u></a></li>
+</ul></div>
 
