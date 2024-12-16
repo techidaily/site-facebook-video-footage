@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Viewership  SEO for the Newbie on YouTube\""
-date: 2024-12-03T20:54:28.605Z
-updated: 2024-12-09T17:32:30.527Z
+date: 2024-12-13T02:43:26.546Z
+updated: 2024-12-16T02:20:26.811Z
 tags:
   - ai video
   - ai youtube
@@ -38,10 +38,6 @@ Ready?
 
 Let’s Go!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -56,15 +52,15 @@ Do a quick search on YouTube to see what videos already exist on your topic.
 
 ![Find Related Videos Sample](https://images.wondershare.com/filmora/article-images/find-related-videos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Uh oh… your video will be competing against celebrities like Gordon Ramsay and Jamie Oliver.
 
 Okay, don’t panic! There is a fantastic quote, credited to bestselling author, [Jon Acuff](https://acuff.me/), that goes:
 
 ![fantastic quote](https://images.wondershare.com/filmora/article-images/fantastic-quote-do-not-compare-beginning-to-middle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 While researching your competition, you will feel overwhelmed, but remember, you are at the beginning, and Gordon Ramsay and Jamie Oliver are not even at their middle, they are way passed the finish line. You still have a long journey to go, so don’t get discouraged, get inspired!
 
@@ -92,15 +88,15 @@ Once you have an idea of what people are searching for related to your topic, yo
 
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
 ![ Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ####  
 
@@ -169,7 +165,7 @@ Have the specific keywords at the top, followed by more general keywords, and th
 **Branded**: Gordon Ramsay scrambled eggs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Make The Best Darn Video Possible
@@ -206,6 +202,10 @@ For example, in this scrambled egg video you are making, at the end you can ask,
 
 ![Encourage Viewers to Engage in Video](https://images.wondershare.com/filmora/article-images/encourage-viewers-to-engage-min.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Who knows, who will respond.
 
 #### Step 9: Design a Thumbnail
@@ -216,10 +216,6 @@ Your viewers will absolutely judge your video by its cover so it’s important t
 
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
 
 Don’t want to pay money for a photo editing software such as Photoshop?
@@ -227,6 +223,10 @@ Don’t want to pay money for a photo editing software such as Photoshop?
 You can use an online service called [Canva](https://www.canva.com/)or download [GIMP](https://www.gimp.org/), an open-source photo editor much like Photoshop, but far less powerful. These will help you get the job done as you are starting out.
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Publishing With Attention to Optimization
 
@@ -285,16 +285,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners/"><u>[New] 2024 Approved Effortless YouTube Live with Step-by-Step OBS Guide for Beginners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-buy-list-selecting-the-premier-video-cards-for-youtube-for-2024/"><u>[New] Best Buy List Selecting the Premier Video Cards for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/onfirm-monetization-accuracy-essential-steps-for-your-yt-channels/"><u>[New] Confirm Monetization Accuracy Essential Steps for Your YT Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-edible-imagery-stepwise-food-film-making-for-2024/"><u>[New] Edible Imagery Stepwise Food Film Making for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-sculpting-textual-space-with-ais-powerful-features/"><u>[New] In 2024, Sculpting Textual Space with AI's Powerful Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-convert-youtube-music-seamlessly-for-mac-users-2023-edition/"><u>[Updated] 2024 Approved Convert YouTube Music Seamlessly for Mac Users, 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dont-overlook-tags-in-video-description/"><u>[Updated] 2024 Approved Don't Overlook Tags in Video Description</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-preventing-auto-sleep-mode-on-your-apple-computer/"><u>Guide: Preventing Auto-Sleep Mode on Your Apple Computer</u></a></li>
-<li><a href="https://facebook.techidaily.com/hacked-ratings-facebooks-app-store-scores-tank-under-activist-pressure/"><u>Hacked Ratings: Facebook's App Store Scores Tank Under Activist Pressure</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>[New] 2024 Approved Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-building-an-impressive-instagram-network/"><u>[New] 2024 Approved Building an Impressive Instagram Network</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>[New] Flight Expertise Unleashed An Examination of DJI Phantom 3</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-a-youtube-guru-essential-production-know-how/"><u>[Updated] 2024 Approved Becoming a YouTube Guru Essential Production Know-How</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[Updated] 2024 Approved Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simple-strategies-upside-down-video-rotation-via-vlc/"><u>[Updated] 2024 Approved Simple Strategies Upside-Down Video Rotation via VLC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-recording-setups-for-lol-enthusiasts-3-ways-for-2024/"><u>[Updated] Easy Recording Setups for LOL Enthusiasts (3 Ways) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-what-is-the-difference-between-youtube-and-dailymotion/"><u>[Updated] In 2024, What Is the Difference Between YouTube and Dailymotion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reveal-8-authentic-online-video-advancement-hacks/"><u>[Updated] Reveal 8 Authentic Online Video Advancement Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-lies-beneath-an-exploration-into-youtubes-unlisted-video-space/"><u>[Updated] What Lies Beneath An Exploration Into YouTube's Unlisted Video Space</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/18-steps-to-make-your-instagram-unboxing-content-stand-out/"><u>18 Steps to Make Your Instagram Unboxing Content Stand Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285016022-pc/"><u>無料の高解像度化方法：低画質動画を上達させるオンラインとPC・スマホ用ガイド!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-audio-tactics-achieving-excellence-without-a-microphone-for-2024/"><u>Professional Audio Tactics Achieving Excellence without a Microphone for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-dvd-playback-from-disk-to-ipad-mini-2-top-solutions-reviewed/"><u>Seamless DVD Playback From Disk to iPad Mini 2: Top Solutions Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-photos-via-iphone-size-adjustment/"><u>Streamline Photos via iPhone Size Adjustment</u></a></li>
 </ul></div>
 

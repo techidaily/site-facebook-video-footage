@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar\""
-date: 2024-12-05T21:05:18.643Z
-updated: 2024-12-09T19:52:01.503Z
+date: 2024-12-11T19:43:59.293Z
+updated: 2024-12-15T17:43:49.679Z
 tags:
   - ai video
   - ai youtube
@@ -25,10 +25,6 @@ Getting excited, we too!!! So, in this article, we will learn all about who is A
 You may wonder who this simple-looking, young boy is, right?
 
 ![ajay nagar aka carryminati](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Yes, he is one of the India’s biggest YouTuber- Ajey Nagar. He shared a shoulder with Tom Cruise while promoting Mission Impossible 6 in Paris.
 
@@ -67,10 +63,6 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 | Last 30 Days Views                              | 35 M+                                              |
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Why is Carry Minati trending on YouTube?
 
@@ -160,16 +152,12 @@ Step5 When finally, all the settings are done, click on the Export button to sav
 
 ![wondershare filmora ai portrait 5](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hot FAQs on CarryMinati
 
 Below we have answered some hot frequently asked questions about CarryMinati.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Is Carry Minati married?
@@ -177,7 +165,7 @@ Below we have answered some hot frequently asked questions about CarryMinati.
 No, till date, CarryMinati aka Ajay Nagar is not married.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How much CarryMinati earn from 1 video?
@@ -189,10 +177,6 @@ Calculating the income from a YouTube video can be a complicated task that depen
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -299,6 +283,10 @@ Step2 Next, go to Effects > Ai Portrait, and the options of the features can be 
 
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
@@ -323,11 +311,19 @@ No, till date, CarryMinati aka Ajay Nagar is not married.
 
 Calculating the income from a YouTube video can be a complicated task that depends on several factors like views, likes, ads in the video, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Which actors has Carry Minati interviewed?
 
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -413,10 +409,6 @@ This can be useful for marketing purposes, as it can keep people interested in y
 
 When viewers can pause, rewind, and playback a video over and over again, they are more engaged with it. This increases the chances that they will watch the entire video, and may even share it with friends. You can create a sense of community and connection with your customers. And best of all? You can keep the magic going by adding sound effects and music!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Loop a YouTube Video on TV from a Mobile
 
 One of the great features of YouTube is that you can loop YouTube videos on your TV. This means that you can watch a video over and over again without having to fast forward through it. This is great for kids who are constantly asking to watch the same video over and over again. You can also use this feature to watch videos that you have missed.
@@ -432,7 +424,7 @@ The YouTube app is available on the google play store. You can easily download i
 ![create a playlist in youtube](https://images.wondershare.com/filmora/article-images/2022/11/create-a-playlist-in-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2 Go to the library and select the loop symbol
@@ -440,6 +432,10 @@ The YouTube app is available on the google play store. You can easily download i
 Click on library this will take you to a list of libraries that have YouTube collections. This can be a great way to find new material to watch, or to find old material that you may have missed. Play back the playlist that you want to loop on the smart TV.
 
 ![select loop symbol in youtube](https://images.wondershare.com/filmora/article-images/2022/11/select-loop-symbol-in-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3 Loop the playlist and send the list to the TV
 
@@ -511,10 +507,6 @@ After making copies of your video. Add some transitions in your video. Adding tr
 
 ![loop youtube video in filmora editor](https://images.wondershare.com/filmora/article-images/2022/11/loop-youtube-video-in-filmora-editor.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Benefits to create loop video on Filmora
 
 There are many benefits to creating looping videos, especially when using a tool like Filmora. Loop videos are great for social media since they can be set to play on a loop and are viewable without sound. They’re also perfect for short attention spans since you can watch them over and over again without getting bored.
@@ -522,6 +514,10 @@ There are many benefits to creating looping videos, especially when using a tool
 This can be useful for marketing purposes, as it can keep people interested in your video content. Additionally, looping can create a more engaging video experience for viewers, as it keeps them engaged by playing the same clip over and over again. You can easily add captions, and titles to your loop video.
 
 When viewers can pause, rewind, and playback a video over and over again, they are more engaged with it. This increases the chances that they will watch the entire video, and may even share it with friends. You can create a sense of community and connection with your customers. And best of all? You can keep the magic going by adding sound effects and music!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Loop a YouTube Video on TV from a Mobile
 
@@ -537,15 +533,15 @@ The YouTube app is available on the google play store. You can easily download i
 
 ![create a playlist in youtube](https://images.wondershare.com/filmora/article-images/2022/11/create-a-playlist-in-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2 Go to the library and select the loop symbol
 
 Click on library this will take you to a list of libraries that have YouTube collections. This can be a great way to find new material to watch, or to find old material that you may have missed. Play back the playlist that you want to loop on the smart TV.
 
 ![select loop symbol in youtube](https://images.wondershare.com/filmora/article-images/2022/11/select-loop-symbol-in-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3 Loop the playlist and send the list to the TV
 
@@ -564,6 +560,10 @@ Looping a YouTube video on your TV can also be useful if you have a lot of video
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -586,20 +586,21 @@ It's easy to do, and it can be a great way to spend time with family members and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-profitability-in-the-world-of-youtube-shorts-for-2024/"><u>[New] Boosting Profitability in the World of Youtube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[New] Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-flawless-inshot-edit-transitions/"><u>[New] The Art of Flawless Inshot Edit Transitions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>[Updated] 2024 Approved Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-medical-and-wellness-fb-ad-success/"><u>[Updated] In 2024, Mastering Medical & Wellness FB Ad Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>[Updated] Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-collection-top-webcam-grips-and-mounts/"><u>2024 Approved Excellent Collection Top Webcam Grips & Mounts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/developer-access-granted-apple-unveils-visionpro-sdk-and-hardware-kit-application-process-technews/"><u>Developer Access Granted: Apple Unveils VisionPro SDK and Hardware Kit Application Process – TechNews</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-vivo-y200-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Vivo Y200</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y100t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y100t Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-hot-40i-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Hot 40i Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-viral-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>In 2024, Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-toms-hardware-chronicles/"><u>Navigate the World of Tech: Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-changing-ntsc-dvd-playback-to-pal-standards-for-global-use/"><u>Step-by-Step Tutorial on Changing NTSC DVD Playback to PAL Standards for Global Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/trend-driven-infographics-the-leaders-in-23-for-2024/"><u>Trend-Driven Infographics The Leaders in '23 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[New] 2024 Approved Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-deep-dive-into-the-world-of-youtubes-minis-for-2024/"><u>[New] A Deep Dive Into the World of Youtube's Minis for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premiere-list-of-ios-ps2-emulation-tools/"><u>[New] In 2024, Premiere List of iOS PS2 Emulation Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>[New] Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[Updated] 2024 Approved Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-8-common-blunders-in-early-stage-youtube-success-for-2024/"><u>[Updated] Breaking Down 8 Common Blunders in Early-Stage YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creative-channel-themes-get-them-for-free/"><u>[Updated] In 2024, Creative Channel Themes Get Them for Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-most-popular-image-stickering-apps-iosandroid-edition/"><u>[Updated] Most Popular Image Stickering Apps – iOS/Android Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steps-to-create-an-impactful-youtube-trailer/"><u>[Updated] Steps to Create an Impactful YouTube Trailer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-7-premium-android-adblocking-tools/"><u>2024 Approved Discover 7 Premium Android AdBlocking Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-load-screen-troubles-here-are-your-answers/"><u>Far Cry 5 Load Screen Troubles? Here Are Your Answers!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722759227860-the-new-era-of-fortnite-begins-in-depth-review-and-opinions-on-the-current-season/"><u>The New Era of Fortnite Begins: In-Depth Review and Opinions on the Current Season!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-imovie-basics-for-new-users-how-to-seamlessly-add-sounds-and-music/"><u>Updated In 2024, IMovie Basics for New Users How to Seamlessly Add Sounds and Music</u></a></li>
 </ul></div>
 

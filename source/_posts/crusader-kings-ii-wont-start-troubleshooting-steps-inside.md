@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2024-12-08T19:23:43.963Z
-updated: 2024-12-09T18:04:11.933Z
+date: 2024-12-15T00:58:19.250Z
+updated: 2024-12-15T20:46:15.708Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 ### Fix 2 – Switch to DirectX 11
@@ -59,16 +63,12 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
@@ -95,7 +95,7 @@ To update your graphics driver, here are two safe ways for you:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -106,6 +106,10 @@ To update your graphics driver, here are two safe ways for you:
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Turn off Origin in-game overlay
 
  Origin enables the in-game overlay feature by default, but that may cause Battlefield 5 not starting properly. Try disabling this option to see if the problem is fixed.
@@ -115,16 +119,12 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Disable cloud storage
@@ -153,7 +153,7 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
@@ -183,20 +183,21 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>[New] 2024 Approved Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos-for-2024/"><u>[Updated] 6 Completely Different Places to Get Icons and Logos for YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[Updated] From Zero to Hero Your First Time Streaming to Youtube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-path-to-youtube-stardom-3-strategies-for-captivating-reaction-videos/"><u>[Updated] Your Path to YouTube Stardom 3 Strategies for Captivating Reaction Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>2024 Approved Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>2024 Approved Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-12plus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 12+ 5G</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimize-video-pace-on-youtube-for-devices-speed-adjustments-for-2024/"><u>Optimize Video Pace on YouTube for Devices (Speed Adjustments) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pioneering-the-future-the-art-of-sensory-based-filmmaking-for-2024/"><u>Pioneering the Future The Art of Sensory-Based Filmmaking for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pros-secret-windows-11-gems-uncovered-for-2024/"><u>Pro's Secret Windows 11 Gems Uncovered for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-fix-from-raw-images-to-high-quality-youtube-thumbnails-for-2024/"><u>Quick Fix From Raw Images To High-Quality YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/the-ultimate-guide-capturing-epic-gameplay-recording-pc-games-for-youtube/"><u>The Ultimate Guide: Capturing Epic Gameplay - Recording PC Games for YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-mastering-youtubes-best-music-reaction-videos-for-2024/"><u>The Ultimate List Mastering YouTube's Best Music Reaction Videos for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-new-era-of-ultrabooks-with-our-comprehensive-razer-blade-stealth-nv-review/"><u>Unveiling the New Era of Ultrabooks with Our Comprehensive Razer Blade Stealth Nv Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-analyzing-online-video-discussions-for-2024/"><u>[New] Analyzing Online Video Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade-for-2024/"><u>[New] Decipher YouTube's Mysteries with Advanced Insights From Social Blade for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easily-download-your-favorites-handpicked-tools-reviewed/"><u>[New] In 2024, Easily Download Your Favorites Handpicked Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-activating-or-deactivating-youtube-comments/"><u>[New] In 2024, Expert Tips Activating or Deactivating YouTube Comments</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-max-360-vs-hero-11-discovering-the-gopro-video-champion/"><u>[New] In 2024, Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>[New] The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-viewership-victory-surpassing-500-subscriber-mark/"><u>[New] Viewership Victory Surpassing 500 Subscriber Mark</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-comprehensive-directory-extracting-youtube-intros-for-2024/"><u>[Updated] Comprehensive Directory Extracting Youtube Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[Updated] In 2024, Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-plotting-your-path-in-the-realm-of-visual-arts/"><u>[Updated] Plotting Your Path in the Realm of Visual Arts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-stardew-valleys-most-innovative-game-updates-for-2024/"><u>[Updated] Unveiling Stardew Valley's Most Innovative Game Updates for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-steam-cant-sync-with-your-cloud-storage/"><u>Fixing the Issue: Why Steam Can't Sync with Your Cloud Storage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/grell-tws1x-wireless-earbuds-reviewed-stellar-audio-quality-meets-disappointing-design-on-zdnet/"><u>Grell TWS1X Wireless Earbuds Reviewed: Stellar Audio Quality Meets Disappointing Design on ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-universe-of-audio-top-episodes-in-google-listenings/"><u>Ultimate Universe of Audio Top Episodes in Google Listenings</u></a></li>
 </ul></div>
 

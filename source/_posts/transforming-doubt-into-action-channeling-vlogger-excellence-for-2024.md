@@ -1,7 +1,7 @@
 ---
 title: "\"Transforming Doubt Into Action  Channeling Vlogger Excellence for 2024\""
-date: 2024-12-04T22:06:16.094Z
-updated: 2024-12-09T21:00:29.020Z
+date: 2024-12-08T20:24:38.075Z
+updated: 2024-12-15T20:09:18.479Z
 tags:
   - ai video
   - ai youtube
@@ -58,10 +58,6 @@ The ending needs to be justified even if there is a twist. Everything before tha
 
 The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **4\. Be Inviting**
 
 A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
@@ -71,7 +67,7 @@ Unlike being invited to a party, there is no obligation when it comes to YouTube
 The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **5\. Compose the Shot**
@@ -87,7 +83,7 @@ Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UC
  The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **6\. Be Prepared**
@@ -101,7 +97,7 @@ Good preparation includes having all your gear ready for filming when you need i
 Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **7\. Be Expressive**
@@ -115,7 +111,7 @@ Consider your audience: they are coming home from school or work, where there we
 Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **8\. Stay Organized**
@@ -142,6 +138,10 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -159,24 +159,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exclusive-deals-and-previews-from-creators/"><u>[New] 2024 Approved Exclusive Deals & Previews From Creators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-best-photo-to-cartoon-software-for-windows-and-mac/"><u>[New] Best Photo to Cartoon Software for Windows & Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-conquer-youtube-searches-with-these-top-11-seo-strategies-for-2024/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>[New] Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-6-distinct-icon-and-logo-providers/"><u>[New] In 2024, Discovering 6 Distinct Icon and Logo Providers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-double-trouble-replaying-youtube-videos-on-your-set/"><u>[New] In 2024, Double Trouble Replaying YouTube Videos on Your Set</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-best-pairing-practices-in-the-youtube-space/"><u>[New] In 2024, Exploring Best Pairing Practices in the YouTube Space</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[Updated] 2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-can-i-peruse-friends-shared-videos-and-pics-via-messenger/"><u>[Updated] 2024 Approved Can I Peruse Friends' Shared Videos & Pics via Messenger?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-compiling-chords-and-crafting-a-unique-youtube-playlist-for-2024/"><u>[Updated] Compiling Chords and Crafting a Unique YouTube Playlist for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-youtube-videos-through-enhancement-tips/"><u>[Updated] Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-quintessential-stop-motion-gems-for-cinephiles-for-2024/"><u>[Updated] Quintessential Stop-Motion Gems for Cinephiles for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-scouring-deals-low-priced-gopro-cameras-for-2024/"><u>[Updated] Scouring Deals Low-Priced GoPro Cameras for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/data-restoration-solutions-compatible-with-windows-781011/"><u>Data Restoration Solutions: Compatible with Windows 7/8/10/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mousepad-software-compatible-with-windows/"><u>Download the Latest ASUS Mousepad Software Compatible with Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elite-methods-for-streaming-and-preserving-sports-action/"><u>Elite Methods for Streaming and Preserving Sports Action</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-client-engagement-with-gpt-in-therapy-sessions/"><u>Enhancing Client Engagement with GPT in Therapy Sessions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-13-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 13 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/understanding-and-utilizing-vmware-snapshots-effectively-for-optimal-performance/"><u>Understanding and Utilizing VMware Snapshots Effectively for Optimal Performance.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-25-steps-forward-in-youtube-mastery-and-recognition/"><u>[New] 2024 Approved 25 Steps Forward in YouTube Mastery and Recognition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>[New] 2024 Approved Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ver-fading-memories-revived-youtubes-lost-content-hunt/"><u>[New] Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>[New] Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-webinar-guide-host-without-spending/"><u>[Updated] 2024 Approved YouTube Webinar Guide Host Without Spending</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-artisans-shaping-virtual-marvel-universes-for-2024/"><u>[Updated] Artisans Shaping Virtual Marvel Universes for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[Updated] In 2024, Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-lost-iphone-x-heres-what-you-can-do/"><u>2024 Approved Finding Lost iPhone X? Here's What You Can Do</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-visual-impact-mastering-thumbnail-dimensions/"><u>2024 Approved YouTube Visual Impact Mastering Thumbnail Dimensions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/create-magic-download-premium-soundscapes-now-in-2024/"><u>Create Magic Download Premium Soundscapes Now, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/discover-10-leading-online-video-editors-android-pc/"><u>Discover 10 Leading Online Video Editors (Android, PC)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>In 2024, Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/powerhouse-performance-gigabyte-integrates-artificial-intelligence-into-high-end-workstations-gpus-and-ssds-with-advanced-ai-software-tools/"><u>Powerhouse Performance: Gigabyte Integrates Artificial Intelligence Into High-End Workstations, GPUs & SSDs with Advanced AI Software Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-of-8-youtube-mistakes-to-evade-for-2024/"><u>The Ultimate List of 8 Youtube Mistakes to Evade for 2024</u></a></li>
 </ul></div>
 

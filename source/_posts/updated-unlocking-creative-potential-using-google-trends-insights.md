@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Creative Potential Using Google Trends Insights"
-date: 2024-12-08T17:50:17.826Z
-updated: 2024-12-09T17:53:26.426Z
+date: 2024-12-12T22:58:57.868Z
+updated: 2024-12-16T00:38:49.084Z
 tags:
   - ai video
   - ai youtube
@@ -77,7 +77,7 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Battle of the Keywords
@@ -90,6 +90,10 @@ Once you have a keyword in mind, type it into the Explore bar at the top of your
 
 ![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
 
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
@@ -99,7 +103,7 @@ You can see near the top that this chart represents searches for the topic over 
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
@@ -107,10 +111,6 @@ There, now I can see how the popularity of Filmora as a search term has spiked o
 Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
 
 ![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
 
@@ -121,7 +121,7 @@ Although, when you do a comparison like this you should also go to YouTube and s
 ![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
@@ -141,7 +141,7 @@ As one of the most widely used video editing software among YouTubers, Filmora p
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -161,20 +161,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-video-to-youtube-specifications/"><u>[New] 2024 Approved Enhance Your Video to YouTube Specifications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-pathway-to-creating-high-quality-youtube-ads-on-a-dime/"><u>[New] The Pathway to Creating High-Quality YouTube Ads on a Dime</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-rated-dj-templates-free-access-for-music-makers/"><u>[New] Top-Rated DJ Templates Free Access for Music Makers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-stunning-youtube-openings-best-tools-list-for-2024/"><u>[Updated] Creating Stunning YouTube Openings - Best Tools List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-free-mcb-visual-tools-for-2024/"><u>[Updated] Exclusive Free MCB Visual Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-showcasing-book-trailers/"><u>[Updated] In 2024, Best Showcasing Book Trailers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eliminate-background-noise-from-online-video-content/"><u>[Updated] In 2024, Eliminate Background Noise From Online Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-lifes-journey-videos-creating-authentic-online-experiences/"><u>[Updated] Life's Journey Videos Creating Authentic Online Experiences</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-tools-for-3d-animators-creation/"><u>2024 Approved Top 7 Tools for 3D Animator's Creation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dissecting-the-utility-of-sns-hdr-for-hdri-tasks-for-2024/"><u>Dissecting the Utility of SNS HDR for HDRI Tasks for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-migration-converting-a-ghost-image-hdd-to-an-ssd-using-windows-nx11-features/"><u>Effortless Migration: Converting a Ghost Image HDD to an SSD Using Windows nX11 Features</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-dciman32dll-file-not-detected-a-comprehensive-guide/"><u>Solving 'dciman32.dll' File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-viewers-with-youtubes-visual-polishing/"><u>[New] In 2024, Captivating Viewers with Youtube's Visual Polishing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-save-a-gif-from-twitter-on-iphone-and-android/"><u>[New] In 2024, How to Save a GIF From Twitter on iPhone and Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence/"><u>[New] The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earnings-breakdown-one-million-glances-at-youtube/"><u>[Updated] 2024 Approved Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-top-rated-cameras-for-youtubers/"><u>[Updated] 2024 Approved Elevate Your Content Top-Rated Cameras for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-barriers-with-shared-youtube-curations-for-2024/"><u>[Updated] Breaking Down Barriers with Shared YouTube Curations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-steps-to-boosting-youtube-visibility-for-2024/"><u>[Updated] Elevate Your Content Steps to Boosting YouTube Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] In 2024, Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-social-media-traffic-into-revenue-for-2024/"><u>[Updated] Transforming Social Media Traffic Into Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-reasons-behind-missing-shorts-thumbnails/"><u>[Updated] Unveiling the Reasons Behind Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-auditory-mastery-selecting-background-music-for-vids/"><u>2024 Approved Auditory Mastery Selecting Background Music for Vids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-insight-understanding-the-risks-top-6-reasons-for-vigilance/"><u>Artificial Intelligence Insight: Understanding the Risks – Top 6 Reasons for Vigilance</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/download-the-top-two-essential-alternatives-to-mx500-free-trial-available/"><u>Download the Top Two Essential Alternatives to MX500: Free Trial Available!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a25-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A25 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Smart 7 Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology Choices - Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tech-how-to-removing-items-from-your-google-home-system/"><u>The Ultimate Tech How-To: Removing Items From Your Google Home System</u></a></li>
 </ul></div>
 

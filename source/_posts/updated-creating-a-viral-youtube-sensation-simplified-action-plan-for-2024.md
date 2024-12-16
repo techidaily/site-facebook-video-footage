@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Creating a Viral YouTube Sensation  Simplified Action Plan for 2024\""
-date: 2024-12-07T23:47:16.659Z
-updated: 2024-12-09T18:07:34.914Z
+date: 2024-12-11T20:22:11.152Z
+updated: 2024-12-15T20:30:26.861Z
 tags:
   - ai video
   - ai youtube
@@ -40,7 +40,7 @@ Here’s how you can get your YouTube video ranked higher in search results and 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find Good Keywords for Your YouTube Videos
@@ -50,7 +50,7 @@ The keywords that you choose to use with your video will be the greatest factors
 Consider doing some keyword research into your video’s subject using the Google Keyword Planner in or a variety of other[keyword tools](https://tools.techidaily.com/wondershare/filmora/download/). Make sure the most important keywords are in your tags, title, and description.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make Full Use of Your Video's Tags
@@ -61,13 +61,13 @@ Loading up your tags with keywords that are relevant to your video and genre wil
 
 Including the maximum amount of tags possible will help to give YouTube the maximum amount of information to use in order to place your video in the results of different searches or to have it come up as ‘related’ to other videos. Users that only post 3 or 4 tags with each video could be missing out on countless amounts of traffic for their content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Post a Transcript in Your Video Description
 
 If you have a script or a transcript for your entire video you should consider posting it in the description of your video in order to improve your search engine ranking. This can also help for users that would like to have a written article to accompany your video and for indexing your video in search engine results. There are so many people that don't make proper use of their video descriptions on YouTube that doing so will give you an advantage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Write Searchable YouTube Video Tiles
 
@@ -78,7 +78,7 @@ Try to write titles that are searchable and which also get potential viewers exc
 Phrases such as ‘review’, ‘how-to’, and ‘tutorial’ get searched for a lot, so always include them in your titles when they apply to your videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Optimize your Video Description for YouTube SEO
@@ -86,6 +86,10 @@ Phrases such as ‘review’, ‘how-to’, and ‘tutorial’ get searched for 
 Video descriptions should generally include around 4000 characters (about 900 words) in which you describe the content of your YouTube video, include important keywords, provide links to your other social media accounts, and ask viewers to subscribe. Using up all the space in your description is a good way to ensure you’re getting the maximum search value out of it.
 
 If you use a lot of products in your videos (i.e. you make cooking videos, so your favorite frying pan is in a lot of shots) then it is a good idea to look into affiliate programs. Amazon has one of the best. If you become an affiliate you can post links to the products you use in your video description and, if a viewer follows one and buys something (even if it’s not the thing you liked to) you’ll earn a commission. This won’t help you with search rankings, but it’s a nice bonus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use Custom Video Thumbnails
 
@@ -98,10 +102,6 @@ In order to[create a thumbnail that stands out](https://tools.techidaily.com/won
 If you are interested in generating more traffic to any YouTube video be sure to follow these 6 steps for how to get your YouTube video seen (and check out [4 more here!](https://tools.techidaily.com/wondershare/filmora/download/)).
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -118,16 +118,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-video-threads-on-youtube-for-2024/"><u>[New] Exploring Video Threads on YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-premium-selection-of-free-4k-software-for-windows-plus-os-x/"><u>[New] In 2024, Premium Selection of Free 4K Software for Windows + OS X</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-video-sharing-platform-showdown-which-is-ideal-for-your-individual-usage/"><u>[Updated] 2024 Approved Video Sharing Platform Showdown Which Is Ideal for Your Individual Usage?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-webcams-for-youtube-livestreaming/"><u>[Updated] In 2024, Best Webcams for YouTube Livestreaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-guide-to-free-youtube-closure-creation/"><u>[Updated] Quick Guide to Free YouTube Closure Creation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dive-into-sonys-high-res-xperia-the-4k-phone-unveiled/"><u>Dive Into Sony's High-Res Xperia The 4K Phone Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/no-more-hidden-shorts-just-visible-ones-for-2024/"><u>No More Hidden Shorts, Just Visible Ones for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-captioning-method-for-enhanced-youtube-video-quality-for-2024/"><u>Quick Captioning Method for Enhanced YouTube Video Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-secrets-of-effective-free-youtube-video-transcriptions-revealed-for-2024/"><u>The Secrets of Effective, FREE YouTube Video Transcriptions Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[New] 2024 Approved Achieving Profitability on YouTube Average View Count for Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[New] 2024 Approved Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-online-presence-a-guide-to-thriving-youtube-branding-for-2024/"><u>[Updated] Elevate Your Online Presence A Guide to Thriving YouTube Branding for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210764668-9798886446012-conquering-through-it-all/"><u>Conquering Through It All | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-asus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Asus Without PUK Codes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-things-you-should-know-about-youtube-live-thumbnails/"><u>In 2024, Things You Should Know About YouTube Live Thumbnails</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-blaze-2-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Blaze 2 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/level-up-your-screen-shots-the-experts-approach-to-ps4-capture-for-2024/"><u>Level Up Your Screen Shots The Expert's Approach to PS4 Capture for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/netflix-offline-watching-a-comprehensive-guide-on-downloading-content/"><u>Netflix Offline Watching: A Comprehensive Guide on Downloading Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pc-mastery-with-google-assistant-a-tutorial-for-smart-device-management/"><u>PC Mastery with Google Assistant: A Tutorial for Smart Device Management</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/athway-to-youtube-prosperity-a-comprehensive-guide-for-2024/"><u>The Pathway to YouTube Prosperity - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/time-lapse-mastery-top-apps-for-iphone-and-android-users/"><u>Time-Lapse Mastery Top Apps for iPhone and Android Users</u></a></li>
 </ul></div>
 
