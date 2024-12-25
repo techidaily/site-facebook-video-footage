@@ -1,7 +1,7 @@
 ---
 title: How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
-date: 2024-12-13T01:50:33.504Z
-updated: 2024-12-16T02:06:58.378Z
+date: 2024-12-18T22:01:49.383Z
+updated: 2024-12-24T19:05:50.986Z
 categories:
   - BestProducts
 description: This Article Describes How Does the Newest Addition to Netgear's Lineup Measure Up? Exploring the Nighthawk AX8 Mesh Extender Review
@@ -14,7 +14,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
@@ -43,16 +43,12 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -116,6 +112,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -124,15 +124,15 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
@@ -145,7 +145,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -174,19 +174,18 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-how-tseries-benefits-from-youtube/"><u>[New] 2024 Approved Deciphering How TSeries Benefits From YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-15-must-have-openers-for-maximum-youtube-engagement/"><u>[New] In 2024, 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>[Updated] 2024 Approved Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhancing-visibility-and-following-on-instagram/"><u>[Updated] 2024 Approved Enhancing Visibility & Following on Instagram</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>[Updated] 2024 Approved Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-on-youtube-a-step-by-step-guide-for-newbies-for-2024/"><u>[Updated] Earning on YouTube A Step-by-Step Guide for Newbies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-interest-with-budget-friendly-youtube-video-intros/"><u>[Updated] In 2024, Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-haven-guide-top-3-non-youtube-video-portals/"><u>[Updated] The Haven Guide Top 3 Non-Youtube Video Portals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-buyers-best-guide-to-virtual-reality-cameras/"><u>In 2024, Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-engaging-audiences-triad-of-effective-storytelling/"><u>In 2024, Engaging Audiences Triad of Effective Storytelling</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c22-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C22 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-compreenas-guide-to-seamless-time-marking-in-youtube-videos-desktopmobile-for-2024/"><u>The Compreenas Guide to Seamless Time Marking in YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/troubleshooting-steps-to-resolve-a-stuck-dvd-tray-issue/"><u>Troubleshooting Steps to Resolve a Stuck DVD Tray Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-when-you-cant-find-ksuserdll-file/"><u>Troubleshooting Steps When You Can't Find ksuser.dll File</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts/"><u>[New] 2024 Approved Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-one-step-guide-to-simultaneous-cam-plus-screen-recording/"><u>[New] One Step Guide to Simultaneous Cam + Screen Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>[Updated] In 2024, Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-jest-and-jibe-constructing-parody-videos/"><u>[Updated] Jest and Jibe Constructing Parody Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-less-is-more-the-best-video-url-reducers-revealed/"><u>[Updated] Less Is More The Best Video URL Reducers Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-music-mastery-essentials-high-quality-dj-video-samples/"><u>[Updated] Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-extended-shutter-speeds-complete-review-of-slomo-2024/"><u>[Updated] The Art of Extended Shutter Speeds Complete Review of SloMo, 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-irecorder-the-screen-recording-standard/"><u>2024 Approved IRecorder The Screen Recording Standard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-amazon-prime-day-offers-of-2024-top-bargains-you-cant-miss-in-october-zdnet/"><u>Best Amazon Prime Day Offers of 2024: Top Bargains You Can't Miss in October - ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevating-videogame-recording-the-steam-methodology-for-2024/"><u>Elevating Videogame Recording The Steam Methodology for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS in Lost Mode</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-skyrims-eternal-launch-loop-with-these-simple-solutions/"><u>Overcome Skyrim’s Eternal Launch Loop with These Simple Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rated-seo-firms-in-silicon-valleys-heart-san-jose-usa-discovering-the-power-of-seo-powersuite/"><u>Top-Rated SEO Firms in Silicon Valley's Heart: San Jose, USA | Discovering the Power of SEO PowerSuite</u></a></li>
 </ul></div>
 
