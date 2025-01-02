@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2024-12-23T17:31:49.721Z
-updated: 2024-12-24T17:05:16.246Z
+date: 2024-12-30T01:48:29.707Z
+updated: 2025-01-01T16:33:42.851Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -40,6 +40,10 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
@@ -64,7 +68,7 @@ Lifewire / Erika Rawes
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Basic, but effective**
@@ -89,11 +93,11 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network Performance: Fast speeds, No USB port**
 
@@ -106,7 +110,7 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
@@ -125,14 +129,10 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Around 100 bucks**
@@ -184,19 +184,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>[New] 2024 Approved Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-gameplay-learn-to-use-kinemaster-effectively-then-compare-top-platforms/"><u>[Updated] 2024 Approved Elevate Your Gameplay Learn to Use KineMaster Effectively, Then Compare Top Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cloaking-in-content-an-introduction-to-video-smoothing-for-2024/"><u>[Updated] Cloaking in Content An Introduction to Video Smoothing for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-presence-essential-tips-for-engaging-shorts-for-2024/"><u>[Updated] Elevate Your Youtube Presence Essential Tips for Engaging Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-ownership-vs-cc-freedom/"><u>[Updated] Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-tip-mastering-green-screen-techniques/"><u>[Updated] Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-curation-youtube-vs-tiktok-showdown/"><u>[Updated] In 2024, Content Curation YouTube Vs. TikTok Showdown</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-insight-into-top-10-youtube-mp3-downloader-apps/"><u>[Updated] Insight Into Top 10 YouTube MP3 Downloader Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-engaging-vlog-dialogues-a-step-by-step-guide/"><u>2024 Approved Crafting Engaging Vlog Dialogues A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facilitating-tiktok-videos-transmission-to-facebook-friends/"><u>2024 Approved Facilitating TikTok Videos' Transmission to Facebook Friends</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-ahead-of-the-curve-tesla-phone-rumors-decoded-what-to-expect-about-pricing-launch-date-and-specifications/"><u>Getting Ahead of the Curve: Tesla Phone Rumors Decoded – What to Expect About Pricing, Launch Date & Specifications</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/masterclass-reclaiming-personal-eyes-only-images-for-2024/"><u>Masterclass Reclaiming Personal Eyes-Only Images for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-utilizing-the-measure-feature-on-android-phones/"><u>Step-by-Step Tutorial: Utilizing the Measure Feature on Android Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/story-3-the-cisc-confusion/"><u>Story 3: The CISC Confusion</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bring-your-messages-to-life-on-tiktok-with-text-effects/"><u>[New] 2024 Approved Bring Your Messages to Life on TikTok with Text Effects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-wirecast-playbook-for-engaging-youtube-streamers/"><u>[New] 2024 Approved The Ultimate WireCast Playbook for Engaging YouTube Streamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-ad-revenue-on-youtube-with-new-strategies/"><u>[New] Optimizing Ad Revenue on YouTube with New Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-comparison-of-gif-creators/"><u>[New] The Ultimate Comparison of GIF Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-gear-guide-choosing-the-right-cam-for-you/"><u>[Updated] 2024 Approved Affordable Gear Guide Choosing the Right Cam For You</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-youtube-star-essential-skills-training/"><u>[Updated] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-anonymous-sharing-simplified-blurring-techniques-for-videos-for-2024/"><u>[Updated] Anonymous Sharing Simplified Blurring Techniques for Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-custom-link-for-youtubes-auto-subscribe-for-2024/"><u>[Updated] Building a Custom Link for YouTube's Auto-Subscribe for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-digital-domination-a-deep-dive-into-directors-videos-for-2024/"><u>[Updated] Deciphering Digital Domination A Deep Dive Into Directors' Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[Updated] How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-vfx-magic-top-4-youtube-tutorials-for-no-cost-green-screen-techniques/"><u>[Updated] Unlock VFX Magic Top 4 YouTube Tutorials for No-Cost Green Screen Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubers-dream-gear-top-cameras-unveiled/"><u>[Updated] YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-tailoring-file-explorer-views-in-major-and-minor-folders-on-your-mac/"><u>Comprehensive Guide to Tailoring File Explorer Views in Major and Minor Folders on Your Mac</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-photo-rehabilitation-with-stellar-repair-on-windows-platform/"><u>Expert Photo Rehabilitation with Stellar Repair on Windows Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-apples-vision-pro-key-applications-excluding-top-competitors/"><u>Exploring the Future of Apple's Vision Pro: Key Applications Excluding Top Competitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powering-your-sites-personalization-features-with-modern-tech/"><u>Powering Your Site's Personalization Features With Modern Tech</u></a></li>
+<li><a href="https://win-updates.techidaily.com/revamping-clickonce-deployments-a-step-by-step-guide/"><u>Revamping ClickOnce Deployments: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
 </ul></div>
 

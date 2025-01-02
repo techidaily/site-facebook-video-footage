@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Comprehensive Look  Editing and Polishing YT Videos via Movie Maker\""
-date: 2024-08-01T02:18:36.964Z
-updated: 2024-08-02T02:18:36.964Z
+date: 2024-12-28T00:07:34.160Z
+updated: 2025-01-02T08:49:26.054Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
 # How to Edit YouTube videos in Windows Movie Maker
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -43,9 +40,6 @@ It is hard to list all the information of how to use Filmora to edit YouTube vid
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Movie Maker YouTube: How to Edit YouTube Videos?
 
 Before editing the video in [Windows Movie Maker](https://windows-movie-maker-vista.en.softonic.com/download), you have to make sure that the video format is supported by free Windows Movie Maker. As you may know that Window Movie Maker only accept the following file formats at importing: **.WMV/.ASF, .MPG (MPEG-1), .AVI (DV-AVI), .WMA, .WAV, and .MP3\.** Importing formats such as   **MP4/3GP, FLV and MOV,** are also supported you are running Windows 7 or later and you have installed the necessary codec as well.
@@ -54,9 +48,6 @@ If your videos are not supported at importing in Windows Movie Maker, you may ne
 
 #### Step 1: Import Video Files Into Windows Movie Maker
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![youtube movie maker import video](https://images.wondershare.com/filmora/article-images/add-clips-in-wmm.png)
 
 To import video or photo into Windows Movie Maker, you can click on the button **Add Videos or Photos** located at the top of the program. A file window will open, and you can select the videos from any area of your computer. Once you have the files selected, click **OK** to import the files to the storyboard in the right hand panel.
@@ -71,19 +62,21 @@ Preview the video clips in the preview box. You can always use the Previous Fram
 
 To remove any parts of the video that you do not want in the final version of the video, locate the start frame that you want to remove in the storyboard, and then click the **Split** button to get the starting point of the split segment, and then locate the end frame that you want to remove and click **Split** again. Right-click the split video clip you want to remove and select **Remove** from the context menu. This can be done as many times as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![free youtube movie maker cut/trim](https://images.wondershare.com/filmora/article-images/remove-clips-in-wmm.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Apply Transitions and Visual Effects to YouTube Video
 
 Once you have all the clips that you want in your video, you can then add transitions to the video. At the top of Windows Movie Maker, there is a button that says **Animations**. This will open a menu that has different options. You need to select the clip, and add the transition that you want. The program does the rest of the work. You can see how it looks by clicking play.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![youtube movie maker to add transition](https://images.wondershare.com/filmora/article-images/add-transitions-in-wmm.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Applying visual effects, overlays and filters work in the same way, but you click on **Visual Effects**, which is located at the top of the window. You can apply effects to any clip as along as the clip is selected first.
 
@@ -91,9 +84,6 @@ Applying visual effects, overlays and filters work in the same way, but you clic
 
 If you are planning on adding music to your video, you should think about muting the audio in video or decrease the audio volume in Video. Double click the video clip to enter the Edit panel, and then then click on **Video Volume**  button. You can then mute the audio by drag the volume slider to the left end. Of course, you can adjust the video audio volume per your need. This will affect the all the sounds on that video clip. If you want to mute all the clips, you need to select all the clips, or you will end up with one clip with no sound, and the rest of the clips having sound.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video movie maker mute audio](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
 Once the sound has been adjusted on the clips, you can add new audio sound to the video. You can record narrations for your YouTube video in Windows Movie Maker by clicking **Record narration** button in Home tab and add music to video by clicking **Add music** button and select the music to import it. You can add music from your computer or find new music sound from AudioMicro, Vimeo or Free Music Archive online.
@@ -104,13 +94,14 @@ After importing the new audio file for your YouTube video, you can now adjust th
 
 ![video movie maker edit music](https://images.wondershare.com/filmora/article-images/audio-mixer-in-wmm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 5: Add Title and Text to Video for YouTube
 
 Windows Movie Maker allows you to add different types of text freely. You will see 3 buttons that allow different types of text to video: stationary title, captions and rolling credits. Click on **Title**, you can add text before the video begins; select **Caption**, you will write text to the video frames; and click **Credits** will add end credits to the end of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ free video movie maker add text](https://images.wondershare.com/filmora/article-images/add-text-in-wmm.jpg)
 
 After selecting the type of text you want, you can enter your text and edit the text effects. You can change the text duration and apply text visual effects, and change the text outline size and more.
@@ -129,12 +120,17 @@ Once all the edits are done, you can save the video by clicking on **File** then
 
 That’s it. That’s how you can edit your YouTube video with Windows Movie Maker. It is a great YouTube video editor to make video with various features. However, you may consider other YouTube movie maker as it won't updated. Why not try Filmora. It is one of the best movie editor for YouTube. Download it now to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -142,12 +138,23 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dismantle-bots-elevate-youtube-watch-time/"><u>[New] 2024 Approved Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audience-augmentation-made-simple-5-solutions-available/"><u>[New] In 2024, Audience Augmentation Made Simple - $5 Solutions Available</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-recording-reviewers-circle-downloads-for-critique/"><u>[New] Recording Reviewers Circle Downloads for Critique</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-affluent-online-broadcasting-houses/"><u>[Updated] Affluent Online Broadcasting Houses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-unrestricted-data-saver-solutions/"><u>[Updated] In 2024, Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-resolving-dll-file-cannot-be-found-issues/"><u>Effective Solutions for Resolving 'DLL File Cannot Be Found' Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/enjoy-premium-video-artwork-download-at-no-cost-today-in-2024/"><u>Enjoy Premium Video Artwork - Download at No Cost Today, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/protecting-video-content-during-youtube-to-mp4-transfer-for-2024/"><u>Protecting Video Content During YouTube-to-MP4 Transfer for 2024</u></a></li>
+</ul></div>
 

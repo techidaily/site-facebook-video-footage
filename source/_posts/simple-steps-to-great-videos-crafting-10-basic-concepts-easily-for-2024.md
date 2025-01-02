@@ -1,7 +1,7 @@
 ---
 title: "\"Simple Steps to Great Videos  Crafting 10 Basic Concepts Easily for 2024\""
-date: 2024-12-18T18:15:30.181Z
-updated: 2024-12-24T23:29:39.831Z
+date: 2024-12-26T04:19:40.421Z
+updated: 2025-01-02T07:49:16.473Z
 tags:
   - ai video
   - ai youtube
@@ -47,15 +47,15 @@ Let the world know who you are and what you do. If you are planning on starting 
 
 These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Vlog About Your Day
 
 Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
 
 Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Express An Opinion
 
@@ -65,25 +65,21 @@ Opinion videos are great conversation starters. Expressing an opinion through a 
 
 You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Review Anything
 
 Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Your Favorite Songs / Movies / Etc
 
 Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. What’s on Your Phone?
 
@@ -97,15 +93,15 @@ There's no need to constantly produce new videos because you can just take some 
 
 If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make a Tutorial
 
 Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. 10 Things About You
 
@@ -128,10 +124,14 @@ If you start your YouTube channel but have no video editing experience, Wondersh
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -148,24 +148,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-novices-roadmap-to-youtube-traffic-success/"><u>[New] 2024 Approved A Novice's Roadmap to YouTube Traffic Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-designcut-pro/"><u>[New] DesignCut Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-online-presence-audios-for-your-channel-for-2024/"><u>[New] Elevate Your Online Presence Audios for Your Channel for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-12-best-sites-for-downloading-yt-template-videos/"><u>[New] In 2024, 12 Best Sites for Downloading YT Template Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-the-best-free-video-editing-tools-of-this-year/"><u>[Updated] 2024 Approved Exploring the Best Free Video Editing Tools of This Year</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experiences-with-the-syma-x8c-drone/"><u>[Updated] Experiences with the Syma X8C Drone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[Updated] Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-full-potential-of-your-youtube-channel-with-right-video-settings/"><u>[Updated] Unlocking the Full Potential of Your YouTube Channel with Right Video Settings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-no-data-high-quality-dvd-extraction-techniques/"><u>1. Ultimate Guide: No-Data, High-Quality DVD Extraction Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-chromebooks-best-digital-art-stations/"><u>Discovering Chromebook's Best Digital Art Stations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-archive-in-minutes-with-these-tools/"><u>In 2024, Instagram Archive in Minutes with These Tools</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-13-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 13 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades/"><u>Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-samsung-galaxy-m54-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Samsung Galaxy M54 5G has been deleted.</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/techniques-for-crafting-encouraging-personal-growth-vids-for-2024/"><u>Techniques for Crafting Encouraging Personal Growth Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-youtube-channels-crafting-brands-that-attract-viewers-for-2024/"><u>The Art of YouTube Channels Crafting Brands That Attract Viewers for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-enhanced-workday-performance-through-these-7-strategies-using-chatgpt/"><u>Unlock Enhanced Workday Performance Through These 7 Strategies Using ChatGPT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>[New] 2024 Approved Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-cam-screen-recorder-review-and-best-alternative/"><u>[New] Free Cam Screen Recorder Review and Best Alternative</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>[New] Step-by-Step Applying the Cartoon Face Filter in Snapchat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplifying-video-reach-the-ultimate-guide-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Amplifying Video Reach The Ultimate Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations-for-2024/"><u>[Updated] Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-jumpstart-your-journey-to-tiktok-fame-with-these-hits-for-2024/"><u>[Updated] Jumpstart Your Journey to TikTok Fame with These Hits for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-voyage-to-victory-secrets-from-youtube-stars/"><u>[Updated] Video Voyage to Victory Secrets From YouTube Stars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>2024 Approved Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-engaging-youtube-content-mastering-the-art-of-writing-scripts-with-chatgpt/"><u>Crafting Engaging YouTube Content: Mastering the Art of Writing Scripts with ChatGPT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-x-flip-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo X Flip to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stand-out-in-a-crowd-with-these-10-youtube-theme-innovators-for-2024/"><u>Stand Out in a Crowd with These 10 YouTube Theme Innovators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/swiftly-convert-creepy-slow-videos-with-best-apps-for-2024/"><u>Swiftly Convert Creepy-Slow Videos with Best Apps for 2024</u></a></li>
 </ul></div>
 
