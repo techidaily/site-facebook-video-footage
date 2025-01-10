@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Examining YouTube's Highlighted Comment Mechanics"
-date: 2024-12-26T23:50:11.354Z
-updated: 2025-01-02T02:50:13.226Z
+date: 2025-01-02T16:03:43.290Z
+updated: 2025-01-09T17:21:11.997Z
 tags:
   - ai video
   - ai youtube
@@ -37,6 +37,10 @@ If you own a YouTube channel or are starting one, even you can do this. Without 
 * [Part 7: Tips for Writing a Comment](#part7)
 * [Part 8: Benefits of Highlighted Comments](#part8)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Does The Highlighted Comment Mean On YouTube?
 
 Before you get on with highlighting your comments, you must understand what it means exactly. You may follow comments on the videos posted by several YouTubers, but the highlighted ones are always making it to the top of the list.
@@ -54,6 +58,10 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
@@ -61,7 +69,7 @@ YouTube has been working on improving the navigation of the comment section for 
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
@@ -69,11 +77,7 @@ YouTube labels comment replies as well and call it "Highlighted Reply." You can 
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Make My Comment Highlighted?
@@ -93,6 +97,10 @@ Suppose you are a viewer who is going through the comments section of a video. I
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Reply to Highlighted Comments?
 
@@ -115,10 +123,6 @@ Alternatively, you can try out a few temporary solutions.
 <https://www.youtube.com/watch?v=XWhjJjhpmQA>
 
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
@@ -150,10 +154,6 @@ In this article, we have shared facts on YouTube's commonly seen highlighted com
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -169,21 +169,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breakdown-of-mr-beasts-financial-powerhouse-for-2024/"><u>[New] Breakdown of Mr. Beast's Financial Powerhouse for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-become-a-youtube-star-essential-skills-training/"><u>[New] In 2024, Become a YouTube Star Essential Skills Training</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-skyrocket-viewer-count-the-most-proven-ways-to-enhance-views/"><u>[New] In 2024, Skyrocket Viewer Count The Most Proven Ways to Enhance Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-youtube-channel-url-a-quick-guide-for-2024/"><u>[Updated] Crafting the Perfect YouTube Channel Url A Quick Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-design-guide-youtube-banners-and-thumbnail-creation-for-2024/"><u>[Updated] Design Guide YouTube Banners & Thumbnail Creation for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>[Updated] Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pathfinding-your-way-from-adsense-to-accounts-aplenty/"><u>[Updated] Pathfinding Your Way From AdSense to Accounts Aplenty</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expand-your-laptop-view-upgrade-with-a-device-enabling-dual-4k-displays-without-requiring-specialized-hardware-insights-from-zdnet/"><u>Expand Your Laptop View: Upgrade with a Device Enabling Dual 4K Displays Without Requiring Specialized Hardware - Insights From ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/google-worker-reveals-preference-finding-happiness-in-macbooks-not-windows-laptops-an-in-depth-look-by-zdnet/"><u>Google Worker Reveals Preference: Finding Happiness in MacBooks, Not Windows Laptops – An In-Depth Look by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-y-facil-transforma-avi-a-swf-con-el-servicio-de-convertir-en-linea-de-movavi/"><u>Gratuito Y Fácil, Transforma AVI a SWF Con El Servicio De Convertir en Línea De Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learning-languages-through-visual-narratives/"><u>Learning Languages Through Visual Narratives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premium-online-streams-convert-youtube-to-mp3-instantly-for-2024/"><u>Premium Online Streams Convert YouTube to MP3 Instantly for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/zen-gameplay-find-your-indolent-match/"><u>Zen Gameplay: Find Your Indolent Match</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-hdr-video-power-windows-edition-explained/"><u>[New] 2024 Approved HDR Video Power Windows Edition Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/"><u>[New] Audio Perfection Achieved Expert Tips Without a Microphone for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-comprehensive-analysis-hero4-black-overview-for-2024/"><u>[New] Comprehensive Analysis Hero4 Black Overview for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakthrough-tools-an-analysis-of-the-top-10-cost-effective-video-design-schools-on-youtube/"><u>[New] In 2024, Breakthrough Tools An Analysis of the Top 10 Cost-Effective Video Design Schools on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-17-best-video-equipment-for-shining-on-screen/"><u>[New] The 17 Best Video Equipment for Shining on Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-find-your-perfect-match-the-top-10-online-converters-list/"><u>[Updated] Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-best-apps-for-keeping-your-linkedin-vids-safe-and-sound/"><u>[Updated] In 2024, The Best Apps for Keeping Your LinkedIn Vids Safe & Sound</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stream-masters-symposium/"><u>[Updated] Stream Masters Symposium</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-editing-for-dummies-10-essential-youtube-insights/"><u>[Updated] Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-come-avviare-da-un-dispositivo-usb-esterno-su-windows-11/"><u>Guida Passo-Passo: Come Avviare Da Un Dispositivo USB Esterno Su Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids/"><u>In 2024, Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-signals-with-ease-a-thorough-review-of-the-clearstream-eclipse-antenna/"><u>Revolutionary Signals with Ease: A Thorough Review of the ClearStream Eclipse Antenna</u></a></li>
+<li><a href="https://win11.techidaily.com/the-retro-architect-building-on-old-games-with-new-achievement-features/"><u>The Retro Architect: Building on Old Games with New Achievement Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/triple-trouble-how-to-handle-three-tubes-of-content-at-once-for-2024/"><u>Triple Trouble How to Handle Three Tubes of Content at Once for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar\""
-date: 2024-12-30T18:59:59.973Z
-updated: 2025-01-02T04:19:35.471Z
+date: 2025-01-06T00:02:46.321Z
+updated: 2025-01-09T22:32:39.044Z
 tags:
   - ai video
   - ai youtube
@@ -48,7 +48,7 @@ In this part of the topic, we are going to get deep knowledge about the personal
 So, by now we know that CarryMinati aka Ajay Nagar is quite popular on YouTube. But, what does this popularity gets him in terms of money? Yes, this is an interesting question and the answer for this, you can check out in the next part of the topic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: CarryMinati YouTube earning and stats
@@ -100,10 +100,6 @@ The End (The video was uploaded on 8th May 2020 and had over 65 million views wi
 
 ![youtube vs tiktok the end](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Film the Flare](https://www.youtube.com/watch?v=GOFQN8otiYs)
 
 <https://youtu.be/GOFQN8otiYs>
@@ -144,13 +140,25 @@ Step1 Launch the installed software on your system and add the media file to the
 
 ![wondershare filmora ai portrait 1](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
 
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
 
@@ -161,7 +169,7 @@ Step5 When finally, all the settings are done, click on the Export button to sav
 ![wondershare filmora ai portrait 5](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hot FAQs on CarryMinati
@@ -182,10 +190,6 @@ Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Hen
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -197,10 +201,6 @@ If you too have got inspired and looking forward to starting with some interesti
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 So, by now we know that CarryMinati aka Ajay Nagar is quite popular on YouTube. But, what does this popularity gets him in terms of money? Yes, this is an interesting question and the answer for this, you can check out in the next part of the topic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: CarryMinati YouTube earning and stats
 
@@ -252,7 +252,7 @@ The End (The video was uploaded on 8th May 2020 and had over 65 million views wi
 ![youtube vs tiktok the end](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Film the Flare](https://www.youtube.com/watch?v=GOFQN8otiYs)
@@ -318,6 +318,10 @@ Below we have answered some hot frequently asked questions about CarryMinati.
 ### 1\. Is Carry Minati married?
 
 No, till date, CarryMinati aka Ajay Nagar is not married.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How much CarryMinati earn from 1 video?
 
@@ -393,10 +397,6 @@ You can download the Filmora for free. After installation of this software open 
 
 ![download the filmora and create a project](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2 Open the video and make copies
 
 Open the video in your timeline. All you need to do is right-click on the video and click on copy. Then simply click or press Ctrl+V on your keyboard and do that for times. You can make as many copies as you want. Then you will have the same clip over and over again which creates the loop effect.
@@ -443,6 +443,10 @@ Play the list and click on the loop symbol. At last, launch the YouTube video on
 
 ![loop video playlist on youtube](https://images.wondershare.com/filmora/article-images/2022/11/loop-video-playlist-on-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Why you might want to loop a YouTube video on a smart TV?**
 
 Some people want to watch a video over and over again without having to wait for it to load each time. Looping in a YouTube video can help you do this. Another reason to loop a YouTube video on your TV is if you want to watch it while you are doing something else. YouTube only loops the playlist.
@@ -454,14 +458,6 @@ Looping a YouTube video on your TV can also be useful if you have a lot of video
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -476,7 +472,7 @@ It's easy to do, and it can be a great way to spend time with family members and
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -565,6 +561,10 @@ Looping a YouTube video on your TV can also be useful if you have a lot of video
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Looping YouTube videos on smart TV is an excellent way to watch the content you love, no matter where you are. While it may be true that loop YouTube videos on a smart TV are not imminent, there are some major benefits to be gained from implementing the new technology.
@@ -586,19 +586,21 @@ It's easy to do, and it can be a great way to spend time with family members and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-charting-success-top-online-video-channels-for-2024/"><u>[New] Charting Success Top Online Video Channels for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-mixologists-approach-to-youtube-music/"><u>[New] The Mixologist's Approach to YouTube Music</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outubers-ultimate-guide-10-keys-to-unique-short-form-videos-for-2024/"><u>[New] Youtubers' Ultimate Guide 10 Keys to Unique Short-Form Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-rapid-visual-repository-w-audio-walkthrough-guide/"><u>[Updated] 2024 Approved Rapid Visual Repository W/ Audio Walkthrough Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-compliance-rules-for-thriving-on-youtube-for-2024/"><u>[Updated] Essential Compliance Rules for Thriving on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled-for-2024/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expertly-chosen-best-wireless-mice-available/"><u>Expertly Chosen Best Wireless Mice Available</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y200e-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y200e 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>In 2024, Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-x50iplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor X50i+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-guide-to-creating-yt-shorts/"><u>In 2024, The Ultimate Guide to Creating YT Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-captioning-for-clearer-communication/"><u>In 2024, YouTube Captioning for Clearer Communication</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-microsoft-azure-for-text-conversion/"><u>Navigating Microsoft Azure for Text Conversion</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones-for-2024/"><u>New Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[New] 2024 Approved Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-youtube-journey-with-analytic-know-how/"><u>[New] 2024 Approved Enhance Your YouTube Journey with Analytic Know-How</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-instantaneous-timestamping-for-your-youtube-urls/"><u>[New] 2024 Approved Instantaneous Timestamping for Your YouTube URLs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-visual-communication-adding-instagram-video-descriptions/"><u>[New] Elevate Your Visual Communication Adding Instagram Video Descriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-laptops-for-video-editing-you-should-know-for-2024/"><u>[New] The Best Laptops For Video Editing You Should Know for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>[New] Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-steps-to-screen-record-on-macbook-air/"><u>[Updated] 2024 Approved Easy Steps to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-finest-9-free-youtube-brand-tools-online/"><u>[Updated] 2024 Approved Unveiling the Finest 9 Free YouTube Brand Tools Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-techniques-for-slow-motion-video-production-on-mobile-devices/"><u>[Updated] Cutting Edge Techniques for Slow Motion Video Production on Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-to-solve-off-screen-problems-on-youtube/"><u>[Updated] Strategies to Solve Off-Screen Problems on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>[Updated] Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-def-zoom-manipulator-for-2024/"><u>High-Def Zoom Manipulator for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-13-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ry-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-vpn-providers-comprehensive-analysis-by-industry-experts/"><u>Top-Rated iPhone VPN Providers: Comprehensive Analysis by Industry Experts</u></a></li>
 </ul></div>
 

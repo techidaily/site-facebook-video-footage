@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Crafting Competitive Edge  Assessing Personal and Marketplace Videos\""
-date: 2024-12-31T01:32:31.503Z
-updated: 2025-01-02T00:33:37.893Z
+date: 2025-01-04T21:00:39.377Z
+updated: 2025-01-09T23:33:52.354Z
 tags:
   - ai video
   - ai youtube
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  Tracking your brand's YouTube metrics is not enough to ensure success in YouTube. Unless you garner deep insights of your competitors. You must be thinking how can you gauge their company insights using YouTube and track the data movement as well. There is nothing to worry about, we have got you covered. We will show you how to analyze your own channel as well as that of your competitors' YouTube analytics. Let's now explore about it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to analyze your own YouTube channel/video?
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-views.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Playback Location
 
  As 'Playback locations' of YouTube videos can reveal where does all the traffic come from, it would help your channel figure out for which location the video has fared well. It will guide you to reach the backlinks locations/sites. Knowing the popular locations for your YouTube video being played, you can know whether YouTube is the search engine or they have been diverted from somewhere else. Depending on the video playing locations, the views will be segregated in to embedded video, YouTube watch page, mobile devices, and YouTube channel page. Understanding location specific views would help you decide where should you focus to enhance the performance of your video.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\.  Demographics
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-traffic-source.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\.  Audience Retention
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  This data explains how far your video has engaged your audience. Along with views, the duration that a viewer is on your video weighs too. From the audience retention page, you can find out the specific time that a viewer has exited your video and see what made them do so. There are 2 types of audience retention features – absolute audience retention and relative audience retention.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 6\.  Devices
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  YouTube insights gauge the audience acceptance for your video by the number of likes and dislikes. Videos with a huge number of like implies that it is loved by people, though, the quality of video can't exactly be defined by the number of likes or dislikes. Even the best quality video created for asking opinions about a certain situation/issue might be good enough but still get dislikes.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 8\.  Subscribers
 
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  While considering YouTube Analytics, it is essential to understand that there are annotations to guide viewers to your business site for more content. It is not necessary that the content is video only, it might include a blog post as well. This will let you understand the click through rate and 'close' rates for every annotation. This in turn will assist you in optimizing how to reach your audience and where to place the annotations.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-annotations.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 10\.  Comments
 
@@ -136,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to analyze your competitors
 
  Although, you can't see the dashboard data of your competitor, there are still some ways to observe and study your competitors' successful videos and from their views, favorites, ratings, and comments find out the driving force behind it.
@@ -149,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
  InflueNex is a helpful influencer marketing tool for Analyzing, searching, and managing YouTubers. With the help of this YouTube analytics tool, you're able to learn your competitors' channels and videos with detailed information.
 
 ![InflueNex YouTube Marketing Paltform ](https://images.wondershare.com/filmora/article-images/influenex-youtube-marketing-paltform.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. [Rival IQ](https://www.rivaliq.com/)
 
@@ -181,22 +181,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-where-youtube-video-management-happens-for-2024/"><u>[New] Discovering Where YouTube Video Management Happens for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-videography-7-free-sound-effects-collection/"><u>[New] In 2024, Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breaking-down-barriers-to-inaccessible-youtube-content/"><u>[Updated] 2024 Approved Breaking Down Barriers to Inaccessible YouTube Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-live-action-to-youtube-recording-your-device-display/"><u>[Updated] From Live Action to YouTube Recording Your Device Display</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-clearskiesedit-premium-software-to-remove-backgrounds/"><u>[Updated] In 2024, ClearSkiesEdit Premium Software to Remove Backgrounds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-joining-the-elite-your-roadmap-to-2024-ytp-benefits/"><u>[Updated] Joining the Elite Your Roadmap to 2024 YTP Benefits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-view-count-faster-discover-the-most-effective-shortcuts/"><u>[Updated] Maximizing View Count Faster Discover the Most Effective Shortcuts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-music-enhanced-imagery-web-edition/"><u>[Updated] Music-Enhanced Imagery Web Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-short-film-synopsis-must-know-points-in-2024/"><u>[Updated] Short Film Synopsis Must-Know Points, In 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>2024 Approved Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-portable-power-solutions-a-must-have-charging-buddy-for-your-macbook-pro-s-expert-pick/"><u>Best Portable Power Solutions: A Must-Have Charging Buddy for Your MacBook Pro 'S Expert Pick</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-k11-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo K11 5G Through Google Earth?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-ps3-dvd-converter-tool-for-seamless-movie-watching-from-any-disc/"><u>Ultimate PS3 DVD Converter Tool for Seamless Movie Watching From Any Disc</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-imovie-alternatives-for-windows-10-free-and-premium-options-for-2024/"><u>Updated Top iMovie Alternatives for Windows 10 Free and Premium Options for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-moguls-and-millionaires-for-2024/"><u>YouTube Moguls and Millionaires for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/zero-cost-frame-perfection-on-youtube-video-viewing-for-2024/"><u>Zero-Cost Frame Perfection on YouTube Video Viewing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-your-youtube-earnings-potential/"><u>[New] Maximizing Your YouTube Earnings Potential</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-striking-14-text-animation-illustrations/"><u>[Updated] 2024 Approved Striking 14 Text Animation Illustrations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-crafting-top-notch-video-hashtags-for-2024/"><u>[Updated] Expert Tips for Crafting Top-Notch Video Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>[Updated] How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-windows-best-chat-tools-ranked-3-1/"><u>[Updated] In 2024, Windows' Best Chat Tools Ranked #3-#1</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>[Updated] Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
+<li><a href="https://win-data.techidaily.com/decoding-computer-glitches-the-top-reasons-behind-frequent-freezes-explained-by-yl-software-experts/"><u>Decoding Computer Glitches: The Top Reasons Behind Frequent Freezes Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-connectivity-issues-windows-10-doesnt-recognize-your-usb-drive/"><u>Resolving Connectivity Issues: Windows 10 Doesn't Recognize Your USB Drive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-overcome-c1900101-installation-hiccup/"><u>Steps to Overcome C1900101 Installation Hiccup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-from-inno-setup-with-top-tier-solutions-exploring-advanced-installer-techniques/"><u>Transition From Inno Setup with Top-Tier Solutions: Exploring Advanced Installer Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 

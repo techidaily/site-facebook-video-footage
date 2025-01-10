@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Essential Steps to Create YouTube Beginnings & Ends on a Budget\""
-date: 2024-08-01T02:07:37.536Z
-updated: 2024-08-02T02:07:37.536Z
+date: 2025-01-08T21:31:45.363Z
+updated: 2025-01-09T17:07:21.618Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/1Mf180TEx4vzIE6Gapb8w6vTOn0=/400x300/fi
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -44,8 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/1Mf180TEx4vzIE6Gapb8w6vTOn0=/400x300/fi
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -72,19 +70,11 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
 2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
@@ -96,8 +86,9 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -131,10 +122,11 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -142,12 +134,29 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-snapshots-from-videos-within-windows-11-photos-app-for-2024/"><u>[New] Snapshots From Videos Within Windows 11 Photos App for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-potential-how-to-gain-more-viewers-and-followers-on-youtube/"><u>[New] Unlocking Potential How to Gain More Viewers and Followers on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views-for-2024/"><u>[Updated] Boosting YouTube Traffic Perfecting Titles & Tags for Max Views for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-followers-with-effective-igtv-hashtag-techniques/"><u>[Updated] Elevate Followers with Effective IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-find-your-comments-on-youtube/"><u>[Updated] How to Find Your Comments on YouTube?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-compreehed-guide-to-online-identity-youtube-account-setup/"><u>[Updated] In 2024, A Compreehed Guide to Online Identity YouTube Account Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-cross-platform-sharing-convert-spotify-lists-to-youtube-seamlessly/"><u>[Updated] Simplify Cross-Platform Sharing Convert Spotify Lists to YouTube Seamlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visioncutting-software/"><u>[Updated] VisionCutting Software</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1728506553158-windows-11/"><u>轻松在Windows 11中设置修复驱动器（选项一和二解释）</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/amazons-must-have-bargains-of-august-2e-sourced-directly-from-zdnet-for-maximum-value/"><u>Amazon's Must-Have Bargains of August 2E, Sourced Directly From ZDNet for Maximum Value!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-integrating-self-taken-pictures-into-the-midjourney-experience/"><u>Guide to Integrating Self-Taken Pictures Into the MidJourney Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>In 2024, Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/musicality-in-whatsapp-expressions/"><u>Musicality in WhatsApp Expressions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/removing-advertisements-from-youtube-videos-on-chromefirefox-for-2024/"><u>Removing Advertisements From YouTube Videos on Chrome/Firefox for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-streaming-software-that-will-amaze-your-mac-users-for-2024/"><u>Top 5 Streaming Software That Will Amaze Your Mac Users for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Youtube's Premier Gatherings  Top Events Beyond VidCon\""
-date: 2024-08-01T02:14:51.110Z
-updated: 2024-08-02T02:14:51.110Z
+date: 2025-01-06T18:23:10.323Z
+updated: 2025-01-10T00:32:28.375Z
 tags:
   - ai video
   - ai youtube
@@ -40,11 +40,11 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 1. **[VidCon](http://vidcon.com/)**
 
@@ -82,11 +82,11 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
 
@@ -120,10 +120,11 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
 
@@ -147,14 +148,6 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -168,6 +161,10 @@ There is not a steady annual schedule for FanFests, but it has visited these cit
 Sydney, Australia: February
 
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
 
@@ -205,9 +202,6 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -232,10 +226,11 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -243,12 +238,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[New] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-compliance-in-recording-video-streams-on-youtube/"><u>[New] 2024 Approved Compliance in Recording Video Streams on YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-speedy-tiktok-video-creation-a-comprehensible-guide/"><u>[New] 2024 Approved Speedy TikTok Video Creation A Comprehensible Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-creating-flawless-5-second-videos/"><u>[New] YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>[Updated] 2024 Approved Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dailymovement-vs-youtube-income-comparison-for-2024/"><u>[Updated] DailyMovement vs Youtube Income Comparison for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-evaluating-the-long-term-benefits-of-purchasing-video-traction-for-2024/"><u>[Updated] Evaluating the Long-Term Benefits of Purchasing Video Traction for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>[Updated] In 2024, A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-3d-design-apps-top-5-for-youtubers/"><u>[Updated] Professional 3D Design Apps - Top 5 for Youtubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/empowering-sites-with-cookiebot-technology-for-improved-analytics-and-seo/"><u>Empowering Sites with Cookiebot Technology for Improved Analytics and SEO</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-ape-to-aiff-audio-file-converter-with-movavi-software-seamless-format-switching/"><u>Free Online APE to AIFF Audio File Converter with Movavi Software - Seamless Format Switching</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>In 2024, 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/next-level-ai-performance-powered-by-tsmcs-latest-optical-communication-innovation-128-terabitssecond-on-package-photonic-linkage/"><u>Next Level AI Performance Powered by TSMC's Latest Optical Communication Innovation - 12.8 Terabits/Second On-Package Photonic Linkage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/sculpting-a-specialized-niche-for-youtube-content-for-2024/"><u>Sculpting a Specialized Niche for YouTube Content for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/speed-kings-guide-to-fast-frame-gathering/"><u>Speed King's Guide to Fast Frame Gathering</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-hidden-pathways-to-earning-on-youtube-for-2024/"><u>Unveiling the Hidden Pathways to Earning on YouTube for 2024</u></a></li>
+</ul></div>
 

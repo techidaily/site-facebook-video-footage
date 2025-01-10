@@ -1,7 +1,7 @@
 ---
 title: "Modern Fixes for Mozilla's Freezing Woes: Navigating Firefox Troubles"
-date: 2025-01-01T12:23:57.243Z
-updated: 2025-01-02T02:26:47.723Z
+date: 2025-01-02T17:24:07.748Z
+updated: 2025-01-09T23:05:29.900Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-37-33-1.jpg)
 
  Nox Player is one of the most popular Android emulators on the market, known for its powerful features and fast speed. However, some gamers have reported**Nox Player constantly crashes on PCs** . If you happen to be one of them, no worries! We have a few working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -49,19 +53,11 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable virtualization
 
  Virtualization technology allows multiple operating systems to run on one physical PC. Since we’re trying to run an Android emulator on a Windows PC, it’s essential to enable virtualization which could improve the performance of Nox Player.
 
  First you can check if virtualization is already enabled on your PC. If not, you’ll need to enable it in BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check if virtualization is turned on
 
@@ -91,7 +87,7 @@ If this doesn’t solve your problem, try the next fix.
 3. On the left panel, click**Turn Windows features on or off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-09-45.jpg)
@@ -117,6 +113,10 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Nox Player is already on the exception list. If so, jump to[antivirus configuration](https://tools.techidaily.com/drivereasy/download/) . If not, follow the steps below to unblock Nox Player.
 
@@ -127,23 +127,15 @@ If this doesn’t solve your problem, try the next fix.
 2. Click**Browse** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-12-02.jpg)
 5. **Tick the checkbox of Private network** . This will ensure Nox Player is only unblocked when you’re using a private network, such as home Wi-Fi, out of safety concerns. Or you can allow Nox Player through all types of networks if needed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05-1.jpg)
 6. Click**OK** to save the changes.
@@ -175,10 +167,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Update your graphics driver
 
  An outdated or faulty graphics driver can cause game performance issues and affect emulators. You may want to make sure yours is up-to-date and functioning properly.
@@ -196,10 +184,6 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -213,7 +197,7 @@ If this doesn’t solve your problem, move on to the next fix.
  Insufficient virtual memory (paging file) size can be a reason that Nox Player keeps crashing. Increasing virtual memory on your PC may help with the problem, so you can configure as needed. Here’s how:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the paging file size on your PC
@@ -223,13 +207,25 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab. Under the Performance option, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-18-37.jpg)
 4. Switch to the**Advance** d tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-19-32.jpg)
 5. You’ll see your virtual memory (paging file) size.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-08-10_11-54-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Increase virtual memory size
 
@@ -250,6 +246,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 5. For example, I have 8 GB RAM, so I should set the initial size as 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB. Click**Set** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/custom-size.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve customized the paging size to create more virtual memory, but the problem persists, try the next fix.
 
 ## Fix 7: Change Nox Player settings
@@ -263,6 +263,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
 
@@ -273,10 +277,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
  One last thing you can try is to update the Nox Player or reinstall the whole program. Using the new versions can fix known bugs and will likely reduce crashes. By clicking the**three-line icon** on the top-right corner, you’ll be able to**check for update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-20-28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To do a clean reinstall, make sure you delete the Nox Player as well as all the local files and cache before you reinstall the app.
 
@@ -303,21 +303,18 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-add-a-professional-touch-youtube-video-image-crafting/"><u>[New] 2024 Approved Add a Professional Touch YouTube Video Image Crafting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-video-quality-the-best-cameras-for-vloggers-dreams/"><u>[New] 2024 Approved Boosting Video Quality The Best Cameras for Vloggers' Dreams</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brief-overview-of-the-quickest-chroma-key-tricks/"><u>[New] 2024 Approved Brief Overview of the Quickest Chroma Key Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-schedule-and-record-a-meeting-on-slack-wondershare-filmora/"><u>[New] 2024 Approved How to Schedule and Record a Meeting on Slack-Wondershare Filmora</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-sandbox-games-for-aspiring-explorers/"><u>[New] 2024 Approved Top Sandbox Games for Aspiring Explorers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-archive-adventure-revisiting-classic-facebook-for-2024/"><u>[New] Archive Adventure Revisiting Classic Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-visual-techniques-selecting-premium-camera-lenses-for-2024/"><u>[New] Cutting-Edge Visual Techniques Selecting Premium Camera Lenses for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-guide-to-youtube-thumbnail-crafting-mac/"><u>[New] The Essential Guide to YouTube Thumbnail Crafting (Mac)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-android-advantage-5-unique-playlist-downloaders-reviewed-for-2024/"><u>[Updated] Android Advantage 5 Unique Playlist Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-win11-performance-boosters-revealed/"><u>[Updated] Maximizing Win11 Performance Boosters Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-captivate-crowds-secrets-to-screen-collaboration-via-social-media/"><u>2024 Approved Captivate Crowds Secrets to Screen Collaboration via Social Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-tackling-frame-loss-best-practices-for-obs-users/"><u>2024 Approved Tackling Frame Loss Best Practices for OBS Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-13-mini-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-ways-to-detect-a-hidden-airtag-tracker-a-guide-by-zdnet/"><u>Discover Ways to Detect a Hidden AirTag Tracker: A Guide by ZDNET</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/optimize-and-personalize-user-journey-using-cookiebot-technology/"><u>Optimize & Personalize User Journey Using Cookiebot Technology</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pro-gamers-and-casters-to-subscribe-now-for-2024/"><u>Pro Gamers & Casters to Subscribe Now for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exclusive-deals-and-previews-from-creators/"><u>[New] 2024 Approved Exclusive Deals & Previews From Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>[New] Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[New] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-best-pairing-practices-in-the-youtube-space/"><u>[New] In 2024, Exploring Best Pairing Practices in the YouTube Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-sustainable-income-via-youtube-and-adsense-for-2024/"><u>[Updated] Building a Sustainable Income via YouTube and AdSense for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-quick-fix-overcome-usb-boot-issues-with-dban-during-hard-drive-formatting/"><u>1. Quick Fix: Overcome USB Boot Issues with DBAN During Hard Drive Formatting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>Breaking Down the ABCD A Guide to Crafting Compelling FB Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/combine-like-terms-on-the-right-side-of-the-equation/"><u>Combine Like Terms on the Right Side of the Equation:</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-augmented-reality-stickers-beyond-google/"><u>Comparing Augmented Reality Stickers Beyond Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dicas-para-criar-um-sucesso-de-video-em-preto-e-branco-inspirado-em-cinema-classico/"><u>Dicas Para Criar Um Sucesso De Vídeo Em Preto E Branco Inspirado Em Cinema Clássico</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12-pro-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 12 Pro 4G Phone Pattern Lock</u></a></li>
 </ul></div>
 

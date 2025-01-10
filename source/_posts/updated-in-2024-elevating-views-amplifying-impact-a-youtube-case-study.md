@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevating Views, Amplifying Impact  A Youtube Case Study\""
-date: 2024-08-01T02:14:37.038Z
-updated: 2024-08-02T02:14:37.038Z
+date: 2025-01-05T20:51:51.802Z
+updated: 2025-01-09T21:07:09.439Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
 # Case Study: How to Grow on YouTube to Have Millions of Subs
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -34,14 +31,16 @@ You’ve probably heard of stories about individuals who managed to find financi
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Case Study of McJuggerNuggets
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
 
@@ -92,20 +91,22 @@ Regular research into your target market will help you to create the trendiest n
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Edit Your Videos with High-Quality Video Editor
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -113,12 +114,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-dynamic-channels-advanced-youtube-naming-guides-for-2024/"><u>[New] Discover Dynamic Channels Advanced YouTube Naming Guides for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[New] In 2024, Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-youtube-shorts-income-strategies/"><u>[New] Maximizing YouTube Shorts Income Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-synergy-between-youtube-and-creative-commons-licensinas/"><u>[New] The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-through-online-beauty-networks-for-2024/"><u>[Updated] Earning Through Online Beauty Networks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-visual-branding-crafting-compelling-youtube-logos-for-2024/"><u>[Updated] Effective Visual Branding Crafting Compelling YouTube Logos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-leading-audio-designers-for-iphone-ringtones-for-2024/"><u>[Updated] Leading Audio Designers for iPhone Ringtones for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-centipede-bug-fixed-what-you-need-to-know/"><u>Destiny 2 Centipede Bug Fixed: What You Need to Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-guide-to-action-screening-saving/"><u>Essential Guide to Action Screening Saving</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elevate-your-audio-game-with-these-methods/"><u>In 2024, Elevate Your Audio Game with These Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-moto-g23-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Moto G23 Location | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac-for-2024/"><u>New Best of the Best 10 Free Whiteboard Animation Software for PC and Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/recording-sound-wonders-without-the-use-of-a-microphone-for-2024/"><u>Recording Sound Wonders Without the Use of a Microphone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-creativity-mastering-direct-drawing-on-windows-11/"><u>Unleashing Creativity: Mastering Direct Drawing on Windows 11</u></a></li>
+</ul></div>
 

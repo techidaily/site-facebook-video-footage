@@ -1,7 +1,7 @@
 ---
 title: Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error
-date: 2024-12-27T17:30:58.101Z
-updated: 2025-01-02T01:19:11.310Z
+date: 2025-01-02T21:51:43.828Z
+updated: 2025-01-09T22:20:15.579Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
@@ -56,13 +56,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
@@ -72,13 +72,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -93,10 +93,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
@@ -135,7 +131,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##
@@ -161,6 +157,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -204,24 +204,24 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audiovisual-standards-for-success-on-youtube-top-format-choices-for-2024/"><u>[New] Audiovisual Standards for Success on YouTube – Top Format Choices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-beware-the-web-of-counterfeit-subscriber-networks-online-for-2024/"><u>[New] Beware the Web of Counterfeit Subscriber Networks Online for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ynthesizing-creativity-a-brainstormers-toolkit-for-names-for-2024/"><u>[New] Synthesizing Creativity A Brainstormer’s Toolkit for Names for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-3d-toolkit-creating-engaging-video-beginnings/"><u>[Updated] 2024 Approved Essential 3D Toolkit Creating Engaging Video Beginnings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-game-on-youtube-top-11-video-seo-insights-for-2024/"><u>[Updated] Elevate Your Content Game on YouTube Top 11 Video SEO Insights for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-online-privacy-youtubes-access-controls-for-2024/"><u>[Updated] Enhancing Online Privacy YouTube's Access Controls for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[Updated] From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-ad-revenue-on-youtube-with-new-strategies/"><u>[Updated] Optimizing Ad Revenue on YouTube with New Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-subscriber-glory-the-play-button-and-accolades-for-maker/"><u>[Updated] Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-essentials-of-time-stamped-photography/"><u>[Updated] The Essentials of Time-Stamped Photography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-persuasion-through-30-powerful-video-themes/"><u>2024 Approved Elevate Persuasion Through 30 Powerful Video Themes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unleash-your-video-potential-with-free-enhancers/"><u>2024 Approved Unleash Your Video Potential with Free Enhancers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-virtual-victors-the-leading-ladies-in-gaming/"><u>2024 Approved Virtual Victors The Leading Ladies in Gaming</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728505953676-youtube/"><u>古いYouTube動画が見られなくなった？復活テクニックと復元方法をお教えします。</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-12-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 12 Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/converting-personal-memories-from-stillness-to-motion/"><u>Converting Personal Memories From Stillness to Motion</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-g54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola G54 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y78t-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y78t</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-step-into-wealthy-creator-land-via-youtube-shorts-revenue/"><u>In 2024, Step Into Wealthy Creator Land via YouTube Shorts Revenue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-lyric-video-makers-you-should-try/"><u>[New] 2024 Approved Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-video-ideas-to-spark-inspiration-for-youtube-channels/"><u>[New] 2024 Approved Best YouTube Video Ideas to Spark Inspiration [For YouTube Channels]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-create-a-youtube-channel-trailer-to-increase-revenue/"><u>[New] 2024 Approved How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-stream-side-stacking-pewdiepies-payday-portion/"><u>[New] 2024 Approved Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-second-stories-explained-well/"><u>[New] 5-Second Stories Explained Well!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-channels-income-the-optimal-view-count-quotient-for-2024/"><u>[New] Boosting Your Channel's Income The Optimal View Count Quotient for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-perfecting-presentation-adding-fonts-to-ae-projects/"><u>[New] Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-superior-microphones-for-livestreaming/"><u>[New] Superior Microphones for Livestreaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-potential-of-4-second-subscriptions/"><u>[Updated] Examining the Potential of 4-Second Subscriptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>[Updated] Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-joy-of-digital-reading-explore-nooks-innovative-e-reader-experience/"><u>Discover the Joy of Digital Reading: Explore Nook's Innovative E-Reader Experience</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-gear-picking-the-very-best-among-top-9-free-logomakers/"><u>Essential Gear Picking the Very Best Among Top 9 Free Logomakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-out-if-chatgpt-is-offline/"><u>Find Out if ChatGPT Is Offline</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 6 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-youtube-creations-a-guide-to-high-quality-visuals-for-2024/"><u>Optimize YouTube Creations A Guide to High-Quality Visuals for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pop-7-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-first-stanza-must-incorporate-the-exact-phrase-reconstruct-high-quality-images-from-low-resolution-ones/"><u>The First Stanza Must Incorporate the Exact Phrase Reconstruct High-Quality Images From Low-Resolution Ones.</u></a></li>
 </ul></div>
 

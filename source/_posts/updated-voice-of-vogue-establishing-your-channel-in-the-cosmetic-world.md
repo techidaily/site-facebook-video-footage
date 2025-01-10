@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Voice of Vogue  Establishing Your Channel in the Cosmetic World\""
-date: 2024-08-01T02:15:50.170Z
-updated: 2024-08-02T02:15:50.170Z
+date: 2025-01-04T16:43:13.401Z
+updated: 2025-01-09T19:42:01.570Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 
 # How To Be A Beauty Guru on YouTube: Beauty Vlogger Set Up
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,29 +27,20 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 Beauty Vlogs are some of the most popular channels on YouTube. These vlogs are all about aesthetics, so it is important that the videos themselves are beautiful. When you are giving out tips on makeup or hair you want to use a setup that will make your results look their very best.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YouTube Beauty Vlogger Set Up
 
 It’s easy to put together your own Beauty Vlog setup. There are four main elements; lighting, beauty supplies, backgrounds, and audio. Here are some tips on building your beauty guru set:
 
 #### 1\. Light It Up
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![beauty vlog01](https://images.wondershare.com/filmora/article-images/beauty-vlog01.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beauty Vlogs need to have great lighting so that everyone can clearly see what you are doing and how amazing it looks. Make sure you have even light over your whole face by ‘front lighting’ your vlog. Front lighting means having a light source right in front of you.
 
@@ -82,10 +70,11 @@ You have a lot to say, so make sure people can hear you. Most cameras do not hav
 
 If you do not have access to an external mic then you may be able to get by without one for a while using software. Make sure there is no background noise competing with your voice, and download a free audio editing program called Audacity from Audacityteam.org. Using Audacity you will be able to improve a mediocre audio recording from your camera and make it usable. This is a popular option among YouTube gamers who record both video and audio from their webcams, but there is no reason it should not be useful for beauty gurus too.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -93,12 +82,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-video-potential-with-expert-chroma-techniques/"><u>[New] Unlock Video Potential with Expert Chroma Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-youtubes-top-mp3-conversion-apps/"><u>[Updated] 2024 Approved Decoding YouTube's Top MP3 Conversion Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-shorts-visibility-a-thumbnail-transformation-journey/"><u>[Updated] 2024 Approved Elevating Shorts Visibility A Thumbnail Transformation Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[Updated] In 2024, Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevate-streams-to-next-level-with-av1-on-youtube/"><u>[Updated] In 2024, Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-experience-all-episodes-offline-with-our-top-10-savers-apps/"><u>[Updated] In 2024, Experience All Episodes Offline with Our Top 10 Savers Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform-for-2024/"><u>[Updated] Transform Your Virtual Meetings Using Zoom Within the Gmail Platform for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-demonstrating-company-culture-fit/"><u>2024 Approved Demonstrating Company Culture Fit</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ructing-inquiry-curtain-closers-for-2024/"><u>Constructing Inquiry Curtain Closers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-everscape-2-freezing-issue-on-windows-systems/"><u>Fixes for Everscape 2 Freezing Issue on Windows Systems</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-poco-f5-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Poco F5 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/post-publish-editing-elevating-your-youtube-content-for-2024/"><u>Post-Publish Editing Elevating Your YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ining-youtube-milestones-post-vidcon-spectacles-for-2024/"><u>Redefining YouTube Milestones Post-VidCon Spectacles for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-wealth-with-youtube-shorts-ventures-for-2024/"><u>Unlocking Wealth with YouTube Shorts Ventures for 2024</u></a></li>
+</ul></div>
 

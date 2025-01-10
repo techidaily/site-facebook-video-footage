@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Pro  How to Evade the Most Critical 8 Mistakes on YouTube\""
-date: 2024-12-29T00:29:53.770Z
-updated: 2025-01-02T11:59:14.714Z
+date: 2025-01-06T19:48:09.756Z
+updated: 2025-01-09T20:06:27.262Z
 tags:
   - ai video
   - ai youtube
@@ -32,21 +32,25 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ###  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Coming up with titles that won't get searched
 
@@ -56,10 +60,6 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
@@ -67,7 +67,7 @@ New YouTubers tend to think about their thumbnail images after they’ve finishe
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Making weak intros
@@ -85,7 +85,7 @@ An important thing to do as a new YouTuber is engaging with your subscribers. So
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Not promoting with social media
@@ -105,7 +105,7 @@ Spam comments annoy YouTubers. It would be much more beneficial to your channel 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -123,20 +123,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[New] 2024 Approved Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-finding-free-music-a-producers-handbook/"><u>[New] 2024 Approved Finding Free Music A Producer's Handbook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-checklist-for-installing-vrecorder/"><u>[New] Ultimate Checklist for Installing VRecorder</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-youtube-shorts-revenue-strategy/"><u>[New] Understanding YouTube Shorts Revenue Strategy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[Updated] 2024 Approved In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android-for-2024/"><u>[Updated] 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-asmr-apps-android-and-ios-edition/"><u>[Updated] In 2024, Essential ASMR Apps Android & iOS Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-animations-and-crafting-custom-visual-impact/"><u>[Updated] Mastering Animations & Crafting Custom Visual Impact</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-updating-facebook-video-coverage-with-ease/"><u>[Updated] Updating Facebook Video Coverage with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-erp-overcoming-pc-performance-glitches-including-fps-hiccups-and-interruptions/"><u>Battlefield Erp: Overcoming PC Performance Glitches, Including FPS Hiccups & Interruptions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-my-need-for-next-gen-apple-watch/"><u>Evaluating My Need for Next-Gen Apple Watch</u></a></li>
-<li><a href="https://fox-search.techidaily.com/os-melhores-programas-livres-para-enviar-arquivos-de-pc-a-pc-descubra-as-opcoes-top-5-e-faca-download-hoje/"><u>Os Melhores Programas Livres Para Enviar Arquivos De PC a PC - Descubra as Opções Top 5 E Faça Download Hoje!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/playlist-embedding-on-sites-using-youtube-for-2024/"><u>Playlist Embedding on Sites Using YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/struggling-with-avi-files-on-youtube-transform-and-upload-your-videos-today/"><u>Struggling with AVI Files on YouTube? Transform and Upload Your Videos Today!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-video-potential-the-art-of-youtube-live-360-streaming-for-2024/"><u>Unlocking Video Potential The Art of YouTube Live 360 Streaming for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/"><u>[New] 2024 Approved Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-8-premium-complimentary-streaming-media-processors-for-2024/"><u>[New] 8 Premium Complimentary Streaming Media Processors for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lite-group-16-youtube-entries-boosting-views/"><u>[New] Elite Group 16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-scripted-shutdown-of-stories/"><u>[New] The Scripted Shutdown of Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-esports-news-and-analysis-from-top-vloggers/"><u>[Updated] 2024 Approved Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tasty-trailblazers-culinary-youtube-icons/"><u>[Updated] Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-beginners-guide-to-creating-engaging-short-form-videos/"><u>[Updated] The Ultimate Beginner's Guide to Creating Engaging Short-Form Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>[Updated] Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-manual-to-creating-engaging-ae-heads-ups/"><u>2024 Approved The Ultimate Manual to Creating Engaging AE Heads-Ups</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-youtube-content-via-finalcut-pro-techniques-for-2024/"><u>Enhancing YouTube Content via FinalCut Pro Techniques for 2024</u></a></li>
 </ul></div>
 

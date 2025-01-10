@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Self-Doubt Into YouTube Dominance\""
-date: 2024-08-01T02:10:34.123Z
-updated: 2024-08-02T02:10:34.123Z
+date: 2025-01-09T00:40:15.135Z
+updated: 2025-01-09T23:16:17.190Z
 tags:
   - ai video
   - ai youtube
@@ -41,8 +41,9 @@ There will be an urge for you to mimic other vloggers, talking and acting the wa
 Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **2\. Tell A Story**
 
 A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
@@ -54,8 +55,9 @@ Once all the pieces of the story are captured — including your storytelling, b
 Take a look at this example from [Tiffany Alvord](https://www.youtube.com/user/TiffanyAlvord) and notice how there are jump cuts both to skip information that can be assumed by the audience and add the tension to the story she’s telling.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **3\. Surprise and Delight Your Audience**
 
 There is a saying that a great ending to a story is that it is [surprising, yet inevitable](https://www.huffingtonpost.com/david-kudler/writing-the-inevitable-bu%5Fb%5F1630419.html).
@@ -73,8 +75,9 @@ Unlike being invited to a party, there is no obligation when it comes to YouTube
 The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **5\. Compose the Shot**
 
 Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
@@ -87,6 +90,10 @@ Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UC
 
  The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **6\. Be Prepared**
 
 While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
@@ -97,9 +104,6 @@ Good preparation includes having all your gear ready for filming when you need i
 
 Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **7\. Be Expressive**
 
 Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
@@ -110,9 +114,6 @@ Consider your audience: they are coming home from school or work, where there we
 
 Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **8\. Stay Organized**
 
 The same way you should prepare before filming, it’s also important to be organized comes the editing phase. Editing is arguably the most time-consuming part of the vlogging process, so have a system for categorizing and finding your footages.
@@ -137,10 +138,11 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -148,12 +150,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-compre-written-by-dr-john-smith-phd-in-environmental-science-for-2024/"><u>[New] A Compre Written By Dr. John Smith, PhD in Environmental Science for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-troubleshooting-shorts-the-non-displaying-thumbnail/"><u>[Updated] 2024 Approved Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-affiliate-allies-for-small-channels-an-easy-approach-for-2024/"><u>[Updated] Affiliate Allies for Small Channels An Easy Approach for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[Updated] In 2024, Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-common-youtube-short-difficulties/"><u>[Updated] Navigating Through Common YouTube Short Difficulties</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-audio-made-simple-for-imovie-editors/"><u>2024 Approved YouTube Audio, Made Simple for iMovie Editors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-nvidia-rtx-2080-super-drivers-for-optimal-performance-on-windows-11-systems/"><u>Download & Upgrade NVIDIA RTX 2080 Super Drivers for Optimal Performance on Windows 11 Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-marketing-discover-cookiebots-powerful-capabilities/"><u>Elevate Digital Marketing: Discover Cookiebot's Powerful Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flawless-tint-enhancer/"><u>Flawless Tint Enhancer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gebruikersvrijet-trp-in-mp4-konvertiering-onafhankelijk-van-fysieke-materie-movavi/"><u>Gebruikersvrijet TRP-In MP4 Konvertiering Onafhankelijk Van Fysieke Materie - Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/igniting-virality-with-captivating-fb-giveaway-campaigns-for-2024/"><u>Igniting Virality with Captivating FB Giveaway Campaigns for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/side-by-nside-analysis-of-the-ipad-and-ipad-air-for-tech-enthusiasts/"><u>Side-by-nSide Analysis of the iPad and iPad Air for Tech Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-traffic-the-power-of-collaborative-youtube-outros-for-2024/"><u>Skyrocketing Traffic The Power of Collaborative YouTube Outros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera-for-2024/"><u>The Ultimate Guide to Choosing a Premium Portable Vlog Camera for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-list-of-mac-screen-capture-tools-for-2024/"><u>The Ultimate List of Mac Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-networks-transforming-how-firms-connect-and-engage/"><u>Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+</ul></div>
 
