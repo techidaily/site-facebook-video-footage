@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind Call of Duty Modern Warfare 3'S Memory Error 12707 and How to Resolve It
-date: 2025-01-07T19:52:54.652Z
-updated: 2025-01-09T23:18:07.074Z
+date: 2025-01-13T16:13:23.228Z
+updated: 2025-01-15T16:35:14.435Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  God of War is a phenomenon-level game that attracts millions of gamers. It’s so annoying to receive the “**Not enough available memory** ” message that hindered you from playing the game. Though they claimed the issue was fixed, some of the users still encounter the problem. Don’t worry, you’re not alone. This post would help you fix the issue step-by-step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  If you’ve 100% sure you have enough memory, start with[fix 2](https://tools.techidaily.com/drivereasy/download/) . Work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 4. [Update God of War](https://tools.techidaily.com/drivereasy/download/)
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
 
@@ -53,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your driver
 
  Many PC issues are related to your drivers. Updating your drivers would improve your PC performance and avoid any potential issues. Some gamers have fixed the God of War memory leak issue after updating drivers.
@@ -75,6 +79,10 @@ There are mainly two ways you can update the driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,12 +96,12 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Disable integrated graphics through Device Manager** :
 
@@ -102,16 +110,12 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -124,11 +128,11 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -141,21 +145,17 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Save and restart regularly
 
@@ -182,24 +182,18 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-follows-into-genuine-subscriptions/"><u>[New] 2024 Approved Enhancing Follows Into Genuine Subscriptions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-breakdown-easy-to-follow-steps-to-using-a-whiteboard-on-zoom-devices/"><u>[New] Breakdown Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture/"><u>[New] In 2024, Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] 2024 Approved Essential YouTube Short Content Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-add-custom-thumbnails-to-your-youtube-videos-for-2024/"><u>[Updated] How To Add Custom Thumbnails to Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creative-video-ends-top-6-budget-friendly-options/"><u>[Updated] In 2024, Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-easy-loop-keeping-iphone-videos-running/"><u>[Updated] In 2024, Easy Loop Keeping iPhone Videos Running</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-launch-your-stream-top-8-youtube-revenue-tactics/"><u>[Updated] In 2024, Launch Your Stream Top 8 YouTube Revenue Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>[Updated] Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[Updated] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-using-fbx-for-gamers/"><u>[Updated] The Ultimate Guide to Using FBX for Gamers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-filter-essentials-uncover-free-options-through-advanced-search/"><u>2024 Approved Instagram Filter Essentials – Uncover Free Options Through Advanced Search</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-subscriber-chart-the-5-most-subscribed-youtube-channels/"><u>2024 Approved YouTube Subscriber Chart - The 5 Most Subscribed YouTube Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>2024 Approved YouTube's Journey Seamlessly Converted Into High-Quality AVIs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-achieve-full-screen-display-in-social-media-videos/"><u>In 2024, Achieve Full-Screen Display in Social Media Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-microsofts-mspcm-toolbar-on-w11-os/"><u>Leveraging Microsoft's MSPCM Toolbar on W11 OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-mkv-trimming-on-mac-2023-edition/"><u>The Ultimate Guide to MKV Trimming on Mac (2023 Edition)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-to-gif-magic-videos-to-animations-at-no-charge-for-2024/"><u>Tweet-to-GIF Magic Videos to Animations at No Charge for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlocking-instagram-potential-with-video-descriptions-for-2024/"><u>Unlocking Instagram Potential with Video Descriptions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensive-tour-youtube-creator-suite-for-2024/"><u>[New] A Comprehensive Tour YouTube Creator Suite for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-and-perfecting-your-individual-style/"><u>[New] In 2024, Discovering & Perfecting Your Individual Style</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-stepwise-guide-to-achieving-professional-grade-radial-effects/"><u>[New] In 2024, Stepwise Guide to Achieving Professional-Grade Radial Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-access-yt-comments-desktopiosandroid-edition-explained/"><u>[Updated] 2024 Approved Access YT Comments Desktop/iOS/Android Edition Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-wealth-of-mr-beast/"><u>[Updated] 2024 Approved Decoding the Wealth of Mr. Beast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[Updated] Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-memorable-youtube-shorts-10-must-do-tips/"><u>[Updated] In 2024, Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>[Updated] Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-innovative-apps-for-mastering-dji-footage-quality/"><u>In 2024, Innovative Apps for Mastering DJi Footage Quality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-optimal-frame-rate-mastery-through-controller-tweaks/"><u>In 2024, Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-oneplus-discounts-and-offers-on-prime-day/"><u>Top OnePlus Discounts & Offers on Prime Day</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-escapades-explained-the-core-principles/"><u>Virtual Escapades Explained The Core Principles</u></a></li>
 </ul></div>
 

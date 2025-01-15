@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Won't Start? Troubleshooting Steps Inside
-date: 2025-01-02T17:51:01.683Z
-updated: 2025-01-09T17:16:01.560Z
+date: 2025-01-09T19:10:06.743Z
+updated: 2025-01-15T17:34:50.276Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
@@ -42,29 +42,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -75,23 +59,23 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
- Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
 ### Fix 3 – Update your graphics driver
 
@@ -109,6 +93,10 @@ To update your graphics driver, here are two safe ways for you:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
@@ -131,6 +119,10 @@ To update your graphics driver, here are two safe ways for you:
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -140,8 +132,16 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
@@ -183,20 +183,15 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-vr-game-development-tools/"><u>[New] 2024 Approved Cutting-Edge VR Game Development Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-clear-up-your-youtube-vision-issues-for-2024/"><u>[New] Clear Up Your YouTube Vision Issues for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-editessence-system-for-2024/"><u>[New] EditEssence System for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-curating-the-perfect-mix-a-youtube-playlist-manual/"><u>[New] In 2024, Curating the Perfect Mix A Youtube Playlist Manual</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-independent-creators-playbook-earning-big-without-ads-on-youtube/"><u>[New] The Independent Creator’s Playbook Earning Big Without Ads on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-audio-capture-on-screen/"><u>[Updated] 2024 Approved Ultimate Audio Capture on Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-infuse-your-ideas-with-humor-easy-to-use-genrator/"><u>[Updated] In 2024, Infuse Your Ideas with Humor Easy-to-Use Gen'rator</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playlist-in-10-seconds-youtube-shorts-explained/"><u>[Updated] The Ultimate Playlist in 10 Seconds YouTube Shorts Explained</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-proven-video-growth-enhancers/"><u>[Updated] Top 8 Proven Video Growth Enhancers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-cutting-edge-fb-video-ads-mastery-with-free-toolset/"><u>2024 Approved Cutting-Edge FB Video Ads Mastery with FREE Toolset</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-content-creators-optimal-stabilizer-companies/"><u>2024 Approved YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-magix-vpx-unveiled-next-level-media-production-at-your-fingertips/"><u>In 2024, Magix VPX Unveiled Next-Level Media Production at Your Fingertips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-x-audio-workstation-for-home-computers/"><u>In 2024, X-Audio Workstation for Home Computers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>[New] 2024 Approved Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-evergreen-most-watched-video-catalog/"><u>[New] YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exclusive-selections-best-virtual-reality-titles-for-cardboard-for-2024/"><u>[Updated] Exclusive Selections Best Virtual Reality Titles for Cardboard for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[Updated] In 2024, Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-entry-powerpoint-recordings/"><u>2024 Approved Efficient Entry PowerPoint Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-pro-w5700-driver-fast-download-available-for-windows-users/"><u>AMD Radeon Pro W5700 Driver: Fast Download Available for Windows Users!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/extensive-analysis-djis-latest-uav-inspire-1-for-2024/"><u>Extensive Analysis DJI's Latest UAV, Inspire 1 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/autoplay-youtube-recommendations/"><u>Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highpoint-artist-suite-evaluation-for-2024/"><u>Highpoint Artist Suite Evaluation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pixel-prodigies-top-10-gaming-ladies-on-yt-for-2024/"><u>Pixel Prodigies Top 10 Gaming Ladies on YT for 2024</u></a></li>
 </ul></div>
 

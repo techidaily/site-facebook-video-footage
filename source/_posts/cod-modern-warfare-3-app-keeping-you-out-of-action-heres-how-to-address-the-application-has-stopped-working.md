@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 App Keeping You Out of Action? Here's How To Address The 'Application Has Stopped Working'"
-date: 2025-01-05T18:28:55.780Z
-updated: 2025-01-09T23:49:33.907Z
+date: 2025-01-13T16:02:24.993Z
+updated: 2025-01-15T19:04:47.840Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Run the game executable as administrator
@@ -65,7 +65,7 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -96,19 +96,19 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Refresh your network
 
@@ -121,10 +121,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
@@ -153,18 +149,22 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -174,6 +174,10 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -190,15 +194,11 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -216,12 +216,12 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -244,22 +244,21 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels/"><u>[New] 2024 Approved Creating Profit on YouTube The Ultimate List of Top Business Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-platform-variations-youtube-vs-dailymention-for-2024/"><u>[New] Exploring Platform Variations YouTube Vs. DailyMention for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-control-center-creator-studio-essentials/"><u>[New] In 2024, Channel Control Center Creator Studio Essentials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructing-attention-grabbing-trailers-for-youtube/"><u>[New] In 2024, Constructing Attention-Grabbing Trailers for YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-precise-screen-record-azs-full-app-dissection-for-2024/"><u>[New] Precise Screen Record - AZ's Full App Dissection for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-strengthening-your-brand-with-high-quality-fb-covers-for-2024/"><u>[New] Strengthening Your Brand with High-Quality FB Covers for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-achieve-side-by-side-viewing-on-chrome-the-pip-method-for-2024/"><u>[Updated] Achieve Side-by-Side Viewing on Chrome The PIP Method for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-boost-focus-and-style-with-top-rated-frames-in-ig-photography/"><u>[Updated] Boost Focus & Style with Top-Rated Frames in IG Photography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-stop-ipadiphone-from-freezing-during-fb-playback/"><u>2024 Approved Stop iPad/iPhone From Freezing During FB Playback</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-vs-vimeo-exploring-user-experience-variance/"><u>2024 Approved YouTube vs Vimeo Exploring User Experience Variance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevate-your-photo-game-top-5-android-photo-editors-ranked-for-2024/"><u>Elevate Your Photo Game Top 5 Android Photo Editors Ranked for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-creative-with-these-free-video-special-effects-apps-for-ios-and-android/"><u>New In 2024, Get Creative with These Free Video Special Effects Apps for iOS and Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube-for-2024/"><u>See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-adding-captions-to-youtube-clips-for-2024/"><u>Step-by-Step Adding Captions to YouTube Clips for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-workspace-unveiling-5-advanced-window-folder-methods/"><u>Transform Your Workspace: Unveiling 5 Advanced Window Folder Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/videovisionary-toolkit-for-2024/"><u>VideoVisionary Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-perfect-reproduction-tips-for-exceptional-sound-capture/"><u>[New] 2024 Approved Achieving Perfect Reproduction Tips for Exceptional Sound Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dispelling-darkness-enhancing-youtube-views/"><u>[New] 2024 Approved Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-leading-tools-discover-the-top-9-free-brand-designers-for-2024/"><u>[New] Exploring Leading Tools Discover the Top 9 FREE Brand Designers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>[New] In 2024, Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>[New] In 2024, Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premium-360-camera-options-for-social-media-broadcasts/"><u>[New] Premium 360° Camera Options for Social Media Broadcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-streamlining-tiktok-production-zooms-role/"><u>[Updated] 2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chart-your-course-to-youtube-riches-the-essential-500-threshold-for-2024/"><u>[Updated] Chart Your Course to Youtube Riches The Essential 500 Threshold for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filmmakers-companion-the-finest-15-gopro-cine-luts-unveiled/"><u>[Updated] Filmmaker's Companion The Finest 15 GOPRO Cine LUTs Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ignite-youtube-branding-get-free-design-samples/"><u>[Updated] Ignite YouTube Branding Get FREE Design Samples</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-10-tracking-tools-for-gym-goers-the-best-workout-apps-of-2024/"><u>Discover the Top 10 Tracking Tools for Gym-Goers: The Best Workout Apps of 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revelatory-information-talking-to-the-chatgpt-bot/"><u>Revelatory Information: Talking to the ChatGPT Bot</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tracing-trending-commentary-across-videos-for-2024/"><u>Tracing Trending Commentary Across Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-your-mac-with-these-recovery-mode-instructions/"><u>Unlock the Power of Your Mac with These Recovery Mode Instructions</u></a></li>
 </ul></div>
 

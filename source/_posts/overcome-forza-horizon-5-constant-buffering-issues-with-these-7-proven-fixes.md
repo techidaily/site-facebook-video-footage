@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2025-01-06T18:53:32.295Z
-updated: 2025-01-09T23:04:07.208Z
+date: 2025-01-09T18:08:31.685Z
+updated: 2025-01-15T18:09:19.499Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  If it’s not working, try the fixes below. You don’t have to try them all; just work your way down the list until you find the one that works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 * [Fix 3: Reinstall shaders & clear cache](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -78,15 +82,11 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Close all your Blizzard programs completely.
@@ -99,16 +99,12 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
@@ -123,10 +119,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -136,10 +128,18 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
@@ -167,22 +167,18 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exclusive-webcast-winners/"><u>[New] 2024 Approved Exclusive Webcast Winners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-your-complete-breakdown-of-youtube-short-content/"><u>[New] Your Complete Breakdown of YouTube Short Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[Updated] 2024 Approved Bridging Content Gap YouTube Videos to Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-cross-promotion-the-art-of-collaborative-co-stars-for-2024/"><u>[Updated] Channel Cross-Promotion The Art of Collaborative Co-Stars for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-techniques-for-moving-media-from-iphones-for-2024/"><u>[Updated] Comprehensive Techniques for Moving Media From iPhones for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-final-thoughts-in-journalistic-styling/"><u>[Updated] Final Thoughts in Journalistic Styling</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-orderings-in-youtube-music-playlists/"><u>[Updated] Innovative Orderings in YouTube Music Playlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-the-sea-of-user-interactions-on-youtube/"><u>[Updated] Navigating Through the Sea of User Interactions on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-six-websites-where-youtube-imagery-breaks-the-mould/"><u>[Updated] Six Websites Where YouTube Imagery Breaks the Mould</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/10-free-video-call-app-for-android-and-iphone-100-secure/"><u>10 Free Video Call App for Android and iPhone (100% Secure)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>In 2024, No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728476549780-onedrive5/"><u>OneDriveのリンク解除後に失われたデータを回収するためのトップ5テクニック</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-accessing-your-pcs-hardware-and-system-details-via-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Accessing Your PC's Hardware and System Details via Windows Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-money-making-guide-to-streaming-services-for-2024/"><u>The Ultimate Money-Making Guide to Streaming Services for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/troubleshooting-tips-resolving-the-mystery-of-your-computers-black-screen-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Resolving the Mystery of Your Computer's Black Screen - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-coordinating-a-course-through-combined-youtube-watches/"><u>[New] 2024 Approved Coordinating a Course Through Combined YouTube Watches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora/"><u>[New] In 2024, Adding Vibrancy Easy YouTube Subscribe Animations with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mouthwatering-masters-culinary-youtube-experts/"><u>[New] Mouthwatering Masters Culinary YouTube Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-videos-on-demand-freedom-through-editing-android-edition/"><u>[New] Transform Your Videos on Demand Freedom Through Editing, Android Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-beginners-path-vrecord-instalment-manual/"><u>[Updated] Beginners' Path VRecord Instalment Manual</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-master-your-gaming-footage-top-5-techniques-for-windows-11-recorders/"><u>2024 Approved Master Your Gaming Footage Top 5 Techniques for Windows 11 Recorders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-msstdfmtdll-missing-file-warning-a-comprehensive-guide/"><u>Fixing the 'msstdfmt.dll Missing File' Warning: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-a15-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy A15 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-quick-fixes-for-zoom-camera-not-working/"><u>Mastering Quick Fixes for Zoom Camera Not Working</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/real-time-broadcasting-obs-to-instagram/"><u>Real-Time Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-world-of-warcraft-voice-chat-problems-a-comprehve-guide-for-gamers/"><u>Resolving World of Warcraft Voice Chat Problems - A Comprehve Guide for Gamers</u></a></li>
+<li><a href="https://win-docs.techidaily.com/khayahatae-gae-japana-favaratasa-ka-rasatara-karana-ka-anabhavashal-thashhatakanae-catara/"><u>खोया/हटाए गए जापानी फेवरिट्स को रीस्टोर करने का अनुभवशील दृष्टिकोण: चित्र</u></a></li>
 </ul></div>
 

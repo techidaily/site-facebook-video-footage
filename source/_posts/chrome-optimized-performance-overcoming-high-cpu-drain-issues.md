@@ -1,7 +1,7 @@
 ---
 title: "Chrome Optimized Performance: Overcoming High CPU Drain Issues"
-date: 2025-01-07T22:23:34.851Z
-updated: 2025-01-09T22:46:24.730Z
+date: 2025-01-10T16:14:31.679Z
+updated: 2025-01-15T18:50:57.917Z
 tags:
   - win11
   - win10
@@ -61,10 +61,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -74,7 +70,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
@@ -91,11 +87,11 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -122,11 +118,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -138,15 +134,7 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -162,10 +150,22 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -192,17 +192,24 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-youtube-engagement-top-11-seo-strategies-revealed/"><u>[New] In 2024, Boosting YouTube Engagement Top 11 SEO Strategies Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-increasing-youtube-video-size/"><u>[New] Techniques for Increasing YouTube Video Size</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-become-a-shorts-connoisseur-must-know-facts-for-2024/"><u>[Updated] Become a Shorts Connoisseur Must-Know Facts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-a-course-through-websites-of-youtube-affiliates-for-2024/"><u>[Updated] Charting a Course Through Websites of YouTube Affiliates for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-video-entrance-with-these-tools-for-2024/"><u>[Updated] Elevate Your Video Entrance with These Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-sharpness-camera-tips-without-a-tripod/"><u>[Updated] In 2024, Achieve Sharpness Camera Tips Without a Tripod</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-discovering-the-secrets-to-targeted-youtubes-likes-and-views/"><u>[Updated] In 2024, Discovering the Secrets to Targeted YouTubes Likes and Views</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-se-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone SE Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>In 2024, YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
-<li><a href="https://solve-help.techidaily.com/resolving-the-windows-update-failure-code-0x80070643-in-windows-11-and-10/"><u>Resolving the Windows Update Failure Code 0X80070643 in Windows 11 and 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95670496-9781786780676-the-magdalene/"><u>The Magdalene | Free Book</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-14-video-editing-software-for-vloggers/"><u>Updated 2024 Approved Unleash Your Creativity Top 14 Video Editing Software for Vloggers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-step-by-step-approach-to-mastery-with-iphone-x-animoji-use/"><u>[New] 2024 Approved Step-by-Step Approach to Mastery with iPhone X Animoji Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diving-into-viral-video-dialogues/"><u>[New] In 2024, Diving Into Viral Video Dialogues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-content-the-key-to-engaging-yt-shorts/"><u>[New] Mastering Content The Key to Engaging YT Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-a-hit-on-youtube-name-generation-insights/"><u>[Updated] 2024 Approved Crafting a Hit on YouTube Name Generation Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-customized-obs-guide-for-budget-builds/"><u>[Updated] 2024 Approved Customized OBS Guide for Budget Builds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-and-review-free-powerful-and-user-friendly-ios-edits/"><u>[Updated] 2024 Approved Explore & Review Free, Powerful, and User-Friendly iOS Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets-for-2024/"><u>[Updated] Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[Updated] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide/"><u>[Updated] In 2024, Accelerate/Decelerate Your YouTube Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>[Updated] Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-ordinary-videos-into-viral-hits-with-innovative-thumbnails/"><u>[Updated] Transforming Ordinary Videos Into Viral Hits with Innovative Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unseen-algorithms-powering-youtubes-viewer-statistics/"><u>[Updated] Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/deactivating-instagrams-igtv-feature/"><u>Deactivating Instagram's IGTV Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-livestreams-using-manycam-advanced-webcam-software-features/"><u>Enhance Your Livestreams Using ManyCam – Advanced Webcam Software Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-title-emphasizes-that-amds-epyc-chip-has-shattered-performance-records-and-is-particularly-strong-in-multi-threaded-benchmarks-thanks-to-its-numerous-co77/"><u>The Title Emphasizes that AMD's EPYC Chip Has Shattered Performance Records and Is Particularly Strong in Multi-Threaded Benchmarks, Thanks to Its Numerous Cores</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/timing-and-frequency-what-is-the-best-day-to-release-a-podcast-for-2024/"><u>Timing & Frequency What Is the Best Day to Release a Podcast for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-computer-components/"><u>Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
 </ul></div>
 

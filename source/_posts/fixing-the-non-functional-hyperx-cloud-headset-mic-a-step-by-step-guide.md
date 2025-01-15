@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Non-Functional HyperX Cloud Headset Mic: A Step-by-Step Guide"
-date: 2025-01-07T17:35:39.607Z
-updated: 2025-01-09T23:44:22.619Z
+date: 2025-01-09T17:40:28.612Z
+updated: 2025-01-15T18:31:56.748Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your default playback device
 
  You’ll have no sound when you set the wrong playback device. You can follow these steps to do a quick check:
@@ -50,27 +46,23 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 2. Check if there’s a**green tick** on your desired playback device. If not, select your device and click**Set Default** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Open Modern Warfare and see if your problem has gone away. If the problem is still there,**repeat step 1** and select your playback device, then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
 4. Navigate to the**Advanced** tab. Under the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works with your device. Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
 5. Launch Modern Warfare and see if you hear any sound.
 
  If this method doesn’t give you any luck, please continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows audio troubleshooter
 
@@ -87,12 +79,16 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 4. Follow the on-screen instructions to troubleshoot your audio issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After running the troubleshooter, you can join a game and see how things go.
 
  If the troubleshooter failed to detect your issue, please check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -107,10 +103,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -128,12 +120,12 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . It’ll take some time for Windows to search and install system updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart your computer for it to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To install all the system updates, you might need to**repeat these steps** **several times** until it prompts that “you’re up to date” when you click Check for updates.
 
@@ -141,12 +133,16 @@ You can now open Modern Warfare and check the in-game audio.
 
  If this method doesn’t work for you, simply move on to the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Close conflicting software
 
  Some players reported that they managed to get the sound back by closing programs that have audio output. You can try this method by closing apps such as**Discord** ,**Skype** and**Chrome** , as they might affect the in-game audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Change your audio channel
@@ -159,15 +155,19 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap106.jpg)
 2. Navigate to the **Playback** tab. Select your **default playback device** and click **Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box **next to Front left and right** . Then click **Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
@@ -193,18 +193,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-softer-beats-with-ableton/"><u>[New] Crafting Softer Beats with Ableton</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music-for-2024/"><u>[New] Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-economic-incentives-behind-youtubes-shorts-programme-for-2024/"><u>[New] Decoding the Economic Incentives Behind YouTube's Shorts Programme for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-microphones-catered-to-vloggers/"><u>[New] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-top-editing-apps-at-no-cost-online/"><u>[Updated] 2024 Approved 10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-streaming-technology-for-live-events/"><u>2024 Approved Top Streaming Technology for Live Events</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comment-recuperer-avec-succes-votre-espace-de-stockage-perdu-dans-windows-novo-meilleures-methodes-pratiques/"><u>Comment Récupérer Avec Succès Votre Espace De Stockage Perdu Dans Windows Novo: Meilleures Méthodes Pratiques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-craft-eye-catching-youtubes-end-titles-for-2024/"><u>How to Craft Eye-Catching YouTubes End Titles for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-on-the-move-crafting-impactful-video-thumbnails-mobile/"><u>In 2024, YouTube Mastery on the Move Crafting Impactful Video Thumbnails (Mobile)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-everlasting-titles-with-millions-of-viewers/"><u>In 2024, YouTube's Everlasting Titles with Millions of Viewers</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-strategic-moves-spark-concern-over-european-tech-titans-future/"><u>Meta’s Strategic Moves Spark Concern Over European Tech Titans' Future</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-y200-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo Y200</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-video-integration-into-blog-posts-and-essays/"><u>[New] 2024 Approved Effortless Video Integration Into Blog Posts & Essays</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-of-the-best-1-ranked-4k-gaming-pcs-for-2024/"><u>[New] Best of the Best #1 Ranked 4K Gaming PCs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-bridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>[New] Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-technological-advancement-with-this-guide/"><u>[New] Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy/"><u>[Updated] Anonymous Artifacts Auction-2023 The Quest for Digital Secrecy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-zoom-integration-joining-and-scheduling-made-simple/"><u>[Updated] Seamless Zoom Integration Joining & Scheduling Made Simple</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-affordable-accessible-tools-to-transform-videos/"><u>[Updated] Top 10 Affordable, Accessible Tools to Transform Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-yuva-3-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Yuva 3 Face Lock?</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-wow-connection-tips-to-overcome-lag-issues-easily/"><u>Optimizing Your WoW Connection: Tips to Overcome Lag Issues Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-free-webinar-organizing-with-youtube-help-for-2024/"><u>Streamline Free Webinar Organizing with YouTube Help for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-false-numbers-the-risks-of-manipulated-youtube-viewership-for-2024/"><u>Unveiling False Numbers The Risks of Manipulated YouTube Viewership for 2024</u></a></li>
 </ul></div>
 

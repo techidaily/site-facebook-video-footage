@@ -1,7 +1,7 @@
 ---
 title: Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error
-date: 2025-01-02T21:51:43.828Z
-updated: 2025-01-09T22:20:15.579Z
+date: 2025-01-12T17:53:01.764Z
+updated: 2025-01-15T18:36:15.378Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -56,10 +52,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
@@ -72,13 +64,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##
   
@@ -93,6 +85,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
@@ -122,6 +118,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
@@ -131,7 +131,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##
@@ -159,7 +159,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
@@ -204,24 +204,20 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-lyric-video-makers-you-should-try/"><u>[New] 2024 Approved Best Lyric Video Makers You Should Try</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-video-ideas-to-spark-inspiration-for-youtube-channels/"><u>[New] 2024 Approved Best YouTube Video Ideas to Spark Inspiration [For YouTube Channels]</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-create-a-youtube-channel-trailer-to-increase-revenue/"><u>[New] 2024 Approved How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-stream-side-stacking-pewdiepies-payday-portion/"><u>[New] 2024 Approved Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-5-second-stories-explained-well/"><u>[New] 5-Second Stories Explained Well!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-your-channels-income-the-optimal-view-count-quotient-for-2024/"><u>[New] Boosting Your Channel's Income The Optimal View Count Quotient for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-perfecting-presentation-adding-fonts-to-ae-projects/"><u>[New] Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-superior-microphones-for-livestreaming/"><u>[New] Superior Microphones for Livestreaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-potential-of-4-second-subscriptions/"><u>[Updated] Examining the Potential of 4-Second Subscriptions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>[Updated] Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-joy-of-digital-reading-explore-nooks-innovative-e-reader-experience/"><u>Discover the Joy of Digital Reading: Explore Nook's Innovative E-Reader Experience</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-gear-picking-the-very-best-among-top-9-free-logomakers/"><u>Essential Gear Picking the Very Best Among Top 9 Free Logomakers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/find-out-if-chatgpt-is-offline/"><u>Find Out if ChatGPT Is Offline</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 6 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimize-youtube-creations-a-guide-to-high-quality-visuals-for-2024/"><u>Optimize YouTube Creations A Guide to High-Quality Visuals for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pop-7-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-first-stanza-must-incorporate-the-exact-phrase-reconstruct-high-quality-images-from-low-resolution-ones/"><u>The First Stanza Must Incorporate the Exact Phrase Reconstruct High-Quality Images From Low-Resolution Ones.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-mic-options-for-youtube-vloggers/"><u>[New] 2024 Approved Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform-for-2024/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>[New] Engaging Audiences How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[New] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-youtube-captions-3-effective-methods-to-download-srt-files/"><u>[New] Mastering YouTube Captions 3 Effective Methods to Download SRT Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts-for-2024/"><u>[Updated] Cutting Edge Editors Scouting the Ultimate Tools for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-free-youtube-pics-and-templates-for-2024/"><u>[Updated] Download Free YouTube Pics & Templates for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-instant-upload-solutions-top-5-free-online-converter-services/"><u>[Updated] Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-repeat-revelry-twice-the-joy-with-televised-video-repetition/"><u>[Updated] Repeat Revelry Twice the Joy with Televised Video Repetition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>2024 Approved Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-profile-instagram-voice-alteration-guide/"><u>In 2024, Elevate Your Profile Instagram Voice Alteration Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-troubles-top-5-fixes-for-opening-sound-device-problems-in-audacity/"><u>Resolve Audio Troubles: Top 5 Fixes for 'Opening Sound Device' Problems in Audacity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/undisclosed-screengrabbing-invisible-photography-on-snapchat-for-2024/"><u>Undisclosed ScreenGrabbing Invisible Photography on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher-for-2024/"><u>Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher for 2024</u></a></li>
 </ul></div>
 
