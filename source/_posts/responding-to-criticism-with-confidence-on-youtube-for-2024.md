@@ -1,7 +1,7 @@
 ---
 title: "Responding to Criticism with Confidence on YouTube for 2024"
-date: 2024-08-01T01:55:11.034Z
-updated: 2024-08-02T01:55:11.034Z
+date: 2025-01-20T22:56:46.268Z
+updated: 2025-01-21T17:53:58.421Z
 tags:
   - ai video
   - ai youtube
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -63,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -75,12 +68,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-youtubes-untapped-markets-niche-strategies/"><u>[New] 2024 Approved Charting Youtube's Untapped Markets Niche Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-10-online-subtitle-editors/"><u>[New] The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[New] The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visual-storytelling-crafting-compelling-narratives-in-youtube-videos/"><u>[New] Visual Storytelling Crafting Compelling Narratives in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-more-views-tailoring-and-scaling-youtube-images/"><u>[Updated] 2024 Approved Achieve More Views Tailoring and Scaling YouTube Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>[Updated] In 2024, Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-technology-for-flawless-youtube-cc-and-subtitled-videos/"><u>[Updated] Leveraging Technology for Flawless YouTube CC & Subtitled Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>[Updated] Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-wizardry-an-introduction/"><u>2024 Approved Time-Lapse Wizardry An Introduction</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-premier-10-vectors-online-stores/"><u>Discover the Premier 10 Vectors Online Stores</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-formats-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI Formats for iOS and Android Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-13-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 13 Pro?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide/"><u>In 2024, How To Use The Background Eraser Tool In Photoshop Detailed Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/packaging-as-a-sales-catalyst-for-2024/"><u>Packaging as a Sales Catalyst for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-money-tally-for-video-marketers-for-2024/"><u>Quick Money Tally for Video Marketers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unique-themes-redesign-your-youtube-presence-for-2024/"><u>Unique Themes Redesign Your YouTube Presence for 2024</u></a></li>
+</ul></div>
 

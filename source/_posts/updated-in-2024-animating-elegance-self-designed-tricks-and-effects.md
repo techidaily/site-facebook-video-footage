@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Animating Elegance  Self-Designed Tricks & Effects\""
-date: 2025-01-08T16:30:41.736Z
-updated: 2025-01-15T18:11:07.025Z
+date: 2025-01-14T23:25:06.154Z
+updated: 2025-01-21T19:18:21.983Z
 tags:
   - ai video
   - ai youtube
@@ -47,7 +47,7 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Mt. Mograph
@@ -55,7 +55,7 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Richard Harrington on Lynda
@@ -65,7 +65,7 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Bloop Animation
@@ -73,7 +73,7 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -83,7 +83,7 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -101,17 +101,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-capturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[New] Capturing Attention Striking Shots for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-going-viral-nine-techniques-to-cement-your-status-on-instagram/"><u>[New] Going Viral Nine Techniques to Cement Your Status on Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] In 2024, Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-educations-new-era-vr-integration/"><u>[Updated] 2024 Approved Education's New Era VR Integration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-success-top-8-yt-thumbnail-strategies/"><u>[Updated] 2024 Approved Enhancing Video Success Top 8 YT Thumbnail Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-adobe-memefixer-a-humorous-journey/"><u>[Updated] Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-8-stability-tools-for-high-definition-cameras/"><u>[Updated] Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-through-the-clutter-youtubes-copyright-evolution-for-2024/"><u>[Updated] Cutting Through the Clutter YouTube's Copyright Evolution for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-end-hanging-windows-programs-instantly-with-revouninstallers-unique-solutions/"><u>Efficiently End Hanging Windows Programs Instantly with RevoUninstaller's Unique Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-x7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find X7? Fixed | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-instagrams-updated-feed-dynamics/"><u>Navigating Instagram’s Updated Feed Dynamics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-getting-your-corsair-earset-back-on-track/"><u>Step-by-Step Repair: Getting Your Corsair Earset Back on Track</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-filmmaking-for-youtube-personalities/"><u>[New] 2024 Approved DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-create-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance/"><u>[New] In 2024, Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>[Updated] In 2024, Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-vloggers-solution-excellent-camera-stabilization/"><u>[Updated] Vloggers' Solution Excellent Camera Stabilization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-complete-walkthrough-updating-and-downloading-xp-pen-tablet-control-programs/"><u>A Complete Walkthrough: Updating and Downloading XP-Pen Tablet Control Programs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/converting-pages-documents-for-use-on-windows-computers/"><u>Converting Pages Documents for Use on Windows Computers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-tips-on-how-skip-edgenuity-videos/"><u>In 2024, Tips on How Skip Edgenuity Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-factors-to-weigh-in-choosing-the-right-smartwatch-for-you/"><u>Key Factors to Weigh in Choosing the Right Smartwatch for You</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-audio-on-netflix-effective-troubleshooting-tips/"><u>Reviving the Audio on Netflix: Effective Troubleshooting Tips</u></a></li>
 </ul></div>
 

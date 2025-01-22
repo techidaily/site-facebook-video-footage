@@ -1,7 +1,7 @@
 ---
 title: "[New] Tactical Tagging for Towering YouTube Traction"
-date: 2024-08-01T02:00:21.644Z
-updated: 2024-08-02T02:00:21.644Z
+date: 2025-01-19T17:36:07.048Z
+updated: 2025-01-21T18:24:17.864Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ The answer is simple. This guide lets you know precisely how to discover the bes
 
 * [Bonus: Edit Your Vlog Videos Like A Pro With Filmora](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best YouTube Vlog Hashtags
 
 Hashtags are powerful features that can connect the right viewer to your content. They merge videos and viewers with similar topics and interests.
@@ -77,8 +74,9 @@ For example, if you’re creating a video on how to cook past, think about all t
 This may take a lot of time. However, a YouTube hashtag generator can make this process a lot quicker and even more effective.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Tools for YouTube Vlog Hashtags
 
 You should know that more than these thirty hashtags will be needed to help your videos succeed. But sometimes, you will need better or more appropriate ones.
@@ -87,9 +85,6 @@ The best way to always have the perfect tags is to use a YouTube hashtags genera
 
 Here are the three best YouTube hashtag generators you can use:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### 1 [Keyword Tool](https://keywordtool.io/youtube)
 
 This tool's primary purpose may be to help with keyword research, but it has a valuable hashtag extension.
@@ -100,23 +95,18 @@ First, type in the topic of your video. For example, "vlog." Hit Search.
 
 Then, select the Hashtags panel.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube hashtag tool](https://images.wondershare.com/filmora/article-images/2023/04/hashtag-panel.jpg)
 
 This will show you a massive list of trending hashtags you can use for your YouTube video. However, the YouTube tags it gives you will sometimes be different. For example, if you search for the same word at another time, the results may differ depending on current trends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![list of tags for youtube](https://images.wondershare.com/filmora/article-images/2023/04/youtube-hashtags.jpg)
 
 That's all there is to it. Copy any tags you like and use them for your video. Also, you can purchase the pro version of this tool to get more detailed insights. However, the free version works just fine most of the time. The choice is yours.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2 [TubeBuddy Chrome Extension](https://chrome.google.com/webstore/detail/tubebuddy/mhkhmbddkmdggbhaaaodilponhnccicb)
 
 ![tubebuddy chrome extension](https://images.wondershare.com/filmora/article-images/2023/04/tubebuddy.jpg)
@@ -129,10 +119,6 @@ The next time you upload a video, it will analyze it and help you process and pu
 
 Additionally, TubeBuddy will also show you the best possible hashtags to use for your unique video. Over 1 million people use it. That should be proof enough that this tool truly offers something valuable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 3 [VidIQ Chrome Extension](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en)
 
 ![vidlq chrome extension](https://images.wondershare.com/filmora/article-images/2023/04/vidlq.jpg)
@@ -143,16 +129,10 @@ Plus, it has plenty of other features to help you grow your channel. For example
 
 It's a great tool that can be especially beneficial for beginners. However, because of its simplicity, anyone starting on Youtube should use it. It does most of the publishing for you but teaches you how to do it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you hope to know more about YouTube keyword tools to get more views, you can read this article to increase your audience: [10 Best YouTube Keyword Tools to Get More Views](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Bonus: Edit Your Vlog Videos Like A Pro With Filmora
 
 Another way to get more YouTube views is to upload high-quality videos consistently.
@@ -167,11 +147,12 @@ By high quality, we mean no background noise, proper color grading, entertaining
 
 ![filmora feature instant mode](https://images.wondershare.com/filmora/article-images/2023/04/instant-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you're a more experienced video editor, Filmora's also got you covered. Aside from its simple features, it also has an advanced editor. It allows you to touch up [every tiny detail](https://tools.techidaily.com/wondershare/filmora/download/) of your video if you feel like it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora color match feature](https://images.wondershare.com/filmora/article-images/2023/04/color-match.jpg)
 
 It's an all-in-one tool that YouTube creators recommend for YouTube creators. Best of all, it has features for users of all experience levels. As a result, you won't have to watch countless tutorials on YouTube about how to use Filmora.
@@ -180,9 +161,6 @@ For example, to help you make your vlogs more eye-catching, we have prepared the
 
 **Super EASY Video Transitions for Vlogs**
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Finding the best hashtags for YouTube is an easy but also important task. It's all the little things combined that help you get more viewers. Things like using the right keywords, thumbnails, YouTube tags, etc.
@@ -234,6 +212,10 @@ For example, if you’re creating a video on how to cook past, think about all t
 
 This may take a lot of time. However, a YouTube hashtag generator can make this process a lot quicker and even more effective.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Tools for YouTube Vlog Hashtags
 
 You should know that more than these thirty hashtags will be needed to help your videos succeed. But sometimes, you will need better or more appropriate ones.
@@ -248,43 +230,28 @@ This tool's primary purpose may be to help with keyword research, but it has a v
 
 First, type in the topic of your video. For example, "vlog." Hit Search.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![youtube hashtag generator](https://images.wondershare.com/filmora/article-images/2023/04/youtube-keyword-tool.jpg)
 
 Then, select the Hashtags panel.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube hashtag tool](https://images.wondershare.com/filmora/article-images/2023/04/hashtag-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This will show you a massive list of trending hashtags you can use for your YouTube video. However, the YouTube tags it gives you will sometimes be different. For example, if you search for the same word at another time, the results may differ depending on current trends.
 
 ![list of tags for youtube](https://images.wondershare.com/filmora/article-images/2023/04/youtube-hashtags.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's all there is to it. Copy any tags you like and use them for your video. Also, you can purchase the pro version of this tool to get more detailed insights. However, the free version works just fine most of the time. The choice is yours.
 
 ### 2 [TubeBuddy Chrome Extension](https://chrome.google.com/webstore/detail/tubebuddy/mhkhmbddkmdggbhaaaodilponhnccicb)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tubebuddy chrome extension](https://images.wondershare.com/filmora/article-images/2023/04/tubebuddy.jpg)
 
 TubeBuddy is a Chrome extension that does much more for your YouTube channel than help with hashtags. It's an optimization tool that will configure everything for better reach.
@@ -297,10 +264,6 @@ Additionally, TubeBuddy will also show you the best possible hashtags to use for
 
 ### 3 [VidIQ Chrome Extension](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![vidlq chrome extension](https://images.wondershare.com/filmora/article-images/2023/04/vidlq.jpg)
 
 This is another Chrome extension that helps you find keywords and YouTube tags to get more views. It's just as easy to use as the previous one. VidLQ has over 2 million users worldwide, proving its usefulness.
@@ -329,9 +292,6 @@ By high quality, we mean no background noise, proper color grading, entertaining
 
 If you're a more experienced video editor, Filmora's also got you covered. Aside from its simple features, it also has an advanced editor. It allows you to touch up [every tiny detail](https://tools.techidaily.com/wondershare/filmora/download/) of your video if you feel like it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora color match feature](https://images.wondershare.com/filmora/article-images/2023/04/color-match.jpg)
 
 It's an all-in-one tool that YouTube creators recommend for YouTube creators. Best of all, it has features for users of all experience levels. As a result, you won't have to watch countless tutorials on YouTube about how to use Filmora.
@@ -357,6 +317,10 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Countering Harshness: Maintaining Poise Online
 
@@ -396,52 +360,6 @@ Yet, it would help if you didn't forget the most important thing: the video itse
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
-
-## How to Deal with Negative Comments on YouTube
-
-#### 1\. Identifying Trolls / When Is A Troll Not a Troll?
-
- The internet is full of trolls and if you continue making YouTube videos – especially videos that get a lot of views – then you are sure to be attacked by a few. Or, alternatively, a troll may attack your other viewers in the comments of your videos. It is extremely easy to be a troll and so there are a lot of them.
-
- Most trolls are easy to spot. They leave comments designed to hurt you or make you angry, often using over-the-top offensive language. Not all trolls are so obvious, though. Some trolls will be nice at first – flatteringly nice, even – and it will take a few comments before they turn on you or your subscribers. They want you to like them so you put more stock in what they are saying later and take longer to start ignoring them. Some trolls will even go back to being nice to reel you back in.
-
- It is important to remember that not everybody who leaves negative comments on YouTube videos is a troll. Step back from your emotional reaction to a comment and make sure there is really nothing constructive in it before you dismiss it. Some people have nasty ways of expressing legitimate opinions, and sometimes even when there is no decipherable meaning behind a rude comment the person is not trying to troll you. Some people just have poor communication skills. For example, if someone leaves a comment on your video that consists of only the word ‘bad’ you cannot know for sure what they meant. It could be that they are agreeing with something you mentioned disliking in the video.
-
-#### 2\. Why You Shouldn’t Talk To Trolls
-
- Trolls are bored and looking for attention. When you respond, they win. You may think you are demonstrating to them that they were out of line, or logically proving them wrong, but the troll does not care. Your outraged responses are what trolls want and will only entertain them.
-
- Also, trolls do not care if they are wrong. They almost always seem to think that their opinions are the only ones that count for anything, but quite often their opinions are not even their real opinions. Chances are they do not actually believe anything they are saying to you they just know what to say to make you mad. Remember that you will always be more invested in any interaction you have with a troll than they are. For them it is a game and they cannot lose because they do not really care. If you take the bait it’s fun, and if you do not then they will move on to a target that will. Even if you put hours of effort into chasing off a troll and manage to make them go away they will have enjoyed the whole thing and you will be left exhausted.
-
-#### 3\. But If You Do…
-
- While you should avoid talking to trolls, sometimes you cannot. Trolls occasionally start off making kind comments or asking legitimate questions to lure you in. You might be a couple comments into a conversation before a troll reveals their true colors.
-
- There are also times when you respond even though you know you should not because you just cannot let a specific rude comment go unanswered. It is easy to say you should never feed the trolls, but a lot of people cannot help it. If you find yourself engaging a troll there are a few things you can do to try and manage the situation.
-
- First, avoid using any emotional language; they love that. Keep your responses either pleasantly detached or dry and factual. Say what you feel you need to say and ask the troll for more information. If the troll has made a false claim then ask them for evidence as if you are genuinely interested in learning more. It is highly unlikely they will be able to provide any, although they may make something up. If the troll has made a blanket statement about how terrible they think you are then pretend you either value their input or find them funny and ask them to explain. They will either leave or respond with more insults.
-
- You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -484,6 +402,10 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -495,6 +417,54 @@ Follow @Richard Bennett
  Mar 27, 2024• Proven solutions
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
+
+## How to Deal with Negative Comments on YouTube
+
+#### 1\. Identifying Trolls / When Is A Troll Not a Troll?
+
+ The internet is full of trolls and if you continue making YouTube videos – especially videos that get a lot of views – then you are sure to be attacked by a few. Or, alternatively, a troll may attack your other viewers in the comments of your videos. It is extremely easy to be a troll and so there are a lot of them.
+
+ Most trolls are easy to spot. They leave comments designed to hurt you or make you angry, often using over-the-top offensive language. Not all trolls are so obvious, though. Some trolls will be nice at first – flatteringly nice, even – and it will take a few comments before they turn on you or your subscribers. They want you to like them so you put more stock in what they are saying later and take longer to start ignoring them. Some trolls will even go back to being nice to reel you back in.
+
+ It is important to remember that not everybody who leaves negative comments on YouTube videos is a troll. Step back from your emotional reaction to a comment and make sure there is really nothing constructive in it before you dismiss it. Some people have nasty ways of expressing legitimate opinions, and sometimes even when there is no decipherable meaning behind a rude comment the person is not trying to troll you. Some people just have poor communication skills. For example, if someone leaves a comment on your video that consists of only the word ‘bad’ you cannot know for sure what they meant. It could be that they are agreeing with something you mentioned disliking in the video.
+
+#### 2\. Why You Shouldn’t Talk To Trolls
+
+ Trolls are bored and looking for attention. When you respond, they win. You may think you are demonstrating to them that they were out of line, or logically proving them wrong, but the troll does not care. Your outraged responses are what trolls want and will only entertain them.
+
+ Also, trolls do not care if they are wrong. They almost always seem to think that their opinions are the only ones that count for anything, but quite often their opinions are not even their real opinions. Chances are they do not actually believe anything they are saying to you they just know what to say to make you mad. Remember that you will always be more invested in any interaction you have with a troll than they are. For them it is a game and they cannot lose because they do not really care. If you take the bait it’s fun, and if you do not then they will move on to a target that will. Even if you put hours of effort into chasing off a troll and manage to make them go away they will have enjoyed the whole thing and you will be left exhausted.
+
+#### 3\. But If You Do…
+
+ While you should avoid talking to trolls, sometimes you cannot. Trolls occasionally start off making kind comments or asking legitimate questions to lure you in. You might be a couple comments into a conversation before a troll reveals their true colors.
+
+ There are also times when you respond even though you know you should not because you just cannot let a specific rude comment go unanswered. It is easy to say you should never feed the trolls, but a lot of people cannot help it. If you find yourself engaging a troll there are a few things you can do to try and manage the situation.
+
+ First, avoid using any emotional language; they love that. Keep your responses either pleasantly detached or dry and factual. Say what you feel you need to say and ask the troll for more information. If the troll has made a false claim then ask them for evidence as if you are genuinely interested in learning more. It is highly unlikely they will be able to provide any, although they may make something up. If the troll has made a blanket statement about how terrible they think you are then pretend you either value their input or find them funny and ask them to explain. They will either leave or respond with more insults.
+
+ You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Deal with Negative Comments on YouTube
 
@@ -543,6 +513,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-prevent-video-playback-issues-in-android-apps/"><u>[New] In 2024, Prevent Video Playback Issues in Android Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>[Updated] 2024 Approved Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clip-weaver-workshop/"><u>[Updated] 2024 Approved Clip Weaver Workshop</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-powerful-thumbnails-with-top-20-font-options-for-2024/"><u>[Updated] Crafting Powerful Thumbnails with Top 20 Font Options for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-reset-account-lockout-counter-post-failed-sign-in-attempts/"><u>Adjusting Reset Account Lockout Counter Post-Failed Sign-In Attempts</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-your-ideal-elgato-stream-deck/"><u>Choosing Your Ideal Elgato Stream Deck</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/highly-rated-ambient-ws-1002-wifi-weather-sensor-premium-performance-meets-elevated-pricing-insights/"><u>Highly Rated Ambient WS-1002 WiFi Weather Sensor: Premium Performance Meets Elevated Pricing Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-precise-time-indicators-in-youtubes/"><u>In 2024, Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/saturation-savvy-professionals-secrets-revealed/"><u>Saturation Savvy Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-taskbar-quick-navigation-via-system-tray-keys/"><u>Taming the Taskbar: Quick Navigation via System Tray Keys</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-optimization-boosting-your-youtube-video-rankings-for-2024/"><u>The Art of Optimization Boosting Your YouTube Video Rankings for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-content-mastering-youtube-ads-for-earnings/"><u>Yield Your Content Mastering YouTube Ads for Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-pathway-to-personalized-youtube-music-selections-for-2024/"><u>Your Pathway to Personalized YouTube Music Selections for 2024</u></a></li>
+</ul></div>
 

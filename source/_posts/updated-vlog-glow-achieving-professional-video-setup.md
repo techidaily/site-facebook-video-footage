@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vlog Glow  Achieving Professional Video Setup\""
-date: 2025-01-14T18:19:20.588Z
-updated: 2025-01-15T17:56:26.885Z
+date: 2025-01-15T21:07:11.612Z
+updated: 2025-01-21T21:54:54.964Z
 tags:
   - ai video
   - ai youtube
@@ -29,12 +29,16 @@ One of the best things you can do for your video quality is to ensure you have g
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -49,7 +53,7 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
@@ -81,7 +85,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -91,7 +95,7 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -99,10 +103,6 @@ If you are using all of the lighting options available to you and your video sti
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -119,18 +119,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-youtubes-course-for-video-short-growth-with-funding/"><u>[New] In 2024, Charting YouTube's Course for Video Short Growth with Funding</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[New] In 2024, Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-negative-comments-a-content-creators-mantra/"><u>[New] Tackling Negative Comments A Content Creator's Mantra</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-dimming-tunes-windows-and-mac-strategies-for-2024/"><u>[Updated] Dimming Tunes Windows & Mac Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-infographic-forecast-the-2023-social-landscape/"><u>[Updated] Infographic Forecast The 2023 Social Landscape</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-audio-fading-in-lumafusion-software/"><u>2024 Approved Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/determining-available-storage-a-guide-to-monitoring-disk-space-in-windows-11/"><u>Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enable-or-disable-the-on-screen-keyboard-in-windows-11/"><u>How to Enable or Disable the On-Screen Keyboard in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-leading-the-way-in-android-simulation-software-top-15-list/"><u>In 2024, Leading the Way in Android Simulation Software (Top 15 List)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-uncovering-new-hardware-secrets/"><u>In-Depth Analysis by Tom: Uncovering New Hardware Secrets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-swiftly-remove-unwanted-video-post-comments-for-2024/"><u>Strategies to Swiftly Remove Unwanted Video Post-Comments for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-videos-acoustic-appeal-on-youtube-for-2024/"><u>Streamline Your Video's Acoustic Appeal on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-first-step-into-youtube-creating-an-engaging-channel-for-2024/"><u>Your First Step Into YouTube Creating an Engaging Channel for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-methods-to-flip-video-content-in-android/"><u>[New] Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visual-vocabulary-complimentary-youtube-art-tools/"><u>[New] Visual Vocabulary Complimentary YouTube Art Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-crews-the-quintessential-list-of-photo-vids-plus-music-maestros/"><u>[Updated] Ace Crews The Quintessential List of Photo Vids + Music Maestros</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[Updated] Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-designing-your-musical-journey-youtube-playlist-construction-tips-webapp-for-2024/"><u>[Updated] Designing Your Musical Journey YouTube Playlist Construction Tips Web/App for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>[Updated] In 2024, Ensuring Thumbnails Show Shorts Video Troubleshooting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-earnings-a-monetization-checklist/"><u>[Updated] Mastering YouTube Earnings A Monetization Checklist</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guides-to-unearthing-elite-cinematography/"><u>2024 Approved Guides to Unearthing Elite Cinematography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-the-newest-solutions-for-stable-wireless-network-drivers/"><u>Access the Newest Solutions for Stable Wireless Network Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-skyward-plunge-issue-in-cod-warzone-pacific-edition/"><u>How to Fix the Skyward Plunge Issue in COD: Warzone - Pacific Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-narrative-strategies-for-engaging-docu-films/"><u>In 2024, Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-ventures-youtube-shorts-or-tiktok-in-2024/"><u>Video Ventures YouTube Shorts or TikTok, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-espnplus-with-ease-configuring-your-lg-smart-tv-for-cable-alternatives/"><u>Watch ESPN+ with Ease: Configuring Your LG Smart TV for Cable Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-videos-making-a-statement-on-instagram-for-2024/"><u>YouTube Videos Making a Statement on Instagram for 2024</u></a></li>
 </ul></div>
 

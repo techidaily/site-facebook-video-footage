@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ergonomic Hold Techniques for Clarity"
-date: 2025-01-10T19:07:31.619Z
-updated: 2025-01-15T18:12:26.260Z
+date: 2025-01-19T17:11:48.249Z
+updated: 2025-01-21T16:54:54.519Z
 tags:
   - ai video
   - ai youtube
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DIY Your Video with Wondershare Filmora
@@ -38,11 +38,11 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are 3 of our favorite DIY tripods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **DIY smartphone tripod using binder clips or hair clips**
 
@@ -58,17 +58,21 @@ Here it is with binder clips:
 
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And here it is with hair clips:
 
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **DIY adjustable tripod using books and a towel**
 
@@ -86,10 +90,6 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 4. Put your camera on top of the books.
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
@@ -122,7 +122,7 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -140,24 +140,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-8-best-mirrorless-cameras-vloggers-should-know-for-2024/"><u>[New] 8 Best Mirrorless Cameras Vloggers Should Know for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters-for-2024/"><u>[New] A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length 156 Characters) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-capture-the-season-wardrobe-top-5-winter-yt-scenes-for-2024/"><u>[New] Capture the Season' Wardrobe Top 5 Winter YT Scenes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-time-online-embracing-facebook-fully-for-2024/"><u>[New] Maximizing Your Time Online Embracing Facebook Fully for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adjust-privacy-settings-for-secure-online-viewing/"><u>[Updated] 2024 Approved Adjust Privacy Settings for Secure Online Viewing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>[Updated] 2024 Approved Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovator-in-visual-symphony-production/"><u>[Updated] Innovator in Visual Symphony Production</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[Updated] Navigating the Art of 3D Text Rendering in PS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-stream-picks-expertly-chosen-hardware-and-software-combo/"><u>[Updated] Pro Stream Picks Expertly Chosen Hardware & Software Combo</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-24-approaches-to-enhance-your-channels-popularity/"><u>[Updated] Top 24 Approaches to Enhance Your Channel's Popularity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-learn-to-negate-video-ordering-in-android/"><u>2024 Approved Learn To Negate Video Ordering in Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>2024 Approved The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>In 2024, A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-spectacle-snatcher/"><u>In 2024, Social Spectacle Snatcher</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-epson-l3150-driver-version-for-windows-11-8-and-7-free-download-and-setup-tutorial/"><u>Latest Epson L3150 Driver Version for Windows 11, 8, and 7: Free Download & Setup Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leveraging-obs-streaming-capabilities-on-facebook-platform-for-2024/"><u>Leveraging OBS Streaming Capabilities on Facebook Platform for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-erasing-your-presence-from-tiktok/"><u>Step-by-Step Guide: Erasing Your Presence From TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-golden-rule-for-profit-partnership-for-2024/"><u>YouTube's Golden Rule for Profit Partnership for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-delving-into-mr-beasts-economic-dominance-for-2024/"><u>[New] Delving Into Mr. Beast's Economic Dominance for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-access-luxury-free-access-to-your-dreamset-of-50-banners-for-2024/"><u>[New] Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-instant-ideas-recording-ppts-with-ease/"><u>[New] Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-invigorating-channel-content-best-video-concepts-to-inspire-viewers/"><u>[New] Invigorating Channel Content Best Video Concepts to Inspire Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2-ways-to-increase-your-youtube-audience-fast-for-2024/"><u>[Updated] 2 Ways to Increase Your YouTube Audience Fast for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-curtains-a-guide-to-youtubes-hidden-videos-for-2024/"><u>[Updated] Behind the Curtains A Guide to YouTube’s Hidden Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[Updated] Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/connect-and-learn-pearsons-interactive-classroom/"><u>Connect and Learn: Pearson's Interactive Classroom</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/dealing-with-a-faulty-hard-drive-a-step-by-step-guide-from-yl-computing/"><u>Dealing with a Faulty Hard Drive: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-complexities-of-drone-photography-and-gimbals/"><u>Decoding the Complexities of Drone Photography and Gimbals</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/defy-the-odds-successful-windows-11-installation-on-incompatible-hardware-confirmed-by-zdnets-readers/"><u>Defy the Odds: Successful Windows 11 Installation on Incompatible Hardware Confirmed by ZDNet's Readers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-journey-to-youtubes-command-center-of-creativity/"><u>In 2024, Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jabra-talk-45-review/"><u>Jabra Talk 45 Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s18-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S18 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209552769-9781786782595-splendor-solis/"><u>Splendor Solis | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-cutting-edge-computer-components/"><u>Tom's Tech Insights: Exploring Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-enhancement-embedding-youtube-into-google-slides-for-2024/"><u>Video Enhancement Embedding YouTube Into Google Slides for 2024</u></a></li>
 </ul></div>
 

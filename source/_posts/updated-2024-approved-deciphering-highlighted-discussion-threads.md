@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Deciphering Highlighted Discussion Threads\""
-date: 2024-08-01T01:56:34.115Z
-updated: 2024-08-02T01:56:34.115Z
+date: 2025-01-16T21:41:51.176Z
+updated: 2025-01-21T20:06:44.906Z
 tags:
   - ai video
   - ai youtube
@@ -55,27 +55,23 @@ For instance, you may want to check the following links. The 2 URLs lead you to 
 Notice the name "lc" in the first URL- that stands for linked comment. YouTube might include this additional parameter. If a reply comment (HR) gets highlighted, the parent comment gets raised to the top.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: What Does The Highlighted Comment Look Like?
 
 YouTube has been working on improving the navigation of the comment section for videos, and highlighted comments are one of them. These comments appear even above the pinned comments on a video. The label of a highlighted comment is displayed above the commentator's name in a light grey shade.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![YouTube Highlighted Comments](https://images.wondershare.com/filmora/article-images/youtube-highlighted-comments.jpg)
 
 YouTube labels comment replies as well and call it "Highlighted Reply." You can see this tag above the replier's name in the same color tone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Highlighted Reply](https://images.wondershare.com/filmora/article-images/youtube-highlighted-reply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Make My Comment Highlighted?
 
 Now, making YouTube highlight your comment on a popular video is nothing less than an art. YouTube doesn't make it easy for you. The advantage of getting your comment highlighted on YouTube is limitless.
@@ -94,6 +90,10 @@ Suppose you are a viewer who is going through the comments section of a video. I
 
 On the other hand, for a YouTuber, getting access to the comment URL is relatively straightforward. The host will get a notification on his or her registered email-id when a viewer publishes a comment on their posted video. You will find the link to the highlighted comment in the notification
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Reply to Highlighted Comments?
 
 Replying to "highlighted comments" on your YouTube channel is pretty easy since this feature was developed, keeping the user's convenience in mind. If you want to follow up or reply to such comments, you can do so from your email or YouTube Dashboard.
@@ -102,9 +102,6 @@ If you click the notification bell icon, whenever a viewer drops a new comment o
 
 Have you ever wondered why a highlighted comment always shows at the top of the comment list? Both the above options will lead you to the comment thread on YouTube. To help you find the new activity easily, it appears with the highlight tag on it. The purpose is to remind you that you are here for that specific comment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to Remove Highlighted Comments?
 
 Can you, as a video maker, remove highlighted comments on YouTube? The direct answer to this would be a 'No.' It is because based on how you have opened the specific video, YouTube does it automatically.
@@ -120,8 +117,9 @@ Alternatively, you can try out a few temporary solutions.
 1. Try logging out from your Google Account and browse YouTube (anonymously). Doing this will ensure that you no longer see any highlighted comments. However, at the same time, this will restrict you from interacting in any way with that video, let alone leaving a comment.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 7: Tips for Writing a Comment that will be Pinned as a Highlighted Comment?
 
 Many frequently inquire on the internet about how they can improve the chances of getting their comment pinned, as highlighted on YouTube. The secret lies in how you write the statement. We've listed a few pro tips below that can help:
@@ -131,6 +129,10 @@ Many frequently inquire on the internet about how they can improve the chances o
 * After you have framed your comment, make sure that it is grammatically correct. YouTube and Google hate grammatical errors.
 * Do not hit the post option already. Before publishing it, you must cross-check that your comment has all the above points in place.
 * Lastly, you have to wait after publishing on the video's comment section. YouTube will highlight your comment if it passes according to the YouTube policy and if the search engine finds it unique.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: Are Highlighted Comments Beneficial?
 
@@ -158,12 +160,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>[New] 2024 Approved Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-bandicam-unveiled-the-complete-review-for-2024/"><u>[New] Bandicam Unveiled The Complete, Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/reative-commons-legalities-explained-simply/"><u>[New] Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-video-game-top-10-keyword-strategy-resources-for-2024/"><u>[New] Elevate Your Video Game Top 10 Keyword Strategy Resources for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-culinary-connoisseurs-must-watch-food-content/"><u>[New] In 2024, Culinary Connoisseurs Must-Watch Food Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-instantaneously-obscured-identities-quick-tips-with-piscart-for-2024/"><u>[New] Instantaneously Obscured Identities Quick Tips with Piscart for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nboxing-ubiquity-the-profitable-vloggers-playbook/"><u>[New] Unboxing Ubiquity The Profitable Vlogger's Playbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-recording-tips-to-record-audio-in-high-quality/"><u>[Updated] 2024 Approved 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-techniques-for-designing-youtube-video-thumbnails/"><u>[Updated] 2024 Approved Essential Techniques for Designing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-srt-to-subcap-for-filmmakers-for-2024/"><u>[Updated] Decoding SRT to SUBCAP for Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-view-count-top-hashtag-trends-guide-for-2024/"><u>[Updated] Elevating Video View Count Top Hashtag Trends Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[Updated] Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-m506-printer-driver-update-and-download-guide-enhance-printing/"><u>HP LaserJet M506 Printer Driver Update & Download Guide | Enhance Printing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>In 2024, Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/prime-fb-video-snatcher-and-upgrades-for-firefox-for-2024/"><u>Prime FB Video Snatcher & Upgrades for FireFox for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-film-apps-showdown-apples-finest-categories/"><u>Prime Film Apps Showdown Apple's Finest Categories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-thumbnail-design-choosing-best-fonts-for-2024/"><u>The Art of Thumbnail Design Choosing Best Fonts for 2024</u></a></li>
+</ul></div>
 

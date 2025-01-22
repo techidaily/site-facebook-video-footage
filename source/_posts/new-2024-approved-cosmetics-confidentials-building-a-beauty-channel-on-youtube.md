@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Cosmetics Confidentials  Building a Beauty Channel on YouTube\""
-date: 2024-08-01T01:55:53.177Z
-updated: 2024-08-02T01:55:53.177Z
+date: 2025-01-15T19:45:35.243Z
+updated: 2025-01-21T18:34:51.857Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 # How To Be A Beauty Guru on YouTube: Beauty Vlogger Set Up
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,18 +27,20 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 Beauty Vlogs are some of the most popular channels on YouTube. These vlogs are all about aesthetics, so it is important that the videos themselves are beautiful. When you are giving out tips on makeup or hair you want to use a setup that will make your results look their very best.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YouTube Beauty Vlogger Set Up
 
 It’s easy to put together your own Beauty Vlog setup. There are four main elements; lighting, beauty supplies, backgrounds, and audio. Here are some tips on building your beauty guru set:
 
 #### 1\. Light It Up
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![beauty vlog01](https://images.wondershare.com/filmora/article-images/beauty-vlog01.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beauty Vlogs need to have great lighting so that everyone can clearly see what you are doing and how amazing it looks. Make sure you have even light over your whole face by ‘front lighting’ your vlog. Front lighting means having a light source right in front of you.
 
@@ -71,10 +70,11 @@ You have a lot to say, so make sure people can hear you. Most cameras do not hav
 
 If you do not have access to an external mic then you may be able to get by without one for a while using software. Make sure there is no background noise competing with your voice, and download a free audio editing program called Audacity from Audacityteam.org. Using Audacity you will be able to improve a mediocre audio recording from your camera and make it usable. This is a popular option among YouTube gamers who record both video and audio from their webcams, but there is no reason it should not be useful for beauty gurus too.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -82,12 +82,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-guide-installing-and-exploring-ifunnys-meme-app/"><u>[New] 2024 Approved Quick Guide Installing & Exploring iFunny's Meme App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-vlog-with-proper-tripod-angles/"><u>[New] In 2024, Elevating Your Vlog with Proper Tripod Angles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engaging-students-the-power-of-youtube-in-education/"><u>[New] In 2024, Engaging Students The Power of YouTube in Education</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-youtubes-features-to-improve-visuals/"><u>[New] Leveraging YouTube's Features to Improve Visuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-gamers-intros-top-12-yt-videographers-lists/"><u>[New] Mastering the Art of Gamers' Intros Top 12 YT Videographers' Lists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-the-daily-share-keep-your-digital-diary-top-notch/"><u>[New] The Art of the Daily Share Keep Your Digital Diary Top-Notch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transcend-media-limits-selecting-top-alternatives-from-flv-to-youtubes/"><u>[New] Transcend Media Limits Selecting Top Alternatives From FLV to YouTubes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-adsense-earnings-insights-into-payments-from-youtube-viewers/"><u>[Updated] 2024 Approved Mastering AdSense Earnings Insights Into Payments From YouTube Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-12-best-sites-for-downloading-yt-template-videos/"><u>[Updated] In 2024, 12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-video-reverser-online/"><u>[Updated] In 2024, Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-an-athletic-channel-on-apple-hardware/"><u>[Updated] In 2024, Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>[Updated] Listening Out Loud Deciphering the Differences Between Podcasts & YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-best-igtv-sources-for-daily-inspiration/"><u>2024 Approved Best IGTV Sources for Daily Inspiration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-tutorial-on-installing-the-latest-serial-port-converter-drivers/"><u>Easy Tutorial on Installing the Latest Serial Port Converter Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-right-choosing-the-best-camera-and-gear-for-2024/"><u>Investing Right Choosing the Best Camera and Gear for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/revolutionizing-typing-experience-on-macs-with-nuphy-air75-v2-mechanical-keyboards-gear-up-for-precision-and-comfort/"><u>Revolutionizing Typing Experience on Macs with NuPhy Air75 V2 Mechanical Keyboards - Gear Up for Precision and Comfort</u></a></li>
+</ul></div>
 
