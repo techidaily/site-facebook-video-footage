@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 8 Mistakes People Should Avoid as a New YouTuber"
-date: 2025-01-19T17:59:45.040Z
-updated: 2025-01-21T20:10:26.208Z
+date: 2025-01-24T21:53:17.740Z
+updated: 2025-01-29T10:13:50.225Z
 tags:
   - ai video
   - ai youtube
@@ -32,25 +32,21 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ###  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Failing to have a long-term vision
 
 One common mistake that a lot of new YouTubers make is failing to have a long-term vision. Without a long-term vision, you’re more likely to poorly brand your YouTube channel, drop your YouTube channel activity in busier times, and, midway through, change the type of content you create and upload. None of these are good for your channel!
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Coming up with titles that won't get searched
 
@@ -61,7 +57,7 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Failing to have a thumbnail strategy
@@ -71,7 +67,7 @@ New YouTubers tend to think about their thumbnail images after they’ve finishe
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Making weak intros
@@ -88,15 +84,15 @@ An important thing to do as a new YouTuber is engaging with your subscribers. So
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Not promoting with social media
 
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
 
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Spamming comments
 
@@ -107,6 +103,10 @@ But rather than leaving interesting comments that are related to the video, rath
 Spam comments annoy YouTubers. It would be much more beneficial to your channel to build good relationships with other YouTubers to possibly collaborate on a video together in the future.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -123,22 +123,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-capture-screen-record-on-pcmac-plus-youtube-upload/"><u>[New] 2024 Approved Direct Capture Screen Record on PC/Mac + YouTube Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-templates-for-sustainable-storytelling/"><u>[New] Free Templates for Sustainable Storytelling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-how-to-switch-between-normal-and-picture-in-picture-views-in-youtube/"><u>[New] How to Switch Between Normal and Picture In Picture Views in Youtube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[New] In 2024, Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-thriving-in-a-world-of-negative-video-reviews/"><u>[New] Thriving in a World of Negative Video Reviews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-angled-artistry-elevating-youtube-video-editing-skills-for-2024/"><u>[Updated] Angled Artistry Elevating YouTube Video Editing Skills for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capturing-the-unseen-9-must-have-camgear-for-aspiring-vloggers/"><u>[Updated] In 2024, Capturing the Unseen 9 Must-Have CamGear for Aspiring Vloggers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[Updated] In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-acid-pro-revisited-exploring-equivalent-tools/"><u>2024 Approved ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pathways-to-profitability-in-personal-vlogging/"><u>2024 Approved Pathways to Profitability in Personal Vlogging</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-successfully-download-and-set-up-kyocera-printers-on-pc-windows/"><u>How to Successfully Download and Set Up KYOCERA Printers on PC (Windows)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-rollers-champions-multiplayer-mode-on-pc-a-detailed-playbook/"><u>Mastering Rollers Champions Multiplayer Mode on PC : A Detailed Playbook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-leverage-youtubes-cc-licensing-for-2024/"><u>Strategies to Leverage YouTube's CC Licensing for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782170-9781620550595-the-spiritual-art-of-dialogue/"><u>The Spiritual Art of Dialogue | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-does-quick-subscribe-strategy-boost-audience-growth/"><u>[New] 2024 Approved Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-building-brand-buzz-the-power-of-instagram-story-quizzes/"><u>[Updated] 2024 Approved Building Brand Buzz The Power of Instagram Story Quizzes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] 2024 Approved Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-video-voyage-navigating-the-world-of-youtube-links/"><u>[Updated] 2024 Approved Elevate Your Video Voyage Navigating the World of YouTube Links</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-conveniently-connect-with-others-via-your-playlist-for-2024/"><u>[Updated] Conveniently Connect with Others via Your Playlist for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-a-great-educational-video-for-youtube/"><u>[Updated] How to Make a Great Educational Video for YouTube?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-youtube-cards-and-annotations/"><u>[Updated] How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-for-youtube-trailers-in-filmora/"><u>[Updated] Step-by-Step for YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlined-approach-upload-your-videos-from-youtube-to-dailymotion/"><u>[Updated] Streamlined Approach Upload Your Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-thumbnails-for-maximum-youtube-impact/"><u>[Updated] Tailoring Thumbnails for Maximum YouTube Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnose-and-repair-when-zooms-cameras-stop-working-properly/"><u>Diagnose and Repair: When Zoom's Cameras Stop Working Properly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-picks-6-prime-websites-for-buying-tvs/"><u>Discover The Ultimate Picks: 6 Prime Websites for Buying TVs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-repair-a-failed-secure-connection-when-browsing-with-firefox/"><u>Easy Steps to Repair a Failed Secure Connection when Browsing with Firefox</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>In 2024, Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-optimizing-video-playback-sizes-on-youtube/"><u>In 2024, Optimizing Video Playback Sizes on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nighttime-narratives-in-pixels/"><u>Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-need-for-signatures-in-third-party-information/"><u>No Need for Signatures in Third-Party Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-ace-2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus Ace 2 Phone Network-Ready</u></a></li>
 </ul></div>
 

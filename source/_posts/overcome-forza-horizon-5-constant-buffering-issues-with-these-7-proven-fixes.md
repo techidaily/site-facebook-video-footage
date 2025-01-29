@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2025-01-14T21:31:33.721Z
-updated: 2025-01-21T20:19:44.720Z
+date: 2025-01-23T05:00:25.998Z
+updated: 2025-01-29T04:10:21.145Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 **How** : Press Alt + Tab and wait for the screen to load windows. Then go back to the game.
 
  If it’s not working, try the fixes below. You don’t have to try them all; just work your way down the list until you find the one that works for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change mini map shape
 
  If the minimap was flickering and showing multiple times in every game after the restart, choosing a square mini map might fix the issue.
@@ -67,11 +67,11 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall shaders & clear cache
 
@@ -81,10 +81,6 @@ If it’s not working, move to the next fix.
 2. In the**Graphics** tab, scroll down and click**Restart Shaders Installation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
@@ -103,6 +99,10 @@ If it’s not working, move to the next fix.
 
 No luck with this fix? Try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change NVIDIA settings
 
  NVIDIA control panel lets you fine-tune your in-game graphics. When there are visual issues, you can change the NVIDIA control panel settings to fix the problem.
@@ -115,6 +115,10 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -125,11 +129,7 @@ No luck with this fix? Try the next one.
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
@@ -138,7 +138,7 @@ No luck with this fix? Try the next one.
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
@@ -167,22 +167,18 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-chromebook-zoom-excellence-must-know-strategies/"><u>[New] 2024 Approved Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-prominence-in-online-gaming-content/"><u>[New] In 2024, Achieving Prominence in Online Gaming Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-an-expert-at-yt-studio-navigation/"><u>[Updated] 2024 Approved Becoming an Expert at YT Studio Navigation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>[Updated] 2024 Approved Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-top-tactics-for-consistent-vlogging-for-2024/"><u>[Updated] Behind the Scenes Top Tactics for Consistent Vlogging for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-content-creators-dilemma-which-site-reigns-vimeo-youtube-in-2024/"><u>[Updated] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-music-unlocked-the-ultimate-library-for-videographers/"><u>[Updated] Free Music Unlocked The Ultimate Library for Videographers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-keylight-secrets-to-stellar-lighting-on-your-youtube-videos/"><u>[Updated] Keylight Secrets to Stellar Lighting on Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-up-your-game-free-software-for-professional-thumbnails/"><u>[Updated] Step Up Your Game Free Software for Professional Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-wealth-with-youtube-shorts-ventures/"><u>[Updated] Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>2024 Approved Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-inbuilt-features-how-can-you-utilize-the-pre-installed-extensions/"><u>Exploring ChatGPT's Inbuilt Features: How Can You Utilize the Pre-Installed Extensions?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>New Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-rdr2-out-of-memory-mistake-boost-your-game-performance/"><u>Resolving 'RDR2 Out Of Memory' Mistake - Boost Your Game Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-itel-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlock-the-potential-of-vr-video-on-your-iphone-for-2024/"><u>Unlock the Potential of VR Video on Your iPhone for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-how-to-view-hidden-files-in-windows-11-windows-help/"><u>[Solved] How to View Hidden Files in Windows 11-Windows Help</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-screen-recorder-for-mp4-files/"><u>[Updated] In 2024, Advanced Screen Recorder for MP4 Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-orderly-path-to-youtubes-hidden-treasure-troves/"><u>[Updated] Orderly Path to YouTube's Hidden Treasure Troves</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-online-entrepreneurs/"><u>[Updated] Premier Online Entrepreneurs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-securely-save-your-favorite-videos-with-these-download-tools/"><u>[Updated] Securely Save Your Favorite Videos with These Download Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video/"><u>[Updated] The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-viewership-seo-for-the-newbie-on-youtube/"><u>[Updated] Transform Viewership SEO for the Newbie on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveil-the-best-free-backdrop-and-footage-sources-top-8-online-lists/"><u>[Updated] Unveil the Best Free Backdrop & Footage Sources Top 8 Online Lists</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-toolkit-digital-stream-reconstructor/"><u>Expert Toolkit: Digital Stream Reconstructor</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>In 2024, Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-user-manual-how-to-use-screen-recording-on-mac/"><u>In 2024, The Complete User Manual How To Use Screen Recording on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-dialogue-tools-to-engage-audio-audiences-for-2024/"><u>Updated Dialogue Tools to Engage Audio Audiences for 2024</u></a></li>
 </ul></div>
 

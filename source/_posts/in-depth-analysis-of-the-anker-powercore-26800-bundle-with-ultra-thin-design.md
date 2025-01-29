@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
-date: 2025-01-16T21:17:55.329Z
-updated: 2025-01-21T18:23:40.607Z
+date: 2025-01-27T00:56:36.007Z
+updated: 2025-01-29T10:35:51.664Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Anker PowerCore 26800 Bundle with Ultra-Thin Design
@@ -14,12 +14,16 @@ thumbnail: https://www.lifewire.com/thmb/xomn4fOwspGABiC-og6gHsRlGnE=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/5SQBxSHXey906sYtaz8fIiCXm7k=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -67,10 +71,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -78,10 +78,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -99,10 +95,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -111,17 +103,21 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
 
@@ -138,6 +134,10 @@ Lifewire / Erika Rawes
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -184,20 +184,19 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>[New] Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-through-content-clutter-youtube-shorts-essentials-for-2024/"><u>[Updated] Cutting Through Content Clutter YouTube Shorts Essentials for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-downloading-youtube-playlists-made-simple-and-easy-for-2024/"><u>[Updated] Downloading YouTube Playlists Made Simple & Easy for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-shifting-videos-youtube-to-dailymotion-strategy-for-2024/"><u>[Updated] Efficiently Shifting Videos YouTube to Dailymotion Strategy for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-engaging-exchange-zones-for-2024/"><u>[Updated] Explore Engaging Exchange Zones for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] In 2024, Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/descargar-el-conversor-de-archivos-online-gratuito-para-cambiar-mkv-a-vob-sin-problemas-con-movavi/"><u>Descargar El Conversor De Archivos Online Gratuito Para Cambiar MKV a VOB Sin Problemas Con Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-expenses-for-launching-your-podcast/"><u>Essential Expenses for Launching Your Podcast</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138621207-9781601637598-history-is-wrong/"><u>History Is Wrong | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-pictures-tale-adding-meaningful-text-to-images-for-macwindows/"><u>In 2024, A Picture's Tale Adding Meaningful Text to Images for Mac/Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/proven-palette-changes-methods-for-2024/"><u>Proven Palette Changes Methods for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-samsung-smart-tv-applications-in-2n-2024/"><u>Top Rated Samsung Smart TV Applications in 2N 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/upgrade-your-channel-description-with-ease-and-flair-for-2024/"><u>Upgrade Your Channel Description with Ease and Flair for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/yl-softwares-ultimate-collection-of-marvel-ronin-series-engaging-background-images-and-wallpapers-for-your-pc/"><u>YL Software's Ultimate Collection of Marvel Ronin Series: Engaging Background Images and Wallpapers for Your PC</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recordingrevolution-the-free-game-videography-wave-of-24/"><u>[New] 2024 Approved RecordingRevolution The Free Game Videography Wave of '24</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>[New] In 2024, The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-transform-video-discoverability-essential-seo-tips-for-yt/"><u>[New] In 2024, Transform Video Discoverability Essential SEO Tips for YT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[Updated] 2024 Approved Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-camera-technology-for-youtube-stars/"><u>[Updated] In 2024, Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earths-premier-online-income-tycoon/"><u>[Updated] In 2024, Earth’s Premier Online Income Tycoon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-emoji-mastery-for-engaging-youtube-discussions/"><u>[Updated] In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-youtube-metrics-for-enhanced-visibility/"><u>[Updated] Leverage YouTube Metrics for Enhanced Visibility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-loves-cinematic-journey-youtube-and-vimeos-top-premium-marriage-videos/"><u>[Updated] Love's Cinematic Journey YouTube & Vimeo's Top Premium Marriage Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Windows 11 A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tips-for-extending-instagram-videos-beyond-limits/"><u>[Updated] Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/9-quick-fixes-for-safaris-disrupted-streaming/"><u>9 Quick Fixes for Safari's Disrupted Streaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-meeting-aesthetics-blur-backgrounds-tips/"><u>In 2024, Professional Meeting Aesthetics Blur Backgrounds Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
 </ul></div>
 
