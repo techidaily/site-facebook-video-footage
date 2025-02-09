@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in YouTube Ads  Thumbnails & Banners\""
-date: 2024-08-01T01:41:21.808Z
-updated: 2024-08-02T01:41:21.808Z
+date: 2025-02-05T17:56:50.523Z
+updated: 2025-02-09T21:11:03.206Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 # How to Make YouTube Banners and Thumbnails
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,8 +27,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make YouTube Banners and Thumbnails
 
 YouTube Banners and Thumbnails are two of the most important pieces of channel art you will need. This article will explain the best practices for both, and suggest sites where you will be able to build your own banners and thumbnails for free.
@@ -70,24 +67,27 @@ One thumbnail taboo that you should never break is using an image that has nothi
 
 There are sites online that will allow you to edit images and use them in templates for YouTube banners. You can also use these services to edit your thumbnails. Two of the most popular, free, online photo editors are PicMonkey.com and Canva.com.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -95,12 +95,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-buzzing-beats-essential-background-scores-for-viral-video-shorts-for-2024/"><u>[New] Buzzing Beats Essential Background Scores for Viral Video Shorts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-heartstrings-harmony-best-music-to-accompany-your-engagement/"><u>[New] Heartstrings Harmony Best Music to Accompany Your Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blitzing-sharing-easy-youtube-playlist-methods/"><u>[New] In 2024, Blitzing Sharing Easy YouTube Playlist Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unearthing-user-generated-footage-on-facebook/"><u>[New] In 2024, Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-lenssplit-viewer-insight-for-2024/"><u>[New] LensSplit Viewer Insight for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>[New] The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-content-with-text-overlays/"><u>[Updated] 2024 Approved Enhancing YouTube Content with Text Overlays</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-respond-to-a-youtube-copyright-claim-best-practices/"><u>[Updated] 2024 Approved How to Respond to a YouTube Copyright Claim Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools-for-2024/"><u>[Updated] Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[Updated] From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[Updated] Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-and-executing-essential-mukbang-elements/"><u>[Updated] Understanding and Executing Essential Mukbang Elements</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revenue-revolution-how-to-design-effective-animated-fb-ads-for-2024/"><u>Revenue Revolution How to Design Effective Animated FB Ads for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-syma-x5c-remote-controlled-helicopter-great-for-budget-flyers/"><u>Review of the SYMA X5C Remote Controlled Helicopter: Great for Budget Flyers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tech-adoption-tips-harnessing-the-power-of-chatgpt/"><u>Top 6 Tech Adoption Tips: Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On OnePlus Open | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Digital Artisans Gathering Haven"
-date: 2025-01-26T09:20:10.914Z
-updated: 2025-01-28T18:40:30.298Z
+date: 2025-02-08T16:07:54.249Z
+updated: 2025-02-09T19:29:28.155Z
 tags:
   - ai video
   - ai youtube
@@ -52,7 +52,7 @@ _Nick talks about arriving in New York and goes through the swag box waiting in 
 There were some clues as to what the rest of the summit was like hiding amongst the swag too. Here’s what was in the box:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A map of Dumbo
@@ -67,17 +67,9 @@ Dumbo is home to an interesting mix of ‘past’ and ‘future’. The creators
 
 One of the major benefits of attending this summit would have been networking with other creators, but because of how busy everyone was and how awkward it can be to arrange ‘bumping into’ someone YouTube created a way for creators to send each other notes. All they had to do was write a note on one of the postcards YouTube provided them with and stick it in one of the red mailboxes at the event. YouTube took care of making sure the person it was addressed to got it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. S’well bottle
 
 S’well bottles are stainless steel beverage containers that keep drinks hot or cold. They retail for around $45\. YouTubers invited to the Creator Summit received ones with YouTube branding on them. A good water bottle is a convention/conference essential, so this was a very practical gift.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Branded slippers
 
@@ -86,7 +78,7 @@ To help them relax after long days at the summit, YouTube provided creators with
 ![Branded slippers - 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-branded-slippers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _thinknoodles wearing his YouTube slippers._
@@ -95,6 +87,10 @@ _thinknoodles wearing his YouTube slippers._
 
 There were numerous custom pins available at different events at the summit. Aside from a complementary Brooklyn and 1 Hotel Brooklyn Bridge (the hotel the creators were staying at) pins, the creators did not receive these in their swag boxes – they had to collect them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Denim jacket
 
 A denim jacket with a play button on it was also in the box. The idea was that creators would collect pins and display them on their new jackets. At the end of the week, they would have a great souvenir reminding them of every event they attended at the summit.
@@ -102,7 +98,7 @@ A denim jacket with a play button on it was also in the box. The idea was that c
 _![Denim jacket- 2017 YouTube Creator Summit](https://images.wondershare.com/filmora/article-images/youtube-creator-summit-denim-jacket.jpg)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Hannah Hart posted this photo from a river cruise she and other YouTubers went on while in New York for the summit._
@@ -114,6 +110,10 @@ Want to join the YouTube Creator Summit in the future? We all know that there is
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -130,16 +130,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-sonicarchive-pro-downloads-and-analysis-for-2024/"><u>[New] SonicArchive Pro Downloads & Analysis for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-secrets-of-earning-via-youtube/"><u>[New] Unlocking the Secrets of Earning via YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-your-video-with-these-premium-free-audio-stores/"><u>[Updated] 2024 Approved Enhance Your Video with These Premium, Free Audio Stores</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-dive-into-the-deep-end-of-facebook-meme-culture/"><u>2024 Approved Dive Into The Deep End of Facebook Meme Culture</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v27-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V27 FRP</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-a-comprehensive-guide-to-use-youtube-movie-maker/"><u>In 2024, A Comprehensive Guide to Use YouTube Movie Maker</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-ace-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Ace 2 Pro FRP Bypass</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c12-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C12</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-updating-or-downloading-lenovo-monitor-graphics-drivers/"><u>Step-by-Step Instructions: Updating or Downloading Lenovo Monitor Graphics Drivers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-path-to-popularity-making-videos-go-viral-for-2024/"><u>The Path to Popularity Making Videos Go Viral for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10plus-top-free-youtube-image-extractors/"><u>[New] 2024 Approved 10+ Top FREE YouTube Image Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-engaging-youtube-video-layouts/"><u>[New] 2024 Approved Crafting Engaging YouTube Video Layouts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>[Updated] 2024 Approved Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[Updated] Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[Updated] In 2024, Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-11-cost-free-video-title-creator-tools-online/"><u>[Updated] Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exclusive-win-audio-experience-for-2024/"><u>Exclusive Win Audio Experience for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-feed-top-10-instagram-hashtags-for-success/"><u>In 2024, Elevate Your Feed Top 10 Instagram Hashtags for Success</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-11-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 11 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-life-lessons-video-ideas-for-self-expression-yt/"><u>In 2024, Life Lessons Video Ideas for Self-Expression YT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-yokus-island-express-where-great-odysseys-begin/"><u>In-Depth Look at Yoku's Island Express: Where Great Odysseys Begin</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-sound-troubleshooting-tips-how-to-eliminate-no-audio-situations-effortlessly/"><u>PC Sound Troubleshooting Tips: How to Eliminate No Audio Situations Effortlessly</u></a></li>
 </ul></div>
 
