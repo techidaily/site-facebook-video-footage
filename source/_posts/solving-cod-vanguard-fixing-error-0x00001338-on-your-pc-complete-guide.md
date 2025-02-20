@@ -1,7 +1,7 @@
 ---
 title: "Solving CoD Vanguard: Fixing Error 0X00001338 on Your PC - Complete Guide"
-date: 2025-02-07T20:41:08.372Z
-updated: 2025-02-09T16:17:49.957Z
+date: 2025-02-16T23:34:11.484Z
+updated: 2025-02-19T18:07:35.253Z
 tags:
   - win11
   - win10
@@ -46,7 +46,7 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
@@ -59,10 +59,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
 
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update device drivers
 
@@ -77,12 +73,24 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Revert to DX11
 
@@ -94,14 +102,10 @@ After updating your drivers, restart your PC and test the gameplay.
 
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch CoD Vanguard and test the gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Disable in-game overlays
@@ -118,10 +122,6 @@ Launch CoD Vanguard and test the gameplay.
 * Razer Cortex Gamecaster
 * Xbox Game DVR
 * Twitch
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7\. Repair your system files
 
@@ -165,10 +165,6 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -178,6 +174,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -237,22 +237,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-marketing-game-free-50-youtube-adornments-here/"><u>[New] 2024 Approved Elevate Your Marketing Game - Free 50 YouTube Adornments Here</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-legal-considerations-when-uploading-videos-to-social-network-sites/"><u>[New] 2024 Approved Legal Considerations When Uploading Videos to Social Network Sites</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-compre-written-by-dr-john-smith-phd-in-environmental-science-for-2024/"><u>[New] A Compre Written By Dr. John Smith, PhD in Environmental Science for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-the-top-6-fb-lite-video-export-apps-of-2023/"><u>[New] In 2024, Discover the Top 6 FB Lite Video Export Apps of 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-sync-video-elements-to-captivate-instagram-audiences/"><u>[New] Sync Video Elements to Captivate Instagram Audiences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-affiliate-allies-for-small-channels-an-easy-approach-for-2024/"><u>[Updated] Affiliate Allies for Small Channels An Easy Approach for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-detailed-exploration-of-the-background-eraser-feature-in-photoshop-for-2024/"><u>[Updated] Detailed Exploration of the Background Eraser Feature in Photoshop for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-common-youtube-short-difficulties/"><u>[Updated] Navigating Through Common YouTube Short Difficulties</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-audio-made-simple-for-imovie-editors/"><u>2024 Approved YouTube Audio, Made Simple for iMovie Editors</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/imovie-music-mosaic-creating-audio-visual-harmony-for-2024/"><u>IMovie Music Mosaic Creating Audio-Visual Harmony for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-14-pro-max-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 14 Pro Max and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/lassen-sie-sich-die-top-strategien-ansehen-um-musiktitel-aus-itunes-direkt-auf-ihrem-iphone-zu-speichern/"><u>Lassen Sie Sich Die Top-Strategien Ansehen, Um Musiktitel Aus iTunes Direkt Auf Ihrem iPhone Zu Speichern!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-traffic-the-power-of-collaborative-youtube-outros-for-2024/"><u>Skyrocketing Traffic The Power of Collaborative YouTube Outros for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-essential-playbook-for-newcomers-to-pokemon-unite/"><u>The Essential Playbook for Newcomers to Pokémon Unite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera-for-2024/"><u>The Ultimate Guide to Choosing a Premium Portable Vlog Camera for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-youtubes-operations-after-video-upload/"><u>[New] 2024 Approved Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-metaverse-laughter/"><u>[New] 2024 Approved The Ultimate Guide to Metaverse Laughter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-eight-destinations-for-3d-typography/"><u>[New] Top Eight Destinations for 3D Typography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tracking-your-channels-ad-revenue-accrual/"><u>[New] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vivid-twitter-visuals-the-journey-to-full-hd-viewing-for-2024/"><u>[New] Vivid Twitter Visuals The Journey to Full HD Viewing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] 2024 Approved 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-perfect-youtube-music-sets/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Music Sets</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>[Updated] 2024 Approved Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-achieving-prominence-in-online-gaming-content-for-2024/"><u>[Updated] Achieving Prominence in Online Gaming Content for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-capture-strategies-for-roblox-games-mac-edition/"><u>[Updated] Advanced Capture Strategies for Roblox Games (Mac Edition)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-best-of-beauty-youtubes-elite-artists-showcased-for-2024/"><u>[Updated] Decoding the Best of Beauty YouTube's Elite Artists Showcased for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-no-cost-soundtracks-for-video-production/"><u>[Updated] In 2024, Discover the Best No-Cost Soundtracks for Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dichotomy-of-youtube-rights-and-cc-licenses/"><u>[Updated] The Dichotomy of YouTube Rights and CC Licenses</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>In 2024, Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-the-oleaut32dll-error-tips-to-restore-or-reinstall-missing-files/"><u>Tackling the oleAut32.dll Error: Tips to Restore or Reinstall Missing Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-v30-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V30 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

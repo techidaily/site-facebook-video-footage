@@ -1,7 +1,7 @@
 ---
 title: "[New] Making Your Own YouTube Beginnings & Endings Cheaply"
-date: 2024-08-01T01:30:09.913Z
-updated: 2024-08-02T01:30:09.913Z
+date: 2025-02-13T20:01:02.976Z
+updated: 2025-02-19T18:22:51.958Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -44,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -72,10 +70,11 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
 2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
@@ -87,8 +86,9 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -122,10 +122,11 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -133,12 +134,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovating-engagement-integrate-thoughtful-chapters-into-your-youtube-videos/"><u>[New] Innovating Engagement Integrate Thoughtful Chapters Into Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-of-the-best-8-mirrorless-cameras-for-live-streaming/"><u>[New] The Best of the Best 8 Mirrorless Cameras for Live Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-budget-friendly-video-recorder-sets-top-11-picks/"><u>[Updated] 2024 Approved Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-editing-excellence-the-ultimate-guide-to-top-notebooks/"><u>[Updated] 2024 Approved Editing Excellence The Ultimate Guide to Top Notebooks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-average-cost-vs-lowest-price-cloud-storage-shoutouts-2024/"><u>[Updated] Average Cost Vs. Lowest Price - Cloud Storage Shoutouts, 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[Updated] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-the-basics-advanced-techniques-for-improved-recordings/"><u>[Updated] In 2024, Beyond the Basics Advanced Techniques for Improved Recordings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-secrets-attracting-youtube-affiliates-with-minimal-channel-size-for-2024/"><u>[Updated] Secrets Attracting YouTube Affiliates with Minimal Channel Size for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-to-understanding-your-youtube-fans/"><u>[Updated] The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-troubleshooting-guide-effective-solutions-for-restoring-video-downloads-with-downaloader-pro/"><u>1. Troubleshooting Guide: Effective Solutions for Restoring Video Downloads with Downaloader Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-path-to-resetting-a-ps4-console/"><u>Beginner's Path to Resetting a PS4 Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guard-your-digital-correspondence-with-our-pick-of-5-most-trusted-email-services/"><u>Guard Your Digital Correspondence with Our Pick of 5 Most Trusted Email Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-3d-software-for-creating-animation/"><u>Ideal 3D Software for Creating Animation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-save-and-play-gifs-on-an-iphone/"><u>In 2024, How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-creative-commons-key-to-video-content-sharing/"><u>In 2024, YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/kinemasters-guide-engineering-impeccable-video-continuity-for-2024/"><u>Kinemaster's Guide Engineering Impeccable Video Continuity for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-macos-sierra-tools-for-video-changeovers-for-2024/"><u>Premier macOS Sierra Tools for Video Changeovers for 2024</u></a></li>
+</ul></div>
 

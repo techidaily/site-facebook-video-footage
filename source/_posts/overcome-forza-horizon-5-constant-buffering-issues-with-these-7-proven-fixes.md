@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 5 Constant Buffering Issues with These 7 Proven Fixes
-date: 2025-02-08T20:12:50.212Z
-updated: 2025-02-09T20:05:56.386Z
+date: 2025-02-18T16:50:50.334Z
+updated: 2025-02-19T22:56:16.440Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 **How** : Press Alt + Tab and wait for the screen to load windows. Then go back to the game.
 
  If it’s not working, try the fixes below. You don’t have to try them all; just work your way down the list until you find the one that works for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,17 +48,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
@@ -89,23 +81,31 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -129,7 +129,7 @@ No luck with this fix? Try the next one.
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
@@ -138,7 +138,7 @@ No luck with this fix? Try the next one.
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
@@ -167,22 +167,22 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-top-15-cost-saving-web-editors-rated-best/"><u>[New] 2024 Approved Unveiling Top 15 Cost-Saving Web Editors - Rated Best</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-confirming-youtube-ad-revenue-accrual-for-2024/"><u>[Updated] Confirming YouTube Ad Revenue Accrual for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-crafting-captivating-images-using-leading-lines-iphone/"><u>[Updated] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-functionality-following-uploaded-videos-for-2024/"><u>[Updated] Exploring YouTube’s Functionality Following Uploaded Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-curtain-how-youtube-tallys-its-views/"><u>[Updated] In 2024, Behind the Curtain How YouTube Tally's Its Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-with-professional-end-screen-templates/"><u>[Updated] In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-picks-for-costless-subtitle-extraction-tools/"><u>[Updated] Ultimate Picks for Costless Subtitle Extraction Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-budget-desktop-encoder-hacks-and-tips/"><u>2024 Approved Budget Desktop Encoder Hacks and Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/autonomous-windows-update-an-offline-methodology/"><u>Autonomous Windows Update: An Offline Methodology</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-lightened-screen-entry/"><u>In 2024, Lightened Screen Entry</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yielding-yearly-yield-channel-to-currency-conversion/"><u>In 2024, Yielding Yearly Yield Channel to Currency Conversion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-the-mix-of-sound-and-slides-in-powerpoint-presentations-for-2024/"><u>Mastering the Mix of Sound and Slides in PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-establishing-your-first-youtube-profile-for-2024/"><u>Step-by-Step Guide Establishing Your First YouTube Profile for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-14-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 14</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-hidden-gems-top-purchasers-of-youtube-creators-for-2024/"><u>Unveiling Hidden Gems Top Purchasers of YouTube Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-guide-achieving-profitability-through-view-counts-for-2024/"><u>YouTube Earnings Guide Achieving Profitability Through View Counts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-adaptive-gaming-techniques-by-pros-for-2024/"><u>[New] Adaptive Gaming Techniques by Pros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>[New] Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/harting-the-course-from-adsense-income-to-savings/"><u>[New] Charting the Course From AdSense Income to Savings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ascend-video-rankings-top-seo-gadgets-revealed/"><u>[New] In 2024, Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[Updated] 2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-tutorial-for-transforming-vids-into-dollars-for-2024/"><u>[Updated] A Comprehensive Tutorial for Transforming Vids Into Dollars for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-mastery-11-key-youtube-extractors-for-2024/"><u>[Updated] Download Mastery 11 Key YouTube Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills-for-2024/"><u>[Updated] Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovators-crafting-engaging-marvel-escapades/"><u>[Updated] Innovators Crafting Engaging Marvel Escapades</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brothers-mfc-l2690dw-printer-download-the-most-recent-driver-update-today/"><u>Brother's MFC-L2690DW Printer: Download the Most Recent Driver Update Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Blade A73 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-edge-40-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Edge 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quest-for-freedom-guide-to-affordable-mmo-games/"><u>Quest for Freedom Guide to Affordable MMO Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools-for-2024/"><u>Streamline Your Listening Experience Convert Spotify to YouTube with These Tools for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/2-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unleashing-potential-a-moto-z2-deep-dive/"><u>Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
 </ul></div>
 

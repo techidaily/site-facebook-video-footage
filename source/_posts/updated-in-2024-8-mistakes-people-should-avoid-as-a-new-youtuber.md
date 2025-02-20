@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 8 Mistakes People Should Avoid as a New YouTuber"
-date: 2025-02-06T21:43:04.611Z
-updated: 2025-02-09T16:14:36.144Z
+date: 2025-02-16T20:43:22.311Z
+updated: 2025-02-19T16:03:34.279Z
 tags:
   - ai video
   - ai youtube
@@ -31,14 +31,10 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Failing to have a long-term vision
 
@@ -47,7 +43,7 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Choosing an ineffective custom URL
@@ -55,10 +51,6 @@ If you can think of the kind of content you’ll love to consistently create and
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Coming up with titles that won't get searched
 
@@ -68,15 +60,15 @@ Big YouTubers can take advantage of non-searched, curiosity evoking titles like 
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Failing to have a thumbnail strategy
 
 New YouTubers tend to think about their thumbnail images after they’ve finished editing their videos together. This is way too late in the process for something that is so incredibly important in getting views.
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Making weak intros
 
@@ -92,11 +84,19 @@ An important thing to do as a new YouTuber is engaging with your subscribers. So
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Not promoting with social media
 
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
 
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Spamming comments
 
@@ -123,18 +123,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-discovering-charismatic-faces-on-your-snaps/"><u>[New] In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[Updated] 2024 Approved Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-making-your-mark-with-youtubes-creative-commons-tools/"><u>[Updated] Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-audio-manipulation-in-canva-videos/"><u>[Updated] Mastering Audio Manipulation in Canva Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-unseen-aspect-of-youtube-live-imagery/"><u>[Updated] The Unseen Aspect of YouTube Live Imagery</u></a></li>
-<li><a href="https://fox-info.techidaily.com/expert-tips-on-softening-volume-in-logic-pro-mixes/"><u>Expert Tips on Softening Volume in Logic Pro Mixes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-paso-a-paso-para-convertir-video-hevc-en-formato-mp4-manteniendo-calidad-optimal/"><u>Guía Paso a Paso Para Convertir Video HEVC en Formato MP4 Manteniendo Calidad Optimal</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/guide-to-efficiently-managing-whatsapp-backups-with-icloud-for-ios-devices/"><u>Guide to Efficiently Managing WhatsApp Backups with iCloud for iOS Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-choosing-and-changing-screensavers-in-win11/"><u>The Art of Choosing and Changing Screensavers in Win11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-only-guide-youll-need-to-know-about-instagram-reels/"><u>The Only Guide You'll Need to Know About Instagram Reels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unique-video-identity-designing-personalized-thumbnails-for-2024/"><u>Unique Video Identity Designing Personalized Thumbnails for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y27s-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27s Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-amazing-free-youtube-intro-makers-ranked/"><u>[New] In 2024, 5 Amazing Free YouTube Intro Makers Ranked</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-simple-procedure-modify-clownfish-tones-on-pc/"><u>[New] Simple Procedure Modify Clownfish Tones on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-capture-perfection-iphone-camera-skills-guide/"><u>[Updated] 2024 Approved Capture Perfection IPhone Camera Skills Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-success-top-8-yt-thumbnail-strategies/"><u>[Updated] 2024 Approved Enhancing Video Success Top 8 YT Thumbnail Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-view-youtube-statistics/"><u>[Updated] How to View YouTube Statistics?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-comprehensible-walkthrough-finding-your-youtube-remarks/"><u>[Updated] In 2024, A Comprehensible Walkthrough Finding Your YouTube Remarks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>[Updated] In 2024, Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-organize-soundtracks-on-youtube-the-playlist-guide/"><u>[Updated] Organize Soundtracks on Youtube The Playlist Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-musical-journey-with-youtubes-60-second-clips/"><u>[Updated] Streamline Your Musical Journey with YouTube's 60-Second Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[Updated] The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-world-transformed-youtubes-immersive-vr-collection/"><u>2024 Approved Your World Transformed Youtube's Immersive VR Collection</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-xcover-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy XCover 7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-stall-essential-tricks-for-skipping-past-forza-horizon-5s-loading-loop/"><u>Bypass the Stall: Essential Tricks for Skipping Past Forza Horizon 5'S Loading Loop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-snapchat-incorporating-songs-into-your-videos/"><u>Mastering Snapchat Incorporating Songs Into Your Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/racing-cameras-clash-is-black-hero-4-or-ghost-s-better-in-2024/"><u>Racing Cameras Clash Is Black Hero 4 or Ghost-S Better, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-to-upgrade-a-comprehensive-review-of-the-iphone-14-pro-compared-to-the-iphone-cu-13-pro-analysis/"><u>To Upgrade or Not to Upgrade: A Comprehensive Review of the iPhone 14 Pro Compared to the iPhone Cu 13 Pro Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-7-action-and-sports-cameras-under-200-for-2024/"><u>Top 7 Action and Sports Cameras Under $200 for 2024</u></a></li>
 </ul></div>
 

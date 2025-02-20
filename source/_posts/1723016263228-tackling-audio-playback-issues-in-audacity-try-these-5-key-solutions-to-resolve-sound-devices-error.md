@@ -1,7 +1,7 @@
 ---
 title: Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error
-date: 2025-02-06T16:03:03.744Z
-updated: 2025-02-09T19:31:39.856Z
+date: 2025-02-16T17:12:44.983Z
+updated: 2025-02-19T19:49:57.249Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
@@ -87,16 +91,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
@@ -122,13 +122,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##
   
@@ -148,10 +148,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -159,7 +155,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
@@ -181,6 +177,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -204,19 +204,24 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance/"><u>[New] 2024 Approved Beam It Up A Step-By-Step Approach to YouTube Video Luminance</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expert-strategies-on-calculating-your-youtube-audience-impact-and-revenue-for-2024/"><u>[New] Expert Strategies on Calculating Your YouTube Audience Impact and Revenue for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-a-viral-video-journey-6-key-strategies-on-youtube/"><u>[Updated] 2024 Approved Crafting a Viral Video Journey 6 Key Strategies on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-innovating-your-fb-experience-with-stunning-video-covers/"><u>[Updated] 2024 Approved Innovating Your FB Experience with Stunning Video Covers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-guide-online-tools-to-save-your-youtube-videos-for-2024/"><u>[Updated] Easy Guide Online Tools to Save Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bring-your-youtube-vision-to-life-with-free-banner-resources/"><u>[Updated] In 2024, Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[Updated] Professional Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ending-distraction-stopping-your-ipad-from-echoing-your-iphones-alert-tones/"><u>Ending Distraction: Stopping Your iPad From Echoing Your iPhone's Alert Tones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-seamless-screen-stretch-cycle-youtube-on-television-display/"><u>In 2024, Seamless Screen Stretch Cycle YouTube on Television Display</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[New] In 2024, Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>[New] Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affiliate-allies-for-small-channels-an-easy-approach/"><u>[Updated] 2024 Approved Affiliate Allies for Small Channels An Easy Approach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-channel-youtube-backlink-basics/"><u>[Updated] 2024 Approved Elevating Your Channel YouTube Backlink Basics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-insights-into-youtube-live-image-crafting/"><u>[Updated] 2024 Approved Essential Insights Into YouTube Live Image Crafting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>[Updated] Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-gear-checklist-for-youtube-success/"><u>[Updated] In 2024, Essential Gear Checklist for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-choosing-powerful-notebooks-for-filmmakers/"><u>[Updated] Ultimate Guide Choosing Powerful Notebooks for Filmmakers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-mkv-watcher-for-laptops/"><u>2024 Approved Optimal MKV Watcher for Laptops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/comprehensively-understanding-and-mastering-win10s-zoom-use-for-2024/"><u>Comprehensively Understanding and Mastering Win10's Zoom Use for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-the-route-to-achieving-facebook-verification-for-2024/"><u>Decoding the Route to Achieving Facebook Verification for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/do-you-want-to-create-adjustment-layers-in-final-cut-pro-this-article-will-discuss-a-simple-yet-efficient-method-to-generate-adjustment-layers-in-final-cut-/"><u>Do You Want to Create Adjustment Layers in Final Cut Pro? This Article Will Discuss a Simple yet Efficient Method to Generate Adjustment Layers in Final Cut Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-magic-vs-2-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor Magic Vs 2 online without jailbreak</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/power-of-ai-thumbnail-generators/"><u>Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-screen-recording-tool-for-successful-youtubers-for-2024/"><u>Pro Screen Recording Tool for Successful YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/synthesizing-waterway-content-with-impact-for-2024/"><u>Synthesizing Waterway Content with Impact for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-complete-process-for-customizing-video-game-channels-for-2024/"><u>The Complete Process for Customizing Video Game Channels for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-showdown-m1-vs-m2-ipad-pro-deciding-which-fits-your-needs-best-digital-expertise/"><u>The Ultimate Showdown: M1 Vs. M2 iPad Pro - Deciding Which Fits Your Needs Best | Digital Expertise</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-resolving-issues-with-windows-feature-update-to-may-2020-build-1903/"><u>The Ultimate Solution: Resolving Issues with Windows Feature Update to May 2020 (Build 1903)</u></a></li>
 </ul></div>
 
